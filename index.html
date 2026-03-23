@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>FrontlineWire — Global Conflict News</title>
+  <meta name="description" content="FrontlineWire tracks and reports on active conflicts around the globe. Independent, ongoing, updated every 6 hours." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Source+Serif+4:wght@300;400;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header class="masthead">
+    <div class="top-bar">
+      <div class="top-bar-left">
+        <span id="current-date"></span>
+        &nbsp;|&nbsp;
+        <span><b id="conflict-count">14</b> ACTIVE CONFLICTS MONITORED</span>
+      </div>
+      <div class="top-bar-right">UPDATED <span id="last-updated">—</span></div>
+    </div>
+    <div class="masthead-main">
+      <div class="brand">
+        <div class="site-name">FRONTLINE<span>WIRE</span></div>
+        <div class="tagline">Global Conflict Intelligence &bull; Independent &bull; Ongoing</div>
+      </div>
+      <div class="live-badge"><div class="pulse"></div> LIVE COVERAGE</div>
+    </div>
+  </header>
+
+  <nav class="nav">
+    <div class="nav-inner">
+      <a href="#" class="active" data-region="all">All Conflicts</a>
+      <a href="#" data-region="middle-east">Middle East</a>
+      <a href="#" data-region="europe">Europe</a>
+      <a href="#" data-region="africa">Africa</a>
+      <a href="#" data-region="asia">Asia</a>
+      <a href="#" data-region="americas">Americas</a>
+    </div>
+  </nav>
+
+  <main class="main">
+
+    <div class="breaking">
+      <b>BREAKING</b>
+      <div class="ticker-wrap"><div class="ticker" id="ticker-text">Loading latest updates...</div></div>
+    </div>
+
+    <section class="conflict-strip">
+      <h4>Active Conflict Tracker</h4>
+      <div class="conflicts" id="conflict-tracker"></div>
+    </section>
+
+    <div class="top-grid">
+      <article class="hero">
+        <div class="hero-img">
+          <div class="hero-img-inner">
+            <div class="region-tag" id="hero-region">LOADING</div>
+            <h1 class="hero-title" id="hero-title">Loading top story...</h1>
+          </div>
+        </div>
+        <div class="hero-body">
+          <p id="hero-summary">Fetching latest conflict news...</p>
+          <div class="meta">
+            <span id="hero-source">—</span>
+            <span id="hero-time">—</span>
+          </div>
+          <a class="read-more" id="hero-link" href="#" target="_blank" rel="noopener">Read Full Story &rarr;</a>
+        </div>
+      </article>
+      <aside class="sidebar" id="sidebar-stories"></aside>
+    </div>
+
+    <div class="bottom-grid" id="region-sections"></div>
+
+    <footer class="site-footer">
+      <p>FrontlineWire aggregates and summarizes news from international sources including Reuters, BBC, AP, Al Jazeera, and regional outlets. All summaries link to original reporting. &copy; <span id="footer-year"></span> FrontlineWire.</p>
+    </footer>
+
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
