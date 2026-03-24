@@ -1,10 +1,28 @@
 {
-  "last_updated": "2026-03-24T22:14:23.680240+00:00",
-  "story_count": 776,
-  "new_this_run": 576,
+  "last_updated": "2026-03-24T23:04:41.709942+00:00",
+  "story_count": 795,
+  "new_this_run": 34,
   "feed_count": 53,
   "retention_days": 30,
   "stories": [
+    {
+      "title": "Cyprus seeks new security deal for UK bases, Telegraph reports",
+      "summary": "Cyprus has requested that the United Kingdom negotiate new security arrangements for British military bases on the island, following Iranian drone attacks earlier in March, according to a report by The Telegraph.",
+      "url": "https://www.straitstimes.com/world/europe/cyprus-seeks-new-security-deal-for-uk-bases-telegraph-reports",
+      "published": "2026-03-25T07:01:35+08:00",
+      "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Saudi prince is said to push Trump to continue Iran war in recent calls",
+      "summary": "Saudi Arabia's Crown Prince Mohammed bin Salman has reportedly urged US President Donald Trump in recent phone calls to continue military operations against Iran, leveraging his previously demonstrated influence on Trump's foreign policy decisions.",
+      "url": "https://www.straitstimes.com/world/middle-east/saudi-prince-is-said-to-push-trump-to-continue-iran-war-in-recent-calls",
+      "published": "2026-03-25T07:00:00+08:00",
+      "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
     {
       "title": "UK's Starmer, Saudi crown prince discussed ongoing Middle East conflict, Downing Street says",
       "summary": "British Prime Minister Keir Starmer spoke with Saudi Crown Prince Mohammed bin Salman on Tuesday evening about the ongoing Middle East conflict, according to a Downing Street spokesperson.",
@@ -231,6 +249,15 @@
       "region_key": "asia"
     },
     {
+      "title": "Russian drone strike on Ivano-Frankivsk: Two dead, injury toll rises to six",
+      "summary": "A Russian drone strike on the city of Ivano-Frankivsk in western Ukraine on March 24 killed two people and injured six others, according to local authorities.",
+      "url": "https://www.ukrinform.net/rubric-ato/4105217-russian-drone-strike-on-ivanofrankivsk-two-dead-injury-toll-rises-to-six.html",
+      "published": "2026-03-24T23:57:00+02:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
       "title": "EU ‘concerned’ by reports Hungary’s foreign minister leaked information to Russia",
       "summary": "The European Union expressed concern over reports that Hungarian Foreign Minister Péter Szijjártó regularly called Russian counterpart Sergey Lavrov to pass on information. The allegations raise questions about potential intelligence leaks within EU diplomatic circles.",
       "url": "https://www.straitstimes.com/world/europe/eu-concerned-by-reports-hungarys-foreign-minister-leaked-information-to-russia",
@@ -238,6 +265,15 @@
       "source": "Straits Times",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "Italy allocates EUR 45M to support war-affected Ukrainians",
+      "summary": "Italy allocated 45 million euros to support vulnerable populations in war-affected regions of Ukraine. An event marking the launch of the Italian-funded program was held in Kyiv.",
+      "url": "https://www.ukrinform.net/rubric-society/4105214-italy-allocates-eur-45m-to-support-waraffected-ukrainians.html",
+      "published": "2026-03-24T23:36:00+02:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
     },
     {
       "title": "War Diary Day 25: Pause holds but conflict’s underlying dynamics point to widening of scope",
@@ -267,6 +303,15 @@
       "region_key": "europe"
     },
     {
+      "title": "US unlikely to get China to join new nuclear arms control agreement, say experts",
+      "summary": "Experts said the United States is unlikely to persuade China to join a new nuclear arms control agreement in the near term, despite the Trump administration's push for a trilateral deal involving China and Russia after the previous US-Russia treaty expired.",
+      "url": "https://www.scmp.com/news/china/military/article/3347775/us-unlikely-get-china-join-new-nuclear-arms-control-agreement-say-experts?utm_source=rss_feed",
+      "published": "2026-03-24T23:02:23+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
       "title": "China is mapping the ocean floor as it prepares for submarine warfare with the U.S.",
       "summary": "China is deploying research vessels to systematically map the ocean floor, navigating in tight survey lines to gather detailed underwater terrain data. The effort is linked to preparations for potential submarine warfare with the United States.",
       "url": "https://www.thehindu.com/news/international/china-is-mapping-the-ocean-floor-as-it-prepares-for-submarine-warfare-with-the-us/article70781205.ece",
@@ -274,6 +319,24 @@
       "source": "The Hindu",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "Australia politics live: NSW to compel oil companies to explain where extra petrol being sent; Rio Tinto aluminium smelter gets $2bn bailout",
+      "summary": "The Australian and Queensland governments announced a combined 2 billion Australian dollars in funding for Rio Tinto's Boyne aluminium smelter in central Queensland to ensure its long-term viability, with the investment expected to unlock approximately A$7.5 billion in private spending.",
+      "url": "https://www.theguardian.com/australia-news/live/2026/mar/25/politics-federal-queensland-nsw-parliament-tony-burke-jim-chalmers-middle-east-fuel-crisis-ntwnfb",
+      "published": "2026-03-24T22:54:20+00:00",
+      "source": "The Guardian",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "Lockheed launches Hellfire missile from 10-foot cargo container",
+      "summary": "Lockheed Martin successfully launched a Hellfire missile from its containerized Grizzly launcher, a compact system housed in a 10-foot cargo container designed to provide a deployable and concealable strike capability.",
+      "url": "https://www.defensenews.com/industry/techwatch/2026/03/24/lockheed-launches-hellfire-missile-from-10-foot-cargo-container/",
+      "published": "2026-03-24T22:51:03+00:00",
+      "source": "Defense News",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "Lviv drone strike: 26 victims hospitalized",
@@ -285,11 +348,38 @@
       "region_key": "europe"
     },
     {
+      "title": "‘Retarded Moroccan’: Senior Netanyahu aide under fire for reported racist tirades",
+      "summary": "Ziv Agmon, a senior aide to Israeli Prime Minister Benjamin Netanyahu, is facing calls for dismissal after reports that he used racist language against Sephardic Likud members of Knesset, allegedly calling them slurs. Agmon has denied wrongdoing, claiming an injustice was done to him.",
+      "url": "https://www.timesofisrael.com/retarded-moroccan-senior-netanyahu-aide-under-fire-for-reported-racist-tirades/",
+      "published": "2026-03-24T22:44:17+00:00",
+      "source": "Times of Israel",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "Lithuania warned in 2019 that Hungary posed NATO and EU leak risk, Poland says",
       "summary": "Poland disclosed that Lithuania warned in 2019 that Hungary posed a leak risk to both NATO and the EU. Hungarian Foreign Minister Péter Szijjártó allegedly briefed Russian counterpart Sergey Lavrov during breaks at EU meetings.",
       "url": "https://www.straitstimes.com/world/europe/lithuania-warned-in-2019-that-hungary-posed-nato-and-eu-leak-risk-poland-says",
       "published": "2026-03-24T22:41:37+08:00",
       "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Palestinian refugees in Lebanon face another forced displacement",
+      "summary": "Palestinian refugee Dalal Dawali was displaced from Beirut's southern suburb of Dahiyeh after Israeli bombing and fled to Beddawi camp in northern Lebanon, highlighting the repeated forced displacement faced by Palestinian refugees in the country.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/24/palestinian-refugees-in-lebanon-face-another-forced-displacement?traffic_source=rss",
+      "published": "2026-03-24T22:39:48+00:00",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "US officials downplay controller ‘distraction’ in New York LaGuardia plane crash",
+      "summary": "US officials downplayed reports that distracted air traffic controllers may have contributed to a fatal collision between an Air Canada jet and a fire truck at New York's LaGuardia Airport. Two pilots were killed when the plane's cockpit was crushed in the runway crash on Sunday.",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3347774/us-officials-downplay-controller-distraction-new-york-laguardia-plane-crash?utm_source=rss_feed",
+      "published": "2026-03-24T22:39:44+00:00",
+      "source": "South China Morning Post",
       "region": "Asia",
       "region_key": "asia"
     },
@@ -301,6 +391,15 @@
       "source": "The Hindu",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "Two more people arrested over alleged Sydney kidnapping and murder of Chris Baghsarian",
+      "summary": "New South Wales police arrested two more people in connection with the alleged kidnapping and murder of Sydney grandfather Chris Baghsarian. Officers executed a search warrant in the suburb of Seven Hills, bringing in a man and a woman for questioning.",
+      "url": "https://www.theguardian.com/australia-news/2026/mar/25/two-more-people-arrested-over-alleged-sydney-kidnapping-and-of-chris-baghsarian-ntwnfb",
+      "published": "2026-03-24T22:24:21+00:00",
+      "source": "The Guardian",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "Zelensky on massive attack: Russia not seeking to end war, more pressure needed",
@@ -319,6 +418,15 @@
       "source": "The Hindu",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "Deadly Iran school strike casts shadow over Pentagon’s AI targeting push",
+      "summary": "A deadly strike on a school in Minab, Iran, has raised questions about the Pentagon's push for AI-assisted targeting systems. A Ukrainian drone developer said the incident highlighted the risks inherent in semi-autonomous warfare.",
+      "url": "https://www.defensenews.com/news/your-military/2026/03/24/deadly-iran-school-strike-casts-shadow-over-pentagons-ai-targeting-push/",
+      "published": "2026-03-24T22:16:26+00:00",
+      "source": "Defense News",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "Afghanistan announces release of detained US linguist Dennis Coyle",
@@ -463,6 +571,15 @@
       "source": "Straits Times",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "USS Nimitz to operate in Uruguayan waters on final deployment before decommissioning",
+      "summary": "The nuclear-powered aircraft carrier USS Nimitz will operate in Uruguayan waters as part of the US Fourth Fleet's Southern Seas 2026 deployment, marking one of the vessel's final missions before decommissioning after more than 50 years of service.",
+      "url": "https://en.mercopress.com/2026/03/24/uss-nimitz-to-operate-in-uruguayan-waters-on-final-deployment-before-decommissioning?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+      "published": "2026-03-24T21:36:00+00:00",
+      "source": "MercoPress",
+      "region": "Americas",
+      "region_key": "americas"
     },
     {
       "title": "Arms manufacturer thrives amid US-Israel war on Iran",
@@ -753,6 +870,15 @@
       "region_key": "middle-east"
     },
     {
+      "title": "Salah to leave Liverpool at end of season",
+      "summary": "Egyptian forward Mohamed Salah announced he will leave Liverpool at the end of the current season, thanking the club's supporters for their loyalty during his time there.",
+      "url": "https://www.bbc.com/sport/football/articles/c0e7ww12w2qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-03-24T20:34:23+00:00",
+      "source": "BBC",
+      "region": "Africa",
+      "region_key": "africa"
+    },
+    {
       "title": "Army C2 to see more budget line consolidation in FY27, says service undersecretary",
       "summary": "The U.S. Army plans further consolidation of command-and-control budget lines in its fiscal year 2027 request, according to the service's undersecretary. In the FY26 budget, Congress approved consolidating 13 lines related to electronic warfare, counter-drone systems, and unmanned aerial systems.",
       "url": "https://breakingdefense.com/2026/03/army-c2-to-see-more-budget-line-consolidation-in-fy27-says-service-undersecretary/",
@@ -1003,6 +1129,15 @@
       "source": "Defense News",
       "region": "Global",
       "region_key": "all"
+    },
+    {
+      "title": "Afghanistan announces release of detained US citizen",
+      "summary": "The Afghan Taliban announced the release of Dennis Coyle, a US linguist and researcher detained for over a year, after his family appealed to Afghanistan's supreme leader. The decision followed consultations involving Foreign Minister Amir Khan Muttaqi and former US envoy Zalmay Khalilzad.",
+      "url": "https://www.dawn.com/news/1984905/afghanistan-announces-release-of-detained-us-citizen",
+      "published": "2026-03-24T19:40:35+05:00",
+      "source": "Dawn",
+      "region": "Asia",
+      "region_key": "asia"
     },
     {
       "title": "Mette Frederiksen’s leftwing bloc fails to win majority in Danish election, exit polls suggest",
@@ -2391,6 +2526,15 @@
       "region_key": "all"
     },
     {
+      "title": "Uganda: Pathologists Demystify Autopsies, Costs, and Delays At Mulago Mortuary",
+      "summary": "Senior pathologists at Mulago National Referral Hospital in Kampala, Uganda, addressed public concerns about mortuary management, seeking to clarify procedures around autopsies, associated costs, and delays.",
+      "url": "https://allafrica.com/stories/202603240469.html",
+      "published": "2026-03-24T15:32:54+00:00",
+      "source": "AllAfrica",
+      "region": "Africa",
+      "region_key": "africa"
+    },
+    {
       "title": "Afghanistan announces release of detained US citizen",
       "summary": "The Afghan Taliban government announced the release of detained US citizen Dennis Coyle, saying the decision was made in response to a request from his mother.",
       "url": "https://www.newarab.com/news/afghanistan-announces-release-detained-us-citizen",
@@ -3156,6 +3300,15 @@
       "region_key": "middle-east"
     },
     {
+      "title": "Philippines declares energy emergency over Middle East conflict risks",
+      "summary": "Philippine President Ferdinand Marcos Jr. declared a national energy emergency citing threats to fuel supply from the Middle East conflict. He formed a committee to ensure the orderly distribution of fuel, food, medicines, and other essential goods.",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3347737/philippines-declares-energy-emergency-over-middle-east-conflict-risks?utm_source=rss_feed",
+      "published": "2026-03-24T12:01:42+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
       "title": "Swiss Destinus, Shield AI wrap European drone autonomy test campaign",
       "summary": "Swiss company Destinus and US-based Shield AI completed a joint drone autonomy test campaign in Europe. The firms are marketing the demonstration to European air forces seeking counter-UAS solutions that reduce dependence on crewed aircraft, though no customers have signed on yet.",
       "url": "https://breakingdefense.com/2026/03/swiss-destinus-shield-ai-wrap-european-drone-autonomy-test-campaign/",
@@ -3658,6 +3811,15 @@
       "source": "Euromaidan Press",
       "region": "Europe",
       "region_key": "europe"
+    },
+    {
+      "title": "Trump claims talks 'ongoing', Israel and Iran exchange fire",
+      "summary": "Iran denied that negotiations with the United States were under way after President Donald Trump claimed talks were ongoing, with Tehran calling the remarks 'fake news' intended to influence oil markets. The exchange occurred amid reported Israeli-Iranian military strikes.",
+      "url": "https://www.newarab.com/news/trump-claims-talks-ongoing-israel-and-iran-exchange-fire",
+      "published": "2026-03-24T09:02:31+00:00",
+      "source": "The New Arab",
+      "region": "Middle East",
+      "region_key": "middle-east"
     },
     {
       "title": "Iran says Trump talks 'fake news' aimed at oil market influence",
@@ -5937,6 +6099,15 @@
       "region_key": "americas"
     },
     {
+      "title": "China en Latinoamérica: compromiso estratégico, influencia y riesgo democrático – PARTE I",
+      "summary": "An analysis examines China's strategic engagement in Latin America, exploring the geopolitical influence Beijing has built in the region and the potential risks to democratic governance.",
+      "url": "https://dialogo-americas.com/es/articles/china-en-latinoamerica-compromiso-estrategico-influencia-y-riesgo-democratico/",
+      "published": "2026-03-18T22:12:08+00:00",
+      "source": "Dialogo Americas",
+      "region": "Americas",
+      "region_key": "americas"
+    },
+    {
       "title": "China in Latin America: Strategic Engagement, Leverage, and Democratic Risk – PART I",
       "summary": "An investigation examines China's expanding strategic engagement across Latin America, assessing Beijing's leverage and the democratic risks posed by its deepening economic and political ties in the region.",
       "url": "https://dialogo-americas.com/articles/china-in-latin-america-strategic-engagement-leverage-and-democratic-risk/",
@@ -6856,7 +7027,7 @@
     },
     {
       "title": "Flying oranges: Italian town celebrates carnival with historic street battle",
-      "summary": "The town of Ivrea in northern Italy launched its annual Battle of the Oranges, a historic carnival tradition in which participants hurl oranges at each other in a large-scale street fight.",
+      "summary": "A town in northern Italy held its annual Battle of the Oranges as part of its carnival celebrations, a historic street event in which participants throw oranges at one another.",
       "url": "https://www.bbc.com/news/videos/cnv6zy10vz4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-02-16T15:10:12+00:00",
       "source": "BBC",
@@ -6865,7 +7036,7 @@
     },
     {
       "title": "At the scene: Muslims killed 'over rejection of extremist ideology' in Nigeria",
-      "summary": "At least 78 bodies have been buried following an attack on Muslims in Nigeria, reportedly carried out over their rejection of extremist ideology. The actual death toll is feared to exceed 170 people.",
+      "summary": "At least 78 people have been buried and more than 170 are feared dead in killings targeting Muslims in Nigeria, reportedly carried out over their rejection of an extremist ideology.",
       "url": "https://www.bbc.com/news/videos/czej7xpx0x9o?at_medium=RSS&at_campaign=rss",
       "published": "2026-02-05T17:15:30+00:00",
       "source": "BBC",
@@ -6874,7 +7045,7 @@
     },
     {
       "title": "'The water took everything': Mozambique hit by worst floods in decades",
-      "summary": "Severe flooding in Mozambique has affected nearly 700,000 people in what authorities describe as the worst floods in decades. Weeks of heavy rains have caused widespread destruction across the country.",
+      "summary": "Mozambique is experiencing its worst flooding in decades, with nearly 700,000 people affected by weeks of severe inundation that has destroyed homes and infrastructure across the country.",
       "url": "https://www.bbc.com/news/videos/cvgj5vxvxgmo?at_medium=RSS&at_campaign=rss",
       "published": "2026-01-29T17:55:43+00:00",
       "source": "BBC",
@@ -6883,7 +7054,7 @@
     },
     {
       "title": "From the front lines to the future: Israeli society and the Jewish people in 2036",
-      "summary": "At the Jerusalem Post Miami Conference, IDF veterans and civil-society leaders discussed Israeli society's future through 2036, emphasizing military service, human dignity, and Diaspora responsibility.",
+      "summary": "At the Jerusalem Post Miami Conference, IDF veterans and civil-society leaders discussed the future of Israeli society and the Jewish people through 2036, emphasizing military service, dignity, and Diaspora responsibility.",
       "url": "https://www.jpost.com/conferences/article-883574",
       "published": "2026-01-15T23:48:03+00:00",
       "source": "Jerusalem Post",
@@ -6892,7 +7063,7 @@
     },
     {
       "title": "How TALMA turns English education into social mobility and a Zionist mission",
-      "summary": "At the Jerusalem Post Miami Conference, TALMA CEO Ido Mahatzri presented the organization's work using English-language education to promote social mobility in Israel's peripheral communities.",
+      "summary": "At the Jerusalem Post Miami Conference, TALMA CEO Ido Mahatzri discussed how the organization uses English-language education to promote social mobility in Israel's peripheral communities.",
       "url": "https://www.jpost.com/conferences/article-883562",
       "published": "2026-01-15T21:10:20+00:00",
       "source": "Jerusalem Post",
@@ -6901,7 +7072,7 @@
     },
     {
       "title": "'Over 90% of Iranians hate the regime,' INSS’s Beni Sabti reveals from leaked Iran survey",
-      "summary": "Beni Sabti of Israel's Institute for National Security Studies cited a leaked Iranian survey alleging that over 90% of Iranians oppose their government. Sabti described it as a secret poll showing 92% disapproval of the regime.",
+      "summary": "Beni Sabti of Israel's Institute for National Security Studies cited a leaked Iranian survey indicating that 92% of Iranian citizens oppose their government, describing it as a secret poll whose results were shared with The Jerusalem Post.",
       "url": "https://www.jpost.com/middle-east/iran-news/article-883465",
       "published": "2026-01-15T11:42:41+00:00",
       "source": "Jerusalem Post",
@@ -6910,7 +7081,7 @@
     },
     {
       "title": "Alshareef: Israel, Jews, should help Iranians seek liberty to ‘repay debt to Cyrus’",
-      "summary": "At the Jerusalem Post Miami Summit, speaker Alshareef called on Israel and the Jewish people to support Iranians seeking freedom, framing it as repaying a historical debt to the Persian king Cyrus. Prime Minister Netanyahu voiced solidarity with Iranian protesters.",
+      "summary": "At the Jerusalem Post Miami Summit, activist Alshareef urged Israel and the Jewish people to support Iranians seeking freedom, framing it as repaying a historical debt to the ancient Persian king Cyrus. Prime Minister Netanyahu also expressed solidarity with Iranian protesters.",
       "url": "https://www.jpost.com/middle-east/abraham-accords/article-883448",
       "published": "2026-01-14T09:57:00+00:00",
       "source": "Jerusalem Post",
@@ -6919,7 +7090,7 @@
     },
     {
       "title": "Watch: The Jerusalem Post Miami Summit",
-      "summary": "The Jerusalem Post hosted its Miami Summit, featuring discussions on shifting geopolitics and Diaspora-Israel relations. The conference served as a platform for cross-continental dialogue.",
+      "summary": "The Jerusalem Post Miami Summit convened discussions on shifting geopolitics and Diaspora-Israel relations, serving as a forum for cross-continental dialogue and policy ideas.",
       "url": "https://www.jpost.com/conferences/article-882743",
       "published": "2026-01-08T14:27:15+00:00",
       "source": "Jerusalem Post",
@@ -6928,7 +7099,7 @@
     },
     {
       "title": "The gifts I have been given: Survival as a collective act in Sudan",
-      "summary": "The article describes collective survival efforts among communities in Sudan amid the ongoing conflict, highlighting mutual aid as a central theme.",
+      "summary": "In Sudan, individuals and communities have relied on collective mutual aid as a survival strategy amid the country's ongoing armed conflict and humanitarian crisis.",
       "url": "https://www.thenewhumanitarian.org/opinion/first-person/2026/01/08/gifts-survival-collective-help-sudan",
       "published": "2026-01-08T10:38:12+00:00",
       "source": "New Humanitarian",
@@ -6937,7 +7108,7 @@
     },
     {
       "title": "Hope and resistance: Slam poets capture the weight of war in DR Congo",
-      "summary": "Slam poets in the Democratic Republic of Congo are using their art to express themes of hope and resistance amid the ongoing conflict in the country.",
+      "summary": "Slam poets in the Democratic Republic of Congo are using spoken-word performance to express the emotional toll of the country's ongoing armed conflict, channeling themes of hope and resistance.",
       "url": "https://www.thenewhumanitarian.org/feature/2025/09/22/hope-resistance-slam-poetry-poets-capture-weight-war-drc-congo",
       "published": "2025-09-22T11:40:00+00:00",
       "source": "New Humanitarian",
@@ -6946,7 +7117,7 @@
     },
     {
       "title": "Beware the AI efficiency messiah",
-      "summary": "The article discusses concerns about over-reliance on artificial intelligence as a solution for organizational efficiency challenges.",
+      "summary": "An analysis raises concerns about the uncritical embrace of artificial intelligence as a solution for organizational efficiency, warning of potential risks in over-relying on AI-driven approaches.",
       "url": "https://www.thenewhumanitarian.org/opinion/2025/09/22/beware-ai-efficiency-messiah",
       "published": "2025-09-22T09:00:00+00:00",
       "source": "New Humanitarian",
@@ -6955,7 +7126,7 @@
     },
     {
       "title": "Israeli bombing exposes critical shortages in Iran’s healthcare system",
-      "summary": "The article examines how Israeli bombing campaigns have exposed critical shortages within Iran's healthcare system.",
+      "summary": "Israeli airstrikes on Iran have revealed significant shortages and vulnerabilities within Iran's healthcare system, straining the country's ability to treat casualties and maintain medical services.",
       "url": "https://www.thenewhumanitarian.org/news/2025/06/27/israeli-bombing-exposes-critical-shortages-iran-healthcare-system",
       "published": "2025-06-27T12:29:00+00:00",
       "source": "New Humanitarian",
@@ -6964,7 +7135,7 @@
     },
     {
       "title": "Myanmar in-depth: Slow earthquake response underlines need to overhaul long-flawed international aid efforts",
-      "summary": "The article analyzes the slow international response to an earthquake in Myanmar, arguing it highlights long-standing flaws in the global humanitarian aid system that need reform.",
+      "summary": "Following a major earthquake in Myanmar, the international humanitarian response was criticized as slow and inadequate, underscoring long-standing structural problems in how global aid efforts are organized and delivered.",
       "url": "https://www.thenewhumanitarian.org/analysis/2025/05/15/myanmar-depth-slow-earthquake-response-underlines-need-overhaul-long-flawed",
       "published": "2025-05-16T18:00:00+00:00",
       "source": "New Humanitarian",
@@ -6973,7 +7144,7 @@
     },
     {
       "title": "As Sudan army gains drive mass returns, mutual aid groups begin to rebuild",
-      "summary": "As Sudanese army territorial gains drive mass displacement returns, mutual aid groups in Sudan are beginning reconstruction and community rebuilding efforts.",
+      "summary": "Territorial gains by Sudan's armed forces have prompted mass civilian returns to recaptured areas, where mutual aid groups are leading early rebuilding efforts in the absence of large-scale institutional support.",
       "url": "https://www.thenewhumanitarian.org/news-feature/2025/04/30/sudan-army-gains-drive-mass-returns-mutual-aid-groups-begin-rebuild",
       "published": "2025-04-30T10:14:15+00:00",
       "source": "New Humanitarian",
@@ -6982,7 +7153,7 @@
     },
     {
       "title": "“Strength in solidarity”: How mutual aid is helping women survive Sudan’s war",
-      "summary": "The article highlights how mutual aid networks organized by women in Sudan are helping them survive the ongoing armed conflict.",
+      "summary": "Women in Sudan have organized mutual aid networks to help each other survive the country's civil war, relying on solidarity and grassroots cooperation amid widespread displacement and violence.",
       "url": "https://www.thenewhumanitarian.org/news-feature/2025/01/28/how-mutual-aid-helping-women-survive-sudan-war",
       "published": "2025-01-28T12:30:38+00:00",
       "source": "New Humanitarian",
