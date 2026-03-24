@@ -8,7 +8,7 @@ on:
     #   Every 4 hours:  '0 */4 * * *'
     #   Every 2 hours:  '0 */2 * * *'
     #   Every hour:     '0 * * * *'
-    - cron: '0 */6 * * *'
+    - cron: '0 */2 * * *'
   workflow_dispatch:   # Allows manual trigger from the GitHub Actions tab
 
 permissions:
