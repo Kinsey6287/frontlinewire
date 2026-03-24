@@ -64,9 +64,9 @@ RSS_FEEDS = [
     { "url": "https://apnews.com/apf-intlnews.rss",                         "source": "AP",        "region": "Global",      "region_key": "all" },
 ]
 
-MAX_STORIES_PER_FEED = 5    # How many articles to pull per feed
-MAX_STORIES_TOTAL    = 40   # Max stories written to data.json
-SUMMARY_MAX_TOKENS   = 120  # Words in each AI summary
+MAX_STORIES_PER_FEED = 25    # How many articles to pull per feed
+MAX_STORIES_TOTAL    = 120   # Max stories written to data.json
+SUMMARY_MAX_TOKENS   = 300  # Words in each AI summary
 
 # ── FETCH RSS ────────────────────────────────────────────────────────────────
 
