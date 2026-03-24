@@ -2,7 +2,7 @@ name: Update FrontlineWire
 
 on:
   schedule:
-    - cron: '0 */6 * * *'   # Every 6 hours
+    - cron:  '*/15 * * * *'  
   workflow_dispatch:          # Also allows manual trigger from GitHub
 
 permissions:
