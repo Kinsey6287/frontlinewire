@@ -26,9 +26,9 @@ log = logging.getLogger(__name__)
 
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 
-MAX_STORIES_PER_FEED = 20
-MAX_STORIES_TOTAL    = 200
-BATCH_SIZE           = 15   # articles per Claude summarise call
+MAX_STORIES_PER_FEED = 55
+MAX_STORIES_TOTAL    = 2000
+BATCH_SIZE           = 50   # articles per Claude summarise call
 
 # Browser-like headers so news sites don't block us
 FETCH_HEADERS = {
@@ -308,6 +308,36 @@ Respond with ONLY the JSON array. No other text."""
     return [a["raw_summary"][:200] for a in articles]
 
 
+# ── HELPERS ───────────────────────────────────────────────────────────────────
+
+STORY_RETENTION_DAYS = 30   # stories older than this are dropped from the site
+
+def load_existing_stories(path: str = "data.json") -> list[dict]:
+    """Load stories already in data.json so we can merge with new ones."""
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        return data.get("stories", [])
+    except FileNotFoundError:
+        return []
+    except Exception as e:
+        log.warning(f"Could not read existing data.json: {e}")
+        return []
+
+
+def is_within_retention(story: dict) -> bool:
+    """Return True if the story is less than STORY_RETENTION_DAYS old."""
+    from datetime import timedelta
+    try:
+        pub = dateparser.parse(story["published"])
+        if pub.tzinfo is None:
+            pub = pub.replace(tzinfo=timezone.utc)
+        cutoff = datetime.now(timezone.utc) - timedelta(days=STORY_RETENTION_DAYS)
+        return pub >= cutoff
+    except Exception:
+        return True   # keep if we can't parse the date
+
+
 # ── MAIN ──────────────────────────────────────────────────────────────────────
 
 def main():
@@ -317,52 +347,64 @@ def main():
 
     client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
 
-    # ── 1. Fetch all feeds ────────────────────────────────────────────────────
+    # ── 1. Load existing stories from data.json (30-day archive) ─────────────
+    existing_stories = load_existing_stories()
+    existing_stories = [s for s in existing_stories if is_within_retention(s)]
+    existing_urls    = {s["url"] for s in existing_stories}
+    log.info(f"Existing stories within retention window: {len(existing_stories)}")
+
+    # ── 2. Fetch all feeds ────────────────────────────────────────────────────
     log.info(f"Fetching {len(RSS_FEEDS)} RSS feeds...")
     all_articles: list[dict] = []
-    feed_stats: list[str] = []
 
     for feed in RSS_FEEDS:
         arts = fetch_feed(feed)
-        status = f"  ✓ {feed['source']:25s} ({feed['region']:12s}): {len(arts)} articles"
-        log.info(status)
-        feed_stats.append(status)
+        log.info(f"  ✓ {feed['source']:25s} ({feed['region']:12s}): {len(arts)} articles")
         all_articles.extend(arts)
         time.sleep(0.3)
 
     log.info(f"Total raw articles fetched: {len(all_articles)}")
 
-    # ── 2. Filter to conflict-related ────────────────────────────────────────
+    # ── 3. Filter to conflict-related ────────────────────────────────────────
     conflict_articles = [a for a in all_articles if is_conflict_related(a)]
     log.info(f"Conflict-related: {len(conflict_articles)} / {len(all_articles)}")
 
-    # ── 3. Deduplicate by title (first 60 chars, lowercased) ─────────────────
+    # ── 4. Keep only articles NOT already in the archive (dedup by URL) ───────
+    new_articles = [a for a in conflict_articles if a["url"] not in existing_urls]
+
+    # Also deduplicate within the new batch itself (by URL, then title prefix)
+    seen_urls:   set[str] = set()
     seen_titles: set[str] = set()
-    unique_articles: list[dict] = []
-    for a in conflict_articles:
-        key = a["title"][:60].lower().strip()
-        if key and key not in seen_titles:
-            seen_titles.add(key)
-            unique_articles.append(a)
+    deduped_new: list[dict] = []
+    for a in new_articles:
+        url_key   = a["url"]
+        title_key = a["title"][:60].lower().strip()
+        if url_key in seen_urls or (title_key and title_key in seen_titles):
+            continue
+        seen_urls.add(url_key)
+        if title_key:
+            seen_titles.add(title_key)
+        deduped_new.append(a)
 
-    # ── 4. Sort newest-first, cap total ──────────────────────────────────────
-    unique_articles.sort(key=lambda x: x["published"], reverse=True)
-    unique_articles = unique_articles[:MAX_STORIES_TOTAL]
-    log.info(f"Unique conflict articles to publish: {len(unique_articles)}")
+    log.info(f"New articles not yet in archive: {len(deduped_new)}")
 
-    # ── 5. Summarise in batches ───────────────────────────────────────────────
-    log.info("Summarising with Claude AI...")
-    summaries: list[str] = []
-    for i in range(0, len(unique_articles), BATCH_SIZE):
-        batch = unique_articles[i : i + BATCH_SIZE]
-        log.info(f"  Batch {i // BATCH_SIZE + 1}: {len(batch)} articles")
-        summaries.extend(summarise_batch(batch, client))
-        time.sleep(1)
+    # ── 5. Summarise only the NEW articles ────────────────────────────────────
+    if deduped_new:
+        log.info("Summarising new articles with Claude AI...")
+        summaries: list[str] = []
+        for i in range(0, len(deduped_new), BATCH_SIZE):
+            batch = deduped_new[i : i + BATCH_SIZE]
+            log.info(f"  Batch {i // BATCH_SIZE + 1}: {len(batch)} articles")
+            summaries.extend(summarise_batch(batch, client))
+            time.sleep(1)
+    else:
+        log.info("No new articles to summarise.")
+        summaries = []
 
-    # ── 6. Assemble output ───────────────────────────────────────────────────
-    stories = []
-    for i, article in enumerate(unique_articles):
-        stories.append({
+    # ── 6. Build new story objects ────────────────────────────────────────────
+    new_stories = []
+    for i, article in enumerate(deduped_new):
+        new_stories.append({
             "title":      article["title"],
             "summary":    summaries[i] if i < len(summaries) else article["raw_summary"][:200],
             "url":        article["url"],
@@ -372,17 +414,28 @@ def main():
             "region_key": article["region_key"],
         })
 
-    # ── 7. Write data.json ───────────────────────────────────────────────────
+    # ── 7. Merge new + existing, sort newest-first ────────────────────────────
+    all_stories = new_stories + existing_stories
+    all_stories.sort(key=lambda x: x["published"], reverse=True)
+
+    log.info(
+        f"Archive: {len(existing_stories)} kept  +  {len(new_stories)} new  "
+        f"=  {len(all_stories)} total stories (30-day window)"
+    )
+
+    # ── 8. Write data.json ────────────────────────────────────────────────────
     output = {
-        "last_updated": datetime.now(timezone.utc).isoformat(),
-        "story_count":  len(stories),
-        "feed_count":   len(RSS_FEEDS),
-        "stories":      stories,
+        "last_updated":    datetime.now(timezone.utc).isoformat(),
+        "story_count":     len(all_stories),
+        "new_this_run":    len(new_stories),
+        "feed_count":      len(RSS_FEEDS),
+        "retention_days":  STORY_RETENTION_DAYS,
+        "stories":         all_stories,
     }
     with open("data.json", "w", encoding="utf-8") as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
 
-    log.info(f"Done. Wrote {len(stories)} stories from {len(RSS_FEEDS)} feeds to data.json.")
+    log.info(f"Done. {len(all_stories)} stories in data.json ({len(new_stories)} added this run).")
 
 
 if __name__ == "__main__":
