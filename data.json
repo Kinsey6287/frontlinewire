@@ -1,10 +1,433 @@
 {
-  "last_updated": "2026-04-04T23:03:16.298430+00:00",
-  "story_count": 8071,
-  "new_this_run": 41,
+  "last_updated": "2026-04-05T05:58:17.997560+00:00",
+  "story_count": 8158,
+  "new_this_run": 102,
   "feed_count": 53,
   "retention_days": 30,
   "stories": [
+    {
+      "title": "Iran executes two men involved in January protests judiciary news outlet says",
+      "summary": "Iran executed two men connected to January protests. Iran's Supreme Court described the executed individuals as \"rioters who sought to commit mass murder.\"",
+      "url": "https://www.straitstimes.com/world/middle-east/iran-executes-two-men-involved-in-january-protests-judiciary-news-outlet-says",
+      "published": "2026-04-05T13:24:43+08:00",
+      "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Airman whose F-15 was downed in Iran rescued, say US officials",
+      "summary": "A U.S. airman whose F-15 fighter jet was shot down over Iran has been rescued, according to U.S. officials. President Trump stated the crew member was injured but expected to fully recover.",
+      "url": "https://www.straitstimes.com/world/middle-east/us-rescues-airman-whose-f-15-was-downed-in-iran-us-officials-say",
+      "published": "2026-04-05T12:25:00+08:00",
+      "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Pharmaceutical logistics in demand as war rattles supply chains",
+      "summary": "The pharmaceutical logistics sector is experiencing increased demand as the ongoing war disrupts global supply chains. Despite repeated crises, both the logistics and pharmaceutical industries continue to expand.",
+      "url": "https://www.straitstimes.com/world/europe/pharmaceutical-logistics-in-demand-as-war-rattles-supply-chains",
+      "published": "2026-04-05T11:43:00+08:00",
+      "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Iran-Israel war LIVE: Iran Guards claim destroyed U.S. aircraft searching for missing pilot",
+      "summary": "Iran's Revolutionary Guards claimed they destroyed a U.S. aircraft that had been searching for the missing pilot of a downed F-15 fighter jet near Isfahan. President Trump said two U.S. airmen were rescued from Iran after he issued a deadline for Tehran to agree to a deal.",
+      "url": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-april-5-2026-live-updates/article70825713.ece",
+      "published": "2026-04-05T11:18:30+05:30",
+      "source": "The Hindu",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Indonesia lays to rest peacekeepers killed in Lebanon",
+      "summary": "Indonesia held funeral ceremonies for three of its UN peacekeepers killed by Israeli forces while deployed in southern Lebanon. Indonesian authorities called for an international investigation and demanded security guarantees for peacekeeping personnel.",
+      "url": "https://www.thehindu.com/news/international/indonesia-lays-to-rest-peacekeepers-killed-in-lebanon/article70825940.ece",
+      "published": "2026-04-05T11:12:46+05:30",
+      "source": "The Hindu",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Afghan mother seeks justice after Pakistani bombing kills hundreds",
+      "summary": "An Afghan mother is seeking justice after Pakistani military strikes reportedly killed hundreds of people. Afghanistan and Pakistan remain locked in an escalating dispute, with Islamabad claiming Kabul harbors militants responsible for cross-border attacks, which the Taliban government denies.",
+      "url": "https://www.thehindu.com/news/international/afghan-mother-seeks-justice-after-pakistani-bombing-kills-hundreds/article70825953.ece",
+      "published": "2026-04-05T11:07:37+05:30",
+      "source": "The Hindu",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "U.S. rescues airman whose F-15 was downed in Iran, say U.S. officials",
+      "summary": "U.S. officials confirmed the rescue of an airman whose F-15 fighter jet was shot down over Iran. President Trump described the operation as one of the most daring search and rescue missions in U.S. military history and said the crew member sustained injuries but would recover.",
+      "url": "https://www.thehindu.com/news/international/us-rescues-airman-whose-f-15-was-downed-in-iran-say-us-officials/article70825889.ece",
+      "published": "2026-04-05T11:05:38+05:30",
+      "source": "The Hindu",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Terrorism case registered after Karachi judge gets threatening note with bullet",
+      "summary": "Police in Karachi registered a terrorism case after Judge Suhail Jabbar Malik, a civil judge and former Anti-Terrorism Court judge, received an envelope containing a bullet and a threatening note in his chamber. South DIG Syed Asad Raza confirmed the investigation is underway.",
+      "url": "https://www.dawn.com/news/1988640/terrorism-case-registered-after-karachi-judge-gets-threatening-note-with-bullet",
+      "published": "2026-04-05T10:30:48+05:00",
+      "source": "Dawn",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Iran says Iraqi ships are allowed to use Strait of Hormuz",
+      "summary": "Iran declared that Iraqi ships are permitted to transit the Strait of Hormuz despite broader restrictions imposed by Tehran on the waterway. The exemption could release approximately three million barrels per day of Iraqi oil cargoes.",
+      "url": "https://www.straitstimes.com/world/middle-east/iran-says-iraqi-ships-are-allowed-to-use-strait-of-hormuz",
+      "published": "2026-04-05T10:11:00+08:00",
+      "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Iran war starts pinching U.S.; gas prices, transport costs surge",
+      "summary": "The average price of petrol in the United States rose to $4.09 per gallon by April 3, 2026, an increase of more than one dollar since before the Iran war began. This marked the highest fuel price level since August 2022, affecting transport costs nationwide.",
+      "url": "https://www.thehindu.com/business/Economy/iran-war-starts-pinching-us-gas-prices-transport-costs-surge/article70825791.ece",
+      "published": "2026-04-05T09:57:44+05:30",
+      "source": "The Hindu",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Pera teams in Lahore accused of enforcing 10pm curbs on exempt sectors",
+      "summary": "Punjab Enforcement Regulatory Authority teams in Lahore are accused of forcing businesses and individuals exempt from 10pm closure restrictions to shut down, amid an ongoing fuel crisis lockdown. Reports include raids on sports activities and bakeries operating within legal hours.",
+      "url": "https://www.dawn.com/news/1988697/pera-teams-in-lahore-accused-of-enforcing-10pm-curbs-on-exempt-sectors",
+      "published": "2026-04-05T09:55:17+05:00",
+      "source": "Dawn",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Israel says will strike Lebanon-Syria border crossing",
+      "summary": "Israel announced it would strike a border crossing between Lebanon and Syria, urging nearby residents to evacuate immediately. The threat came as Israeli forces continued strikes across multiple locations in Lebanon.",
+      "url": "https://www.straitstimes.com/world/middle-east/israel-says-will-strike-lebanon-syria-border-crossing",
+      "published": "2026-04-05T09:53:00+08:00",
+      "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Kuwait power, water desalination plants damaged by Iranian attack: government",
+      "summary": "Iranian military strikes damaged power and water desalination plants in Kuwait. Iran's army stated it was targeting aluminum industries in the UAE and U.S. military infrastructure in Kuwait, according to the official IRNA news agency.",
+      "url": "https://www.thehindu.com/news/international/kuwait-power-water-desalination-plants-damaged-by-iranian-attack-government/article70825856.ece",
+      "published": "2026-04-05T09:48:45+05:30",
+      "source": "The Hindu",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Iran FM Araghchi warns of contamination risk after U.S.-Israeli strikes on Bushehr nuclear power plant",
+      "summary": "Iranian Foreign Minister Abbas Araghchi warned that continued U.S.-Israeli strikes on the Bushehr nuclear power plant on Iran's southern coast could cause radioactive fallout reaching Gulf Cooperation Council capitals. He noted Bushehr is closer to Kuwait, Bahrain, and Qatar than to Tehran.",
+      "url": "https://www.thehindu.com/news/international/iran-fm-araghchi-warns-of-contamination-risk-after-us-israeli-strikes-on-bushehr-nuclear-power-plant/article70825722.ece",
+      "published": "2026-04-05T09:36:32+05:30",
+      "source": "The Hindu",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Khairpur sees mpox outbreak as seven babies test positive",
+      "summary": "An mpox outbreak in Khairpur, Sindh, Pakistan, has killed at least four newborns, with seven babies testing positive for the zoonotic viral infection. Health officials suspect contamination from unsterilized hospital equipment, and the Sukkur commissioner ordered comprehensive contact tracing.",
+      "url": "https://www.dawn.com/news/1988642/khairpur-sees-mpox-outbreak-as-seven-babies-test-positive",
+      "published": "2026-04-05T09:33:59+05:00",
+      "source": "Dawn",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "SMOKERS’ CORNER: PAKISTAN’S PRAGMATIC TURN",
+      "summary": "Pakistan is pursuing a foreign policy of principled multipolarity and strategic dynamism as the international order shifts from unipolarity to a more fragmented multipolar system. The country is positioning itself as a regional economic hub amid global instability.",
+      "url": "https://www.dawn.com/news/1988737/smokers-corner-pakistans-pragmatic-turn",
+      "published": "2026-04-05T09:31:39+05:00",
+      "source": "Dawn",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Emerging dilemmas",
+      "summary": "Pakistan faces multiple simultaneous security challenges, including tensions with Afghanistan, pressures from the Iran-U.S. war, and renewed friction with India as the anniversary of a previous bilateral military standoff approaches.",
+      "url": "https://www.dawn.com/news/1988732/emerging-dilemmas",
+      "published": "2026-04-05T09:08:13+05:00",
+      "source": "Dawn",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Iran command rejects Trump's ‘helpless, nervous’ ultimatum",
+      "summary": "General Ali Abdollahi Aliabadi of Iran's Khatam al-Anbiya Central Headquarters rejected President Trump's ultimatum, calling it a \"helpless, nervous, unbalanced and stupid action.\" The statement came in response to Trump's 48-hour deadline for Iran to reach a deal.",
+      "url": "https://www.thehindu.com/news/international/iran-command-rejects-trumps-helpless-nervous-ultimatum/article70825734.ece",
+      "published": "2026-04-05T09:06:54+05:30",
+      "source": "The Hindu",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Flopped war could lead to chaos",
+      "summary": "The White House imposed a media blackout as President Trump met with his national security team after U.S. forces suffered significant aerial losses in the Persian Gulf, including an F-15 shot down over Iran and an A-10 downed over the Gulf. An F-16 was also hit but returned to base.",
+      "url": "https://www.dawn.com/news/1988731/flopped-war-could-lead-to-chaos",
+      "published": "2026-04-05T08:55:06+05:00",
+      "source": "Dawn",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Satellite firm Planet Labs to indefinitely withhold Iran war images",
+      "summary": "Satellite imaging company Planet Labs announced it will indefinitely withhold imagery of Iran and the broader Middle East conflict zone. The decision was made to comply with a U.S. government request.",
+      "url": "https://www.straitstimes.com/world/middle-east/satellite-firm-planet-labs-to-indefinitely-withhold-iran-war-images",
+      "published": "2026-04-05T08:39:48+08:00",
+      "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Bannu bombing",
+      "summary": "A suicide bombing struck the Domel police station in Bannu, Khyber Pakhtunkhwa, killing at least five civilians from the same family. Separately, law enforcement in Lakki Marwat's Bittani area foiled a planned suicide attack on a police station and captured suspected terrorists.",
+      "url": "https://www.dawn.com/news/1988735/bannu-bombing",
+      "published": "2026-04-05T08:39:32+05:00",
+      "source": "Dawn",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Gulf war erodes 90pc investment in T-bills",
+      "summary": "The ongoing Gulf war has led to the withdrawal of 90 percent of foreign investment in Pakistani treasury bills, according to State Bank of Pakistan data. Despite attractive returns of 11.5 percent, investor confidence has been undermined by more than 35 days of conflict in the region.",
+      "url": "https://www.dawn.com/news/1988678/gulf-war-erodes-90pc-investment-in-t-bills",
+      "published": "2026-04-05T08:25:49+05:00",
+      "source": "Dawn",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "‘ME war compounds Asia humanitarian crises’",
+      "summary": "The United Nations reported that the Middle East escalation since February is generating spillover effects across Asia and the Pacific, raising fuel, power, and agricultural input costs in import-dependent countries including Pakistan, Sri Lanka, and Bangladesh. UNOCHA also sought $151 million for Pakistan flood response targeting 1.9 million people.",
+      "url": "https://www.dawn.com/news/1988666/me-war-compounds-asia-humanitarian-crises",
+      "published": "2026-04-05T08:08:02+05:00",
+      "source": "Dawn",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Israeli strikes hit hospital, homes in south Lebanon",
+      "summary": "Israeli military strikes hit buildings and a major hospital in the southern Lebanese city of Tyre. Indonesia received the bodies of three of its UN peacekeepers killed in Lebanon, while Israeli forces destroyed 17 surveillance cameras linked to a UN agency office in Naqura.",
+      "url": "https://www.dawn.com/news/1988669/israeli-strikes-hit-hospital-homes-in-south-lebanon",
+      "published": "2026-04-05T07:59:29+05:00",
+      "source": "Dawn",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "US president weighs broader cabinet shake-up",
+      "summary": "President Donald Trump is reportedly considering a broader cabinet reshuffle following Attorney General Pam Bondi's removal, driven by frustration over political fallout from the war with Iran. The conflict has caused rising gas prices and declining approval ratings ahead of midterm elections.",
+      "url": "https://www.dawn.com/news/1988668/us-president-weighs-broader-cabinet-shake-up",
+      "published": "2026-04-05T07:55:44+05:00",
+      "source": "Dawn",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Tehran says Islamabad talks depend on terms",
+      "summary": "Iranian Foreign Minister Abbas Araghchi denied rejecting Islamabad as a venue for U.S.-Iran negotiations, stating that Tehran's participation depends on the terms and conditions offered. Pakistan has been facilitating diplomatic efforts between the two sides.",
+      "url": "https://www.dawn.com/news/1988683/tehran-says-islamabad-talks-depend-on-terms",
+      "published": "2026-04-05T07:40:10+05:00",
+      "source": "Dawn",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Trump warns of ‘hell’ as Iran fights back",
+      "summary": "U.S. President Donald Trump threatened Iran with severe consequences, urging Tehran to negotiate or reopen the Strait of Hormuz. Iranian missiles struck near military headquarters in Tel Aviv, while U.S. and Israeli forces bombed petrochemical facilities and the Bushehr nuclear plant. The WHO reported over 4.3 million displaced and 116 attacks on healthcare facilities.",
+      "url": "https://www.dawn.com/news/1988682/trump-warns-of-hell-as-iran-fights-back",
+      "published": "2026-04-05T07:26:22+05:00",
+      "source": "Dawn",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "US successfully rescues second airman deep behind enemy lines in Iran, Trump confirms",
+      "summary": "US officials confirmed to Axios that a specialized commando unit with heavy air support successfully rescued the second airman from deep inside Iran following the downing of an American fighter jet.",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-892055",
+      "published": "2026-04-05T07:12:01+00:00",
+      "source": "Jerusalem Post",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Israel says it hit 120 Iranian air defense systems in 24 hours",
+      "summary": "The Israeli military said its air force struck more than 120 targets across central and western Iran over 24 hours, including air defense systems, ballistic missile sites, UAV production facilities, and missile infrastructure linked to the IRGC.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-it-hit-120-iranian-air-defense-systems-24-hours",
+      "published": "2026-04-05T06:51:10+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "White House official criticizes media over Trump hospitalisation rumours",
+      "summary": "White House communications director Steven Cheung criticized media and social media users for circulating unverified claims that President Trump had been hospitalized, though he did not cite specific examples.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/white-house-official-criticizes-media-over-trump-hospitalisation-rumours",
+      "published": "2026-04-05T06:47:59+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Murder suspect caught hiding in IDF base weeks after the killing",
+      "summary": "Israeli police apprehended a murder suspect hiding at an IDF military base weeks after the killing. The victim was a 32-year-old Rehovot resident stabbed outside a Tel Aviv club in February.",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-892053",
+      "published": "2026-04-05T06:28:16+00:00",
+      "source": "Jerusalem Post",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Iran is using North Korean weapons against Israel, US, expert tells Fox News - report",
+      "summary": "Security expert Bruce Bechtol of Angelo State University told Fox News that Iran is using North Korean-supplied weapons in its conflict against Israel and the United States, describing North Korea as the seller and Iran as the buyer.",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-892054",
+      "published": "2026-04-05T06:28:10+00:00",
+      "source": "Jerusalem Post",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "IRGC says it destroyed US aircraft tracking crew of downed fighter jet in Isfahan",
+      "summary": "Iran's Islamic Revolutionary Guard Corps claimed it destroyed a US aircraft in southern Isfahan province that was tracking the crew of a downed American F-15E fighter jet. The IRGC said Iranian forces targeted the \"enemy bird,\" though few details were provided.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-it-destroyed-us-aircraft-tracking-crew-downed-fighter-jet",
+      "published": "2026-04-05T05:58:32+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Trump must 'reign down hell' on Islamic regime, make his ultimatum on Iran count - editorial",
+      "summary": "An editorial called on President Trump to follow through on his 48-hour ultimatum to Iran, arguing that Israel's public has shown resilience and deserves decisive action rather than shifting deadlines.",
+      "url": "https://www.jpost.com/opinion/article-892039",
+      "published": "2026-04-05T05:55:13+00:00",
+      "source": "Jerusalem Post",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Hong Kong economy showed resilience in first quarter of 2026, Paul Chan says",
+      "summary": "Hong Kong Financial Secretary Paul Chan reported that the city's economy showed resilience in the first quarter of 2026 despite Middle East conflict-driven market volatility. He attributed the performance to steady growth in mainland China's economy.",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3349071/hong-kong-economy-showed-resilience-first-quarter-2026-paul-chan-says?utm_source=rss_feed",
+      "published": "2026-04-05T05:51:55+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Balochistan fixes price of Iranian petrol at Rs280",
+      "summary": "The Balochistan provincial government, under Chief Minister Mir Sarfraz Bugti, fixed the price of Iranian smuggled petrol at 280 Pakistani rupees per litre. Officials announced that the fuel would be sold only within Balochistan and would not be permitted to leave the province.",
+      "url": "https://www.dawn.com/news/1988659/balochistan-fixes-price-of-iranian-petrol-at-rs280",
+      "published": "2026-04-05T05:51:53+05:00",
+      "source": "Dawn",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Rains in KP, Punjab kill six amid new spell forecast",
+      "summary": "Rain and windstorms killed at least six people across Punjab and Khyber Pakhtunkhwa provinces in Pakistan, including four deaths in KP's Khyber district. The Met office warned of a fresh spell of rain and thunderstorms due to a western disturbance entering Balochistan and KP.",
+      "url": "https://www.dawn.com/news/1988684/rains-in-kp-punjab-kill-six-amid-new-spell-forecast",
+      "published": "2026-04-05T05:51:42+05:00",
+      "source": "Dawn",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Trump says US officer rescued, injured but ‘will be fine’",
+      "summary": "President Trump confirmed the rescue of a US weapons systems officer, identified as a colonel, whose F-15E fighter jet was shot down over Iran. Trump said the officer sustained injuries but is expected to recover fully.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-officer-rescued-injured-will-be-fine",
+      "published": "2026-04-05T05:41:08+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Middle East crisis live: Trump says F-15 crew member missing in Iran is ‘safe’ after ‘dozens of aircraft’ sent to recover him",
+      "summary": "President Trump announced that a second U.S. crew member from an F-15 fighter jet downed over Iran was rescued after dozens of aircraft were deployed. Iranian media reported that the Revolutionary Guards destroyed a U.S. aircraft searching for the missing pilot in the southern Isfahan region.",
+      "url": "https://www.theguardian.com/world/live/2026/apr/05/middle-east-crisis-live-iran-israel-us-war-trump-strait-hormuz-missing-pilot-downed",
+      "published": "2026-04-05T05:37:36+00:00",
+      "source": "The Guardian",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "Why war on Iran threatens to unleash unrest in South Asia",
+      "summary": "Analysts warn that the Iran war is threatening economic stability across South Asia, with Sri Lanka, Bangladesh, and Pakistan particularly vulnerable due to their dependence on Middle Eastern fuel and Gulf remittances. Rising energy and food costs risk pushing these IMF-dependent economies to the brink.",
+      "url": "https://www.scmp.com/week-asia/economics/article/3348974/why-war-iran-threatens-unleash-unrest-south-asia?utm_source=rss_feed",
+      "published": "2026-04-05T05:30:08+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Iran says ‘brotherly’ Iraq’s ships can use Strait of Hormuz",
+      "summary": "Iran's military announced that Iraq is exempt from shipping restrictions imposed on the Strait of Hormuz, which have disrupted global energy flows for weeks. The exemption could release as much as three million barrels per day of Iraqi oil cargoes onto global markets.",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3349069/iran-says-brotherly-iraqs-ships-can-use-strait-hormuz?utm_source=rss_feed",
+      "published": "2026-04-05T05:26:43+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Nearly 100 NSW service stations fined $1,100 each over misleading petrol prices amid fuel shortage crackdown",
+      "summary": "Ninety-three service stations in New South Wales, Australia, were fined $1,100 each for misrepresenting fuel prices during the country's fuel crisis. Inspectors visited approximately 1,800 stations in a two-week compliance operation, with most violations found in regional areas.",
+      "url": "https://www.theguardian.com/australia-news/2026/apr/05/nearly-100-nsw-service-stations-face-fines-over-misleading-petrol-prices-amid-fuel-shortage-crackdown",
+      "published": "2026-04-05T05:23:01+00:00",
+      "source": "The Guardian",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "'People's Republic' rumors: Does an Estonian city really want to join Russia?",
+      "summary": "Online rumors have circulated claiming residents of Narva, an Estonian city bordering Russia, want to secede and join Russia. The reports examine what is actually occurring in the city on Europe's eastern frontier.",
+      "url": "https://www.dw.com/en/people-s-republic-rumors-does-an-estonian-city-really-want-to-join-russia/a-76663710?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-04-05T05:14:00+00:00",
+      "source": "DW",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "Israeli forces blow up residential buildings in Lebanon township",
+      "summary": "Israeli forces demolished residential buildings in the Naqoura region of southern Lebanon, causing widespread destruction. The operations also included the destruction of surveillance cameras near the headquarters of the UN Interim Force in Lebanon (UNIFIL).",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-blow-residential-buildings-lebanon-township",
+      "published": "2026-04-05T05:12:57+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Middle East War live: Rescued crew member from downed US fighter jet 'safe and sound,' says Trump",
+      "summary": "President Donald Trump announced that U.S. forces successfully recovered a crew member from a downed American fighter jet in Iran, describing it as one of the most daring rescue operations in U.S. history. The recovery came as Iran launched missiles and drones at Israel and Kuwait early Sunday.",
+      "url": "https://www.france24.com/en/middle-east/20260405-middle-east-war-live-us-airman-rescued-from-iran-safe-and-sound-says-trump",
+      "published": "2026-04-05T05:12:02+00:00",
+      "source": "France 24",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "Satellite firm says it’s indefinitely withholding Iran war images at US request",
+      "summary": "Satellite imaging firm Planet Labs informed clients it is shifting to case-by-case \"managed distribution\" of imagery from the Iran conflict at the request of the US government, expanding on a 14-day delay imposed in March.",
+      "url": "https://www.timesofisrael.com/satellite-firm-says-its-indefinitely-withholding-iran-war-images-at-us-request/",
+      "published": "2026-04-05T05:11:15+00:00",
+      "source": "Times of Israel",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Trump’s unpopular war on Iran",
+      "summary": "Polling indicates that a majority of Americans oppose the US-Israel military campaign against Iran, making it one of the most unpopular conflicts at its outset in recent US history.",
+      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/5/trumps-unpopular-war-on-iran?traffic_source=rss",
+      "published": "2026-04-05T05:07:35+00:00",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
     {
       "title": "At Easter vigil, Pope Leo urges world not to grow numb to war",
       "summary": "Pope Leo led the Easter vigil Mass at St. Peter's Basilica in Vatican City on Saturday night. He urged the world's Catholics not to become numb to ongoing wars and to actively work for peace.",
@@ -13,6 +436,42 @@
       "source": "Straits Times",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "Fire reported at Bahrain site after Iranian strike",
+      "summary": "Bahrain's interior ministry said civil defense teams responded to a fire at a facility caused by an Iranian attack. No immediate details on casualties or the extent of damage were provided.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/fire-reported-bahrain-site-after-iranian-strike",
+      "published": "2026-04-05T04:55:44+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Trump weighs broader cabinet shake-up as Iran war pressure grows",
+      "summary": "President Trump is considering a broader cabinet reshuffle as the Iran war drives down his approval ratings to 36 percent, according to a Reuters/Ipsos survey. This represents the lowest approval figure of his current presidential term.",
+      "url": "https://www.thehindu.com/news/international/trump-weighs-broader-cabinet-shake-up-as-iran-war-pressure-grows/article70824795.ece",
+      "published": "2026-04-05T04:53:26+05:30",
+      "source": "The Hindu",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Syria closes border crossing after Israeli threat",
+      "summary": "Syria closed the Jdeidet Yabous border crossing after Israel threatened to conduct raids on the Lebanese side. Syrian customs official Mazen Alloush said the crossing serves only civilian movement and has no military purpose.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/syria-closes-border-crossing-after-israeli-threat",
+      "published": "2026-04-05T04:49:44+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "IRNA: Strike on petrochemical hub kills 5, wounds 170",
+      "summary": "Iranian state media agency IRNA reported that airstrikes on the Mahshahr Special Petrochemical Economic Zone in Khuzestan province killed at least five people and wounded approximately 170 others. The facility is a major hub in Iran's petrochemical sector near the Persian Gulf.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-media-strike-petrochemical-hub-kills-5-wounds-170",
+      "published": "2026-04-05T04:44:14+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
     },
     {
       "title": "Trump, Israel pressure Iran ahead of deadline, as hunt goes on for missing US crew member",
@@ -24,6 +483,96 @@
       "region_key": "asia"
     },
     {
+      "title": "Iran's use of cluster munitions against Israel may be a war crime - Human Rights Watch",
+      "summary": "Human Rights Watch said Iran's use of cluster munitions in populated areas of Israel may constitute a war crime. Researcher Patrick Thompson stated the weapons pose a foreseeable and long-lasting danger to civilians.",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-892052",
+      "published": "2026-04-05T04:36:03+00:00",
+      "source": "Jerusalem Post",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Hong Kong tourists choose safety, affordability with trips to mainland China",
+      "summary": "Rising fuel surcharges linked to the U.S.-Israel attack on Iran are prompting Hong Kong travelers to choose mainland China destinations accessible by high-speed rail instead of international air travel. Travelers report significantly lower costs for domestic rail trips compared to flights.",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3349064/hong-kong-tourists-choose-safety-affordability-trips-mainland-china?utm_source=rss_feed",
+      "published": "2026-04-05T04:32:30+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Rescue ongoing for downed F-15E crew member still inside Iran, official says",
+      "summary": "A US government official told Al Jazeera that a crew member from the downed F-15E fighter jet had been located inside Iran but had not yet been extracted. The official described a fierce firefight during the ongoing rescue effort.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rescue-ongoing-downed-f-15e-crew-member-still-inside-iran-official-says",
+      "published": "2026-04-05T04:32:26+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "India turns to ‘trusted friend’ Russia for oil, LNG supply as Iran war energises ties",
+      "summary": "Russia offered to increase energy supplies to India amid the global crisis caused by the Iran war, reinforcing bilateral ties. Russian First Deputy Prime Minister Denis Manturov indicated Moscow was prepared to ramp up oil and LNG deliveries to New Delhi.",
+      "url": "https://www.scmp.com/week-asia/politics/article/3349063/india-turns-trusted-friend-russia-oil-lng-supply-iran-war-energises-ties?utm_source=rss_feed",
+      "published": "2026-04-05T04:29:34+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Asian countries assure Australia ‘normal supply’ of fuel will continue as Albanese focuses on averting shortages",
+      "summary": "Australia's federal government secured reassurances from Asian trading partners including Singapore, South Korea, Malaysia, and Japan that normal fuel supply would continue despite disruptions from the Iran war and the closure of the Strait of Hormuz.",
+      "url": "https://www.theguardian.com/australia-news/2026/apr/05/asian-leaders-assure-australia-normal-supply-of-fuel-will-continue-as-albanese-focuses-on-averting-shortages",
+      "published": "2026-04-05T04:29:03+00:00",
+      "source": "The Guardian",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "Al Jazeera: Second crew member of downed F15 located",
+      "summary": "Al Jazeera reported that the second crew member from a US F-15E fighter jet downed over Iran's Khuzestan province was located amid heavy fighting. One crew member had been rescued earlier while search operations continued for the second.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/al-jazeera-second-crew-member-downed-f15-recovered-after-firefight",
+      "published": "2026-04-05T04:21:19+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Downed US airman found after ‘heavy firefight’ in Iran",
+      "summary": "The second crew member of a U.S. F-15E fighter jet downed over Iran was rescued after a heavy firefight, President Trump announced. Trump said the U.S. military deployed dozens of aircraft in a multi-hour search and rescue operation to recover the airman.",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3349062/downed-us-airman-found-after-heavy-firefight-iran?utm_source=rss_feed",
+      "published": "2026-04-05T04:14:16+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Fired US general says soldiers deserve 'leaders of character'",
+      "summary": "Former US Army Chief of Staff General Randy George, removed by Secretary of War Pete Hegseth, issued a farewell letter stating that soldiers deserve \"leaders of character\" and urged officers to remain focused on their mission.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/fired-us-general-says-soldiers-deserve-leaders-character-farewell-letter",
+      "published": "2026-04-05T04:13:31+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Drone attacks damage Kuwait power, water plants",
+      "summary": "Iranian drone attacks caused serious material damage to two electricity and water distillation plants in Kuwait, knocking out two power-generating units. No casualties were reported. The strikes followed earlier drone attacks on Kuwait's Shuwaikh Oil Sector Complex.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/drone-attacks-damage-kuwait-power-water-plants",
+      "published": "2026-04-05T04:09:32+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "How can Beijing attract top-tier Chinese AI professionals based abroad?",
+      "summary": "Beijing is being urged to improve strategies for attracting top Chinese AI professionals working abroad, as the U.S. increasingly integrates artificial intelligence into military and national security systems. Rising geopolitical tensions are forcing Chinese researchers at U.S. institutions to confront difficult career choices.",
+      "url": "https://www.scmp.com/news/china/politics/article/3349047/how-can-beijing-attract-top-tier-chinese-ai-professionals-based-abroad?utm_source=rss_feed",
+      "published": "2026-04-05T04:00:18+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
       "title": "China executes Frenchman convicted in 2010 for drug trafficking",
       "summary": "China executed Chan Thao Phoumy, a 62-year-old French national born in Laos, who had been convicted of drug trafficking and sentenced to death in 2010.",
       "url": "https://www.straitstimes.com/world/europe/china-executes-frenchman-convicted-in-2010-for-drug-trafficking",
@@ -31,6 +580,15 @@
       "source": "Straits Times",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "Israel Police investigating after human remains found in ocean off coast of Herzliya",
+      "summary": "Israeli police are investigating after human bones were discovered in the sea off the coast of Herzliya. The remains were found by Tel Aviv District Marine Police following a tip from citizens.",
+      "url": "https://www.jpost.com/israel-news/article-892050",
+      "published": "2026-04-05T03:54:31+00:00",
+      "source": "Jerusalem Post",
+      "region": "Middle East",
+      "region_key": "middle-east"
     },
     {
       "title": "Two more detained over arson attack on Czech defence factory",
@@ -51,6 +609,51 @@
       "region_key": "asia"
     },
     {
+      "title": "Iran attacks Kuwait, Israel after Trump sets deadline for deal",
+      "summary": "Iran launched missiles and drones at Israel and Kuwait after President Trump issued a 48-hour deadline for Tehran to negotiate or face severe consequences. Both Kuwait and Israel activated air defenses in response to the attacks, which are part of a broader war sparked by earlier U.S.-Israeli strikes on Iran.",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3349059/iran-attacks-kuwait-israel-after-trump-sets-deadline-deal?utm_source=rss_feed",
+      "published": "2026-04-05T03:03:40+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Iran orders asset seizures for 100 accused of 'supporting enemy abroad'",
+      "summary": "Tehran's Prosecutor's Office ordered the seizure of assets and freezing of bank accounts of more than 100 individuals accused of supporting the enemy abroad, including staff of Iran International and Manoto news channels, which Tehran accuses of ties to Israel.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-orders-asset-seizures-100-accused-supporting-enemy-abroad",
+      "published": "2026-04-05T03:01:58+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Iran warns of 'big surprise' for US, Israel",
+      "summary": "An Iranian security official warned of a \"big surprise\" for the United States and Israel, saying Tehran is operating according to its plans. The official dismissed US targeting claims as evidence of failed American military operations.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-big-surprise-us-israel",
+      "published": "2026-04-05T02:58:55+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Observatory warns of thundery showers amid Ching Ming Festival in Hong Kong",
+      "summary": "The Hong Kong Observatory warned of intense thundery showers approaching the city during the Ching Ming Festival, as a trough of low pressure brought a band of storms from the seas south of Hong Kong.",
+      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3349058/observatory-warns-thundery-showers-amid-ching-ming-festival-hong-kong?utm_source=rss_feed",
+      "published": "2026-04-05T02:53:44+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Houthis claim joint attacks with Iran, Hezbollah targeting Ben Gurion Airport",
+      "summary": "Yemen's Houthi group announced joint military operations with Iran and Hezbollah targeting Ben Gurion Airport in Israel. Spokesman Yahya Saree said the attacks involved a ballistic missile and several drones aimed at Lod Airport and military targets in southern Israel.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-joint-attacks-iran-hezbollah-targeting-ben-gurion-airport",
+      "published": "2026-04-05T02:49:14+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "Trump administration files emergency motion to resume ballroom work, citing security issues",
       "summary": "The Trump administration filed an emergency motion to resume construction work in the White House ballroom after Judge Richard Leon's ruling halted the project. Officials argued the decision left the executive mansion \"open and exposed,\" posing grave national security risks to the president and staff.",
       "url": "https://www.thehindu.com/news/international/trump-administration-files-emergency-motion-to-resume-ballroom-work-citing-security-issues/article70824693.ece",
@@ -58,6 +661,33 @@
       "source": "The Hindu",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "Japan-linked tanker clears Strait of Hormuz",
+      "summary": "A second Japan-linked vessel, the Indian-flagged LPG tanker Green Sanvi operated by Mitsui OSK Lines, transited the Strait of Hormuz after being stranded in the Gulf since the war began. The tanker was among 45 Japan-linked ships stuck in the region due to passage restrictions.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/japan-linked-tanker-clears-strait-hormuz",
+      "published": "2026-04-05T02:45:35+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Syrian-Lebanese border closed after IDF issues evacuation notice - report",
+      "summary": "The IDF issued an evacuation notice for areas near the Syrian-Lebanese border, prompting closure of the crossing. The military stated the action was due to Hezbollah's alleged use of the crossing for military purposes and weapons smuggling.",
+      "url": "https://www.jpost.com/middle-east/article-892046",
+      "published": "2026-04-05T02:37:23+00:00",
+      "source": "Jerusalem Post",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Man charged with impaired driving after after hitting Louisiana crowd celebrating Lao New Year",
+      "summary": "At least 15 people were injured when an alleged drunk driver struck pedestrians at a Lao New Year parade in New Iberia, Louisiana, on Saturday. Some injuries are reported to be serious. Louisiana State Police charged the man with driving while impaired, 18 counts of first-degree negligent injuring, and careless operation.",
+      "url": "https://www.theguardian.com/us-news/2026/apr/04/louisiana-parade-car-crash",
+      "published": "2026-04-05T02:30:34+00:00",
+      "source": "The Guardian",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "U.S. revokes green cards and visas of several Iranian nationals connected to Tehran government",
@@ -78,6 +708,15 @@
       "region_key": "asia"
     },
     {
+      "title": "Iran says Iraqi ships can pass Strait of Hormuz as transits tick up",
+      "summary": "Tehran announced that Iraqi ships will face no restrictions transiting the Strait of Hormuz, praising Iraq's stance against the United States as overall transit volume through the waterway has increased.",
+      "url": "https://www.aljazeera.com/economy/2026/4/5/iran-says-iraqi-ships-can-pass-strait-of-hormuz-as-transits-tick-up?traffic_source=rss",
+      "published": "2026-04-05T02:14:52+00:00",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "Why does Trump want to pull out of NATO?",
       "summary": "An explainer examines the Trump administration's questioning of NATO's founding principles and membership structure. It covers NATO's origins, recent alliance tensions, U.S. financial contributions, and the legal complexities of a potential American withdrawal.",
       "url": "https://www.thehindu.com/news/international/why-does-trump-want-to-pull-out-of-nato/article70824608.ece",
@@ -85,6 +724,24 @@
       "source": "The Hindu",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "WSJ: Trump administration weighs targeting Iran energy sites",
+      "summary": "The Wall Street Journal reported that senior Trump administration aides have discussed targeting Iranian energy facilities and bridges as legitimate military targets. President Trump publicly pledged to bomb Iran, while legal experts questioned whether such strikes meet the standard of tangible military advantage.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/wsj-trump-administration-weighs-targeting-iran-energy-sites",
+      "published": "2026-04-05T02:05:01+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Ex-IAEA chief warns of 'ball of fire' in region, urges 'madman' Trump be stopped",
+      "summary": "Former IAEA chief Mohamed ElBaradei urged Gulf nations and the United Nations to act following President Trump's 48-hour ultimatum to Iran. He warned that escalation could turn the region into a \"ball of fire\" and called for intervention to prevent further conflict.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ex-iaea-chief-warns-ball-fire-region-urges-madman-trump-be-stopped",
+      "published": "2026-04-05T02:00:19+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
     },
     {
       "title": "‘Don’t bomb’: Israelis call for ending Iran war",
@@ -96,6 +753,33 @@
       "region_key": "asia"
     },
     {
+      "title": "Lebanon evacuates border crossing amid Israeli threats",
+      "summary": "Lebanese authorities evacuated the General Security Centre and its database at the Al-Masnaa border crossing with Syria after Israel threatened to target the site. Hundreds of transport trucks and drivers remain stranded in the border area.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-evacuates-border-crossing-amid-israeli-threats",
+      "published": "2026-04-05T01:55:04+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Small protests in Israel call for ending Iran war",
+      "summary": "Hundreds of Israelis gathered in Tel Aviv on Saturday to protest the war against Iran and demand the government end the military campaign.",
+      "url": "https://www.newarab.com/news/small-protests-israel-call-ending-iran-war",
+      "published": "2026-04-05T01:51:43+01:00",
+      "source": "The New Arab",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Iran adds Israeli power stations to target list, report says",
+      "summary": "Iran's armed forces added two major Israeli power stations to their target list, according to Tasnim news agency. The decision followed reports that Israel is preparing to strike Iranian energy facilities, reflecting an escalating cycle of threats against energy infrastructure.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-adds-israeli-power-stations-target-list-report-says",
+      "published": "2026-04-05T01:50:47+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "Russian propaganda spreading narratives portraying Ukraine as “terrorist state” over strikes on Russian facilities",
       "summary": "Russian information outlets have escalated narratives labeling Ukraine a \"terrorist state\" following Ukrainian strikes on oil terminals and refineries in Ufa and other Russian facilities. The campaign aims to shape international perceptions of Ukraine's military operations on Russian territory.",
       "url": "https://www.ukrinform.net/rubric-society/4108993-russian-propaganda-spreading-narratives-portraying-ukraine-as-terrorist-state-over-strikes-on-russian-facilities.html",
@@ -103,6 +787,60 @@
       "source": "Ukrinform",
       "region": "Europe",
       "region_key": "europe"
+    },
+    {
+      "title": "How China is transforming Hong Kong into a strategic hub",
+      "summary": "Hong Kong is developing its first five-year plan modeled on mainland China's approach to long-term economic planning. The initiative represents a significant departure from the city's traditional laissez-faire economic model and reliance on market forces.",
+      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3348085/how-china-transforming-hong-kong-strategic-hub?utm_source=rss_feed",
+      "published": "2026-04-05T01:30:09+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Second American crewman from downed fighter jet rescued in commando raid inside Iran",
+      "summary": "US forces conducted a commando raid inside Iran to rescue the second crew member from a downed American fighter jet. Separately, Kuwait reported Iranian drone attacks on oil and power infrastructure, and a Palestinian was reportedly seriously injured in a settler attack.",
+      "url": "https://www.timesofisrael.com/liveblog-april-5-2026/",
+      "published": "2026-04-05T01:20:17+00:00",
+      "source": "Times of Israel",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "US satellite firm Planet Labs announces blackout on war on Iran images",
+      "summary": "US satellite imaging company Planet Labs announced it will indefinitely withhold imagery of the Iran conflict, stating the decision followed a request from the US government.",
+      "url": "https://www.aljazeera.com/news/2026/4/5/us-satellite-firm-planet-labs-announces-blackout-on-war-on-iran-images?traffic_source=rss",
+      "published": "2026-04-05T01:13:40+00:00",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "China not targeting US West Coast with ultra-large underwater drones: lead scientist",
+      "summary": "China's unmanned submersibles are now the world's largest, with models approaching 20 metres in length displayed at military parades and a classified variant exceeding 40 metres detected by satellite imagery at a naval installation. The lead scientist denied the vessels target the U.S. West Coast.",
+      "url": "https://www.scmp.com/news/china/science/article/3348766/china-not-targeting-us-west-coast-ultra-large-underwater-drones-lead-scientist?utm_source=rss_feed",
+      "published": "2026-04-05T01:00:13+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Public outrage as China traveller at pet-friendly hotel receives text recommending dog meat eateries",
+      "summary": "A pet-friendly hotel in Guizhou province, China, faced public backlash after sending a guest traveling with a puppy an official message recommending local dog meat restaurants as attractions. The incident sparked fierce criticism on Chinese social media.",
+      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3348646/public-outrage-china-traveller-pet-friendly-hotel-receives-text-recommending-dog-meat-eateries?utm_source=rss_feed",
+      "published": "2026-04-05T01:00:09+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "IDF Northern Command chief admits Israel overestimated damage to Hezbollah after 2024 war",
+      "summary": "IDF Northern Command chief Major General Rafi Milo acknowledged in recorded remarks that Israel overestimated the damage inflicted on Hezbollah during the 2024 war. Officials estimate Hezbollah still possesses tens of thousands of rockets.",
+      "url": "https://www.timesofisrael.com/idf-northern-command-chief-admits-israel-overestimated-damage-to-hezbollah-after-2024-war/",
+      "published": "2026-04-05T00:56:15+00:00",
+      "source": "Times of Israel",
+      "region": "Middle East",
+      "region_key": "middle-east"
     },
     {
       "title": "Georgia extends aid for Ukrainian refugees by three months",
@@ -159,6 +897,24 @@
       "region_key": "asia"
     },
     {
+      "title": "Thailand’s US$7 billion fishing industry sinks as Iran war hits fuel costs",
+      "summary": "Thailand's fishing industry, valued at approximately $7 billion, has been severely impacted by surging diesel prices caused by Iran's restrictions on the Strait of Hormuz. Half of the country's fishing fleet has reportedly been docked due to unaffordable fuel costs.",
+      "url": "https://www.scmp.com/week-asia/economics/article/3348972/thailands-us7-billion-fishing-industry-sinks-iran-war-hits-fuel-costs?utm_source=rss_feed",
+      "published": "2026-04-05T00:00:21+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Iran war live: Trump confirms rescue of US officer, says ‘we got him’",
+      "summary": "Iran reported that US-Israeli airstrikes on the Mahshahr Petrochemical Zone killed five people and wounded 170. Separately, President Trump confirmed the rescue of a US officer shot down over Iran.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/5/iran-war-live-tehran-rejects-trumps-ultimatum-fire-at-kuwait-oil-complex?traffic_source=rss",
+      "published": "2026-04-05T00:00:00+00:00",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "War update: 128 clashes on front line, Ukrainian forces neutralize over 110 invaders in Pokrovsk direction",
       "summary": "Ukrainian Defense Forces reported 128 combat engagements with Russian troops on April 4. Russian forces were most active in the Kostiantynivka and Pokrovsk directions, with Ukrainian forces neutralizing over 110 invaders in the Pokrovsk sector.",
       "url": "https://www.ukrinform.net/rubric-ato/4109217-war-update-128-clashes-on-front-line-ukrainian-forces-neutralize-over-110-invaders-in-pokrovsk-direction.html",
@@ -202,6 +958,24 @@
       "source": "Straits Times",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "Bomb allegedly left at US base by Alen Zheng was built inside 2 Pepsi bottles",
+      "summary": "Federal prosecutors revealed that a bomb placed outside MacDill Air Force Base's visitors center in Florida on March 10 was constructed inside two 2-litre cherry Pepsi bottles. Alen Zheng, 20, of Land O'Lakes, Florida, is accused of planting the device, which did not detonate.",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3349057/bomb-allegedly-left-us-base-alen-zheng-was-built-inside-2-pepsi-bottles?utm_source=rss_feed",
+      "published": "2026-04-04T23:32:24+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Cops violently disperse protesters at Tel Aviv anti-war rally, after court raised attendance cap",
+      "summary": "Israeli police forcibly dispersed anti-war protesters at a rally in Tel Aviv after a court raised the permitted attendance cap. Detained activists reported police prevented them from reaching shelters during a missile attack.",
+      "url": "https://www.timesofisrael.com/cops-violently-disperse-protesters-at-tel-aviv-anti-war-rally-after-court-raised-attendance-cap/",
+      "published": "2026-04-04T23:22:34+00:00",
+      "source": "Times of Israel",
+      "region": "Middle East",
+      "region_key": "middle-east"
     },
     {
       "title": "Russian strike on market in Ukraine kills five, wounds 25",
@@ -1207,6 +1981,15 @@
       "summary": "A freed Palestinian prisoner died in Cairo, Egypt, under circumstances that raised concerns about medical negligence. Questions were also raised about the effects of prior Israeli detention on the individual's health.",
       "url": "https://www.newarab.com/news/freed-palestinian-prisoner-dies-egypt-amid-neglect-concerns",
       "published": "2026-04-04T17:48:57+01:00",
+      "source": "The New Arab",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Iran targets Israel, Kuwait after Trump issues 48-hour deadline",
+      "summary": "Iran struck an oil facility and government offices in Kuwait after rejecting President Trump's 48-hour ultimatum, which Tehran called \"stupid.\" The attacks followed Trump's threat to escalate strikes on Iranian civilian infrastructure.",
+      "url": "https://www.newarab.com/news/iran-targets-israel-kuwait-after-trump-issues-48-hour-deadline",
+      "published": "2026-04-04T17:41:44+01:00",
       "source": "The New Arab",
       "region": "Middle East",
       "region_key": "middle-east"
@@ -72511,7 +73294,7 @@
     },
     {
       "title": "Inside Ethiopia's 'smart' police station",
-      "summary": "Ethiopia unveiled its first unmanned \"smart\" police station, where citizens can report crimes using automated touch screens. The facility represents the country's push toward technology-driven public services.",
+      "summary": "Ethiopia unveiled its first unmanned \"smart\" police station, where citizens can report crimes using automated touch screens without interacting with officers in person.",
       "url": "https://www.bbc.com/news/videos/cz9qqzqkk82o?at_medium=RSS&at_campaign=rss",
       "published": "2026-03-05T12:29:16+00:00",
       "source": "BBC",
@@ -72520,7 +73303,7 @@
     },
     {
       "title": "At the scene: Muslims killed 'over rejection of extremist ideology' in Nigeria",
-      "summary": "At least 78 people were buried and more than 170 are feared killed in attacks on Muslims in Nigeria. Victims were reportedly targeted over their rejection of extremist ideology.",
+      "summary": "At least 78 people were buried following attacks in Nigeria in which Muslims were reportedly killed over their rejection of extremist ideology. The total death toll is feared to exceed 170.",
       "url": "https://www.bbc.com/news/videos/czej7xpx0x9o?at_medium=RSS&at_campaign=rss",
       "published": "2026-02-05T17:15:30+00:00",
       "source": "BBC",
@@ -72529,7 +73312,7 @@
     },
     {
       "title": "'The water took everything': Mozambique hit by worst floods in decades",
-      "summary": "Mozambique is experiencing its worst floods in decades, with nearly 700,000 people affected by weeks of severe flooding. Displaced communities report losing homes and livelihoods to the rising waters.",
+      "summary": "Nearly 700,000 people in Mozambique have been affected by weeks of severe flooding described as the worst in decades, with residents reporting the water destroyed everything.",
       "url": "https://www.bbc.com/news/videos/cvgj5vxvxgmo?at_medium=RSS&at_campaign=rss",
       "published": "2026-01-29T17:55:43+00:00",
       "source": "BBC",
@@ -72538,7 +73321,7 @@
     },
     {
       "title": "From the front lines to the future: Israeli society and the Jewish people in 2036",
-      "summary": "At the Jerusalem Post Miami Conference, IDF veterans and civil-society leaders discussed the future of Israeli society and the Jewish people through 2036. Speakers emphasized military service, dignity, and Diaspora responsibility as key pillars.",
+      "summary": "At the Jerusalem Post Miami Conference, IDF veterans and civil-society leaders discussed Israeli society's future through 2036, emphasizing military service, civic dignity, and Diaspora responsibility.",
       "url": "https://www.jpost.com/conferences/article-883574",
       "published": "2026-01-15T23:48:03+00:00",
       "source": "Jerusalem Post",
@@ -72547,7 +73330,7 @@
     },
     {
       "title": "How TALMA turns English education into social mobility and a Zionist mission",
-      "summary": "At the Jerusalem Post Miami Conference, TALMA CEO Ido Mahatzri discussed how English-language education programs are being used to promote social mobility in Israel's peripheral communities. The initiative connects teaching with broader national values.",
+      "summary": "At the Jerusalem Post Miami Conference, TALMA CEO Ido Mahatzri presented the organization's English education programs as tools for social mobility in Israel's peripheral communities.",
       "url": "https://www.jpost.com/conferences/article-883562",
       "published": "2026-01-15T21:10:20+00:00",
       "source": "Jerusalem Post",
@@ -72556,7 +73339,7 @@
     },
     {
       "title": "'Over 90% of Iranians hate the regime,' INSS’s Beni Sabti reveals from leaked Iran survey",
-      "summary": "Beni Sabti of Israel's Institute for National Security Studies cited a leaked internal Iranian survey indicating that 92% of Iranians oppose their regime. The poll was described as a secret government survey shared with the Jerusalem Post.",
+      "summary": "Beni Sabti of Israel's Institute for National Security Studies cited a leaked Iranian survey indicating that 92% of Iranians oppose their regime, describing it as a secret internal poll.",
       "url": "https://www.jpost.com/middle-east/iran-news/article-883465",
       "published": "2026-01-15T11:42:41+00:00",
       "source": "Jerusalem Post",
@@ -72565,7 +73348,7 @@
     },
     {
       "title": "Alshareef: Israel, Jews, should help Iranians seek liberty to ‘repay debt to Cyrus’",
-      "summary": "Speaking at the Jerusalem Post Miami Summit, commentator Alshareef called on Israel and the Jewish people to support Iranians seeking freedom, framing it as repaying a historical debt to Cyrus the Great. Israeli Prime Minister Netanyahu also voiced solidarity with Iranian protesters.",
+      "summary": "At the Jerusalem Post Miami Summit, commentator Alshareef called on Israel and the Jewish people to support Iranians seeking freedom, framing it as repaying a historical debt to the ancient Persian king Cyrus. Prime Minister Netanyahu voiced solidarity with Iranian protesters.",
       "url": "https://www.jpost.com/middle-east/abraham-accords/article-883448",
       "published": "2026-01-14T09:57:00+00:00",
       "source": "Jerusalem Post",
@@ -72574,7 +73357,7 @@
     },
     {
       "title": "Watch: The Jerusalem Post Miami Summit",
-      "summary": "The Jerusalem Post Miami Summit convened discussions on shifting geopolitics and Diaspora-Israel relations. The conference served as a platform for cross-continental dialogue and policy discussions.",
+      "summary": "The Jerusalem Post Miami Summit featured discussions on shifting geopolitics and Diaspora-Israel relations, serving as a platform for cross-continental dialogue.",
       "url": "https://www.jpost.com/conferences/article-882743",
       "published": "2026-01-08T14:27:15+00:00",
       "source": "Jerusalem Post",
@@ -72583,7 +73366,7 @@
     },
     {
       "title": "The gifts I have been given: Survival as a collective act in Sudan",
-      "summary": "A report explores how survival in Sudan's ongoing conflict has become a collective act, with communities relying on mutual support networks. The piece highlights personal accounts of resilience amid widespread displacement and violence.",
+      "summary": "A report from Sudan examines how survival during the ongoing conflict has become a collective act, highlighting the communal bonds and mutual support sustaining displaced populations.",
       "url": "https://www.thenewhumanitarian.org/opinion/first-person/2026/01/08/gifts-survival-collective-help-sudan",
       "published": "2026-01-08T10:38:12+00:00",
       "source": "New Humanitarian",
@@ -72592,7 +73375,7 @@
     },
     {
       "title": "Hope and resistance: Slam poets capture the weight of war in DR Congo",
-      "summary": "Slam poets in the Democratic Republic of Congo are using their art to convey the emotional toll of the country's ongoing conflict. Their performances capture themes of hope and resistance amid war.",
+      "summary": "Slam poets in the Democratic Republic of Congo are using their art to capture themes of hope and resistance amid the weight of ongoing armed conflict in the country.",
       "url": "https://www.thenewhumanitarian.org/feature/2025/09/22/hope-resistance-slam-poetry-poets-capture-weight-war-drc-congo",
       "published": "2025-09-22T11:40:00+00:00",
       "source": "New Humanitarian",
@@ -72601,7 +73384,7 @@
     },
     {
       "title": "Beware the AI efficiency messiah",
-      "summary": "An analysis examines concerns about the uncritical adoption of AI-driven efficiency measures in governance and public services. The piece warns against treating artificial intelligence as a universal solution without addressing its limitations.",
+      "summary": "A commentary piece warns against over-reliance on artificial intelligence as a solution for efficiency, cautioning about the risks of treating AI as a cure-all for institutional challenges.",
       "url": "https://www.thenewhumanitarian.org/opinion/2025/09/22/beware-ai-efficiency-messiah",
       "published": "2025-09-22T09:00:00+00:00",
       "source": "New Humanitarian",
@@ -72610,7 +73393,7 @@
     },
     {
       "title": "Israeli bombing exposes critical shortages in Iran’s healthcare system",
-      "summary": "Israeli bombing campaigns have exposed severe shortages in Iran's healthcare system. The strikes have strained medical infrastructure, revealing systemic vulnerabilities in the country's ability to treat casualties.",
+      "summary": "Israeli airstrikes on Iran have exposed critical shortages in Iran's healthcare system, straining medical infrastructure and resources as facilities struggle to treat casualties from the bombing campaign.",
       "url": "https://www.thenewhumanitarian.org/news/2025/06/27/israeli-bombing-exposes-critical-shortages-iran-healthcare-system",
       "published": "2025-06-27T12:29:00+00:00",
       "source": "New Humanitarian",
@@ -72619,7 +73402,7 @@
     },
     {
       "title": "Myanmar in-depth: Slow earthquake response underlines need to overhaul long-flawed international aid efforts",
-      "summary": "An in-depth report examines the slow international response to Myanmar's recent earthquake, highlighting systemic flaws in the global humanitarian aid system. The analysis calls for overhauling long-standing coordination and delivery mechanisms.",
+      "summary": "The international response to a recent earthquake in Myanmar has been criticized as slow, highlighting longstanding deficiencies in how global humanitarian aid is coordinated and delivered to the country.",
       "url": "https://www.thenewhumanitarian.org/analysis/2025/05/15/myanmar-depth-slow-earthquake-response-underlines-need-overhaul-long-flawed",
       "published": "2025-05-16T18:00:00+00:00",
       "source": "New Humanitarian",
@@ -72628,7 +73411,7 @@
     },
     {
       "title": "As Sudan army gains drive mass returns, mutual aid groups begin to rebuild",
-      "summary": "Territorial gains by the Sudanese army have prompted mass civilian returns to previously contested areas. Mutual aid groups are stepping in to begin rebuilding efforts in communities devastated by the conflict.",
+      "summary": "Following territorial gains by the Sudanese Armed Forces, displaced populations have begun returning to recaptured areas in Sudan. Mutual aid groups are stepping in to support reconstruction and recovery efforts in affected communities.",
       "url": "https://www.thenewhumanitarian.org/news-feature/2025/04/30/sudan-army-gains-drive-mass-returns-mutual-aid-groups-begin-rebuild",
       "published": "2025-04-30T10:14:15+00:00",
       "source": "New Humanitarian",
@@ -72637,7 +73420,7 @@
     },
     {
       "title": "“Strength in solidarity”: How mutual aid is helping women survive Sudan’s war",
-      "summary": "Mutual aid networks in Sudan are providing critical support to women affected by the ongoing war. Community-driven solidarity efforts are helping women survive displacement, violence, and shortages of basic necessities.",
+      "summary": "Mutual aid networks in Sudan have become a critical lifeline for women affected by the ongoing civil war, providing survival support and solidarity amid widespread displacement and violence.",
       "url": "https://www.thenewhumanitarian.org/news-feature/2025/01/28/how-mutual-aid-helping-women-survive-sudan-war",
       "published": "2025-01-28T12:30:38+00:00",
       "source": "New Humanitarian",
