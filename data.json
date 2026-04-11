@@ -1,16 +1,115 @@
 {
-  "last_updated": "2026-04-11T14:07:55.300450+00:00",
-  "story_count": 12466,
-  "new_this_run": 85,
+  "last_updated": "2026-04-11T17:54:05.312641+00:00",
+  "story_count": 12610,
+  "new_this_run": 160,
   "feed_count": 53,
   "retention_days": 30,
   "stories": [
+    {
+      "title": "Russian regional officials say Ukraine attacked Kursk, Belgorod regions",
+      "summary": "Governors of Russia's Kursk and Belgorod border regions reported on April 11 that Ukrainian drones attacked targets in both regions, injuring five people.",
+      "url": "https://www.straitstimes.com/world/europe/russian-regional-officials-say-ukraine-attacked-kursk-belgorod-regions",
+      "published": "2026-04-12T01:17:03+08:00",
+      "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Pope Leo urges end to 'madness of war' as US, Iran start talks",
+      "summary": "Pope Leo issued an appeal from Vatican City urging world leaders to end the \"madness of war\" as senior U.S. and Iranian officials met in Pakistan on April 11 to discuss ending their six-week conflict.",
+      "url": "https://www.straitstimes.com/world/europe/pope-leo-urges-end-to-madness-of-war-as-us-iran-start-talks",
+      "published": "2026-04-12T01:12:04+08:00",
+      "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Russian listed by Memorial as political prisoner goes on hunger strike",
+      "summary": "A former Moscow district official, listed by the Memorial human rights organization as a political prisoner, declared a dry hunger strike in a Russian prison, refusing both food and water over what he says are politically motivated charges.",
+      "url": "https://www.straitstimes.com/world/europe/russian-listed-by-memorial-as-political-prisoner-goes-on-hunger-strike",
+      "published": "2026-04-12T01:11:52+08:00",
+      "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Empty tankers heading to US to load up with oil and gas, says Trump",
+      "summary": "U.S. President Trump stated that empty tankers are heading to the United States to load oil and gas, amid the worst disruption to global energy supplies in history caused by Iran's closure of the Strait of Hormuz.",
+      "url": "https://www.straitstimes.com/world/united-states/empty-oil-tankers-heading-to-us-to-load-up-with-oil-gas-says-trump",
+      "published": "2026-04-12T00:24:10+08:00",
+      "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Supertankers exit Gulf via Strait of Hormuz as US-Iran talks begin, data shows",
+      "summary": "Shipping data showed supertankers exiting the Persian Gulf through the Strait of Hormuz as US-Iran talks began, with crude oil expected to arrive at Malaysia's Malacca port by April 21.",
+      "url": "https://www.straitstimes.com/world/middle-east/supertankers-exit-gulf-via-strait-of-hormuz-as-us-iran-talks-begin-data-shows",
+      "published": "2026-04-11T23:24:18+08:00",
+      "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Iraqi Parliament elects Nizar Amedi as country’s new president",
+      "summary": "Iraq's parliament elected Nizar Amedi as the country's new president. Iraq must now select a new prime minister, a closely watched process.",
+      "url": "https://www.straitstimes.com/world/middle-east/iraqi-parliament-elects-nizar-amedi-as-countrys-new-president",
+      "published": "2026-04-11T23:16:51+08:00",
+      "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Relatives seek FO’s help to ascertain fate of family members believed to be killed by missile debris in Kuwait",
+      "summary": "Relatives of Waqas Ahmed, a Pakistan-origin man missing in Kuwait along with his family, have written to Pakistan's Ministry of Foreign Affairs seeking help to confirm whether the family was killed by missile debris following an interception incident.",
+      "url": "https://www.dawn.com/news/1990838/relatives-seek-fos-help-to-ascertain-fate-of-family-members-believed-to-be-killed-by-missile-debris-in-kuwait",
+      "published": "2026-04-11T22:48:39+05:00",
+      "source": "Dawn",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Libya signs first unified state Budget in more than a decade",
+      "summary": "Libya signed its first unified state budget in more than a decade. The oil-producing country has been divided since a 2014 civil war led to the creation of two rival administrations.",
+      "url": "https://www.straitstimes.com/world/libya-signs-first-unified-state-budget-in-more-than-a-decade",
+      "published": "2026-04-11T22:41:26+08:00",
+      "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "London police arrest 212 people at protest over Palestine Action ban",
+      "summary": "London's Metropolitan Police arrested 212 people at a Trafalgar Square protest opposing the UK government's ban on the Palestine Action group. The demonstration followed a High Court ruling in February that the ban designating the group as a terrorist organization was unlawful. UK Interior Minister Shabana Mahmood has been granted approval to appeal that ruling.",
+      "url": "https://www.dawn.com/news/1990844/london-police-arrest-212-people-at-protest-over-palestine-action-ban",
+      "published": "2026-04-11T22:39:24+05:00",
+      "source": "Dawn",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Teams of experts from Iran, US exchange written texts after in-person talks in Islamabad",
+      "summary": "Expert-level delegations from Iran and the United States exchanged written texts during in-person nuclear, military, legal, and economic discussions at the Serena Hotel in Islamabad. Negotiations continued as part of talks held during a two-week ceasefire in the Middle East conflict.",
+      "url": "https://www.dawn.com/news/1990743/teams-of-experts-from-iran-us-exchange-written-texts-after-in-person-talks-in-islamabad",
+      "published": "2026-04-11T22:14:23+05:00",
+      "source": "Dawn",
+      "region": "Asia",
+      "region_key": "asia"
+    },
     {
       "title": "Iran and US top officials launch negotiations in Pakistan",
       "summary": "US and Iranian delegations launched negotiations in Islamabad, Pakistan, though the two sides remained far apart on key issues including sanctions and Lebanon. The talks are aimed at resolving the broader Middle East conflict.",
       "url": "https://www.straitstimes.com/world/middle-east/iran-and-us-top-officials-launch-negotiations-in-pakistan",
       "published": "2026-04-11T22:05:00+08:00",
       "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Price monitoring committee directs Sindh govt to take corrective measures against rising fares in Karachi",
+      "summary": "Pakistan's National Price Monitoring Committee directed the Sindh government to address rising public transport fares in Karachi. This came despite Sindh Chief Minister Murad Ali Shah's earlier announcement of a province-wide fare freeze following negotiations with transporters amid global fuel price increases.",
+      "url": "https://www.dawn.com/news/1990832/price-monitoring-committee-directs-sindh-govt-to-take-corrective-measures-against-rising-fares-in-karachi",
+      "published": "2026-04-11T21:59:32+05:00",
+      "source": "Dawn",
       "region": "Asia",
       "region_key": "asia"
     },
@@ -33,6 +132,15 @@
       "region_key": "asia"
     },
     {
+      "title": "Gaza civil defence says Israeli strikes kill seven",
+      "summary": "Gaza's civil defense reported that Israeli strikes killed seven people despite an October 10 ceasefire, as both Israel and Hamas continued to accuse each other of violating the truce.",
+      "url": "https://www.thehindu.com/news/international/gaza-civil-defence-says-israeli-strikes-kill-seven/article70851833.ece",
+      "published": "2026-04-11T21:42:06+05:30",
+      "source": "The Hindu",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
       "title": "Irish police move to break blockade of oil refinery by protesters angry at fuel prices",
       "summary": "Irish police moved to clear protesters blockading the Whitegate oil refinery, Ireland's only refinery, amid demonstrations over surging fuel prices. A senior government minister described the situation as a \"very dangerous economic moment\" for the country.",
       "url": "https://www.straitstimes.com/world/europe/irish-police-move-to-break-blockade-of-oil-refinery-by-protesters-angry-at-fuel-prices",
@@ -42,11 +150,56 @@
       "region_key": "asia"
     },
     {
+      "title": "Colombia retaliates with 100% tariffs on Ecuador",
+      "summary": "Colombia imposed 100% retaliatory tariffs on Ecuadorian goods amid an ongoing trade war. Ecuador's President Daniel Noboa has criticized Colombian President Gustavo Petro over drug trafficking and illegal mining along their shared border.",
+      "url": "https://www.thehindu.com/news/international/colombia-retaliates-with-100-tariffs-on-ecuador/article70851750.ece",
+      "published": "2026-04-11T21:19:03+05:30",
+      "source": "The Hindu",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Mourners bid farewell to Lebanese state security personnel killed in Israeli strike",
+      "summary": "Mourners attended funeral services for Lebanese state security personnel killed in an Israeli airstrike on Lebanon.",
+      "url": "https://www.thehindu.com/shorts/watch-mourners-bid-farewell-to-lebanese-state-security-personnel-killed-in-israeli-strike/article70851749.ece",
+      "published": "2026-04-11T21:12:47+05:30",
+      "source": "The Hindu",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Hezbollah slams planned Lebanese talks with Israel as strikes kills 10",
+      "summary": "Hezbollah condemned planned Lebanese talks with Israel as Israeli strikes killed 10 people. Hezbollah lawmaker Hassan Fadlallah said the talks deepen domestic divisions at a time when Lebanon needs unity against Israeli aggression.",
+      "url": "https://www.thehindu.com/news/international/hezbollah-slams-planned-lebanese-talks-with-israel-as-strikes-kills-10/article70851717.ece",
+      "published": "2026-04-11T21:11:32+05:30",
+      "source": "The Hindu",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
       "title": "Hezbollah MP slams planned Lebanese talks with Israel as strikes kill 10",
       "summary": "A Hezbollah-affiliated member of the Lebanese parliament criticized planned Lebanese negotiations with Israel as Israeli strikes killed 10 people. Lebanese President Joseph Aoun has expressed willingness to engage in direct talks with Israel.",
       "url": "https://www.straitstimes.com/world/middle-east/hezbollah-mp-slams-planned-lebanese-talks-with-israel-as-strikes-kill-10",
       "published": "2026-04-11T20:52:00+08:00",
       "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Iran says talks with US move to expert level – CNN",
+      "summary": "US-Iran trilateral talks in Islamabad moved to the expert level, according to Iranian officials cited by CNN. The negotiations, also involving Pakistan, continued as the sides worked toward a broader agreement.",
+      "url": "https://www.ukrinform.net/rubric-polytics/4111577-iran-says-talks-with-us-move-to-expert-level-cnn.html",
+      "published": "2026-04-11T20:42:00+03:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "Iranian delegation meets Pakistan’s Sharif ahead of peace talks in Islamabad",
+      "summary": "An Iranian delegation met with Pakistani Prime Minister Nawaz Sharif in Islamabad ahead of peace talks between Iran and the United States.",
+      "url": "https://www.thehindu.com/shorts/iranian-delegation-meets-pakistans-sharif-ahead-of-peace-talks-in-islamabad/article70851440.ece",
+      "published": "2026-04-11T20:32:28+05:30",
+      "source": "The Hindu",
       "region": "Asia",
       "region_key": "asia"
     },
@@ -69,6 +222,78 @@
       "region_key": "asia"
     },
     {
+      "title": "Over 60 drone and artillery strikes hit Dnipropetrovsk region, leaving one civilian injured",
+      "summary": "Russian forces launched over 60 drone and artillery strikes on two districts of Ukraine's Dnipropetrovsk region, injuring one civilian.",
+      "url": "https://www.ukrinform.net/rubric-ato/4111572-over-60-drone-and-artillery-strikes-hit-dnipropetrovsk-region-leaving-one-civilian-injured.html",
+      "published": "2026-04-11T20:12:00+03:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "Watch: A halt to the war, including in Lebanon, has been part of the ceasefire deal: Iran Foreign Ministry",
+      "summary": "Iran's Foreign Ministry stated that a halt to the war, including the conflict in Lebanon, has been part of the ceasefire deal under discussion.",
+      "url": "https://www.thehindu.com/shorts/watch-a-halt-to-the-war-including-in-lebanon-has-been-part-of-the-ceasefire-deal-iran-foreign-ministry/article70851478.ece",
+      "published": "2026-04-11T20:02:36+05:30",
+      "source": "The Hindu",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Pakistan deploys fighter jets to Saudi Arabia under defence pact",
+      "summary": "Pakistan deployed fighter jets to Saudi Arabia under a defense pact after Iranian strikes hit key Saudi energy infrastructure and killed a Saudi national.",
+      "url": "https://www.straitstimes.com/world/middle-east/saudi-arabia-says-pakistan-sends-fighter-jets-to-kingdom-under-defence-pact",
+      "published": "2026-04-11T19:56:51+08:00",
+      "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Two patrol officers killed in Russian shelling in Donetsk region",
+      "summary": "Two Ukrainian patrol officers, Ihor Lisytsyn and Ihor Radzyminskyi, were killed on April 11 in the Donetsk region by Russian shelling.",
+      "url": "https://www.ukrinform.net/rubric-ato/4111566-two-patrol-officers-killed-in-russian-shelling-in-donetsk-region.html",
+      "published": "2026-04-11T19:45:00+03:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "Trump says U.S. forces are ‘clearing’ Strait of Hormuz",
+      "summary": "U.S. President Trump stated that American forces are \"clearing\" the Strait of Hormuz, posting the claim as senior U.S. and Iranian officials began talks on April 11, 2026, in Islamabad with Pakistani mediation.",
+      "url": "https://www.thehindu.com/news/international/trump-strait-of-hormuz-clearing-empty-tankers-heading-to-us-to-load-up-with-oil-and-gas/article70850847.ece",
+      "published": "2026-04-11T19:42:19+05:30",
+      "source": "The Hindu",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Buffets, baristas, but no briefings: A journalist’s account of covering Islamabad Talks",
+      "summary": "Hundreds of journalists gathered at Islamabad's convention centre, converted into a media hub for the US-Iran peace talks, but were largely confined to waiting as negotiations took place behind closed doors at a separate location.",
+      "url": "https://www.dawn.com/news/1990827/buffets-baristas-but-no-briefings-a-journalists-account-of-covering-islamabad-talks",
+      "published": "2026-04-11T19:39:12+05:00",
+      "source": "Dawn",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Ukraine strikes oil depot, pumping station, and ammo dumps in Russia and occupied territories",
+      "summary": "Ukrainian Defense Forces struck an oil depot, an oil pumping station, three ammunition depots, and concentrations of Russian personnel in occupied Ukrainian territories and inside Russia on and around April 11.",
+      "url": "https://www.ukrinform.net/rubric-ato/4111562-ukraine-strikes-oil-depot-pumping-station-and-ammo-dumps-in-russia-and-occupied-territories.html",
+      "published": "2026-04-11T19:20:00+03:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "Iran installing roadblocks in front of buried nuclear facility entrances - report",
+      "summary": "The Institute for Science and International Security analyzed satellite imagery showing Iran installing roadblocks in front of entrances to its underground nuclear facility in Isfahan.",
+      "url": "https://www.jpost.com/israel-news/article-892634",
+      "published": "2026-04-11T19:15:26+00:00",
+      "source": "Jerusalem Post",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "Hungary PM Viktor Orban’s birthplace turns into a battleground for his survival",
       "summary": "Hungary holds elections on April 12 amid widespread public discontent over the cost of living and allegations of cronyism. The vote is being closely watched as a potential challenge to Prime Minister Viktor Orban's hold on power in his birthplace region.",
       "url": "https://www.straitstimes.com/world/europe/hungary-pm-viktor-orbans-birthplace-turns-into-a-battleground-for-his-survival",
@@ -78,6 +303,24 @@
       "region_key": "asia"
     },
     {
+      "title": "Russian attacks leave three killed, eight injured in Kherson region",
+      "summary": "Russian attacks on the Kherson region on April 11 killed three people and injured eight others, including a trolleybus driver who later died of critical wounds in hospital.",
+      "url": "https://www.ukrinform.net/rubric-ato/4111556-russian-attacks-leave-three-killed-eight-injured-in-kherson-region.html",
+      "published": "2026-04-11T19:00:00+03:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "Israel will fight on ferociously:  It will hunt down its enemies, not be hounded by them - opinion",
+      "summary": "An opinion piece argued that Israel would pursue aggressive military action against its enemies rather than return to containment policies that prioritized restraint and diplomacy.",
+      "url": "https://www.jpost.com/opinion/article-892497",
+      "published": "2026-04-11T18:59:22+00:00",
+      "source": "Jerusalem Post",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "Nigeria convicts 386 Islamist militants in mass trials",
       "summary": "Nigeria convicted 386 Islamist militants in mass trials held in the capital Abuja this week, the country's Attorney General announced on Friday, April 11. The proceedings represent one of the largest batches of militant convictions in recent Nigerian history.",
       "url": "https://www.straitstimes.com/world/nigeria-convicts-386-islamist-militants-in-mass-trials",
@@ -85,6 +328,15 @@
       "source": "Straits Times",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "DM Fedorov discusses defense cooperation priorities with Norwegian counterpart",
+      "summary": "Ukrainian Defense Minister Mykhailo Fedorov met with Norwegian Defense Minister Tore Sandvik to discuss defense cooperation priorities.",
+      "url": "https://www.ukrinform.net/rubric-polytics/4111550-dm-fedorov-discusses-defense-cooperation-priorities-with-norwegian-counterpart.html",
+      "published": "2026-04-11T18:38:00+03:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
     },
     {
       "title": "Direct talks begin between US, Iran delegations in Islamabad: state media",
@@ -105,6 +357,15 @@
       "region_key": "asia"
     },
     {
+      "title": "Iranian state media reports: US-Iran talks over, more likely held tonight or tomorrow",
+      "summary": "The first phase of US-Iran talks in Islamabad concluded, with delegations exchanging written texts to confirm agreements reached. Pakistan pushed to extend negotiations for at least another day, but had not yet succeeded in doing so.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-state-media-reports-us-iran-talks-over-more-likely-held-tonight",
+      "published": "2026-04-11T18:26:47+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "Watch: Who is Amit Kshatriya, the mind behind NASA’s Moon programme?",
       "summary": "Indian-American scientist Amit Kshatriya serves as NASA's Associate Administrator overseeing the Artemis programme, which aims to return humans to the Moon. He advanced through engineering and leadership roles at NASA, contributing to missions including Artemis I, and now plays a central role in planning future Moon and Mars exploration.",
       "url": "https://www.thehindu.com/videos/who-is-amit-kshatriya-the-mind-behind-nasas-moon-programme/article70851019.ece",
@@ -112,6 +373,33 @@
       "source": "The Hindu",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "Iranian spokesperson accuses US media of double standards",
+      "summary": "Iranian foreign ministry spokesperson Esmaeil Baqaei accused the US media of double standards, alleging that elements within the US policy and media space recommended assassinating Iranian negotiators if talks failed. He criticized what he called the normalization of extortion through threats of violence.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-spokesperson-accuses-us-media-double-standards-amid-negotiations",
+      "published": "2026-04-11T18:16:19+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "SSU releases exclusive footage of latest prisoner exchange",
+      "summary": "The Security Service of Ukraine released footage of Ukrainian prisoners freed from Russian captivity during a prisoner exchange conducted on Saturday, April 11.",
+      "url": "https://www.ukrinform.net/rubric-society/4111544-ssu-releases-exclusive-footage-of-latest-prisoner-exchange.html",
+      "published": "2026-04-11T18:15:00+03:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "Northern Israel hit with barrage of Hezbollah rockets, drones, one building damaged",
+      "summary": "Hezbollah launched a barrage of rockets and five drones into northern Israel, with one building in Shlomi sustaining minor damage. Magen David Adom emergency teams responded to the incident.",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-892633",
+      "published": "2026-04-11T18:12:44+00:00",
+      "source": "Jerusalem Post",
+      "region": "Middle East",
+      "region_key": "middle-east"
     },
     {
       "title": "Bilawal terms Islamabad Talks ‘biggest achievement so far’ in de-escalation efforts between US, Iran",
@@ -132,6 +420,24 @@
       "region_key": "asia"
     },
     {
+      "title": "US military says two of its warships passed through Hormuz to remove mines",
+      "summary": "The US military said two warships passed through the Strait of Hormuz as part of a mission to remove sea mines placed by Iran. CENTCOM Admiral Brad Cooper said they were establishing a safe passage to restore the free flow of commerce through the vital waterway.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-military-says-two-its-warships-passed-through-hormuz-remove-mines",
+      "published": "2026-04-11T18:06:22+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Israel kidnaps three people in latest raid on south Syria",
+      "summary": "Israeli forces conducted raids in southern Syria and abducted three civilians, escalating ground incursions in the area.",
+      "url": "https://www.newarab.com/news/israel-kidnaps-three-people-latest-raid-south-syria",
+      "published": "2026-04-11T18:05:20+01:00",
+      "source": "The New Arab",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "U.S. and Iran envoys meet Pakistani PM as negotiations get under way",
       "summary": "Iranian Parliament Speaker Mohammad Bagher Ghalibaf and US Vice President JD Vance each met Pakistani Prime Minister Shehbaz Sharif in Islamabad as negotiations between the US and Iran got under way. Both delegations arrived at the venue for talks aimed at addressing the Middle East conflict.",
       "url": "https://www.thehindu.com/news/international/us-and-iran-envoys-meeting-with-pakistani-pm-shehbaz-sharif-negotiations-west-asia-war-ceasefire/article70850892.ece",
@@ -139,6 +445,69 @@
       "source": "The Hindu",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "Trump 'praises Allah again' in post boasting Iran's destruction",
+      "summary": "US President Donald Trump posted a message invoking praise to Allah while boasting about destruction inflicted on Iran. It was the second time Trump used the phrase, having previously done so when demanding Iran open the Strait of Hormuz.",
+      "url": "https://www.newarab.com/news/trump-praises-allah-again-post-boasting-irans-destruction",
+      "published": "2026-04-11T17:57:58+01:00",
+      "source": "The New Arab",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Ukrainian General Staff: Ceasefire regime introduced at front for Easter holidays",
+      "summary": "Commander-in-Chief Oleksandr Syrskyi, on orders from President Volodymyr Zelensky, directed Ukraine's Defense Forces to observe a ceasefire on land, sea, and air during the Easter holiday period.",
+      "url": "https://www.ukrinform.net/rubric-ato/4111537-ukrainian-general-staff-ceasefire-regime-introduced-at-front-for-easter-holidays.html",
+      "published": "2026-04-11T17:54:00+03:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "US-Iran talks hit ‘stalemate’ over Strait of Hormuz, FT reports",
+      "summary": "US-Iran negotiations in Islamabad hit a stalemate over the Strait of Hormuz, according to the Financial Times. Closed-door talks resumed after a dinner break, following an initial round that lasted just under two hours.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-iran-talks-hit-stalemate-over-strait-hormuz-ft-reports",
+      "published": "2026-04-11T17:53:41+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Israeli settlers kill Palestinian in raid on West Bank village",
+      "summary": "Israeli settlers killed a 23-year-old Palestinian during a raid on a village in the occupied West Bank. The incident occurred amid a broader surge in settler violence across the territory.",
+      "url": "https://www.newarab.com/news/israeli-settlers-kill-palestinian-raid-west-bank-village",
+      "published": "2026-04-11T17:53:37+01:00",
+      "source": "The New Arab",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Police arrest protesters opposing Palestine Action ban in London",
+      "summary": "London police arrested protesters demonstrating against the UK government's ban on Palestine Action. The direct-action group was proscribed as a terrorist organisation by British authorities in July 2025.",
+      "url": "https://www.newarab.com/news/police-arrest-protesters-opposing-palestine-action-ban-london",
+      "published": "2026-04-11T17:49:52+01:00",
+      "source": "The New Arab",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Amnesty calls for funds for Sudan as war nears 3rd anniversary",
+      "summary": "Amnesty International called on global governments to increase funding for Sudan as the country's war approached its third anniversary. NGOs reported being unable to assist desperate populations due to severe funding cuts.",
+      "url": "https://www.newarab.com/news/amnesty-calls-funds-sudan-war-nears-3rd-anniversary",
+      "published": "2026-04-11T17:47:57+01:00",
+      "source": "The New Arab",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Five more killed in Israeli strikes on southern Lebanon",
+      "summary": "Israeli strikes on southern Lebanon killed at least five people in Tefahta, according to Lebanon's National News Agency. Additional air strikes hit the towns of Seddiqine, Tibnin, and Dibbine. Earlier attacks on Nabatieh city killed 10 people, including three emergency workers.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/five-more-killed-israeli-strikes-southern-lebanon",
+      "published": "2026-04-11T17:44:03+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
     },
     {
       "title": "U.S. official denies report Washington agreed to unfreeze Iran assets",
@@ -159,6 +528,15 @@
       "region_key": "asia"
     },
     {
+      "title": "Tankers exit Gulf via Strait of Hormuz as US-Iran talks begin",
+      "summary": "Three supertankers passed through the Strait of Hormuz as US-Iran talks began in Islamabad. The transit signaled a possible easing of the blockade following the US-Iran ceasefire and ongoing negotiations.",
+      "url": "https://www.newarab.com/news/tankers-exit-gulf-strait-hormuz-us-iran-talks-begin",
+      "published": "2026-04-11T17:40:51+01:00",
+      "source": "The New Arab",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "Trump says empty tankers heading to U.S. to load up with oil and gas",
       "summary": "US President Donald Trump claimed that empty tankers were heading to the United States to load oil and gas. The statement came as senior US and Iranian officials met on April 11, 2026, in Islamabad with Pakistani intermediaries for ongoing negotiations.",
       "url": "https://www.thehindu.com/news/international/trump-says-empty-tankers-heading-to-us-to-load-up-with-oil-and-gas/article70850847.ece",
@@ -177,6 +555,42 @@
       "region_key": "asia"
     },
     {
+      "title": "Ukraine proposes Norway access to its drone war secrets",
+      "summary": "Ukraine offered its NATO partners access to battle-proven drone warfare technology ahead of a Ramstein meeting. The proposal positioned Ukraine as bringing both requests and valuable military capabilities to the table.",
+      "url": "https://euromaidanpress.com/2026/04/11/ukraine-proposes-norway-access-to-its-drone-war-secrets/",
+      "published": "2026-04-11T17:36:36+00:00",
+      "source": "Euromaidan Press",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "Russian forces carry out 50 attacks since start of day, fiercest fighting in Kostiantynivka and Pokrovsk sectors",
+      "summary": "Russian troops launched 50 attacks on Ukrainian positions since the start of the day, with the most intense fighting reported in the Kostiantynivka and Pokrovsk sectors.",
+      "url": "https://www.ukrinform.net/rubric-ato/4111530-russian-forces-carry-out-50-attacks-since-start-of-day-fiercest-fighting-in-kostiantynivka-and-pokrovsk-sectors.html",
+      "published": "2026-04-11T17:35:00+03:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "Israel lashes out at South Korean leader over Palestine posts",
+      "summary": "Israel criticized South Korean President Lee Jae Myung after he highlighted the treatment of Palestinians and called on Israeli leaders to reflect on their actions.",
+      "url": "https://www.newarab.com/news/israel-lashes-out-south-korean-leader-over-palestine-posts",
+      "published": "2026-04-11T17:32:15+01:00",
+      "source": "The New Arab",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Gaza fibreglass homes aim to offer more 'dignity' for displaced",
+      "summary": "Aid workers in Gaza began constructing fibreglass homes to provide shelter and dignity for displaced families. Nearly two million people in the territory remained in dire humanitarian conditions.",
+      "url": "https://www.newarab.com/news/gaza-fibreglass-homes-aim-offer-more-dignity-displaced",
+      "published": "2026-04-11T17:31:13+01:00",
+      "source": "The New Arab",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "Russia and Ukraine trade drone strikes ahead of Easter truce",
       "summary": "Russia launched at least 160 drones at Ukraine ahead of a proposed Orthodox Easter truce, killing four people in eastern and southern regions. Both sides exchanged drone strikes as tensions persisted despite the planned ceasefire.",
       "url": "https://www.straitstimes.com/world/europe/russia-and-ukraine-trade-drone-strikes-ahead-of-easter-truce",
@@ -186,6 +600,114 @@
       "region_key": "asia"
     },
     {
+      "title": "Artemis II: Space race heats up with China",
+      "summary": "NASA's Artemis II mission marks the first time in over 50 years that humans have ventured near the Moon, intensifying the space competition between the United States and China over lunar exploration ambitions.",
+      "url": "https://www.france24.com/en/tv-shows/access-asia/20260411-artemis-ii-space-race-heats-up-with-china",
+      "published": "2026-04-11T17:23:57+00:00",
+      "source": "France 24",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "Young Palestinian man shot dead in Israeli settler attack",
+      "summary": "A 23-year-old Palestinian man, Ali Majed Hamadneh, was shot dead by Israeli settlers during an attack on the village of Deir Jarir, east of Ramallah in the occupied West Bank. Armed settlers, reportedly under Israeli army protection, opened fire on residents.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/young-palestinian-man-shot-dead-israeli-settler-attack",
+      "published": "2026-04-11T17:23:45+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Iraq elects Kurdish politician Nizar Amidi as president amid war fallout",
+      "summary": "The Iraqi parliament elected Kurdish politician Nizar Amedi as the country's new president on Saturday, amid ongoing regional instability from the wider war.",
+      "url": "https://www.newarab.com/news/iraq-elects-kurdish-politician-nizar-amidi-president-amid-war-fallout",
+      "published": "2026-04-11T17:15:38+01:00",
+      "source": "The New Arab",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Strait of Hormuz leverage looms over US-Iran talks in Islamabad",
+      "summary": "US and Iranian officials held their first direct talks since 1979 in Islamabad, Pakistan. Negotiations centered on the Strait of Hormuz, a critical global oil transit route, which remained a key point of contention between the two sides.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/strait-of-hormuz-leverage-looms-over-us-iran-talks-in-islamabad?traffic_source=rss",
+      "published": "2026-04-11T17:15:05+00:00",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Macron tells Iranian president ceasefire must be ‘fully respected’ and include Lebanon",
+      "summary": "French President Emmanuel Macron spoke with Iranian President Masoud Pezeshkian and urged that the US-Iran ceasefire be fully respected and extended to include Lebanon. Macron also called on Iran to restore freedom of navigation in the Strait of Hormuz.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/macron-told-iranian-president-ceasefire-must-be-fully-respected-and",
+      "published": "2026-04-11T17:14:33+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Ukraine could play useful role in Strait of Hormuz, UK minister says",
+      "summary": "A UK minister suggested that Ukraine, with its advanced drone technologies, could contribute to international security efforts in the Strait of Hormuz.",
+      "url": "https://www.ukrinform.net/rubric-polytics/4111516-ukraine-could-play-useful-role-in-strait-of-hormuz-uk-minister-says.html",
+      "published": "2026-04-11T17:12:00+03:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "US clearing out Strait of Hormuz, Trump claims as Iran threatens to attack unauthorized ships",
+      "summary": "Two US Navy guided-missile destroyers passed through the Strait of Hormuz in what officials described as a freedom-of-navigation mission. President Trump claimed the US was clearing the strait, while Iran threatened to attack unauthorized vessels.",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-892632",
+      "published": "2026-04-11T17:05:21+00:00",
+      "source": "Jerusalem Post",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Ukraine’s general who lost Siversk just said what few commanders ever admit",
+      "summary": "A Ukrainian general publicly acknowledged the loss of the city of Siversk, making a rare admission of battlefield defeat. The statement drew attention for its unusual candor among military commanders.",
+      "url": "https://euromaidanpress.com/2026/04/11/ukraines-general-who-lost-siversk-just-said-what-few-commanders-ever-admit/",
+      "published": "2026-04-11T17:03:50+00:00",
+      "source": "Euromaidan Press",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "'The Last Cedar of Lebanon': A play exploring war’s lasting scars",
+      "summary": "Playwright Aïda Asgharzadeh's latest work, The Last Cedar of Lebanon, examines how war and geopolitical upheaval affect individuals across generations. The play follows her earlier acclaimed production Persian Dolls, which explored dissidence and exile between Iran and France.",
+      "url": "https://www.france24.com/en/tv-shows/arts24/20260411-the-last-cedar-of-lebanon-a-play-exploring-war-s-lasting-scars",
+      "published": "2026-04-11T17:01:51+00:00",
+      "source": "France 24",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "US and Iran hold talks in Islamabad as Pakistan seeks to broker peace deal",
+      "summary": "Senior U.S. and Iranian officials held direct face-to-face peace talks in Islamabad on April 11, mediated by Pakistan, marking the highest-level meeting between the two countries since 1979. U.S. Vice President JD Vance led the American delegation, while Iran's parliamentary speaker headed the Iranian side.",
+      "url": "https://www.theguardian.com/world/2026/apr/11/us-iran-talks-peace-deal-islamabad-pakistan",
+      "published": "2026-04-11T16:59:23+00:00",
+      "source": "The Guardian",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "Kuwait reports no threats in airspace in past 24 hours",
+      "summary": "Kuwait's Centre for Government Communication reported no airspace threats in the past 24 hours as US-Iran peace talks continued in Islamabad. Earlier in the week, Kuwait reported Iranian attacks that damaged power, desalination, and oil facilities.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-reports-no-threats-airspace-past-24-hours",
+      "published": "2026-04-11T16:56:24+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Iran moves to impose Strait of Hormuz fees under new law",
+      "summary": "Iran's parliament advanced a new law to impose transit fees in rials on ships passing through the Strait of Hormuz. US President Trump warned against the move.",
+      "url": "https://www.newarab.com/news/iran-moves-impose-strait-hormuz-fees-under-new-law",
+      "published": "2026-04-11T16:49:59+01:00",
+      "source": "The New Arab",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "What are the main talking points at the US-Iran negotiations in Pakistan?",
       "summary": "Key issues at the US-Iran negotiations in Pakistan include Iran's demand for a ceasefire in Lebanon, where Israeli attacks have killed nearly 2,000 people. The talks in Islamabad aim to address broader regional conflict dynamics beyond the direct US-Iran war.",
       "url": "https://www.straitstimes.com/world/united-states/what-are-the-main-talking-points-at-the-us-iran-negotiations-in-pakistan",
@@ -193,6 +715,78 @@
       "source": "Straits Times",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "At 78, is Israel really an independent state? - opinion",
+      "summary": "An opinion piece questioned Israel's independence at age 78, reflecting on the experience of spending Passover in bomb shelters and debating the meaning of freedom under such conditions.",
+      "url": "https://www.jpost.com/opinion/article-892539",
+      "published": "2026-04-11T16:48:34+00:00",
+      "source": "Jerusalem Post",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Iranian president says delegation ‘a staunch guardian of Iran’s interests’",
+      "summary": "Iranian President Masoud Pezeshkian expressed support for Iran's negotiating delegation in Islamabad, stating they would defend national interests with courage. He pledged that regardless of the outcome, his government would continue serving the Iranian people.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-delegation-staunch-guardian-irans-interests-says-iran-pm",
+      "published": "2026-04-11T16:44:43+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Fire engulfs Russia’s strategic rear: Ukraine hit fuel, ammo, and drone command all in one night",
+      "summary": "Ukrainian forces struck Russian fuel depots, ammunition stores, and a drone command center in a single overnight operation. The attacks were aimed at degrading frontline coordination and disrupting Russian logistics networks.",
+      "url": "https://euromaidanpress.com/2026/04/11/fire-engulfs-russias-strategic-rear-ukraine-hit-fuel-ammo-and-drone-command-all-in-one-night/",
+      "published": "2026-04-11T16:41:22+00:00",
+      "source": "Euromaidan Press",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "A shattered covenant: Israel’s lone soldiers and the broken promise of care",
+      "summary": "An article examined the case of Joshua Boone, a lone soldier who served 748 days in the Gaza war, raising questions about whether Israel fulfilled its duty of care to soldiers who served on its behalf.",
+      "url": "https://www.jpost.com/israel-news/article-892514",
+      "published": "2026-04-11T16:38:35+00:00",
+      "source": "Jerusalem Post",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "US state department revokes green cards of three Iranian nationals it links to regime",
+      "summary": "The U.S. State Department revoked the green cards of three Iranian nationals with family ties to Iranian military and regime officials. Federal agents arrested the three, including the son of an Iranian revolutionary linked to the 1979 hostage crisis.",
+      "url": "https://www.theguardian.com/us-news/2026/apr/11/state-department-revokes-green-cards-iran-arrests",
+      "published": "2026-04-11T16:37:22+00:00",
+      "source": "The Guardian",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "US and Iran hold direct talks in Pakistan to end war",
+      "summary": "Senior US and Iranian officials met in Islamabad for the highest-level direct talks between the two nations in 50 years. Vice President JD Vance, Steve Witkoff, and Jared Kushner met with Iranian parliamentary speaker Mohammad Bagher Ghalibaf and Foreign Minister Abbas Araghchi, with Pakistan's army chief present.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-and-iran-hold-direct-talks-pakistan-end-war",
+      "published": "2026-04-11T16:35:14+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Witkoff and Kushner join Vance for first in-person talks with Iran",
+      "summary": "Vice President JD Vance, envoy Steve Witkoff, and Jared Kushner represented the US in face-to-face peace talks with Iran in Islamabad, the first such meeting since the 1979 Islamic Revolution. The three-way negotiations included Pakistan and aimed to end the six-week war.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/witkoff-and-kushner-join-vance-first-person-talks-iran",
+      "published": "2026-04-11T16:30:51+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "IDF and Hezbollah trade strikes, rockets as Israel and Lebanon gear up for direct talks",
+      "summary": "The Israeli military reported striking over 200 targets in Lebanon in a single day, with two soldiers wounded in south Lebanon combat. Hezbollah launched rockets and drones in response, as 10 Lebanese were reported killed. Both Israel and Lebanon were preparing for direct talks.",
+      "url": "https://www.timesofisrael.com/idf-and-hezbollah-trade-strikes-rockets-as-israel-and-lebanon-gear-up-for-direct-talks/",
+      "published": "2026-04-11T16:28:11+00:00",
+      "source": "Times of Israel",
+      "region": "Middle East",
+      "region_key": "middle-east"
     },
     {
       "title": "In new war with Israel, Hezbollah defies notion that it was crippled",
@@ -231,6 +825,15 @@
       "region_key": "asia"
     },
     {
+      "title": "Russia-Ukraine Orthodox Easter ceasefire begins",
+      "summary": "Russia and Ukraine agreed to observe a temporary ceasefire for Orthodox Easter. The truce took effect as US-led diplomatic efforts to negotiate a lasting end to the war remained stalled.",
+      "url": "https://www.aljazeera.com/news/2026/4/11/russia-ukraine-orthodox-easter-ceasefire-begins?traffic_source=rss",
+      "published": "2026-04-11T16:09:51+00:00",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "Lubinets reports on health condition of Ukrainians released from Russian captivity",
       "summary": "Ukraine's human rights ombudsman Dmytro Lubinets reported on the health of seven Ukrainian men released from Russian captivity. The men had been abducted by Russian forces in 2022 from the Kharkiv, Kyiv, Kherson, and Donetsk regions.",
       "url": "https://www.ukrinform.net/rubric-society/4111500-lubinets-reports-on-health-condition-of-ukrainians-released-from-russian-captivity.html",
@@ -247,6 +850,15 @@
       "source": "Straits Times",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "US military begins clearing Strait of Hormuz, Trump says",
+      "summary": "President Trump announced that the U.S. military has begun clearing the Strait of Hormuz. Reports on Saturday confirmed the presence of U.S. Navy ships operating in the strait.",
+      "url": "https://www.defensenews.com/news/pentagon-congress/2026/04/11/us-military-begins-clearing-strait-of-hormuz-trump-says/",
+      "published": "2026-04-11T15:59:52+00:00",
+      "source": "Defense News",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "Iran's new Supreme Leader has severe and disfiguring wounds, sources say",
@@ -267,6 +879,15 @@
       "region_key": "middle-east"
     },
     {
+      "title": "Machete-wielding man killed by police in New York’s Grand Central station",
+      "summary": "A man armed with a machete attacked passengers at New York's Grand Central station, wounding three elderly victims. Police fatally shot the attacker, and authorities said they were continuing to investigate the incident.",
+      "url": "https://www.aljazeera.com/news/2026/4/11/machete-wielding-man-shot-by-police-in-new-york-city-grand-central-station?traffic_source=rss",
+      "published": "2026-04-11T15:51:07+00:00",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "U.K. pauses its plan to cede Chagos Islands after U.S. opposition",
       "summary": "The United Kingdom has paused its plan to hand over the Chagos Islands following US opposition. Under the existing deal, Britain would retain control of the strategically important Diego Garcia military base on a 99-year lease preserving US operations there.",
       "url": "https://www.thehindu.com/news/international/uk-pauses-its-plan-to-cede-chagos-islands-after-us-opposition/article70850520.ece",
@@ -283,6 +904,15 @@
       "source": "Dawn",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "Russia and Ukraine trade strikes before temporary ceasefire",
+      "summary": "Russia and Ukraine exchanged strikes before a temporary Orthodox Easter ceasefire that began on Saturday. The Kremlin ordered a 32-hour truce starting at 4 PM Moscow time, one week after Ukrainian President Volodymyr Zelensky proposed a holiday halt to hostilities.",
+      "url": "https://www.france24.com/en/russia-and-ukraine-trade-strikes-before-temporary-ceasefire",
+      "published": "2026-04-11T15:43:16+00:00",
+      "source": "France 24",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "Russians attack minibus and car with drones in Kherson, casualties reported",
@@ -312,6 +942,24 @@
       "region_key": "middle-east"
     },
     {
+      "title": "Israel army says hit over 200 Hezbollah targets in last 24 hours",
+      "summary": "The Israeli military reported striking over 200 Hezbollah targets in southern Lebanon within 24 hours, sending smoke over border villages. The strikes coincided with the start of U.S.-Iran peace talks, though Tehran stated it would not negotiate until Israel stops its bombing campaign in Lebanon.",
+      "url": "https://www.france24.com/en/israel-army-says-hit-over-200-hezbollah-targets-in-last-24-hours",
+      "published": "2026-04-11T15:32:15+00:00",
+      "source": "France 24",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "Iran, US top officials meet face-to-face",
+      "summary": "Senior U.S. and Iranian officials met face-to-face in Pakistan on Saturday for direct negotiations. The talks came days after a fragile two-week ceasefire was announced, as the conflict—now in its seventh week—has killed thousands and disrupted global markets.",
+      "url": "https://www.france24.com/en/iran-us-top-officials-meet-face-to-face",
+      "published": "2026-04-11T15:20:41+00:00",
+      "source": "France 24",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
       "title": "Explosion incident near Serbian gas pipeline shows signs of Russian provocation – military expert",
       "summary": "An explosion incident near the Balkan Stream gas pipeline in Serbia is suspected to be a Russian intelligence provocation ahead of Hungary's election. Military experts noted the amount of explosives found would have been insufficient to disable the pipeline, which carries Russian gas to Serbia and Hungary.",
       "url": "https://www.ukrinform.net/rubric-polytics/4111488-explosion-incident-near-serbian-gas-pipeline-shows-signs-of-russian-provocation-military-expert.html",
@@ -319,6 +967,24 @@
       "source": "Ukrinform",
       "region": "Europe",
       "region_key": "europe"
+    },
+    {
+      "title": "Iran pays tribute to schoolchildren victims at truce talks",
+      "summary": "The Iranian delegation at the Islamabad truce talks paid tribute to dozens of schoolchildren killed in a US bombing of a school in the town of Minab.",
+      "url": "https://www.newarab.com/news/iran-pays-tribute-schoolchildren-victims-truce-talks",
+      "published": "2026-04-11T15:18:31+01:00",
+      "source": "The New Arab",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Three wounded in stabbing attack at New York’s Grand Central subway station",
+      "summary": "A man stabbed three people on a subway platform at New York City's Grand Central station before being shot by police. The three victims were hospitalized in stable condition, while the suspect was reported in critical condition.",
+      "url": "https://www.theguardian.com/us-news/2026/apr/11/shooting-stabbing-new-york-grand-central-station",
+      "published": "2026-04-11T15:17:39+00:00",
+      "source": "The Guardian",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "Russia and Ukraine Swap Hundreds of Prisoners Ahead of Easter Truce",
@@ -330,6 +996,15 @@
       "region_key": "europe"
     },
     {
+      "title": "Israel says it attacked more than 200 sites in Lebanon",
+      "summary": "The Israeli military said it struck more than 200 Hezbollah sites in Lebanon over 24 hours and vowed to continue targeting Hezbollah infrastructure in the south. The Lebanese health ministry reported 10 people killed, including three emergency workers in Nabatieh.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-it-attacked-more-200-sites-lebanon",
+      "published": "2026-04-11T15:12:35+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "Vance joins Iranians in Islamabad for peace talks overshadowed by mutual mistrust",
       "summary": "US Vice President JD Vance joined Iranian officials in Islamabad for peace talks marked by deep mutual mistrust. The two sides remain far apart on key issues, including the status of the Strait of Hormuz.",
       "url": "https://www.straitstimes.com/world/middle-east/vance-joins-iranians-in-islamabad-for-peace-talks-overshadowed-by-mutual-mistrust",
@@ -337,6 +1012,15 @@
       "source": "Straits Times",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "In Ethiopia, fuel prices overshadow this year's Easter celebrations",
+      "summary": "Millions of Ethiopians marked Good Friday in Addis Ababa amid chronic fuel shortages and rising commodity costs linked to the Middle East crisis.",
+      "url": "http://www.africanews.com/2026/04/11/in-ethiopia-fuel-prices-overshadow-this-years-easter-celebrations/",
+      "published": "2026-04-11T15:08:49+00:00",
+      "source": "Africanews",
+      "region": "Africa",
+      "region_key": "africa"
     },
     {
       "title": "From allies to adversaries: US-Iran relations since 1979",
@@ -348,6 +1032,33 @@
       "region_key": "asia"
     },
     {
+      "title": "CNN: China preparing to supply weapons to Iran, US says",
+      "summary": "US intelligence indicated that China was preparing to supply air defence systems to Iran, potentially through third countries, according to CNN. The reports emerged as high-stakes US-Iran negotiations were underway in Islamabad.",
+      "url": "https://www.newarab.com/news/cnn-china-preparing-supply-weapons-iran-us-says",
+      "published": "2026-04-11T15:05:32+01:00",
+      "source": "The New Arab",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Hungry Fury ‘light and lean’ for heavyweight comeback fight with Makhmudov",
+      "summary": "Tyson Fury weighed in lighter than his previous bout for his heavyweight comeback fight against Arslanbek Makhmudov, though he still came in three pounds heavier than his opponent.",
+      "url": "https://www.aljazeera.com/sports/2026/4/11/hungry-fury-light-and-lean-for-heavyweight-comeback-fight-with-makhmudov?traffic_source=rss",
+      "published": "2026-04-11T15:04:46+00:00",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Christians return to Jerusalem’s Holy Sepulchre as Israel eases restriction",
+      "summary": "Orthodox Christians celebrated the Holy Fire ceremony at the Church of the Holy Sepulchre in Jerusalem after Israel eased access restrictions. The event marked a return of worshippers to the site for Easter observances.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/christians-return-to-jerusalems-holy-sepulchre-as-israel-eases-restriction?traffic_source=rss",
+      "published": "2026-04-11T15:04:39+00:00",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "Suspect arrested after Molotov cocktail attack at OpenAI CEO Sam Altman’s home",
       "summary": "San Francisco police arrested a 20-year-old suspect for allegedly throwing a Molotov cocktail at OpenAI CEO Sam Altman's home in the North Beach neighborhood and making threats near the company's headquarters. The incendiary device was thrown at approximately 4:12 AM, and the suspect was detained about an hour later.",
       "url": "https://www.dawn.com/news/1990779/suspect-arrested-after-molotov-cocktail-attack-at-openai-ceo-sam-altmans-home",
@@ -355,6 +1066,15 @@
       "source": "Dawn",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "300 convictions: Nigeria sees mass trial for terrorism suspects",
+      "summary": "A court in Abuja, Nigeria, convicted more than 300 terrorism suspects over a four-day mass trial.",
+      "url": "http://www.africanews.com/2026/04/11/300-convictions-nigeria-sees-mass-trial-for-terrorism-suspects/",
+      "published": "2026-04-11T15:00:55+00:00",
+      "source": "Africanews",
+      "region": "Africa",
+      "region_key": "africa"
     },
     {
       "title": "Aurangzeb departs for US to participate in IMF-WB meetings",
@@ -375,6 +1095,15 @@
       "region_key": "europe"
     },
     {
+      "title": "Shin Bet chief said to downplay Jewish terrorism in West Bank as ‘friction’",
+      "summary": "Israel's Shin Bet chief reportedly downplayed settler violence against Palestinians in the West Bank, characterizing it as friction rather than terrorism. The unit tasked with countering such attacks was said to be in crisis, with former security officials calling for urgent action.",
+      "url": "https://www.timesofisrael.com/shin-bet-chief-said-to-downplay-jewish-terrorism-in-west-bank-as-friction/",
+      "published": "2026-04-11T14:58:12+00:00",
+      "source": "Times of Israel",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "Trump says 'sea mines' in Strait of Hormuz are remaining Iranian threat",
       "summary": "US President Donald Trump stated that Iran's remaining threat consists of sea mines in the Strait of Hormuz. Trump announced the US would begin clearing the strait, criticizing other nations including China, Japan, South Korea, France, and Germany for not undertaking the effort themselves.",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-sea-mines-strait-hormuz-are-remaining-iranian-threat",
@@ -384,6 +1113,24 @@
       "region_key": "middle-east"
     },
     {
+      "title": "Fish and vegetarianism major flashpoints in India’s West Bengal election",
+      "summary": "In India's West Bengal state, fish and vegetarianism have become major campaign issues ahead of elections on April 23 and 29. Fish holds deep cultural significance for Bengalis, and the debate has turned the dietary staple into a political flashpoint.",
+      "url": "https://www.scmp.com/news/asia/south-asia/article/3349759/fish-and-vegetarianism-major-flashpoints-indias-west-bengal-election?utm_source=rss_feed",
+      "published": "2026-04-11T14:55:41+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Russian Memorial human rights NGO labeled 'extremist'",
+      "summary": "Russia's Supreme Court designated the human rights organization Memorial as \"extremist,\" a move experts describe as a new level of domestic repression.",
+      "url": "https://www.dw.com/en/russian-memorial-human-rights-ngo-labeled-extremist/a-76748467?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-04-11T14:55:00+00:00",
+      "source": "DW",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
       "title": "Israel blows up building in Tulkarm as settler rampage continues",
       "summary": "Israeli forces demolished a building in the Tulkarm refugee camp in the occupied West Bank. The operation occurred amid an escalation of settler attacks across the West Bank, with arrests and injuries reported.",
       "url": "https://www.newarab.com/news/israel-blows-building-tulkarm-settler-rampage-continues",
@@ -391,6 +1138,33 @@
       "source": "The New Arab",
       "region": "Middle East",
       "region_key": "middle-east"
+    },
+    {
+      "title": "Nearly 400 sentenced in Nigeria for links to militant Islamists",
+      "summary": "Courts in Nigeria sentenced nearly 400 individuals with links to militant Islamist groups, handing down penalties ranging from five years to life imprisonment in mass trials.",
+      "url": "https://www.bbc.com/news/articles/cvge1kdmpzwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-04-11T14:41:31+00:00",
+      "source": "BBC",
+      "region": "Africa",
+      "region_key": "africa"
+    },
+    {
+      "title": "US-Iran ceasefire: Can pressure, incentives, and risks deliver a final deal",
+      "summary": "US-Iran ceasefire negotiations continued amid questions about whether pressure and incentives could produce a final deal. Factors including Vice President Vance's team, US midterm politics, energy market risks, and Tehran's pursuit of sanctions relief shaped the talks.",
+      "url": "https://www.aljazeera.com/video/this-is-america/2026/4/11/us-iran-ceasefire-can-pressure-incentives-and-risks-deliver-a-final-deal?traffic_source=rss",
+      "published": "2026-04-11T14:39:38+00:00",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Ukrainian civilians abducted, tortured in Russian prisons",
+      "summary": "Russia has held thousands of Ukrainian civilians in detention for years in violation of international humanitarian law. Families have sought their release, some for more than a decade.",
+      "url": "https://www.dw.com/en/ukrainian-civilians-abducted-tortured-in-russian-prisons/a-76742350?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-04-11T14:33:00+00:00",
+      "source": "DW",
+      "region": "Europe",
+      "region_key": "europe"
     },
     {
       "title": "US and Iranian delegations holding direct talks in same room",
@@ -420,6 +1194,15 @@
       "region_key": "europe"
     },
     {
+      "title": "Lebanon mourns security forces killed in Israeli strike",
+      "summary": "Lebanon held funeral ceremonies for 13 members of its State Security agency who were killed in an Israeli strike. The event drew public mourning across the country.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/lebanon-mourns-security-forces-killed-in-israeli-strike?traffic_source=rss",
+      "published": "2026-04-11T14:17:16+00:00",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "Syria says busts cell planning attack on 'religious figure'",
       "summary": "Syrian authorities announced the arrest of five suspects accused of plotting a bomb attack against a religious figure in Damascus. Officials alleged the cell had links to Hezbollah and that the suspects had received military training abroad.",
       "url": "https://www.newarab.com/news/syria-says-busts-cell-planning-attack-religious-figure",
@@ -447,6 +1230,15 @@
       "region_key": "asia"
     },
     {
+      "title": "Hungary votes Sunday: what could change if Viktor Orbán loses to Péter Magyar—and what may not",
+      "summary": "Hungary held national elections on April 12, with voters choosing between Prime Minister Viktor Orbán's 16-year incumbency and challenger Péter Magyar. Magyar's own record on Ukraine remained ambiguous despite his opposition positioning.",
+      "url": "https://euromaidanpress.com/2026/04/11/hungary-election-2026-orban-magyar-ukraine/",
+      "published": "2026-04-11T14:09:34+00:00",
+      "source": "Euromaidan Press",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
       "title": "Iran’s new Supreme Leader Mojtaba Khamenei has severe and disfiguring wounds, sources say",
       "summary": "Mojtaba Khamenei, who succeeded his father as Iran's Supreme Leader, reportedly sustained severe facial and leg injuries in the February 28 air strike that killed former Supreme Leader Ali Khamenei.",
       "url": "https://www.straitstimes.com/world/middle-east/irans-new-supreme-leader-has-severe-and-disfiguring-wounds-sources-say",
@@ -472,6 +1264,15 @@
       "source": "Middle East Eye",
       "region": "Middle East",
       "region_key": "middle-east"
+    },
+    {
+      "title": "Why the Nato alliance is not as likely to dissolve as Trump makes it seem",
+      "summary": "An analysis argues that the NATO alliance is more resilient than U.S. President Trump's rhetoric suggests, noting that mutual strategic dependencies between the United States and Europe sustain the partnership despite political tensions.",
+      "url": "https://www.theguardian.com/world/2026/apr/11/nato-alliance-trump-threats",
+      "published": "2026-04-11T14:00:49+00:00",
+      "source": "The Guardian",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "Chinese crystal ‘paves way’ for GPS-free thorium clock navigation",
@@ -1460,6 +2261,15 @@
       "url": "https://www.jpost.com/middle-east/iran-news/article-892623",
       "published": "2026-04-11T09:26:42+00:00",
       "source": "Jerusalem Post",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "US and Iran hold highest-level talks in decades in Pakistan",
+      "summary": "US and Iranian officials held face-to-face talks in Pakistan, marking the most significant diplomatic engagement between the two countries since the 1979 Islamic Revolution.",
+      "url": "https://www.newarab.com/news/us-and-iran-hold-highest-level-talks-decades-pakistan",
+      "published": "2026-04-11T09:22:39+01:00",
+      "source": "The New Arab",
       "region": "Middle East",
       "region_key": "middle-east"
     },
@@ -7432,6 +8242,15 @@
     },
     {
       "title": "The Future Soldier Loadout: Smarter Gear or Dead Weight?",
+      "summary": "A podcast episode featuring three former U.S. military servicemembers turned industry leaders examines the future of soldier equipment and technology. The discussion focuses on next-generation systems that integrate human and machine capabilities and the constraints shaping their development over the next decade.",
+      "url": "https://warontherocks.com/the-future-soldier-loadout-smarter-gear-or-dead-weight/",
+      "published": "2026-04-10T08:00:45+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "The Future Soldier Loadout: Smarter Gear or Dead Weight?",
       "summary": "A discussion featuring three former U.S. servicemembers turned industry leaders examined how next-generation soldier equipment may evolve over the next decade. The conversation focused on emerging technologies that blur the line between human and machine on the battlefield and the constraints shaping their development.",
       "url": "https://warontherocks.com/2026/04/the-future-soldier-loadout-smarter-gear-or-dead-weight/",
       "published": "2026-04-10T08:00:45+00:00",
@@ -7594,6 +8413,15 @@
     },
     {
       "title": "Disperse to Survive: The Logic of French Forward Deterrence",
+      "summary": "French President Emmanuel Macron delivered a nuclear deterrence speech outlining a new doctrine of \"forward deterrence.\" For the first time, he offered to deploy French Strategic Air Forces to other European countries, proposing to disperse nuclear-capable assets across the continent similarly to how strategic submarines operate in the oceans.",
+      "url": "https://warontherocks.com/disperse-to-survive-the-logic-of-french-forward-deterrence/",
+      "published": "2026-04-10T07:30:43+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "Disperse to Survive: The Logic of French Forward Deterrence",
       "summary": "French President Emmanuel Macron delivered a nuclear deterrence speech outlining a new doctrine of \"forward deterrence,\" offering for the first time to deploy French Strategic Air Forces to allied European countries. The proposal aims to disperse French nuclear capabilities across the continent as a survival and deterrence strategy.",
       "url": "https://warontherocks.com/2026/04/disperse-to-survive-the-logic-of-french-forward-deterrence/",
       "published": "2026-04-10T07:30:43+00:00",
@@ -7672,6 +8500,15 @@
       "source": "Euromaidan Press",
       "region": "Europe",
       "region_key": "europe"
+    },
+    {
+      "title": "Iran’s Other Front: The War Over the Internet",
+      "summary": "Following Israeli and American strikes on Iranian military installations, Iran's government deliberately shut down nearly all domestic internet access, causing a 98 percent collapse in traffic. The blackout reflected Tehran's long-standing approach of treating free internet access as a state-controlled privilege.",
+      "url": "https://warontherocks.com/irans-other-front-the-war-over-the-internet/",
+      "published": "2026-04-10T07:15:40+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "Iran’s Other Front: The War Over the Internet",
@@ -9688,6 +10525,15 @@
       "source": "Dawn",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "Update from the Battlefield: Drones, Distance, and Diminishing Returns for Russia",
+      "summary": "Analyst Michael Kofman discusses the current state of the Russia-Ukraine war following a recent frontline visit. The conversation covers how drone warfare has created a dispersed kill zone, why Russian infiltration tactics have yielded limited gains, and how the war in Iran is beginning to influence the conflict.",
+      "url": "https://warontherocks.com/update-from-the-battlefield-drones-distance-and-diminishing-returns-for-russia/",
+      "published": "2026-04-09T20:43:25+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "Update from the Battlefield: Drones, Distance, and Diminishing Returns for Russia",
@@ -14452,6 +15298,15 @@
     },
     {
       "title": "What is Strategic Rivalry? Why Should We Care?",
+      "summary": "An analysis argues that the United States' key strategy documents since the 2017 National Security Strategy have used terms like \"great power competition\" without adequately addressing the concept of strategic rivalry. The piece notes that interstate rivals have caused roughly 80 percent of history's wars, with rivalries having only a coin-toss chance of ending peacefully.",
+      "url": "https://warontherocks.com/what-is-strategic-rivalry-why-should-we-care/",
+      "published": "2026-04-09T07:30:49+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "What is Strategic Rivalry? Why Should We Care?",
       "summary": "The article examines the concept of strategic rivalry and its relevance to US national security, noting that interstate rivals have caused approximately 80 percent of historical wars. It critiques US strategy documents since 2017 for using vague terms like great power competition without fully addressing the dynamics of rivalry.",
       "url": "https://warontherocks.com/2026/04/what-is-strategic-rivalry-why-should-we-care/",
       "published": "2026-04-09T07:30:49+00:00",
@@ -14503,6 +15358,15 @@
       "source": "Straits Times",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "Iran’s Asymmetric Counterair Campaign: Attacking the U.S. Air Force’s Nests and Eggs",
+      "summary": "On March 27, Iranian drones and missiles struck Prince Sultan Air Base in Saudi Arabia, destroying a U.S. E-3 Sentry airborne command aircraft and damaging multiple KC-135 tankers. An earlier Iranian attack that month had already damaged five KC-135s at the same base, marking unprecedented hits against these aircraft types.",
+      "url": "https://warontherocks.com/irans-asymmetric-counterair-campaign-attacking-the-u-s-air-forces-nests-and-eggs/",
+      "published": "2026-04-09T07:15:20+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "Iran’s Asymmetric Counterair Campaign: Attacking the U.S. Air Force’s Nests and Eggs",
@@ -17680,6 +18544,15 @@
       "source": "Straits Times",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "How NATO’s Air Defense Future Is Unfolding",
+      "summary": "Analyst Shaan Shaikh revisits his 2024 framework outlining three potential directions for NATO air and missile defense development. The reassessment comes amid ongoing alliance tensions and active conflicts in Ukraine and the Middle East that have reshaped the defense landscape since his original analysis.",
+      "url": "https://warontherocks.com/how-natos-air-defense-future-is-unfolding/",
+      "published": "2026-04-08T17:30:01+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "How NATO’s Air Defense Future is Unfolding",
@@ -21391,6 +22264,15 @@
     },
     {
       "title": "How This Precision Weapon Reengineered Modern War",
+      "summary": "Journalist Jeffrey E. Stern discusses his new book, The Warhead, which details the development of the Paveway precision-guided bomb. The work examines the weapon's history, its role in air campaigns, and the relationship between government, science, and the defense industry.",
+      "url": "https://warontherocks.com/how-this-precision-weapon-reengineered-modern-war/",
+      "published": "2026-04-08T08:00:44+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "How This Precision Weapon Reengineered Modern War",
       "summary": "Jeffrey E. Stern discussed his new book about the development of Paveway, the precision-guided bomb, in an interview with Cogs of War. The book examines the weapon's history, its role in modern air campaigns, and the relationship between government, science, and the defense industry.",
       "url": "https://warontherocks.com/2026/04/how-this-precision-weapon-reengineered-modern-war/",
       "published": "2026-04-08T08:00:44+00:00",
@@ -21514,6 +22396,15 @@
       "source": "Dawn",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "The Campaign Ends at the Breach: Lessons from Ukraine on Why Armies Fail",
+      "summary": "An analysis examines how the failure of Ukrainian breaching operations near Novodarivka in June 2023 illustrates a critical lesson about offensive warfare against prepared defenses. Although 12 brigades with ammunition and fuel were staged, engineers could not open lanes through Russian defenses, preventing the planned drive toward Tokmak.",
+      "url": "https://warontherocks.com/the-campaign-ends-at-the-breach-lessons-from-ukraine-on-why-armies-fail/",
+      "published": "2026-04-08T07:30:34+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "The Campaign Ends at the Breach: Lessons from Ukraine on Why Armies Fail",
@@ -24538,6 +25429,15 @@
       "source": "Al Jazeera",
       "region": "Middle East",
       "region_key": "middle-east"
+    },
+    {
+      "title": "The Iran War’s Widening Impacts in the Middle East and North Africa",
+      "summary": "The ongoing war with Iran is generating ripple effects across the Middle East and North Africa, with Gulf Arab states, Iraq, and Jordan suffering direct attacks from Iran. Israel has intensified bombing in Lebanon and expanded its ground invasion in the south in response to Hezbollah attacks, while broader regional impacts continue to spread.",
+      "url": "https://warontherocks.com/in-brief-the-iran-wars-widening-impacts-in-the-middle-east-and-north-africa/",
+      "published": "2026-04-07T18:09:43+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "The Iran War’s Widening Impacts in the Middle East and North Africa",
@@ -28294,6 +29194,15 @@
     },
     {
       "title": "The Hidden System Turning Chinese Tech Companies into Military Suppliers",
+      "summary": "Chinese robotics firm Unitree Robotics, which signed a 2022 pledge alongside Boston Dynamics not to weaponize robots, held over 60 percent of the global quadruped robot market by 2023. An investigation examines a hidden system that has turned Chinese technology companies into military suppliers despite public commitments otherwise.",
+      "url": "https://warontherocks.com/the-hidden-system-turning-chinese-tech-companies-into-military-suppliers/",
+      "published": "2026-04-07T08:00:02+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "The Hidden System Turning Chinese Tech Companies into Military Suppliers",
       "summary": "Chinese robotics firm Unitree, which signed a 2022 pledge not to weaponize its machines, holds over 60 percent of the global quadruped robot market. An investigation highlights hidden systems that channel Chinese tech companies into military supply roles.",
       "url": "https://warontherocks.com/2026/04/the-hidden-system-turning-chinese-tech-companies-into-military-suppliers/",
       "published": "2026-04-07T08:00:02+00:00",
@@ -28483,6 +29392,15 @@
     },
     {
       "title": "Closing the Air and Missile Defense Gap in the Indo-Pacific",
+      "summary": "During a 12-day war between Iran, Israel, and the United States, the U.S. military expended 100 to 150 upper-tier missile interceptors—approximately 25 percent of its total stockpile. The analysis highlights growing air and missile defense gaps in the Indo-Pacific as assets are consumed in Middle East operations.",
+      "url": "https://warontherocks.com/closing-the-air-and-missile-defense-gap-in-the-indo-pacific/",
+      "published": "2026-04-07T07:30:22+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "Closing the Air and Missile Defense Gap in the Indo-Pacific",
       "summary": "During last summer's 12-day war involving Iran, Israel, and the United States, the U.S. military expended approximately 100 to 150 upper-tier missile interceptors — about 25 percent of its total stockpile. The experience has highlighted significant air and missile defense gaps that need to be addressed in the Indo-Pacific theater.",
       "url": "https://warontherocks.com/2026/04/closing-the-air-and-missile-defense-gap-in-the-indo-pacific/",
       "published": "2026-04-07T07:30:22+00:00",
@@ -28552,6 +29470,15 @@
       "source": "Ukrinform",
       "region": "Europe",
       "region_key": "europe"
+    },
+    {
+      "title": "Iran’s Anti-Access and Area Denial Strategy Is Cruder Than China’s But Still Dangerous",
+      "summary": "An analysis examines Iran's anti-access and area-denial strategy in the Persian Gulf, including its effective closure of shipping routes and continued Houthi missile threats. The piece argues that these capabilities pose serious challenges to U.S. forces, including a Marine expeditionary unit considering entry into the Gulf.",
+      "url": "https://warontherocks.com/irans-anti-access-and-area-denial-strategy-is-cruder-than-chinas-but-still-dangerous/",
+      "published": "2026-04-07T07:15:10+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "Iran’s Anti-Access and Area Denial Strategy Is Cruder Than China’s But Still Dangerous",
@@ -30994,6 +31921,15 @@
     },
     {
       "title": "Reopening the Strait of Hormuz & Saving Downed Pilots",
+      "summary": "Retired U.S. Admirals Jamie Foggo and John Miller discuss the military challenge of reopening the Strait of Hormuz after Iran throttled the critical waterway. The conversation covers mines, drones, missiles, escort operations, and a potential Marine expeditionary unit raid on Iran's Kharg Island.",
+      "url": "https://warontherocks.com/reopening-the-strait-of-hormuz-saving-downed-pilots/",
+      "published": "2026-04-06T18:12:05+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "Reopening the Strait of Hormuz & Saving Downed Pilots",
       "summary": "Two retired U.S. admirals, Admiral Jamie Foggo and Vice Admiral John \"Fozzie\" Miller, discussed the military challenges of reopening the Strait of Hormuz, which Iran has effectively blocked. The conversation covered Iran's use of mines, drones, and missiles, as well as potential U.S. strategies including air strikes and a possible Marine raid on Kharg Island.",
       "url": "https://warontherocks.com/2026/04/reopening-the-strait-of-hormuz-saving-downed-pilots/",
       "published": "2026-04-06T18:12:05+00:00",
@@ -31891,6 +32827,15 @@
       "source": "Euromaidan Press",
       "region": "Europe",
       "region_key": "europe"
+    },
+    {
+      "title": "Are Perceptions the Reality?",
+      "summary": "The Ukraine Compass weekly digest curates Ukrainian media commentary and analysis for War on the Rocks members. The series aims to widen perspectives beyond battlefield coverage by presenting how Ukrainians debate politics, daily life, and public issues during wartime.",
+      "url": "https://warontherocks.com/are-perceptions-the-reality/",
+      "published": "2026-04-06T15:30:46+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "Are Perceptions the Reality?",
@@ -34432,6 +35377,15 @@
     },
     {
       "title": "The Age of Unlearning: How Democracies Lost Their Grip on Strategic Time",
+      "summary": "An analysis argues that U.S. strategic capacity has eroded through bureaucratic cuts and political incentives favoring short-term thinking over long-term planning. The piece cites the temporary elimination of the Pentagon's Office of Net Assessment, a Cold War-era body designed for long-range comparative assessments, as emblematic of this decline.",
+      "url": "https://warontherocks.com/the-age-of-unlearning-how-democracies-lost-their-grip-on-strategic-time/",
+      "published": "2026-04-06T07:30:35+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "The Age of Unlearning: How Democracies Lost Their Grip on Strategic Time",
       "summary": "The article examines how the United States has progressively lost its capacity for long-term strategic thinking due to bureaucratic cuts and political incentives favoring short-term action. The temporary elimination of the Pentagon's Office of Net Assessment is cited as emblematic of this trend.",
       "url": "https://warontherocks.com/2026/04/the-age-of-unlearning-how-democracies-lost-their-grip-on-strategic-time/",
       "published": "2026-04-06T07:30:35+00:00",
@@ -34490,6 +35444,15 @@
       "url": "https://www.france24.com/en/hit-by-both-sides-us-war-on-iran-threatens-iraq-s-careful-strategy-of-multi-alignment",
       "published": "2026-04-06T07:15:58+00:00",
       "source": "France 24",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "Sharpening Signals and Reducing Noise for Better Defense Budgets",
+      "summary": "A policy article in an 11-part series by the Potomac Institute for Policy Studies examines how defense budget debates and economic statecraft should be better integrated into U.S. national security strategy. The piece argues that military power depends on sound economic foundations and budgetary decisions.",
+      "url": "https://warontherocks.com/sharpening-signals-and-reducing-noise-for-better-defense-budgets/",
+      "published": "2026-04-06T07:15:02+00:00",
+      "source": "War on the Rocks",
       "region": "Global",
       "region_key": "all"
     },
@@ -49039,6 +50002,15 @@
     },
     {
       "title": "The Limits of Trump’s Regime Capture Strategy from Venezuela to Cuba",
+      "summary": "The Trump administration reinstated regime change as a U.S. foreign policy tool, reportedly emboldened by the capture of former Venezuelan President Nicolás Maduro in a January 3 raid. An analysis examines the limits of this leadership decapitation strategy as applied from Venezuela to Cuba.",
+      "url": "https://warontherocks.com/the-limits-of-trumps-regime-capture-strategy-from-venezuela-to-cuba/",
+      "published": "2026-04-03T07:30:42+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "The Limits of Trump’s Regime Capture Strategy from Venezuela to Cuba",
       "summary": "The Trump administration has revived regime change as a central tool of U.S. foreign policy, emboldened by the capture of former Venezuelan President Nicolás Maduro in a January 3 raid. The strategy marks a reversal from Trump's earlier campaign rhetoric against military interventionism abroad.",
       "url": "https://warontherocks.com/2026/04/the-limits-of-trumps-regime-capture-strategy-from-venezuela-to-cuba/",
       "published": "2026-04-03T07:30:42+00:00",
@@ -49099,6 +50071,15 @@
       "source": "Middle East Eye",
       "region": "Middle East",
       "region_key": "middle-east"
+    },
+    {
+      "title": "How the War with Iran Ends",
+      "summary": "Three weeks into the joint U.S.-Israeli military operation against Iran, debate centers on whether the conflict will lead to a negotiated settlement, prolonged attrition, or internal collapse of the Islamic Republic. The strikes are degrading Tehran's military capacity, but the war's ultimate outcome remains uncertain.",
+      "url": "https://warontherocks.com/how-the-war-with-iran-ends/",
+      "published": "2026-04-03T07:15:40+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "How the War with Iran Ends",
@@ -51835,6 +52816,15 @@
       "source": "Middle East Eye",
       "region": "Middle East",
       "region_key": "middle-east"
+    },
+    {
+      "title": "The Global Ripple Effect of the War in Iran",
+      "summary": "As the war with Iran enters its second month, the White House claims significant military achievements while pursuing diplomatic efforts. However, Iran retains the ability to strike Israel and Gulf allies and continues to threaten shipping through the Strait of Hormuz.",
+      "url": "https://warontherocks.com/the-global-ripple-effect-of-the-war-in-iran/",
+      "published": "2026-04-02T17:30:56+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "The Global Ripple Effect of the War in Iran",
@@ -55123,6 +56113,15 @@
     },
     {
       "title": "A 250-Year Arsenal of Innovation: A Call for Articles on American Defense Technologies",
+      "summary": "War on the Rocks publication Cogs of War is soliciting articles examining the history of American defense technology innovation ahead of the U.S. 250th anniversary on July 4, 2026. Topics span from David Bushnell's Turtle submarine to GPS and artificial intelligence.",
+      "url": "https://warontherocks.com/a-250-year-arsenal-of-innovation-a-call-for-articles-on-american-defense-technologies/",
+      "published": "2026-04-02T08:00:37+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "A 250-Year Arsenal of Innovation: A Call for Articles on American Defense Technologies",
       "summary": "The publication Cogs of War issued a call for articles examining American defense technologies ahead of the United States' 250th anniversary on July 4, 2026. The project aims to chronicle innovations from early submarine designs through nuclear weapons, GPS, and artificial intelligence.",
       "url": "https://warontherocks.com/2026/04/a-250-year-arsenal-of-innovation-a-call-for-articles-on-american-defense-technologies/",
       "published": "2026-04-02T08:00:37+00:00",
@@ -55276,6 +56275,15 @@
     },
     {
       "title": "From Filament to Firepower: 3D Printing’s Impact on Warfare",
+      "summary": "An analysis highlights how 3D printing and additive manufacturing are transforming weapons production, particularly for non-state actors. Digital files and off-the-shelf parts now enable gun and even ammunition production without traditional smuggling networks or foreign sponsors, with significant implications for conflicts including Ukraine.",
+      "url": "https://warontherocks.com/from-filament-to-firepower-3d-printings-impact-on-warfare/",
+      "published": "2026-04-02T07:30:27+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "From Filament to Firepower: 3D Printing’s Impact on Warfare",
       "summary": "A report highlights how 3D printing and additive manufacturing are transforming weapons production in armed conflicts, particularly among non-state actors. Beyond enabling drone warfare in Ukraine, the technology now allows firearms and even ammunition to be produced using digital files and commercially available parts.",
       "url": "https://warontherocks.com/2026/04/from-filament-to-firepower-3d-printings-impact-on-warfare/",
       "published": "2026-04-02T07:30:27+00:00",
@@ -55336,6 +56344,15 @@
       "source": "Times of Israel",
       "region": "Middle East",
       "region_key": "middle-east"
+    },
+    {
+      "title": "The Iran War and the Energy Lesson We Failed to Learn",
+      "summary": "The U.S.-Israeli war with Iran has caused a global energy shock, with Brent crude oil prices rising 59 percent since Iran's effective closure of the Strait of Hormuz. The strait had carried about one-fifth of the world's oil and liquefied natural gas in early 2025 before the conflict disrupted flows.",
+      "url": "https://warontherocks.com/the-iran-war-and-the-energy-lesson-we-failed-to-learn/",
+      "published": "2026-04-02T07:15:21+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "The Iran War and the Energy Lesson We Failed to Learn",
@@ -58057,6 +59074,15 @@
     },
     {
       "title": "From Theory to Reality: Evaluating the U.S.-Ukrainian Minerals Deal",
+      "summary": "A reassessment of the U.S.-Ukrainian critical minerals investment deal examines whether Washington's strategy ensures Ukrainian control and allied access to Ukraine's mineral resources. The analysis revisits arguments from 2025 advocating for a U.S. plan regarding Ukraine's critical mineral reserves.",
+      "url": "https://warontherocks.com/from-theory-to-reality-evaluating-the-u-s-ukrainian-minerals-deal/",
+      "published": "2026-04-01T17:30:34+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "From Theory to Reality: Evaluating the U.S.-Ukrainian Minerals Deal",
       "summary": "A reassessment of the U.S.-Ukraine critical minerals deal examines how the investment plan established in 2026 compares to recommendations made in a 2025 analysis. The original argument called for a Washington strategy ensuring Ukrainian control and allied access to Ukraine's significant mineral reserves.",
       "url": "https://warontherocks.com/2026/04/from-theory-to-reality-evaluating-the-u-s-ukrainian-minerals-deal/",
       "published": "2026-04-01T17:30:34+00:00",
@@ -59051,6 +60077,15 @@
       "url": "https://breakingdefense.com/2026/04/pentagon-awards-pratt-whitney-6-6-billion-for-f-35-engines/",
       "published": "2026-04-01T14:53:20+00:00",
       "source": "Breaking Defense",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "The Folly of Seizing Kharg Island",
+      "summary": "Five weeks into the U.S.-Israeli war with Iran, Tehran has not capitulated despite significant destruction of its military assets. Iran draws confidence from its control over the Strait of Hormuz, where the Islamic Revolutionary Guard Corps has restricted passage through one of the world's most important energy chokepoints.",
+      "url": "https://warontherocks.com/the-folly-of-seizing-kharg-island/",
+      "published": "2026-04-01T14:53:09+00:00",
+      "source": "War on the Rocks",
       "region": "Global",
       "region_key": "all"
     },
@@ -61405,6 +62440,15 @@
     },
     {
       "title": "China’s AI Is Spreading Fast. Here’s How to Stop the Security Risks",
+      "summary": "Chinese AI models surged from one percent of global AI workloads in late 2024 to 30 percent by end of 2025, with Alibaba's Qwen family reaching over 700 million downloads. An analysis examines security risks posed by the rapid global spread of Chinese open-source AI systems from labs including DeepSeek, Moonshot, and MiniMax.",
+      "url": "https://warontherocks.com/chinas-ai-is-spreading-fast-heres-how-to-stop-the-security-risks/",
+      "published": "2026-04-01T08:00:43+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "China’s AI Is Spreading Fast. Here’s How to Stop the Security Risks",
       "summary": "Chinese AI models surged from one percent of global AI workloads in late 2024 to 30 percent by the end of 2025. Alibaba's Qwen family has exceeded 700 million downloads, becoming the world's largest open-source AI provider, alongside labs such as DeepSeek, Moonshot, and MiniMax.",
       "url": "https://warontherocks.com/2026/04/chinas-ai-is-spreading-fast-heres-how-to-stop-the-security-risks/",
       "published": "2026-04-01T08:00:43+00:00",
@@ -61585,6 +62629,15 @@
     },
     {
       "title": "The Most Important Deterrent That NATO Needs Is Creativity",
+      "summary": "An analysis argues that NATO's most critical need is fostering human creativity and innovative mindsets rather than focusing solely on technology like drones, hypersonic missiles, or AI. The piece contends that innovation is a transferable skill that the alliance must cultivate more rapidly across its defense organizations.",
+      "url": "https://warontherocks.com/the-most-important-deterrent-that-nato-needs-is-creativity-2/",
+      "published": "2026-04-01T07:30:55+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "The Most Important Deterrent That NATO Needs Is Creativity",
       "summary": "An analysis argues that NATO's most critical need is fostering human creativity rather than relying solely on advanced technology like drones, hypersonic missiles, or AI. The article contends that innovation as a transferable skill is undervalued within defence organizations and difficult to scale.",
       "url": "https://warontherocks.com/2026/04/the-most-important-deterrent-that-nato-needs-is-creativity-2/",
       "published": "2026-04-01T07:30:55+00:00",
@@ -61654,6 +62707,15 @@
       "source": "The Hindu",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "The Arsenal as the Battlefield: The War on Iran and the Return of Counter-Industrial Targeting",
+      "summary": "The U.S. war against Iran has reignited debates about counter-industrial targeting strategy and defense industrial capacity. Iran's ability to launch repeated salvos of cheap attack drones previews challenges Washington could face in a potential conflict with China over the proliferation of low-cost precision weapons.",
+      "url": "https://warontherocks.com/the-arsenal-as-the-battlefield-the-war-on-iran-and-the-return-of-counter-industrial-targeting/",
+      "published": "2026-04-01T07:15:06+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "The Arsenal as the Battlefield: The War on Iran and the Return of Counter-Industrial Targeting",
@@ -64723,6 +65785,15 @@
       "source": "Al Jazeera",
       "region": "Middle East",
       "region_key": "middle-east"
+    },
+    {
+      "title": "Holding Water Hostage",
+      "summary": "Attacks on desalination infrastructure in the Persian Gulf region have escalated during the war with Iran that began February 28. Reported incidents include a U.S. strike damaging an Iranian plant on Qeshm Island, an Iranian drone hitting a Bahraini facility, and an attack damaging a power and desalination site in Kuwait on March 30.",
+      "url": "https://warontherocks.com/holding-water-hostage/",
+      "published": "2026-03-31T17:30:25+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "Holding Water Hostage",
@@ -68254,6 +69325,15 @@
     },
     {
       "title": "The U.S. Military Risks Letting Contractors Define How It Sees the Battlefield",
+      "summary": "An analysis warns that the U.S. military risks allowing defense contractors to shape how it perceives and interprets the battlefield. The piece draws parallels to institutional control issues, arguing for greater military oversight of the digital tools and platforms that inform operational decision-making.",
+      "url": "https://warontherocks.com/the-u-s-military-risks-letting-contractors-define-how-it-sees-the-battlefield/",
+      "published": "2026-03-31T08:00:10+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "The U.S. Military Risks Letting Contractors Define How It Sees the Battlefield",
       "summary": "An analysis warns that the U.S. military risks allowing private contractors to shape how it perceives and interprets the battlefield. The piece draws parallels to the 1964 film Dr. Strangelove to illustrate dangers of delegating critical decision-making authority away from proper command structures.",
       "url": "https://warontherocks.com/2026/03/the-u-s-military-risks-letting-contractors-define-how-it-sees-the-battlefield/",
       "published": "2026-03-31T08:00:10+00:00",
@@ -68389,6 +69469,15 @@
     },
     {
       "title": "The Trump Administration Had No Plan for the War with Iran",
+      "summary": "A U.S. legislator with Marine infantry experience in Iraq's Anbar province argues against the war with Iran, contending that the Trump administration entered the conflict without an adequate plan. The piece is part of a War on the Rocks series featuring opposing viewpoints from legislators with military backgrounds.",
+      "url": "https://warontherocks.com/the-trump-administration-had-no-plan-for-the-war-with-iran/",
+      "published": "2026-03-31T07:30:08+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "The Trump Administration Had No Plan for the War with Iran",
       "summary": "A War on the Rocks article by a legislator with military experience argues against the U.S. war with Iran, drawing on the author's service as a Marine infantryman in Anbar province, Iraq, 21 years ago. The piece contends the Trump administration entered the conflict without an adequate plan.",
       "url": "https://warontherocks.com/2026/03/the-trump-administration-had-no-plan-for-the-war-with-iran/",
       "published": "2026-03-31T07:30:08+00:00",
@@ -68458,6 +69547,15 @@
       "source": "Middle East Eye",
       "region": "Middle East",
       "region_key": "middle-east"
+    },
+    {
+      "title": "The Cost of Hesitation: Why “Finishing the Mission” is Imperative in Iran",
+      "summary": "A U.S. legislator with Air Force medical evacuation experience argues for continuing military operations against Iran, framing it as imperative to \"finish the mission.\" The article is part of a War on the Rocks series presenting for-and-against perspectives on the Iran war from legislators with military backgrounds.",
+      "url": "https://warontherocks.com/the-cost-of-hesitation-why-finishing-the-mission-is-imperative-in-iran/",
+      "published": "2026-03-31T07:15:53+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "The Cost of Hesitation: Why “Finishing the Mission” is Imperative in Iran",
@@ -72007,6 +73105,15 @@
     },
     {
       "title": "Successes and Setbacks",
+      "summary": "The Ukraine Compass weekly digest curates Ukrainian media analysis covering both battlefield developments and broader political and social debates within wartime Ukraine. The series presents varied perspectives from across the Ukrainian political spectrum for War on the Rocks members.",
+      "url": "https://warontherocks.com/successes-and-setbacks/",
+      "published": "2026-03-30T16:06:55+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "Successes and Setbacks",
       "summary": "The Ukraine Compass, a weekly digest for War on the Rocks members, curates Ukrainian media commentary and analysis from across the political spectrum. The series highlights how Ukrainians debate issues shaping their country beyond the battlefield, including daily life, politics, and public discourse.",
       "url": "https://warontherocks.com/2026/03/successes-and-setbacks/",
       "published": "2026-03-30T16:06:55+00:00",
@@ -75058,6 +76165,15 @@
     },
     {
       "title": "Every Soldier a Software Builder: Governing the Army’s New Digital Workforce",
+      "summary": "The U.S. Army has fielded digital platforms including Palantir's Army Vantage and the Department of Defense's GenAI.mil to improve data analysis and decision-making. An analysis examines governance challenges as the Army builds an internal software development workforce, building on earlier efforts like the Army Software Factory.",
+      "url": "https://warontherocks.com/every-soldier-a-software-builder-governing-the-armys-new-digital-workforce/",
+      "published": "2026-03-30T08:00:57+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "Every Soldier a Software Builder: Governing the Army’s New Digital Workforce",
       "summary": "The U.S. Department of Defense has expanded internal software development through programs like the Air Force's Kessel Run, the Army Software Factory, and the Marine Corps Software Factory. The Army also deployed data platforms including Palantir's Army Vantage and the DoD's GenAI.mil to improve analysis and decision-making across the force.",
       "url": "https://warontherocks.com/2026/03/every-soldier-a-software-builder-governing-the-armys-new-digital-workforce/",
       "published": "2026-03-30T08:00:57+00:00",
@@ -75184,6 +76300,15 @@
     },
     {
       "title": "Putin Is Not Trapped: Why Regime Survival Does Not Depend on Victory",
+      "summary": "An analysis challenges the widespread assumption that Russian President Vladimir Putin cannot survive a loss in Ukraine. The piece argues that this framing—central to Biden-era escalation management debates—overstates the existential nature of the war for Putin's regime and misreads his available options.",
+      "url": "https://warontherocks.com/putin-is-not-trapped-why-regime-survival-does-not-depend-on-victory/",
+      "published": "2026-03-30T07:30:58+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "Putin Is Not Trapped: Why Regime Survival Does Not Depend on Victory",
       "summary": "An analysis challenges the widely held assumption that Russian President Vladimir Putin cannot survive a loss in Ukraine. The argument that the war is existential for his regime shaped Biden-era debates over escalation management, but the piece questions whether regime survival truly depends on military victory.",
       "url": "https://warontherocks.com/2026/03/putin-is-not-trapped-why-regime-survival-does-not-depend-on-victory/",
       "published": "2026-03-30T07:30:58+00:00",
@@ -75235,6 +76360,15 @@
       "source": "Al Jazeera",
       "region": "Middle East",
       "region_key": "middle-east"
+    },
+    {
+      "title": "The Importance of the Raid of Nassau",
+      "summary": "An analysis of the March 1776 raid on Nassau in the British Bahamas examines the first amphibious landing by U.S. Marines and sailors. While a tactical success, the operation was hampered by inexperience and poor judgment, offering lessons about command and control across distances and the need for adaptability.",
+      "url": "https://warontherocks.com/the-importance-of-the-raid-of-nassau/",
+      "published": "2026-03-30T07:15:15+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "The Importance of the Raid of Nassau",
@@ -80041,6 +81175,15 @@
       "source": "The Hindu",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "Punish Russia for Helping Iran Target the U.S. Military",
+      "summary": "An analysis urges the U.S. to punish Russia for assisting Iran in targeting American military forces, despite President Trump's assertion that Putin wants to be \"helpful\" in the Middle East. The piece highlights tensions between Washington's diplomatic stance toward Moscow and Russia's material support to Tehran.",
+      "url": "https://warontherocks.com/punish-russia-for-helping-iran-target-the-u-s-military/",
+      "published": "2026-03-29T07:30:38+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "Punish Russia for Helping Iran Target the U.S. Military",
@@ -90043,6 +91186,15 @@
     },
     {
       "title": "The Pentagon Wants Dual-Use Innovation. Patent Law Might Punish It.",
+      "summary": "An analysis examines whether current U.S. patent law discourages dual-use innovation for the Pentagon. It traces the issue to a 1918 Supreme Court ruling and subsequent congressional action to shield government contractors from patent infringement litigation when manufacturing products for federal agencies.",
+      "url": "https://warontherocks.com/the-pentagon-wants-dual-use-innovation-patent-law-might-punish-it/",
+      "published": "2026-03-27T08:00:22+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "The Pentagon Wants Dual-Use Innovation. Patent Law Might Punish It.",
       "summary": "In 1918, the U.S. Supreme Court held that government contractors could be sued for patent infringement even if their products were manufactured specifically for the U.S. government. Franklin D. Roosev",
       "url": "https://warontherocks.com/2026/03/the-pentagon-wants-dual-use-innovation-patent-law-might-punish-it/",
       "published": "2026-03-27T08:00:22+00:00",
@@ -90229,6 +91381,15 @@
       "source": "AllAfrica",
       "region": "Africa",
       "region_key": "africa"
+    },
+    {
+      "title": "Hellscape Taiwan: A Porcupine Defense in the Drone Age",
+      "summary": "A speculative 2029 scenario envisions Taiwan employing a \"porcupine defense\" strategy against a Chinese invasion using autonomous underwater vehicles, kamikaze drones, and decoys to disrupt People's Liberation Army forces crossing the Taiwan Strait. The analysis examines how drone-age technologies could support Taiwan's asymmetric defense.",
+      "url": "https://warontherocks.com/hellscape-taiwan-a-porcupine-defense-in-the-drone-age/",
+      "published": "2026-03-27T07:30:24+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "Hellscape Taiwan: A Porcupine Defense in the Drone Age",
@@ -96838,6 +97999,15 @@
     },
     {
       "title": "10 Ukrainians Humbled Two NATO Battalions. When Will NATO Wake Up?",
+      "summary": "During NATO's Hedgehog 2025 exercise in the Baltics, 10 Ukrainian personnel acting as an opposing force simulated the destruction of 17 armored vehicles and conducted 30 strikes in half a day, effectively neutralizing two NATO battalions. The results highlighted gaps in NATO's preparedness for modern warfare tactics developed in Ukraine.",
+      "url": "https://warontherocks.com/10-ukrainians-humbled-two-nato-battalions-when-will-nato-wake-up/",
+      "published": "2026-03-26T07:30:39+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "10 Ukrainians Humbled Two NATO Battalions. When Will NATO Wake Up?",
       "summary": "During NATO's Hedgehog 2025 exercise in the Baltics, 10 Ukrainian soldiers acting as an opposing force simulated the destruction of 17 armored vehicles and conducted 30 strikes in half a day, effectively neutralizing two NATO battalions. The exercise, conducted without US forces, highlighted significant gaps in NATO readiness.",
       "url": "https://warontherocks.com/2026/03/10-ukrainians-humbled-two-nato-battalions-when-will-nato-wake-up/",
       "published": "2026-03-26T07:30:39+00:00",
@@ -96907,6 +98077,15 @@
       "source": "Times of Israel",
       "region": "Middle East",
       "region_key": "middle-east"
+    },
+    {
+      "title": "A Torpedo in the Trade Lanes: Naval Warfare Returns to the Indo-Pacific",
+      "summary": "A U.S. submarine sank the Iranian warship IRIS Dena in the Indian Ocean approximately 40 nautical miles off Sri Lanka's southern coast. Footage of the attack and images of Sri Lankan Navy personnel rescuing survivors prompted debate about the legality of the strike and the nature of modern naval combat.",
+      "url": "https://warontherocks.com/a-torpedo-in-the-trade-lanes-naval-warfare-returns-to-the-indo-pacific/",
+      "published": "2026-03-26T07:15:10+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "A Torpedo in the Trade Lanes: Naval Warfare Returns to the Indo-Pacific",
@@ -96988,6 +98167,15 @@
       "source": "Middle East Eye",
       "region": "Middle East",
       "region_key": "middle-east"
+    },
+    {
+      "title": "How South Korea Can Bring Iron to the Strait of Hormuz",
+      "summary": "The United States has begun redeploying missile defense assets, including THAAD and Patriot batteries, from South Korea to the Middle East. An analysis from a South Korean perspective examines how Seoul can contribute to security in the Strait of Hormuz while addressing concerns about reduced defense coverage on the Korean Peninsula.",
+      "url": "https://warontherocks.com/how-south-korea-can-bring-iron-to-the-strait-of-hormuz/",
+      "published": "2026-03-26T07:00:30+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "How South Korea Can Bring Iron to the Strait of Hormuz",
@@ -100039,6 +101227,15 @@
       "source": "Ukrinform",
       "region": "Europe",
       "region_key": "europe"
+    },
+    {
+      "title": "How Are Iran’s Partnerships with Belarus and Russia Holding Up During War?",
+      "summary": "An analysis revisits the security partnership between Belarus and Iran in light of the ongoing U.S.-Israeli war against Tehran. The original 2025 argument warned that deeper Belarus-Iran ties could accelerate the flow of drone technology to Russian forces fighting in Ukraine.",
+      "url": "https://warontherocks.com/how-are-irans-partnerships-with-belarus-and-russia-holding-up-during-war/",
+      "published": "2026-03-25T17:30:56+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "How Are Iran’s Partnerships with Belarus and Russia Holding Up During War?",
@@ -103489,6 +104686,15 @@
     },
     {
       "title": "Your Defense Code Is Already AI-Generated. Now What?",
+      "summary": "An analysis reveals that AI-generated code is already widespread in defense software, with Microsoft CEO Satya Nadella stating that 20 to 30 percent of code in some Microsoft repositories is now AI-generated. The piece argues that defense ministries drafting policies on AI-assisted development face an enforcement challenge since such code is already embedded in existing systems.",
+      "url": "https://warontherocks.com/your-defense-code-is-already-ai-generated-now-what/",
+      "published": "2026-03-25T08:00:52+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "Your Defense Code Is Already AI-Generated. Now What?",
       "summary": "Microsoft CEO Satya Nadella stated that 20 to 30 percent of code in some Microsoft repositories is now AI-generated, highlighting the pervasive adoption of AI in software development. The article argues that defense ministries cannot effectively prohibit AI-assisted coding since such code is already embedded in existing systems.",
       "url": "https://warontherocks.com/2026/03/your-defense-code-is-already-ai-generated-now-what/",
       "published": "2026-03-25T08:00:52+00:00",
@@ -103570,6 +104776,15 @@
     },
     {
       "title": "Five Wargames Every Force Design Process Needs",
+      "summary": "An analysis identifies five types of wargames essential to military force design processes, drawing on the U.S. Marine Corps' experience under General David Berger's Force Design 2030 initiative. The Corps executed over 20 major wargames in its first two years, building on inter-war era traditions of using wargames to develop operational concepts.",
+      "url": "https://warontherocks.com/five-wargames-every-force-design-process-needs/",
+      "published": "2026-03-25T07:30:10+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "Five Wargames Every Force Design Process Needs",
       "summary": "A 2019 Marine Corps planning initiative under Commandant Gen. David Berger identified wargaming as critical to force design modernization. Over 20 major wargames were conducted in the first two years of Force Design 2030, drawing lessons from interwar-period military planning exercises.",
       "url": "https://warontherocks.com/2026/03/five-wargames-every-force-design-process-needs/",
       "published": "2026-03-25T07:30:10+00:00",
@@ -103630,6 +104845,15 @@
       "source": "Al Jazeera",
       "region": "Middle East",
       "region_key": "middle-east"
+    },
+    {
+      "title": "Proxy Pressure on Iran: The Promise and Pitfalls of Arming the Kurds",
+      "summary": "Early in the war against Iran, the Trump administration and Israel attempted to foment an uprising by arming Kurdish fighters to infiltrate Iran from Iraq. The analysis examines both the promise and risks of this proxy strategy, noting the Kurds' track record partnering with U.S. forces against the Islamic State in Syria.",
+      "url": "https://warontherocks.com/proxy-pressure-on-iran-the-promise-and-pitfalls-of-arming-the-kurds/",
+      "published": "2026-03-25T07:15:16+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "Proxy Pressure on Iran: The Promise and Pitfalls of Arming the Kurds",
@@ -103711,6 +104935,15 @@
       "source": "The New Arab",
       "region": "Middle East",
       "region_key": "middle-east"
+    },
+    {
+      "title": "Follow the Money: Finance and the Future of Allied Economic Statecraft",
+      "summary": "The Potomac Institute for Policy Studies and War on the Rocks published the fourth installment in an 11-part series on economic statecraft. The article examines how the United States and its allies can mobilize public and private capital flows as a tool of great-power competition and integrate financial strategy into national security planning.",
+      "url": "https://warontherocks.com/follow-the-money-finance-and-the-future-of-allied-economic-statecraft/",
+      "published": "2026-03-25T07:00:07+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "Follow the Money: Finance and the Future of Allied Economic Statecraft",
@@ -106954,6 +108187,15 @@
     },
     {
       "title": "The War in Iran and Implications for the Nuclear Non-Proliferation Regime",
+      "summary": "An analysis explores the implications of the war in Iran for the global nuclear non-proliferation regime underpinned by the Nuclear Non-Proliferation Treaty (NPT). Iran, an NPT signatory, had long raised international concern over its nuclear activities, prompting diplomatic, economic, and covert efforts to constrain its program.",
+      "url": "https://warontherocks.com/the-war-in-iran-and-implications-for-the-nuclear-non-proliferation-regime/",
+      "published": "2026-03-24T18:00:24+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "The War in Iran and Implications for the Nuclear Non-Proliferation Regime",
       "summary": "The article examines how Iran's nuclear activities have posed a major challenge to the Nuclear Non-Proliferation Treaty (NPT) framework. Iran, an NPT signatory, has maintained its nuclear program is peaceful, but its activities prompted international diplomatic, economic, and covert efforts to constrain its progress.",
       "url": "https://warontherocks.com/2026/03/the-war-in-iran-and-implications-for-the-nuclear-non-proliferation-regime/",
       "published": "2026-03-24T18:00:24+00:00",
@@ -107572,6 +108814,15 @@
       "source": "BBC",
       "region": "Middle East",
       "region_key": "middle-east"
+    },
+    {
+      "title": "War as a Force of Destruction, Change, and Opportunity",
+      "summary": "The Ukraine Compass, a weekly digest published by War on the Rocks, curates Ukrainian media commentary on how the ongoing war affects daily life, politics, and public debate inside Ukraine. The series aims to broaden perspectives beyond battlefield coverage by presenting diverse Ukrainian viewpoints.",
+      "url": "https://warontherocks.com/war-as-a-force-of-destruction-change-and-opportunity/",
+      "published": "2026-03-24T15:53:58+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "War as a Force of Destruction, Change, and Opportunity",
@@ -109321,6 +110572,15 @@
     },
     {
       "title": "The Next Transformation of U.S. Shipbuilding",
+      "summary": "In a Cogs of War interview, Eric Chewning, executive vice president at HII—America's largest military shipbuilder—discussed challenges in adopting AI and automation in century-old shipyards. He addressed cultural shifts needed for modernization, maritime startup collaboration, and U.S. reindustrialization policy.",
+      "url": "https://warontherocks.com/the-next-transformation-of-u-s-shipbuilding/",
+      "published": "2026-03-24T08:00:38+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "The Next Transformation of U.S. Shipbuilding",
       "summary": "Eric Chewning, executive vice president at HII—America's largest military shipbuilder—discusses the challenges of adopting AI and automation in shipbuilding. The interview covers cultural barriers in legacy shipyards, maritime startups, and reindustrialization policy.",
       "url": "https://warontherocks.com/2026/03/the-next-transformation-of-u-s-shipbuilding/",
       "published": "2026-03-24T08:00:38+00:00",
@@ -109345,6 +110605,15 @@
       "source": "The Hindu",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "Converting History into Hard Power: A Polish-German Reckoning",
+      "summary": "An analysis examines unresolved Polish grievances over German World War II reparations, noting that nearly 70 percent of Poles believe Germany has not sufficiently made amends. The dispute carries growing strategic weight as Berlin seeks a European security leadership role within NATO amid reduced U.S. engagement.",
+      "url": "https://warontherocks.com/converting-history-into-hard-power-a-polish-german-reckoning/",
+      "published": "2026-03-24T07:30:21+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "Converting History into Hard Power: A Polish-German Reckoning",
@@ -110482,9 +111751,27 @@
     },
     {
       "title": "The Battlefield is the Next Betting Market",
+      "summary": "The article examines how open-source intelligence and public prediction markets are increasingly tracking military operations in near-real time. It references the U.S.-Israeli strikes on Iran's nuclear facilities in June and Operation Epic Fury on February 28, during which analysts monitored satellite imagery, carrier movements, and official statements.",
+      "url": "https://warontherocks.com/the-battlefield-is-the-next-betting-market/",
+      "published": "2026-03-23T07:30:53+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "The Battlefield is the Next Betting Market",
       "summary": "The article examines how prediction markets and open-source intelligence are increasingly forecasting military operations in real time. It contrasts the secrecy surrounding the U.S.-Israeli strike on Iran's nuclear facilities with the widely anticipated launch of Operation Epic Fury on February 28.",
       "url": "https://warontherocks.com/2026/03/the-battlefield-is-the-next-betting-market/",
       "published": "2026-03-23T07:30:53+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "Trump’s Visit to China Won’t Fix Much, If It Even Happens",
+      "summary": "President Donald Trump indicated he would delay a planned state visit to Beijing by roughly a month to focus on the war with Iran. The postponement threatens a fragile U.S.-China truce in place since October, complicated further by Trump's March 15 demand that China help reopen the Strait of Hormuz.",
+      "url": "https://warontherocks.com/trumps-visit-to-china-wont-fix-much-if-it-even-happens/",
+      "published": "2026-03-23T07:15:00+00:00",
       "source": "War on the Rocks",
       "region": "Global",
       "region_key": "all"
@@ -111076,6 +112363,15 @@
     },
     {
       "title": "Conflict and Consequences",
+      "summary": "On March 17, Israel announced the killing of Ali Larijani, secretary of Iran's Supreme National Security Council, which Tehran later confirmed. His death follows the earlier elimination of Supreme Leader Ali Khamenei on the opening day of the U.S.-Israeli offensive, removing a key regime coordinator.",
+      "url": "https://warontherocks.com/conflict-and-consequences/",
+      "published": "2026-03-20T14:00:04+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "Conflict and Consequences",
       "summary": "Israel announced and Tehran confirmed the killing of Ali Larijani, secretary of Iran's Supreme National Security Council, on March 17. His death follows the earlier elimination of Supreme Leader Ali Khamenei at the start of the U.S.-Israeli offensive, removing the regime's top coordinator.",
       "url": "https://warontherocks.com/2026/03/conflict-and-consequences/",
       "published": "2026-03-20T14:00:04+00:00",
@@ -111190,6 +112486,15 @@
       "source": "BBC",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "What It Was Like to Be Under Incoming Fire from the War on Terror to Today",
+      "summary": "A crossover episode of War on the Rocks' armed services podcasts features military hosts discussing their personal experiences with indirect fire and bombardment. They provide context on the current Middle East threat environment and offer advice for deployed troops and those at home.",
+      "url": "https://warontherocks.com/indirect-fire-in-the-global-war-on-terror-and-today/",
+      "published": "2026-03-20T08:00:59+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "What It Was Like to Be Under Incoming Fire from the War on Terror to Today",
@@ -112056,17 +113361,8 @@
       "region_key": "middle-east"
     },
     {
-      "title": "A Russian schoolteacher smuggled footage abroad and made an award-winning documentary about wartime propaganda. Here’s how his hometown reacted.",
-      "summary": "Pavel Talankin, a 34-year-old school events coordinator from Karabash, secretly filmed patriotic school events and smuggled the footage abroad to co-direct the Oscar-nominated documentary \"Mr. Nobody Against Putin.\" Russian media labeled the film \"anti-patriotic\" and called Talankin a traitor after its Western release.",
-      "url": "https://meduza.io/en/feature/2026/03/12/a-russian-schoolteacher-smuggled-footage-abroad-and-made-an-award-winning-documentary-about-wartime-propaganda-here-s-how-his-hometown-reacted",
-      "published": "2026-03-12T17:24:08+03:00",
-      "source": "Meduza",
-      "region": "Europe",
-      "region_key": "europe"
-    },
-    {
       "title": "One house, two faiths, one fasting season",
-      "summary": "In Nigeria, a couple named Olanrewaju and Kaosara are observing Ramadan and Lent simultaneously in the same household. The overlap of the two fasting periods has not occurred since 1993.",
+      "summary": "In Nigeria, couples such as Olanrewaju and Kaosara are observing Ramadan and Lent simultaneously, a convergence that has not occurred since 1993.",
       "url": "https://www.bbc.com/news/videos/cwygeypnevxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-03-12T12:40:13+00:00",
       "source": "BBC",
@@ -112075,7 +113371,7 @@
     },
     {
       "title": "Inside Ethiopia's 'smart' police station",
-      "summary": "Ethiopia unveiled its first unmanned, automated police station where citizens can report crimes using touch-screen kiosks. The facility is described as a 'smart' police station designed to modernize law enforcement services.",
+      "summary": "Ethiopia unveiled its first unmanned \"smart\" police station, where citizens can report crimes using automated touch screens.",
       "url": "https://www.bbc.com/news/videos/cz9qqzqkk82o?at_medium=RSS&at_campaign=rss",
       "published": "2026-03-05T12:29:16+00:00",
       "source": "BBC",
@@ -112084,7 +113380,7 @@
     },
     {
       "title": "At the scene: Muslims killed 'over rejection of extremist ideology' in Nigeria",
-      "summary": "At least 78 bodies have been buried following an attack targeting Muslims in Nigeria, with fears the death toll may exceed 170. Reports indicate the victims were killed over their rejection of extremist ideology.",
+      "summary": "At least 78 people were buried and more than 170 are feared killed in attacks targeting Muslims in Nigeria, reportedly over their rejection of extremist ideology.",
       "url": "https://www.bbc.com/news/videos/czej7xpx0x9o?at_medium=RSS&at_campaign=rss",
       "published": "2026-02-05T17:15:30+00:00",
       "source": "BBC",
@@ -112093,7 +113389,7 @@
     },
     {
       "title": "'The water took everything': Mozambique hit by worst floods in decades",
-      "summary": "Nearly 700,000 people in Mozambique have been affected by weeks of severe flooding described as the worst in decades. Residents reported losing homes and belongings to the rising waters.",
+      "summary": "Severe flooding in Mozambique, described as the worst in decades, has affected nearly 700,000 people across the country.",
       "url": "https://www.bbc.com/news/videos/cvgj5vxvxgmo?at_medium=RSS&at_campaign=rss",
       "published": "2026-01-29T17:55:43+00:00",
       "source": "BBC",
@@ -112102,7 +113398,7 @@
     },
     {
       "title": "From the front lines to the future: Israeli society and the Jewish people in 2036",
-      "summary": "At the Jerusalem Post Miami Conference, IDF veterans and civil-society leaders discussed the future of Israeli society and the Jewish people through 2036. They emphasized military service, dignity, and Diaspora responsibility as key pillars.",
+      "summary": "At the Jerusalem Post Miami Conference, IDF veterans and civil-society leaders discussed service, dignity, and Diaspora responsibility as key elements shaping Israeli society and the Jewish people through 2036.",
       "url": "https://www.jpost.com/conferences/article-883574",
       "published": "2026-01-15T23:48:03+00:00",
       "source": "Jerusalem Post",
@@ -112111,7 +113407,7 @@
     },
     {
       "title": "How TALMA turns English education into social mobility and a Zionist mission",
-      "summary": "At the Jerusalem Post Miami Conference, TALMA CEO Ido Mahatzri presented the organization's work using English-language education to promote social mobility in Israel's periphery. The program combines teaching with values-based community development.",
+      "summary": "At the Jerusalem Post Miami Conference, TALMA CEO Ido Mahatzri presented the organization's work using English education to promote social mobility in Israel's periphery.",
       "url": "https://www.jpost.com/conferences/article-883562",
       "published": "2026-01-15T21:10:20+00:00",
       "source": "Jerusalem Post",
@@ -112120,7 +113416,7 @@
     },
     {
       "title": "'Over 90% of Iranians hate the regime,' INSS’s Beni Sabti reveals from leaked Iran survey",
-      "summary": "INSS researcher Beni Sabti cited a leaked internal Iranian survey indicating that over 90% of Iranians oppose their government. Sabti described it as a secret poll showing 92% of Iran's population harbors animosity toward the regime.",
+      "summary": "INSS researcher Beni Sabti cited a leaked Iranian survey claiming that over 90 percent of Iranians oppose their regime. Sabti described it as a secret poll indicating 92 percent disapproval.",
       "url": "https://www.jpost.com/middle-east/iran-news/article-883465",
       "published": "2026-01-15T11:42:41+00:00",
       "source": "Jerusalem Post",
@@ -112129,7 +113425,7 @@
     },
     {
       "title": "Alshareef: Israel, Jews, should help Iranians seek liberty to ‘repay debt to Cyrus’",
-      "summary": "At the Jerusalem Post Miami Summit, speaker Alshareef called on Israel and the Jewish people to support Iranians seeking freedom, framing it as repaying a historical debt to Cyrus the Great. Prime Minister Netanyahu also voiced solidarity with Iranian protesters.",
+      "summary": "At the Jerusalem Post Miami Summit, commentator Alshareef called on Israel and the Jewish people to support Iranians seeking freedom, framing it as repaying a historical debt to the Persian king Cyrus. Prime Minister Netanyahu voiced solidarity with Iranian protesters.",
       "url": "https://www.jpost.com/middle-east/abraham-accords/article-883448",
       "published": "2026-01-14T09:57:00+00:00",
       "source": "Jerusalem Post",
@@ -112138,7 +113434,7 @@
     },
     {
       "title": "Watch: The Jerusalem Post Miami Summit",
-      "summary": "The Jerusalem Post Miami Summit convened discussions on shifting geopolitics and Diaspora-Israel relations. The conference served as a platform for dialogue and cross-continental collaboration.",
+      "summary": "The Jerusalem Post Miami Summit convened discussions on changing geopolitics and evolving Diaspora-Israel relations, serving as a platform for cross-continental dialogue.",
       "url": "https://www.jpost.com/conferences/article-882743",
       "published": "2026-01-08T14:27:15+00:00",
       "source": "Jerusalem Post",
@@ -112147,7 +113443,7 @@
     },
     {
       "title": "The gifts I have been given: Survival as a collective act in Sudan",
-      "summary": "A personal account from Sudan describes survival during the ongoing conflict as a collective effort. The piece reflects on the communal bonds and mutual aid that have sustained people through the crisis.",
+      "summary": "In Sudan, communities are relying on collective mutual aid efforts as a means of survival amid ongoing conflict and displacement.",
       "url": "https://www.thenewhumanitarian.org/opinion/first-person/2026/01/08/gifts-survival-collective-help-sudan",
       "published": "2026-01-08T10:38:12+00:00",
       "source": "New Humanitarian",
@@ -112156,7 +113452,7 @@
     },
     {
       "title": "Hope and resistance: Slam poets capture the weight of war in DR Congo",
-      "summary": "Slam poets in the Democratic Republic of Congo are using their art to express the emotional toll of ongoing armed conflict in the country. The performances blend themes of hope and resistance amid war.",
+      "summary": "Slam poets in the Democratic Republic of Congo are using their art to express hope and resistance amid the weight of ongoing war.",
       "url": "https://www.thenewhumanitarian.org/feature/2025/09/22/hope-resistance-slam-poetry-poets-capture-weight-war-drc-congo",
       "published": "2025-09-22T11:40:00+00:00",
       "source": "New Humanitarian",
@@ -112165,7 +113461,7 @@
     },
     {
       "title": "Beware the AI efficiency messiah",
-      "summary": "An opinion piece examines concerns about the promotion of artificial intelligence as a solution for efficiency, cautioning against uncritical adoption of AI-driven approaches in organizational and policy contexts.",
+      "summary": "An analysis examines concerns about the uncritical embrace of artificial intelligence as a solution for organizational efficiency.",
       "url": "https://www.thenewhumanitarian.org/opinion/2025/09/22/beware-ai-efficiency-messiah",
       "published": "2025-09-22T09:00:00+00:00",
       "source": "New Humanitarian",
@@ -112174,7 +113470,7 @@
     },
     {
       "title": "Israeli bombing exposes critical shortages in Iran’s healthcare system",
-      "summary": "Israeli airstrikes on Iran have revealed significant shortages within Iran's healthcare system, straining hospitals and medical supply chains as the country contends with the consequences of the bombing campaign.",
+      "summary": "Israeli bombing campaigns have exposed critical shortages within Iran's healthcare system, straining medical infrastructure.",
       "url": "https://www.thenewhumanitarian.org/news/2025/06/27/israeli-bombing-exposes-critical-shortages-iran-healthcare-system",
       "published": "2025-06-27T12:29:00+00:00",
       "source": "New Humanitarian",
@@ -112183,7 +113479,7 @@
     },
     {
       "title": "Myanmar in-depth: Slow earthquake response underlines need to overhaul long-flawed international aid efforts",
-      "summary": "Following a major earthquake in Myanmar, the international humanitarian response was criticized as slow and inadequate. The article calls for a broad overhaul of international aid mechanisms that have long faced structural shortcomings in the country.",
+      "summary": "Following a major earthquake in Myanmar, the slow international humanitarian response highlighted the need to overhaul long-standing flaws in global aid coordination.",
       "url": "https://www.thenewhumanitarian.org/analysis/2025/05/15/myanmar-depth-slow-earthquake-response-underlines-need-overhaul-long-flawed",
       "published": "2025-05-16T18:00:00+00:00",
       "source": "New Humanitarian",
@@ -112192,7 +113488,7 @@
     },
     {
       "title": "As Sudan army gains drive mass returns, mutual aid groups begin to rebuild",
-      "summary": "As the Sudanese Armed Forces have made territorial gains, displaced civilians have begun returning to recaptured areas. Community-based mutual aid groups are stepping in to lead early reconstruction and recovery efforts in Sudan.",
+      "summary": "In Sudan, territorial gains by the army have driven mass returns of displaced civilians, and mutual aid groups are beginning efforts to rebuild communities.",
       "url": "https://www.thenewhumanitarian.org/news-feature/2025/04/30/sudan-army-gains-drive-mass-returns-mutual-aid-groups-begin-rebuild",
       "published": "2025-04-30T10:14:15+00:00",
       "source": "New Humanitarian",
