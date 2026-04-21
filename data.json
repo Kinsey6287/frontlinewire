@@ -1,16 +1,79 @@
 {
-  "last_updated": "2026-04-21T19:57:36.752912+00:00",
-  "story_count": 19061,
-  "new_this_run": 132,
+  "last_updated": "2026-04-21T22:13:05.658782+00:00",
+  "story_count": 19136,
+  "new_this_run": 92,
   "feed_count": 53,
   "retention_days": 30,
   "stories": [
+    {
+      "title": "US indefinitely extends ceasefire with Iran",
+      "summary": "President Donald Trump indefinitely extended the U.S. ceasefire with Iran, agreeing to a request from mediator Pakistan to allow more time for negotiations while maintaining a blockade of Iranian ports.",
+      "url": "https://www.straitstimes.com/world/middle-east/trump-extends-ceasefire-until-iran-submits-new-proposal",
+      "published": "2026-04-22T05:26:42+08:00",
+      "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Russian official says Russians in Moldova’s Transdniestria under threat",
+      "summary": "Sergei Shoigu, secretary of Russia's Security Council, stated that the safety of Russian citizens in Moldova's breakaway Transnistria region is under threat and that Moscow will take all necessary steps to protect them.",
+      "url": "https://www.straitstimes.com/world/europe/russian-official-says-russians-in-moldovas-transdniestria-under-threat",
+      "published": "2026-04-22T05:15:31+08:00",
+      "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "US warns it will run out of money to pay airport security workers in coming weeks",
+      "summary": "Emergency funds allocated during a partial U.S. government shutdown in late March to pay airport security workers are expected to run out by early May, raising concerns about continued Transportation Security Administration operations.",
+      "url": "https://www.straitstimes.com/world/united-states/us-warns-it-will-run-out-of-money-to-pay-airport-security-workers-in-coming-weeks",
+      "published": "2026-04-22T05:11:40+08:00",
+      "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Guatemalan attorney general sanctioned internationally loses bid for third term",
+      "summary": "Guatemalan Attorney General Consuelo Porras, who has faced international sanctions and clashed with President Bernardo Arévalo, lost her bid for a third term and is set to leave office next month.",
+      "url": "https://www.straitstimes.com/world/guatemalan-attorney-general-sanctioned-internationally-loses-bid-for-third-term",
+      "published": "2026-04-22T04:35:28+08:00",
+      "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "El Salvador court tries over 400 alleged gang leaders for 47,000 crimes",
+      "summary": "A Salvadoran court began the mass trial of over 400 alleged leaders of the MS-13 gang, facing charges related to more than 47,000 crimes prosecutors say were committed between 2012 and 2022.",
+      "url": "https://www.straitstimes.com/world/el-salvador-court-tries-over-400-alleged-gang-leaders-for-47000-crimes",
+      "published": "2026-04-22T03:55:39+08:00",
+      "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
     {
       "title": "Mexico disappearances climb as attacks on rights defenders persist, Amnesty says",
       "summary": "Amnesty International reported that the number of disappearances in Mexico has risen to 133,500 cases as of 2025. The organization noted that attacks against human rights defenders, journalists, and activists searching for the disappeared continued throughout the country.",
       "url": "https://www.straitstimes.com/world/mexico-disappearances-climb-as-attacks-on-rights-defenders-persist-amnesty-says",
       "published": "2026-04-22T03:30:21+08:00",
       "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "‘At the request of CDF Munir, PM Shehbaz’, Trump announces extension in ceasefire until Iran submits proposal",
+      "summary": "President Donald Trump announced an indefinite extension of the U.S. ceasefire with Iran at the request of Pakistani mediator PM Shehbaz and military chief General Munir, though a naval blockade of Iranian ports remains in place. Tehran has not yet officially responded.",
+      "url": "https://www.dawn.com/news/1993810/at-the-request-of-cdf-munir-pm-shehbaz-trump-announces-extension-in-ceasefire-until-iran-submits-proposal",
+      "published": "2026-04-22T03:05:38+05:00",
+      "source": "Dawn",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Trump extends ceasefire until Iranian proposal is submitted, talks are over",
+      "summary": "President Donald Trump extended the U.S. ceasefire with Iran, citing a request from Pakistan, to allow Iranian leaders additional time to present a unified negotiating proposal.",
+      "url": "https://www.thehindu.com/news/international/us-iran-ceasefire-extended-donald-trump-war-deal-talks/article70890318.ece",
+      "published": "2026-04-22T02:08:23+05:30",
+      "source": "The Hindu",
       "region": "Asia",
       "region_key": "asia"
     },
@@ -60,6 +123,15 @@
       "region_key": "asia"
     },
     {
+      "title": "Report: Detained employees of Popcorn Books and Individuum implicate Eksmo executives in ‘extremism’ case over queer literature",
+      "summary": "Three former employees of Russia's Popcorn Books publishing house, detained over the sale of queer literature, have reportedly told investigators that executives at the Eksmo publishing group were involved in alleged \"extremism,\" according to TASS.",
+      "url": "https://meduza.io/en/news/2026/04/22/report-detained-employees-of-popcorn-books-and-individuum-implicate-eksmo-executives-in-extremism-case-over-queer-literature",
+      "published": "2026-04-22T00:06:18+03:00",
+      "source": "Meduza",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
       "title": "Iran to restart domestic flights; charts phased airspace reopening",
       "summary": "Iranian government sources said Tehran plans to reopen its airspace in phases, starting with overflight operations, which would provide relief to international airlines connecting Europe with Asia, including Indian carriers.",
       "url": "https://www.thehindu.com/news/international/iran-to-restart-domestic-flights-charts-phased-airspace-reopening/article70889386.ece",
@@ -78,6 +150,15 @@
       "region_key": "asia"
     },
     {
+      "title": "Russian drone attack on Kharkiv region leaves 11 civilians injured",
+      "summary": "Eleven civilians were injured in Ukraine's Kharkiv region following a massive Russian drone attack on settlements in the Bohodukhiv district.",
+      "url": "https://www.ukrinform.net/rubric-ato/4115107-russian-drone-attack-on-kharkiv-region-leaves-11-civilians-injured.html",
+      "published": "2026-04-21T23:58:00+03:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
       "title": "Nigeria charges six over alleged coup plot to overthrow Tinubu",
       "summary": "Nigeria's government filed 13 criminal charges against six former security officials in Abuja, accusing them of plotting the violent overthrow of President Bola Tinubu's government last year. Court documents detailing the charges were made public on Tuesday, April 21.",
       "url": "https://www.straitstimes.com/world/nigeria-charges-six-over-alleged-coup-plot-to-overthrow-tinubu",
@@ -85,6 +166,24 @@
       "source": "Straits Times",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "Russian drones hit agricultural enterprise in Chernihiv region",
+      "summary": "Russian forces struck an agricultural enterprise in Ukraine's Chernihiv region using drones. The attack targeted civilian agricultural infrastructure.",
+      "url": "https://www.ukrinform.net/rubric-ato/4115105-russian-drones-hit-agricultural-enterprise-in-chernihiv-region.html",
+      "published": "2026-04-21T23:41:00+03:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "War update: 194 frontline clashes, Pokrovsk and Kostiantynivka sectors remain hottest",
+      "summary": "Ukrainian defense forces reported 194 Russian attacks on their positions in a single day, with the heaviest fighting concentrated in the Pokrovsk and Kostiantynivka sectors of the front line.",
+      "url": "https://www.ukrinform.net/rubric-ato/4115101-war-update-194-frontline-clashes-pokrovsk-and-kostiantynivka-sectors-remain-hottest.html",
+      "published": "2026-04-21T23:22:00+03:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
     },
     {
       "title": "‘Reprehensible’: Pakistan condemns storming of Al Aqsa Mosque compound, raising of Israeli flag in its courtyard",
@@ -105,6 +204,24 @@
       "region_key": "asia"
     },
     {
+      "title": "Frozen Russian assets could fund Special Tribunal, Ukrainian lawmaker says",
+      "summary": "A Ukrainian lawmaker proposed using frozen Russian assets to fund a Special Tribunal on Russia's crime of aggression against Ukraine. Securing funding remains the primary obstacle to establishing the tribunal.",
+      "url": "https://www.ukrinform.net/rubric-polytics/4115095-frozen-russian-assets-could-fund-special-tribunal-ukrainian-lawmaker-says.html",
+      "published": "2026-04-21T23:00:00+03:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "Pakistan’s Sharif thanks Trump for ceasefire extension",
+      "summary": "Pakistani Prime Minister Shehbaz Sharif publicly thanked US President Donald Trump for extending the ceasefire with Iran to allow diplomatic efforts to continue. Sharif expressed hope that both sides would uphold the truce and work toward a comprehensive peace agreement.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistans-sharif-thanks-trump-ceasefire-extension",
+      "published": "2026-04-21T22:54:47+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "Notification declaring local holiday in Rawalpindi on April 22 is fake: DC",
       "summary": "Rawalpindi Deputy Commissioner Hassan Waqar Cheema dismissed as fake a notification circulating on social media that claimed a local holiday had been declared in the city for April 22.",
       "url": "https://www.dawn.com/news/1993854/notification-declaring-local-holiday-in-rawalpindi-on-april-22-is-fake-dc",
@@ -121,6 +238,15 @@
       "source": "Straits Times",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "Russian strikes on Novomykolaivka in Zaporizhzhia region leave seven civilians injured",
+      "summary": "Russian troops carried out six strikes on the village of Novomykolaivka in Ukraine's Zaporizhzhia district, injuring seven civilians.",
+      "url": "https://www.ukrinform.net/rubric-ato/4115097-russian-strikes-on-novomykolaivka-in-zaporizhzhia-region-leave-seven-civilians-injured.html",
+      "published": "2026-04-21T22:42:00+03:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
     },
     {
       "title": "Russia says Africa Corps has freed Russian and Ukrainian nationals abducted in West Africa",
@@ -141,11 +267,38 @@
       "region_key": "asia"
     },
     {
+      "title": "Zelensky approves new “long-range sanctions” against Russia",
+      "summary": "Ukrainian President Volodymyr Zelensky approved a new set of \"long-range sanctions\" targeting Russia. The measures are part of Ukraine's ongoing economic pressure campaign against Moscow.",
+      "url": "https://www.ukrinform.net/rubric-polytics/4115092-zelensky-approves-new-longrange-sanctions-against-russia.html",
+      "published": "2026-04-21T22:24:00+03:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "IMO says seafarers killed as attacks on Gulf shipping mount",
+      "summary": "The International Maritime Organization reported that at least 10 seafarers have been killed and others seriously wounded in attacks on commercial vessels in the Persian Gulf since the US-Israeli war on Iran began. Approximately 20,000 civilian seafarers remain aboard vessels in the Gulf facing dwindling supplies and severe psychological stress.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/imo-says-seafarers-killed-attacks-gulf-shipping-mount",
+      "published": "2026-04-21T22:23:52+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "Son of Holocaust survivors, granddaughter of a Nazi confront their separate inheritances",
       "summary": "A new book titled 'Inheritance: Love, Loss and the Legacy of the Holocaust' brings together the perspectives of a son of Holocaust survivors and the granddaughter of a Nazi, drawing on family letters, archival research, and visits to Europe.",
       "url": "https://www.jpost.com/diaspora/article-893777",
       "published": "2026-04-21T22:23:22+00:00",
       "source": "Jerusalem Post",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Trump extends Iran ceasefire with fate of Pakistan talks left uncertain",
+      "summary": "US President Donald Trump extended the ceasefire with Iran while ordering the continuation of a naval blockade. Maritime intelligence reports suggest dozens of vessels have evaded US warships enforcing the blockade.",
+      "url": "https://www.middleeasteye.net/news/trump-extends-iran-ceasefire-fate-pakistan-talks-left-uncertain",
+      "published": "2026-04-21T22:21:54+01:00",
+      "source": "Middle East Eye",
       "region": "Middle East",
       "region_key": "middle-east"
     },
@@ -213,6 +366,15 @@
       "region_key": "asia"
     },
     {
+      "title": "Zelensky on €90B EU loan: No grounds for blocking it anymore",
+      "summary": "President Zelensky stated that Ukraine has fulfilled all requirements to unlock €90 billion in EU support and said there are no remaining grounds for blocking the loan.",
+      "url": "https://www.ukrinform.net/rubric-economy/4115086-zelensky-on-90b-eu-loan-no-grounds-for-blocking-it-anymore.html",
+      "published": "2026-04-21T22:05:00+03:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
       "title": "Romanian PM says he'll lead minority government after leftist Social Democrats walk out",
       "summary": "Romanian Prime Minister Ilie Bolojan announced he will lead a minority government after the leftist Social Democrats, the coalition's largest party, withdrew their support. Bolojan said the move is necessary to ensure reforms required to access European Union funds continue.",
       "url": "https://www.straitstimes.com/world/europe/romanian-pm-says-hell-lead-minority-government-after-leftist-social-democrats-walk-out",
@@ -220,6 +382,33 @@
       "source": "Straits Times",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "China and Philippines taking ‘baby steps’ towards better relations: Manila’s ambassador",
+      "summary": "The Philippines is pursuing incremental steps to stabilize relations with China before addressing more contentious issues such as the South China Sea dispute, according to Manila's ambassador to Beijing, Jaime FlorCruz.",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3350870/china-and-philippines-taking-baby-steps-towards-better-relations-manilas-ambassador?utm_source=rss_feed",
+      "published": "2026-04-21T22:00:12+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Iran reportedly rejects Pakistan talks, citing US ‘excessive demands’",
+      "summary": "Iran has reportedly decided not to attend planned peace talks in Pakistan, according to the semi-official Tasnim news agency. Tehran cited what it called excessive US demands, with officials concluding the negotiations would be unproductive.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-reportedly-rejects-pakistan-talks-citing-us-excessive-demands",
+      "published": "2026-04-21T21:57:54+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Russo-Ukrainian war, day 1518: EU’s €90 billion loan for Ukraine set for Wednesday vote",
+      "summary": "The European Union is set to vote on a €90 billion loan package for Ukraine. Hungary has signaled it is preparing to lift its veto on the Ukrainian aid measure.",
+      "url": "https://euromaidanpress.com/2026/04/22/russo-ukrainian-war-day-1518-eus-e90-billion-loan-for-ukraine-set-for-wednesday-vote/",
+      "published": "2026-04-21T21:53:31+00:00",
+      "source": "Euromaidan Press",
+      "region": "Europe",
+      "region_key": "europe"
     },
     {
       "title": "Uncertainty clouds Iran talks as ceasefire deadline nears",
@@ -240,6 +429,33 @@
       "region_key": "asia"
     },
     {
+      "title": "‘World Parliament’ platform used by Russia to spread propaganda – Ukrainian Vice Speaker",
+      "summary": "Ukraine's Vice Speaker accused Russia of using the Inter-Parliamentary Union platform to spread propaganda and maintain international legitimacy. The IPU, sometimes called the \"World Parliament,\" has been a venue for Russian narrative promotion.",
+      "url": "https://www.ukrinform.net/rubric-polytics/4115080-world-parliament-platform-used-by-russia-to-spread-propaganda-ukrainian-vice-speaker.html",
+      "published": "2026-04-21T21:42:00+03:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "Navy expects construction on first Trump-class battleship to start in FY28",
+      "summary": "Secretary of the Navy John Phelan said construction on the first Trump-class battleship is expected to begin in fiscal year 2028, with the service currently in discussions with two potential vendors.",
+      "url": "https://breakingdefense.com/2026/04/navy-expects-construction-on-first-trump-class-battleship-to-start-in-fy28/",
+      "published": "2026-04-21T21:40:00+00:00",
+      "source": "Breaking Defense",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "Israel kicks off 78th Independence Day festivities with annual torch-lighting ceremony",
+      "summary": "Israel marked its 78th Independence Day with an annual torch-lighting ceremony. Among the torchbearers were Argentine President Javier Milei, a disabled IDF veteran, and an Iranian former judicial official. Prime Minister Netanyahu delivered a pre-recorded speech highlighting military achievements.",
+      "url": "https://www.timesofisrael.com/israel-kicks-off-78th-independence-day-festivities-with-annual-torch-lighting-ceremony/",
+      "published": "2026-04-21T21:38:23+00:00",
+      "source": "Times of Israel",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "United States Treasury Department imposes fresh sanctions against suppliers of weapons to Iran",
       "summary": "The U.S. Treasury Department imposed new sanctions targeting suppliers of weapons to Iran. The action came as a two-week ceasefire announced by President Trump was set to expire in the coming days.",
       "url": "https://www.jpost.com/middle-east/iran-news/article-893774",
@@ -258,6 +474,15 @@
       "region_key": "europe"
     },
     {
+      "title": "Trump extends ceasefire, orders military to maintain Iran blockade",
+      "summary": "President Trump posted on Truth Social that he directed the US military to continue the blockade of Iran while extending the ceasefire. The extension came at the request of Pakistan's Field Marshal Asim Munir and Prime Minister Shehbaz Sharif to allow Iranian leaders time to formulate a unified proposal.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-extends-ceasefire-orders-military-maintain-iran-blockade",
+      "published": "2026-04-21T21:35:41+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "From Africa, Pope Leo warns humanity’s future is ‘tragically compromised’",
       "summary": "Pope Leo XIV delivered forceful remarks during a 10-day tour of Africa, warning that humanity's future is \"tragically compromised.\" The pontiff has adopted an assertive speaking style throughout the trip.",
       "url": "https://www.straitstimes.com/world/from-africa-pope-leo-warns-humanitys-future-is-tragically-compromised",
@@ -265,6 +490,24 @@
       "source": "Straits Times",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "Saildrone announces new USV class aimed at anti-submarine warfare",
+      "summary": "Saildrone announced Spectre, a new class of unmanned surface vessel designed for anti-submarine warfare. Sea trials for the platform are planned for early 2027.",
+      "url": "https://www.defensenews.com/industry/techwatch/2026/04/21/saildrone-announces-new-usv-class-aimed-at-anti-submarine-warfare/",
+      "published": "2026-04-21T21:33:36+00:00",
+      "source": "Defense News",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "Hezbollah says attack on Israel was response to ceasefire violations",
+      "summary": "Hezbollah said it launched rockets and attack drones at a target in northern Israel in retaliation for what it called Israeli violations of a 10-day ceasefire. The group said the targeted site had been used to shell a town in southern Lebanon.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-attack-israel-was-response-ceasefire-violations",
+      "published": "2026-04-21T21:31:33+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
     },
     {
       "title": "At Senegal forum, Niger and Mali say neighbours sponsor terrorism",
@@ -285,6 +528,33 @@
       "region_key": "middle-east"
     },
     {
+      "title": "US-China AI race must strike a balance between security and openness",
+      "summary": "The U.S. House Select Committee on China released a report alleging Beijing is aggressively acquiring frontier AI capabilities through both market access and theft. The findings are shaping Washington's policy approach to technology competition with China.",
+      "url": "https://www.scmp.com/opinion/china-opinion/article/3350871/us-china-ai-race-must-strike-balance-between-security-and-openness?utm_source=rss_feed",
+      "published": "2026-04-21T21:30:08+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Trump extends ceasefire, says giving Iran time to negotiate",
+      "summary": "President Trump indefinitely extended the U.S. ceasefire with Iran to allow more time for negotiations, crediting a request from mediator Pakistan, but maintained a naval blockade of Iranian ports.",
+      "url": "https://www.france24.com/en/trump-extends-ceasefire-says-giving-iran-time-to-negotiate",
+      "published": "2026-04-21T21:28:40+00:00",
+      "source": "France 24",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "Florida to open criminal investigation into OpenAI over ChatGPT’s influence on alleged mass shooter",
+      "summary": "Florida Attorney General James Uthmeier announced a criminal investigation into OpenAI to determine whether its ChatGPT tool offered \"significant advice\" to a gunman accused of carrying out a mass shooting in the state last year.",
+      "url": "https://www.theguardian.com/us-news/2026/apr/21/florida-openai-chatgpt-investigation",
+      "published": "2026-04-21T21:28:34+00:00",
+      "source": "The Guardian",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
       "title": "War in Iran is causing biggest energy crisis in history, IEA says",
       "summary": "The International Energy Agency declared that the war in Iran is causing the biggest energy crisis in history. IEA Executive Director Fatih Birol confirmed the severity of the disruption to global energy markets.",
       "url": "https://www.straitstimes.com/world/europe/war-in-iran-is-causing-biggest-energy-crisis-in-history-iea-says",
@@ -294,6 +564,42 @@
       "region_key": "asia"
     },
     {
+      "title": "Myanmar’s military government rebuffed on peace talks offer",
+      "summary": "Myanmar's military chief Min Aung Hlaing was elected president by parliament following elections widely criticized as illegitimate. His government's offer of peace talks has been rebuffed by opposition groups.",
+      "url": "https://www.aljazeera.com/news/2026/4/21/myanmars-military-government-rebuffed-on-peace-talk-offer?traffic_source=rss",
+      "published": "2026-04-21T21:21:37+00:00",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Zelensky, Merz discuss current priorities in bilateral and international cooperation",
+      "summary": "Ukrainian President Zelensky and German Chancellor Friedrich Merz discussed priorities for bilateral cooperation and coordination within multilateral formats with international partners.",
+      "url": "https://www.ukrinform.net/rubric-polytics/4115077-zelensky-merz-discuss-current-priorities-in-bilateral-and-international-cooperation.html",
+      "published": "2026-04-21T21:20:00+03:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "A Kashmir tourist hotspot became a deadly bloodbath. A year on, the pain remains unbearable",
+      "summary": "One year after militants killed 26 people at a tourist site in Indian-administered Kashmir, bereaved families continue to struggle with their losses.",
+      "url": "https://www.bbc.com/news/articles/c8ej3wl130yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-04-21T21:14:37+00:00",
+      "source": "BBC",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Air Force eyes massive boost for F-15EX fleet",
+      "summary": "The U.S. Air Force's fiscal 2027 budget proposal includes a significant expansion of the F-15EX fleet and increased funding for the F-35 Joint Strike Fighter, while slowing the planned retirement of A-10 Warthog aircraft.",
+      "url": "https://breakingdefense.com/2026/04/air-force-eyes-massive-boost-for-f-15ex-fleet/",
+      "published": "2026-04-21T21:10:36+00:00",
+      "source": "Breaking Defense",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
       "title": "EU weighs more US jet fuel, cleaner aviation amid Iran war strains",
       "summary": "The European Commission is evaluating increased imports of U.S. jet fuel, including Jet A grade, to address aviation fuel supply strains caused by the Iran war. The EU is also examining cleaner aviation fuel alternatives as part of its response.",
       "url": "https://www.straitstimes.com/world/europe/eu-weighs-more-us-jet-fuel-cleaner-aviation-amid-iran-war-strains",
@@ -301,6 +607,33 @@
       "source": "Straits Times",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "Macron says Israeli withdrawal from Lebanon key to stability",
+      "summary": "French President Emmanuel Macron and Lebanese Prime Minister Nawaf Salam held a joint news conference in Paris ahead of Lebanon-Israel talks in Washington. Macron called for Israeli withdrawal from Lebanon, internationally backed Hezbollah disarmament, and reconstruction of southern Lebanon.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/macron-says-israeli-withdrawal-lebanon-key-stability",
+      "published": "2026-04-21T21:09:57+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "China’s new Type 076 ‘drone carrier’ to take part in South China Sea training drills",
+      "summary": "China's new Type 076 amphibious assault ship Sichuan, described as a \"drone carrier,\" has departed Shanghai for sea trials in the South China Sea, where the U.S., Philippines, and Japan are simultaneously conducting joint military exercises.",
+      "url": "https://www.scmp.com/news/china/military/article/3350932/chinas-new-type-076-drone-carrier-take-part-south-china-sea-training-drills?utm_source=rss_feed",
+      "published": "2026-04-21T21:09:29+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "More than $71 billion needed over next decade to rebuild Gaza: UN, EU",
+      "summary": "A joint EU-UN assessment estimates that more than $71 billion will be needed over the next decade to rebuild war-ravaged Gaza. The report described unprecedented loss of life and a catastrophic humanitarian crisis in the Palestinian territory.",
+      "url": "https://www.france24.com/en/tv-shows/a-propos/20260421-more-than-71-billion-needed-over-next-decade-to-rebuild-gaza-un-eu",
+      "published": "2026-04-21T21:05:57+00:00",
+      "source": "France 24",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "Iran Foreign Ministry condemns arrests in UAE as 'baseless'",
@@ -321,11 +654,38 @@
       "region_key": "asia"
     },
     {
+      "title": "Ukraine reopens damaged Druzhba pipeline to unlock €90 billion EU loan",
+      "summary": "Ukraine announced it has repaired the damaged Druzhba oil pipeline, removing the final obstacle to receiving a long-delayed €90 billion EU loan. The repair forces Kyiv to resume Russian oil flows to Hungary and Slovakia despite its push for tighter sanctions on Moscow.",
+      "url": "https://www.france24.com/en/europe/20260421-ukraine-reopens-damaged-druzhba-pipeline-to-unlock-%E2%82%AC90-billion-eu-loan",
+      "published": "2026-04-21T21:04:12+00:00",
+      "source": "France 24",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "France freezes some spending to offset €6 billion fallout from Iran war",
+      "summary": "France announced a freeze on some government spending to offset at least €6 billion in economic costs stemming from the Iran war. The fallout includes increased defense spending, business and household support measures, and rising borrowing costs.",
+      "url": "https://www.france24.com/en/tv-shows/business/20260421-france-freezes-some-spending-to-offset-%E2%82%AC6-billion-fallout-from-iran-war",
+      "published": "2026-04-21T21:04:02+00:00",
+      "source": "France 24",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
       "title": "Russia’s Investigative Committee orders review of children’s author Grigory Oster’s poetry collection",
       "summary": "Alexander Bastrykin, head of Russia's Investigative Committee, ordered a review of books by children's author Grigory Oster over content deemed to raise \"pedagogical concerns,\" the agency announced on April 21.",
       "url": "https://meduza.io/en/news/2026/04/21/russia-s-investigative-committee-orders-review-of-children-s-author-grigory-oster-s-poetry-collection",
       "published": "2026-04-21T21:02:45+03:00",
       "source": "Meduza",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "Russia unable to sharply increase number of drones used in its strikes on Ukraine – expert",
+      "summary": "An expert assessment indicates Russia is unable to sharply increase the number of drones used in strikes on Ukraine. The main limiting factor, beyond munitions availability, is the number of launch sites accessible to Russian forces.",
+      "url": "https://www.ukrinform.net/rubric-ato/4115066-russia-unable-to-sharply-increase-number-of-drones-used-in-its-strikes-on-ukraine-expert.html",
+      "published": "2026-04-21T20:59:00+03:00",
+      "source": "Ukrinform",
       "region": "Europe",
       "region_key": "europe"
     },
@@ -348,6 +708,15 @@
       "region_key": "asia"
     },
     {
+      "title": "China Doesn’t Always Win When the U.S. Loses",
+      "summary": "An analysis argues that the Iran war challenges zero-sum assumptions about great-power competition, suggesting that U.S. setbacks do not automatically translate into strategic gains for China.",
+      "url": "https://foreignpolicy.com/2026/04/21/iran-war-china-us-competition-geopolitics/",
+      "published": "2026-04-21T20:50:02+00:00",
+      "source": "Foreign Policy",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
       "title": "Pakistan says formal response from Iran regarding participation in 2nd round of talks ‘still awaited’",
       "summary": "Pakistan's Information Minister Attaullah Tarar said Iran had not yet formally confirmed its participation in a second round of U.S.-Iran peace talks in Islamabad. He noted the ceasefire was set to expire on April 22 and urged Iran to respond before the deadline.",
       "url": "https://www.dawn.com/news/1993810/pakistan-says-formal-response-from-iran-regarding-participation-in-2nd-round-of-talks-still-awaited",
@@ -366,11 +735,29 @@
       "region_key": "asia"
     },
     {
+      "title": "Was Donald Trump 'blocked' from using the nuclear codes against Iran?",
+      "summary": "Former CIA analyst Larry Johnson alleged on a podcast that President Trump sought to use nuclear weapons against Iran during an emergency White House meeting but was stopped by Joint Chiefs Chairman General Dan Caine. The claim has fueled growing concerns among lawmakers about Trump's decision-making.",
+      "url": "https://www.france24.com/en/was-donald-trump-blocked-from-using-the-nuclear-codes-against-iran-1",
+      "published": "2026-04-21T20:45:21+00:00",
+      "source": "France 24",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
       "title": "Four Israeli children saved in organ transplant marathon",
       "summary": "Four Israeli children received life-saving organ transplants in a medical marathon, including a liver transplant for a 9-year-old girl, two kidney transplants for an 18-year-old and a toddler, and a heart transplant for a 3-year-old.",
       "url": "https://www.jpost.com/health-and-wellness/article-893771",
       "published": "2026-04-21T20:42:25+00:00",
       "source": "Jerusalem Post",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Trump extends ceasefire to give Iran more time to negotiate",
+      "summary": "President Trump announced he is extending the ceasefire with Iran to provide additional time for peace negotiations. The US military blockade of Iran remains in effect during the extension.",
+      "url": "https://www.newarab.com/news/trump-extends-ceasefire-give-iran-more-time-negotiate",
+      "published": "2026-04-21T20:42:21+01:00",
+      "source": "The New Arab",
       "region": "Middle East",
       "region_key": "middle-east"
     },
@@ -382,6 +769,24 @@
       "source": "The New Arab",
       "region": "Middle East",
       "region_key": "middle-east"
+    },
+    {
+      "title": "US issues more Iran sanctions on eve of possible talks in Pakistan",
+      "summary": "The Trump administration imposed sanctions on 14 individuals and entities allegedly linked to Iran's arms industry. The sanctions were announced on the eve of possible diplomatic talks in Pakistan.",
+      "url": "https://www.aljazeera.com/news/2026/4/21/us-issues-more-iran-sanctions-on-eve-of-possible-talks-in-pakistan?traffic_source=rss",
+      "published": "2026-04-21T20:42:21+00:00",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Canadian who was detained by China warns against Carney’s electric vehicle deal",
+      "summary": "Michael Kovrig, a Canadian former diplomat detained in China from 2018 to 2021, warned that Prime Minister Mark Carney's electric vehicle deal with Beijing risks creating a strategic dependency that China could exploit for political coercion.",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3350931/canadian-who-was-detained-china-warns-against-carneys-electric-vehicle-deal?utm_source=rss_feed",
+      "published": "2026-04-21T20:42:21+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
     },
     {
       "title": "In south Lebanon’s Nabatieh, residents fear a return to war",
@@ -402,6 +807,15 @@
       "region_key": "middle-east"
     },
     {
+      "title": "EU resumes aid to Ethiopia suspended over Tigray war",
+      "summary": "The European Union is set to resume budgetary aid to Ethiopia that was suspended when civil war erupted in the Tigray region in 2020. Separately, Nigeria is experiencing jet fuel shortages driven by disruptions at the Strait of Hormuz.",
+      "url": "https://www.france24.com/en/eu-resumes-aid-to-ethiopia-suspended-over-tigray-war",
+      "published": "2026-04-21T20:39:15+00:00",
+      "source": "France 24",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
       "title": "Trump says U.S. in ‘very, very strong’ position for Iran talks",
       "summary": "President Donald Trump said the United States is in a \"very, very strong\" position ahead of peace talks with Iran. He also called on Tehran to free eight women he said face execution to improve prospects for the negotiations.",
       "url": "https://www.thehindu.com/news/international/donald-trump-says-us-in-very-very-strong-position-for-iran-talks/article70888667.ece",
@@ -409,6 +823,15 @@
       "source": "The Hindu",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "Zelensky discusses EUR 90B loan in conversation with von der Leyen",
+      "summary": "President Zelensky discussed unblocking a €90 billion support package for Ukraine in a conversation with European Commission President Ursula von der Leyen.",
+      "url": "https://www.ukrinform.net/rubric-polytics/4115050-zelensky-discusses-eur-90b-loan-in-conversation-with-von-der-leyen.html",
+      "published": "2026-04-21T20:37:00+03:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
     },
     {
       "title": "SC to function with minimal staff on Wednesday; no judicial work to be conducted at FCC for 2nd consecutive day",
@@ -429,6 +852,33 @@
       "region_key": "asia"
     },
     {
+      "title": "EU eyes options as Iran conflict threatens jet fuel shortages",
+      "summary": "The European Union is exploring contingency options as a blockade of the Strait of Hormuz threatens jet fuel supplies. Europe is heavily dependent on imported jet fuel, making the disruption a significant concern for the bloc's aviation sector.",
+      "url": "https://www.aljazeera.com/news/2026/4/21/eu-eyes-options-as-iran-conflict-threatens-jet-fuel-shortages?traffic_source=rss",
+      "published": "2026-04-21T20:33:13+00:00",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Sudan refugees returning home face new ‘struggle for survival’: UN",
+      "summary": "The United Nations has warned that Sudanese refugees returning home face a severe humanitarian crisis. Returnees are encountering heavily damaged homes, water supplies, health facilities, and electricity infrastructure, with chronic underinvestment compounding the challenges.",
+      "url": "https://www.aljazeera.com/news/2026/4/21/sudan-refugees-returning-home-face-new-struggle-for-survival-un?traffic_source=rss",
+      "published": "2026-04-21T20:32:32+00:00",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "US imposes new sanctions against suppliers of weapons to Iran",
+      "summary": "The US Treasury imposed new sanctions on 14 individuals and companies, as well as aircraft, linked to supplying rocket and drone components to Iran. Treasury Secretary Bessent stated the Iranian regime would be held accountable.",
+      "url": "https://www.timesofisrael.com/us-imposes-new-sanctions-against-suppliers-of-weapons-to-iran/",
+      "published": "2026-04-21T20:32:10+00:00",
+      "source": "Times of Israel",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "Taiwan president cancels Africa trip blaming Chinese pressure",
       "summary": "Taiwan's President Lai Ching-te cancelled a planned trip to Africa after at least one country, Madagascar, denied overflight permission. Taipei attributed the denials to pressure from China.",
       "url": "https://www.thehindu.com/news/international/taiwan-president-cancels-africa-trip-blaming-chinese-pressure/article70888985.ece",
@@ -447,6 +897,24 @@
       "region_key": "asia"
     },
     {
+      "title": "Dozens of US lawmakers have been accused of sexual harassment, study finds",
+      "summary": "A study by the National Women's Defense League found that 53 workplace sexual harassment allegations have been made against at least 30 U.S. House and Senate lawmakers over the past two decades. Nine of the accused lawmakers still hold office.",
+      "url": "https://www.theguardian.com/us-news/2026/apr/21/house-senate-sexual-harassment-study",
+      "published": "2026-04-21T20:29:55+00:00",
+      "source": "The Guardian",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "Trump announces Iran ceasefire extension but says blockade remains",
+      "summary": "US President Donald Trump announced an extension of the ceasefire with Iran but stated that the naval blockade would remain in place. Trump said military attacks would be paused until Iranian leaders present a unified proposal to end the war.",
+      "url": "https://www.aljazeera.com/news/2026/4/21/trump-announces-extending-iran-ceasefire-but-says-blockade-remains?traffic_source=rss",
+      "published": "2026-04-21T20:22:17+00:00",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "Lebanon PM and Macron to discuss bolstering country’s position in Israel talks",
       "summary": "Lebanese Prime Minister and French President Emmanuel Macron are set to discuss strengthening Lebanon's negotiating position in talks with Israel. The United States will host ambassador-level discussions with Israel and Lebanon on April 23.",
       "url": "https://www.straitstimes.com/world/europe/lebanon-pm-and-macron-to-discuss-bolstering-countrys-position-in-israel-talks",
@@ -454,6 +922,15 @@
       "source": "Straits Times",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "Zelensky, Costa agree to meet to discuss cooperation in Drone Deal format",
+      "summary": "President Zelensky and European Council President António Costa agreed to meet to discuss cooperation under the Drone Deal format. They also discussed unblocking €90 billion in EU aid for Ukraine.",
+      "url": "https://www.ukrinform.net/rubric-polytics/4115046-zelensky-costa-agree-to-meet-to-discuss-cooperation-in-drone-deal-format.html",
+      "published": "2026-04-21T20:20:00+03:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
     },
     {
       "title": "Health minister says medicine stocks sufficient to meet demand for next 5 to 6 months",
@@ -474,6 +951,24 @@
       "region_key": "europe"
     },
     {
+      "title": "Germany, Italy block bid to suspend EU-Israel trade agreement",
+      "summary": "Germany and Italy blocked an effort within the European Union to suspend the bloc's association agreement with Israel. The move prevented the EU from taking collective trade action against Israel.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/21/germany-italy-block-bid-to-suspend-eu-israel-trade-agreement?traffic_source=rss",
+      "published": "2026-04-21T20:16:19+00:00",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "6 Things I Wish I Knew About the U.S. and Israeli Positions on Iran",
+      "summary": "A commentary identifies six key knowledge gaps regarding U.S. and Israeli positions on the Iran conflict that make it difficult to assess how the war will conclude.",
+      "url": "https://foreignpolicy.com/2026/04/21/gaps-knowledge-iran-united-states-israel-war-oil/",
+      "published": "2026-04-21T20:12:54+00:00",
+      "source": "Foreign Policy",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
       "title": "U.S., Iran signal they will return to Pakistan for ceasefire talks, officials say",
       "summary": "Both the United States and Iran signaled they would return to Pakistan for ceasefire talks. President Trump had accused Iran of repeatedly violating the ceasefire in the broader West Asian conflict.",
       "url": "https://www.thehindu.com/news/international/us-iran-signal-they-will-return-to-pakistan-for-ceasefire-talks-officials-say/article70889002.ece",
@@ -483,6 +978,15 @@
       "region_key": "asia"
     },
     {
+      "title": "Trump’s US Fed nominee Warsh vows independence, says he’s no ‘sock puppet’",
+      "summary": "Kevin Warsh, Donald Trump's nominee to lead the US Federal Reserve, testified at his confirmation hearing and pledged to maintain the institution's independence. His hearing drew scrutiny amid Trump's renewed calls for interest rate cuts.",
+      "url": "https://www.aljazeera.com/economy/2026/4/21/trumps-us-fed-nominee-warsh-vows-independence-says-hes-no-sock-puppet?traffic_source=rss",
+      "published": "2026-04-21T20:05:52+00:00",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "Teenager in Russia injured after picking up explosive device disguised as bundle of banknotes",
       "summary": "A teenager in the Russian city of Perm sustained burns after picking up an explosive device disguised as a bundle of banknotes that detonated on contact, according to the regional Territorial Security Ministry and Interfax.",
       "url": "https://meduza.io/en/news/2026/04/21/teenager-in-russia-suffers-burns-after-picking-up-explosive-device-disguised-as-bundle-of-banknotes",
@@ -490,6 +994,15 @@
       "source": "Meduza",
       "region": "Europe",
       "region_key": "europe"
+    },
+    {
+      "title": "Russia's Sergei Shoigu says safety of Russians in Transnistria under threat, TASS reports",
+      "summary": "Sergei Shoigu, secretary of Russia's Security Council, declared that Russian citizens in Moldova's breakaway Transnistria region face threats to their safety. Analysts note Russia is employing tactics similar to those used to justify intervention in eastern Ukraine and Donbas.",
+      "url": "https://www.france24.com/en/russia-s-sergei-shoigu-says-safety-of-russians-in-transnistria-under-threat-tass-reports",
+      "published": "2026-04-21T20:03:08+00:00",
+      "source": "France 24",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "Russia’s state-backed messaging app Max renamed ’Макс’ (Maks) in app stores amid law restricting foreign loanwords",
@@ -519,6 +1032,15 @@
       "region_key": "middle-east"
     },
     {
+      "title": "Russian strike in Dnipropetrovsk region leaves three people injured, damages minibus",
+      "summary": "A Russian attack in the Pokrovske community of Ukraine's Dnipropetrovsk region damaged a scheduled minibus and injured three people.",
+      "url": "https://www.ukrinform.net/rubric-ato/4115037-russian-strike-in-dnipropetrovsk-region-leaves-three-people-injured-damages-minibus.html",
+      "published": "2026-04-21T19:59:00+03:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
       "title": "NATO criticises Russian and Chinese nuclear stances, urges cooperation with US",
       "summary": "NATO criticized Russia and China's nuclear arms policies and urged both nations to engage with the United States to improve stability and transparency. The alliance made the remarks ahead of an upcoming international conference on nuclear arms.",
       "url": "https://www.straitstimes.com/world/europe/nato-criticises-russian-and-chinese-nuclear-stances-urges-cooperation-with-us",
@@ -546,6 +1068,15 @@
       "region_key": "asia"
     },
     {
+      "title": "Two CIA agents reportedly killed in car crash in Mexican state of Chihuahua",
+      "summary": "Two CIA agents were reportedly killed in a car crash in the Mexican state of Chihuahua. Their presence in a law enforcement convoy has raised questions about US operations on Mexican soil and respect for Mexico's sovereignty.",
+      "url": "https://www.aljazeera.com/news/2026/4/21/two-cia-agents-reportedly-killed-in-car-crash-in-mexican-state-of-chihuahua?traffic_source=rss",
+      "published": "2026-04-21T19:49:14+00:00",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "EU divided on suspension of Israel pact as Spain pushes for action",
       "summary": "EU member states including Spain and Ireland pushed for suspending the bloc's association agreement with Israel, but the European Union remained divided on the issue. The debate took place at a meeting in Brussels on Tuesday.",
       "url": "https://www.straitstimes.com/world/europe/eu-divided-on-suspension-of-israel-pact-as-spain-pushes-for-action",
@@ -555,6 +1086,24 @@
       "region_key": "asia"
     },
     {
+      "title": "South Sudan to hold elections in December as fighting rages on",
+      "summary": "South Sudan has announced plans to hold elections in December after years of delays, even as the country faces ongoing fighting and the threat of renewed civil war.",
+      "url": "http://www.africanews.com/2026/04/21/south-sudan-to-hold-elections-in-december-as-fighting-rages-on/",
+      "published": "2026-04-21T19:43:37+00:00",
+      "source": "Africanews",
+      "region": "Africa",
+      "region_key": "africa"
+    },
+    {
+      "title": "Israeli rabbi who bulldozed Gaza honoured as torchbearer",
+      "summary": "Rabbi Avraham Zarbiv, known for documenting his use of a bulldozer to destroy structures in Gaza, was honored as a torchbearer during Israel's Independence Day celebrations.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/21/israeli-rabbi-who-bulldozed-gaza-honoured-as-torchbearer?traffic_source=rss",
+      "published": "2026-04-21T19:43:33+00:00",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "Iran state TV says ceasefire ends at midnight GMT",
       "summary": "Iranian state television announced the US-Iran ceasefire, in effect since April 8, would expire at midnight GMT on Wednesday. However, President Trump indicated a later deadline, and mediator Pakistan offered yet another timeline, ending at 23:50 GMT.",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-state-tv-says-ceasefire-ends-midnight-gmt",
@@ -562,6 +1111,15 @@
       "source": "Middle East Eye",
       "region": "Middle East",
       "region_key": "middle-east"
+    },
+    {
+      "title": "Zelensky discusses areas of cooperation between Ukraine and Chile with President Kast Rist",
+      "summary": "Ukrainian President Zelensky held talks with Chilean President José Antonio Kast Rist to discuss areas of bilateral cooperation between Ukraine and Chile.",
+      "url": "https://www.ukrinform.net/rubric-polytics/4115033-zelensky-discusses-areas-of-cooperation-between-ukraine-and-chile-with-president-kast-rist.html",
+      "published": "2026-04-21T19:37:00+03:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
     },
     {
       "title": "Video: Israeli soldiers sing national anthem on ruins of Lebanese town",
@@ -582,6 +1140,15 @@
       "region_key": "middle-east"
     },
     {
+      "title": "Significant 'overlap' between auto industry and arms manufacturing, expert says",
+      "summary": "European automobile manufacturers are increasingly pivoting toward producing combat drones and defense systems as the continent seeks to rearm against Russian threats. Experts note significant overlap in engineering expertise between the automotive and arms industries.",
+      "url": "https://www.france24.com/en/significant-overlap-between-auto-industry-and-arms-manufacturing-expert-says",
+      "published": "2026-04-21T19:35:19+00:00",
+      "source": "France 24",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
       "title": "India bats for greater Global South representation in UNSC",
       "summary": "India called for greater Global South representation on the UN Security Council, particularly in the permanent member category, at Inter-Governmental Negotiations on UNSC reform.",
       "url": "https://www.thehindu.com/news/national/india-bats-for-greater-global-south-representation-in-unsc/article70888720.ece",
@@ -589,6 +1156,15 @@
       "source": "The Hindu",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "Lebanon war puts pregnant women at risk",
+      "summary": "Lebanon's healthcare system is under severe strain despite a temporary ceasefire between Israel and Hezbollah. Thousands of displaced pregnant women face significant difficulties accessing medical services.",
+      "url": "https://www.dw.com/en/lebanon-war-puts-pregnant-women-at-risk/a-76884533?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-04-21T19:30:00+00:00",
+      "source": "DW",
+      "region": "Europe",
+      "region_key": "europe"
     },
     {
       "title": "IDF confirms Hezbollah drone caused sirens in northern Israel in violation of ceasefire",
@@ -625,6 +1201,15 @@
       "source": "Straits Times",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "Ukraine completes repairs on Druzhba oil pipeline, it can resume operations - Zelensky",
+      "summary": "President Zelensky announced that Ukraine has completed repairs on a section of the Druzhba oil pipeline damaged by a Russian strike. The pipeline is now ready to resume operations.",
+      "url": "https://www.ukrinform.net/rubric-economy/4115028-ukraine-completes-repairs-on-druzhba-oil-pipeline-it-can-resume-operations-zelensky.html",
+      "published": "2026-04-21T19:16:00+03:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
     },
     {
       "title": "Kyiv shooter quarrelled with neighbour before attack, minister says",
@@ -715,6 +1300,24 @@
       "source": "Defense News",
       "region": "Global",
       "region_key": "all"
+    },
+    {
+      "title": "Pentagon seeks funds for Golden Dome, drones, AI in largest-ever budget request",
+      "summary": "The Pentagon submitted its largest-ever budget request, seeking funds for the Golden Dome missile defense shield, drones, artificial intelligence, data infrastructure, and the defense industrial base.",
+      "url": "https://www.defensenews.com/news/pentagon-congress/2026/04/21/pentagon-seeks-funds-for-golden-dome-drones-ai-in-largest-ever-budget-request/",
+      "published": "2026-04-21T18:58:09+00:00",
+      "source": "Defense News",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "Russians strike Bohodukhiv in Kharkiv region again, two people wounded",
+      "summary": "Russian forces carried out a repeated strike on the city of Bohodukhiv in Ukraine's Kharkiv region, wounding two women.",
+      "url": "https://www.ukrinform.net/rubric-ato/4115022-russians-struck-bohodukhiv-in-kharkiv-region-again-two-people-wounded.html",
+      "published": "2026-04-21T18:55:00+03:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
     },
     {
       "title": "Russia Says Freed 2 Hostages Taken by Jihadists in Niger",
@@ -1192,6 +1795,15 @@
       "source": "Times of Israel",
       "region": "Middle East",
       "region_key": "middle-east"
+    },
+    {
+      "title": "How the War in Iran Is Affecting Its Northern and Eastern Neighbors",
+      "summary": "The U.S.-Israeli war with Iran, which began on February 28, has produced significant ripple effects beyond the immediate conflict zone, affecting Iran's northern and eastern neighbors with both security risks and potential strategic opportunities.",
+      "url": "https://warontherocks.com/how-the-war-in-iran-is-affecting-its-northern-and-eastern-neighbors/",
+      "published": "2026-04-21T17:30:41+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "Some 150 Jewish leaders denounce, apologize for IDF soldier's defacement of Lebanese Jesus statue",
@@ -171402,35 +172014,8 @@
       "region_key": "middle-east"
     },
     {
-      "title": "National blackout hits Cuba for second time in a week",
-      "summary": "Cuba experienced its second national blackout in a week due to a total failure of its power grid. The crisis underscores the country's ongoing hardship exacerbated by a U.S.-imposed fuel blockade.",
-      "url": "https://www.bbc.com/news/articles/cvg0l44yxrvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-03-22T21:31:41+00:00",
-      "source": "BBC",
-      "region": "Americas",
-      "region_key": "americas"
-    },
-    {
-      "title": "Why did US and Israel attack Iran and how long could the war last?",
-      "summary": "The US and Israel launched strikes on Iran on 28 February, sparking a wider conflict that has spread across the Middle East.",
-      "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-03-22T21:15:58+00:00",
-      "source": "BBC",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Israel to expand ground and air attacks against Hezbollah in Lebanon",
-      "summary": "Israel is planning to expand ground and air operations against Hezbollah in Lebanon, raising fears among Lebanese residents of a large-scale ground invasion.",
-      "url": "https://www.bbc.com/news/articles/c30rl05evd8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-03-22T20:23:07+00:00",
-      "source": "BBC",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
       "title": "One house, two faiths, one fasting season",
-      "summary": "In Nigeria, a couple named Olanrewaju and Kaosara are observing Ramadan and Lent simultaneously, as the two fasting seasons overlap for the first time since 1993.",
+      "summary": "In Nigeria, a married couple, Olanrewaju and Kaosara, are observing Ramadan and Lent simultaneously — the first overlap of the two fasting periods since 1993.",
       "url": "https://www.bbc.com/news/videos/cwygeypnevxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-03-12T12:40:13+00:00",
       "source": "BBC",
@@ -171447,8 +172032,98 @@
       "region_key": "africa"
     },
     {
+      "title": "El-Sisi says Egypt in ‘state of near-emergency’ as war threatens economy",
+      "summary": "Egyptian President Abdel Fattah El-Sisi declared his country is in an economic \"state of near-emergency\" due to the Middle East war, warning of runaway inflation. Although Egypt has not been directly struck, the conflict has paralyzed trade through the Strait of Hormuz and affected its Gulf allies.",
+      "url": "https://www.arabnews.com/node/2635410/middle-east",
+      "published": "2026-03-05T11:03:29+03:00",
+      "source": "Arab News",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "How Israel’s ‘buffer zone’ plan could redraw the map of southern Lebanon",
+      "summary": "Israel announced a ground incursion into southern Lebanon aimed at establishing a permanent \"security zone\" along the border. The operation was triggered after Hezbollah launched attacks on Israeli forces from positions both south and north of the Litani River.",
+      "url": "https://www.arabnews.com/node/2635409/middle-east",
+      "published": "2026-03-05T10:03:55+03:00",
+      "source": "Arab News",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Israel decided to kill Khamenei in November, defense minister says",
+      "summary": "Israeli Defense Minister Israel Katz revealed that Israel decided in November to assassinate Iran's Supreme Leader Ali Khamenei and planned to carry out the operation roughly six months later. Khamenei was killed in the opening hours of the US-Israeli air campaign, marking the first assassination of a sitting head of state by airstrike.",
+      "url": "https://www.arabnews.com/node/2635406/middle-east",
+      "published": "2026-03-05T10:03:51+03:00",
+      "source": "Arab News",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Macron calls on Israel, Iran and Hezbollah to prevent Lebanon being embroiled in conflict",
+      "summary": "French President Emmanuel Macron called on Israel and Iran not to draw Lebanon into the wider Middle East conflict. He announced a plan to end hostilities between Israel and Hezbollah, including military aid to the Lebanese army, as Israel ordered evacuations in Beirut's southern suburbs and eastern Bekaa region.",
+      "url": "https://www.arabnews.com/node/2635405/middle-east",
+      "published": "2026-03-05T10:03:44+03:00",
+      "source": "Arab News",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Trump fires homeland security chief Kristi Noem",
+      "summary": "US President Donald Trump fired Homeland Security Secretary Kristi Noem after she testified that he had approved a $220 million DHS advertising campaign featuring herself. Trump announced that Republican Senator Markwayne Mullen of Oklahoma would replace her effective March 31.",
+      "url": "https://www.arabnews.com/node/2635407/world",
+      "published": "2026-03-05T10:03:32+03:00",
+      "source": "Arab News",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Jordan’s king condemns Iranian attacks in region during talks with Syrian president",
+      "summary": "Jordan's King Abdullah and Syrian President Ahmad Al-Sharaa held a telephone conversation about the regional crisis following US and Israeli attacks on Iran. Both leaders stressed the importance of dialogue to prevent further escalation.",
+      "url": "https://www.arabnews.com/node/2635404/middle-east",
+      "published": "2026-03-05T10:03:26+03:00",
+      "source": "Arab News",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Europol warns Iran crisis raises threat of terror, extremism and cyberattacks",
+      "summary": "Europol warned that the Middle East conflict will have immediate security repercussions for the European Union, including increased threats of terrorism, organized crime, violent extremism, and cyberattacks. A Europol spokesperson said cyberattacks on European infrastructure and AI-driven online fraud are expected to increase.",
+      "url": "https://www.arabnews.com/node/2635408/world",
+      "published": "2026-03-05T10:03:24+03:00",
+      "source": "Arab News",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Swedish intelligence warns of increased Middle East war fallout",
+      "summary": "Sweden's Security Service warned of increased threats against American and Israeli interests, as well as Iranian dissidents, in Sweden due to the Middle East war. Operations chief Fredrik Hallstrom said Sweden's security situation, already strained by Russia's invasion of Ukraine, has worsened since US-Israeli strikes on Iran.",
+      "url": "https://www.arabnews.com/node/2635400/world",
+      "published": "2026-03-05T09:03:46+03:00",
+      "source": "Arab News",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Kane to miss Bayern game against Gladbach with calf knock",
+      "summary": "Bayern Munich striker Harry Kane will miss the Bundesliga match against Borussia Moenchengladbach due to a calf injury. Coach Vincent Kompany said Kane is expected to recover in time for the Champions League last-16 first leg against Atalanta.",
+      "url": "https://www.arabnews.com/node/2635402/sport",
+      "published": "2026-03-05T09:03:33+03:00",
+      "source": "Arab News",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "PSG prepare for Chelsea clash with Monaco rematch",
+      "summary": "Paris Saint-Germain face Monaco in Ligue 1 on Friday ahead of their Champions League last-16 clash with Chelsea. Coach Luis Enrique said the best part of the season is beginning as PSG remain in contention to retain both their domestic and European titles.",
+      "url": "https://www.arabnews.com/node/2635401/sport",
+      "published": "2026-03-05T09:03:29+03:00",
+      "source": "Arab News",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "At the scene: Muslims killed 'over rejection of extremist ideology' in Nigeria",
-      "summary": "At least 78 people have been buried and more than 170 are feared killed in an attack targeting Muslims in Nigeria, reportedly carried out over the victims' rejection of extremist ideology.",
+      "summary": "At least 78 people have been buried and more than 170 are feared killed in an attack on Muslims in Nigeria, reportedly linked to their rejection of extremist ideology.",
       "url": "https://www.bbc.com/news/videos/czej7xpx0x9o?at_medium=RSS&at_campaign=rss",
       "published": "2026-02-05T17:15:30+00:00",
       "source": "BBC",
@@ -171457,7 +172132,7 @@
     },
     {
       "title": "From the front lines to the future: Israeli society and the Jewish people in 2036",
-      "summary": "At the Jerusalem Post Miami Conference, IDF veterans and civil-society leaders discussed service, dignity, and Diaspora responsibility as foundations for Israel's future over the next decade.",
+      "summary": "At the Jerusalem Post Miami Conference, IDF veterans and civil-society leaders discussed their vision for Israeli society and the Jewish people over the next decade. Panelists emphasized military service, dignity, and Diaspora responsibility as foundational pillars.",
       "url": "https://www.jpost.com/conferences/article-883574",
       "published": "2026-01-15T23:48:03+00:00",
       "source": "Jerusalem Post",
@@ -171466,7 +172141,7 @@
     },
     {
       "title": "How TALMA turns English education into social mobility and a Zionist mission",
-      "summary": "At the Jerusalem Post Miami Conference, TALMA CEO Ido Mahatzri presented the organization's work using English education to promote social mobility in Israel's periphery, describing it as both an educational and Zionist mission.",
+      "summary": "At the Jerusalem Post Miami Conference, TALMA CEO Ido Mahatzri presented the organization's work using English education to promote social mobility in Israel's periphery. The initiative combines language instruction with broader community development values.",
       "url": "https://www.jpost.com/conferences/article-883562",
       "published": "2026-01-15T21:10:20+00:00",
       "source": "Jerusalem Post",
@@ -171475,7 +172150,7 @@
     },
     {
       "title": "'Over 90% of Iranians hate the regime,' INSS’s Beni Sabti reveals from leaked Iran survey",
-      "summary": "Beni Sabti of Israel's Institute for National Security Studies cited a leaked Iranian survey indicating that 92% of Iranians oppose their regime. The secret poll's findings were shared with The Jerusalem Post.",
+      "summary": "A leaked Iranian survey discussed by the Institute for National Security Studies' Beni Sabti reportedly found that 92% of Iranians oppose their regime. The secret poll's findings were shared at the Jerusalem Post Miami Summit.",
       "url": "https://www.jpost.com/middle-east/iran-news/article-883465",
       "published": "2026-01-15T11:42:41+00:00",
       "source": "Jerusalem Post",
@@ -171484,7 +172159,7 @@
     },
     {
       "title": "Alshareef: Israel, Jews, should help Iranians seek liberty to ‘repay debt to Cyrus’",
-      "summary": "At the Jerusalem Post Miami Summit, commentator Alshareef called on Israel and the Jewish people to support Iranians seeking freedom, framing it as repaying a historical debt to the Persian king Cyrus. Prime Minister Netanyahu voiced solidarity with Iranian protesters.",
+      "summary": "At the Jerusalem Post Miami Summit, commentator Alshareef called on Israel and the Jewish people to support Iranians seeking freedom, invoking a historical debt to the Persian King Cyrus. Prime Minister Netanyahu also voiced solidarity with Iranian protesters.",
       "url": "https://www.jpost.com/middle-east/abraham-accords/article-883448",
       "published": "2026-01-14T09:57:00+00:00",
       "source": "Jerusalem Post",
@@ -171493,7 +172168,7 @@
     },
     {
       "title": "Watch: The Jerusalem Post Miami Summit",
-      "summary": "The Jerusalem Post Miami Summit addressed shifting geopolitics and evolving Diaspora-Israel relations, serving as a forum for cross-continental dialogue and policy discussions.",
+      "summary": "The Jerusalem Post Miami Summit convened discussions on shifting geopolitics and evolving Diaspora-Israel relations. The conference featured discussions and speakers focused on building international bridges within the Jewish community.",
       "url": "https://www.jpost.com/conferences/article-882743",
       "published": "2026-01-08T14:27:15+00:00",
       "source": "Jerusalem Post",
@@ -171502,7 +172177,7 @@
     },
     {
       "title": "The gifts I have been given: Survival as a collective act in Sudan",
-      "summary": "In Sudan, community members are relying on collective mutual aid as a means of survival amid the ongoing conflict, highlighting grassroots solidarity networks sustaining displaced populations.",
+      "summary": "In Sudan, communities are relying on collective mutual aid efforts to survive amid the ongoing armed conflict, with individuals sharing resources and support as formal systems remain disrupted.",
       "url": "https://www.thenewhumanitarian.org/opinion/first-person/2026/01/08/gifts-survival-collective-help-sudan",
       "published": "2026-01-08T10:38:12+00:00",
       "source": "New Humanitarian",
@@ -171511,7 +172186,7 @@
     },
     {
       "title": "Hope and resistance: Slam poets capture the weight of war in DR Congo",
-      "summary": "In the Democratic Republic of Congo, slam poets are using their art to express the emotional weight of ongoing armed conflict, conveying themes of hope and resistance.",
+      "summary": "Slam poets in the Democratic Republic of Congo are using spoken-word performances to express the emotional toll of ongoing armed conflict while conveying themes of hope and resistance.",
       "url": "https://www.thenewhumanitarian.org/feature/2025/09/22/hope-resistance-slam-poetry-poets-capture-weight-war-drc-congo",
       "published": "2025-09-22T11:40:00+00:00",
       "source": "New Humanitarian",
@@ -171520,7 +172195,7 @@
     },
     {
       "title": "Beware the AI efficiency messiah",
-      "summary": "A commentary raises concerns about the uncritical embrace of artificial intelligence as a solution for organizational efficiency, cautioning against overreliance on AI-driven approaches.",
+      "summary": "A commentary examines concerns about the uncritical embrace of artificial intelligence as a solution for institutional efficiency, cautioning against overpromising on AI's transformative potential.",
       "url": "https://www.thenewhumanitarian.org/opinion/2025/09/22/beware-ai-efficiency-messiah",
       "published": "2025-09-22T09:00:00+00:00",
       "source": "New Humanitarian",
@@ -171529,7 +172204,7 @@
     },
     {
       "title": "Israeli bombing exposes critical shortages in Iran’s healthcare system",
-      "summary": "Israeli military strikes on Iran have exposed critical shortages within Iran's healthcare system, straining medical infrastructure and revealing systemic vulnerabilities.",
+      "summary": "Israeli airstrikes have exposed significant shortages and vulnerabilities within Iran's healthcare system, straining medical infrastructure amid the ongoing conflict.",
       "url": "https://www.thenewhumanitarian.org/news/2025/06/27/israeli-bombing-exposes-critical-shortages-iran-healthcare-system",
       "published": "2025-06-27T12:29:00+00:00",
       "source": "New Humanitarian",
@@ -171538,7 +172213,7 @@
     },
     {
       "title": "Myanmar in-depth: Slow earthquake response underlines need to overhaul long-flawed international aid efforts",
-      "summary": "Following Myanmar's recent earthquake, the slow international humanitarian response has highlighted long-standing flaws in the global aid system and the need for structural reform.",
+      "summary": "Following a major earthquake in Myanmar, international relief efforts were criticized for their slow response, highlighting long-standing structural flaws in the global humanitarian aid system.",
       "url": "https://www.thenewhumanitarian.org/analysis/2025/05/15/myanmar-depth-slow-earthquake-response-underlines-need-overhaul-long-flawed",
       "published": "2025-05-16T18:00:00+00:00",
       "source": "New Humanitarian",
@@ -171547,7 +172222,7 @@
     },
     {
       "title": "As Sudan army gains drive mass returns, mutual aid groups begin to rebuild",
-      "summary": "As Sudanese army advances drive mass civilian returns to recaptured areas, local mutual-aid groups are beginning efforts to rebuild communities and provide essential services.",
+      "summary": "As the Sudanese Armed Forces recapture territory, displaced civilians are returning to their communities. Mutual aid groups are stepping in to lead grassroots rebuilding efforts.",
       "url": "https://www.thenewhumanitarian.org/news-feature/2025/04/30/sudan-army-gains-drive-mass-returns-mutual-aid-groups-begin-rebuild",
       "published": "2025-04-30T10:14:15+00:00",
       "source": "New Humanitarian",
