@@ -1,10 +1,19 @@
 {
-  "last_updated": "2026-04-25T08:44:38.263171+00:00",
-  "story_count": 19908,
-  "new_this_run": 65,
+  "last_updated": "2026-04-25T10:38:10.552948+00:00",
+  "story_count": 19887,
+  "new_this_run": 78,
   "feed_count": 53,
   "retention_days": 30,
   "stories": [
+    {
+      "title": "Republicans retool midterm strategy: Trump's policies, but less Trump",
+      "summary": "Republicans in the United States are adjusting their strategy for the upcoming midterm elections amid rising gas prices, declining approval ratings for President Donald Trump, and the ongoing Iran war. The recalibration involves promoting Trump's policies while reducing emphasis on Trump himself.",
+      "url": "https://www.straitstimes.com/world/republicans-retool-midterm-strategy-trumps-policies-but-less-trump",
+      "published": "2026-04-25T18:06:21+08:00",
+      "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
     {
       "title": "Iran executes man over ‘mission’ for Israel’s spy agency",
       "summary": "Iranian authorities have executed nine men on charges connected to nationwide protests since March 19. The executions are part of a broader crackdown following widespread unrest in the country.",
@@ -24,11 +33,56 @@
       "region_key": "asia"
     },
     {
+      "title": "Bangladesh issues nationwide security alert over possible militant attacks",
+      "summary": "Bangladesh's police headquarters issued a nationwide security alert based on intelligence reports warning of possible militant attacks. Officials described the alert as urgent and confidential.",
+      "url": "https://www.thehindu.com/news/international/bangladesh-issues-nationwide-security-alert-over-possible-militant-attacks/article70904952.ece",
+      "published": "2026-04-25T15:09:08+05:30",
+      "source": "The Hindu",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Is Karachi disposable by design?",
+      "summary": "A January 18 fire at Gul Plaza in Karachi killed 70 people, followed by three additional market fires in the city that same month. The incidents have fueled public anger over years of urban negligence, including unsafe buildings, open manholes, and inadequate fire safety infrastructure.",
+      "url": "https://www.dawn.com/news/1973699/is-karachi-disposable-by-design",
+      "published": "2026-04-25T15:06:33+05:00",
+      "source": "Dawn",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Major Russian attack on Ukraine kills four, wounds dozens",
+      "summary": "Russia attacked Ukraine with 619 drones and 47 missiles, according to Ukraine's air force. The assault killed at least four people and wounded dozens across the country.",
+      "url": "https://www.straitstimes.com/world/europe/major-russian-attack-on-ukraine-kills-four-wounds-dozens",
+      "published": "2026-04-25T15:06:30+08:00",
+      "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
       "title": "US negotiators to go to Islamabad, but Iran says no direct talks",
       "summary": "US negotiators are set to travel to Islamabad for indirect talks regarding Iran. Tehran's Foreign Ministry stated there would be no direct negotiations with the United States, and that Iran's concerns would be conveyed through mediator Pakistan.",
       "url": "https://www.straitstimes.com/world/middle-east/us-negotiators-to-go-to-islamabad-but-iran-says-no-direct-talks",
       "published": "2026-04-25T14:41:23+08:00",
       "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Strait of Hormuz closure pushes Pakistan into expensive $18.4 per mmBtu LNG deal",
+      "summary": "Pakistan's state-run Pakistan LNG Limited accepted a revised bid of $18.4 per mmBtu from TotalEnergies for a late-April delivery. The high cost is linked to disruptions caused by the closure of the Strait of Hormuz, which has constrained global energy shipments.",
+      "url": "https://www.dawn.com/news/1994972/strait-of-hormuz-closure-pushes-pakistan-into-expensive-184-per-mmbtu-lng-deal",
+      "published": "2026-04-25T14:18:02+05:00",
+      "source": "Dawn",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "3 killed in latest clashes in India's troubled Manipur state",
+      "summary": "Three men were killed in gun battles between rival ethnic groups in Mullam village, Ukhrul district, in India's northeastern Manipur state. The region has experienced nearly three years of periodic clashes between the Meitei majority and the Kuki community, with over 250 people killed.",
+      "url": "https://www.dawn.com/news/1994980/3-killed-in-latest-clashes-in-indias-troubled-manipur-state",
+      "published": "2026-04-25T14:03:27+05:00",
+      "source": "Dawn",
       "region": "Asia",
       "region_key": "asia"
     },
@@ -96,6 +150,24 @@
       "region_key": "asia"
     },
     {
+      "title": "President: Air defenses downed over 90% of aerial targets in Russian night attack",
+      "summary": "Ukrainian President Volodymyr Zelensky reported that air defenses destroyed more than 90% of aerial targets during a massive Russian nighttime attack. He noted that defense against ballistic missiles remains the most vulnerable area.",
+      "url": "https://www.ukrinform.net/rubric-ato/4116469-president-air-defenses-downed-over-90-of-aerial-targets-in-russian-night-attack.html",
+      "published": "2026-04-25T13:23:00+03:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "Dozens of Palestinians breach IDF checkpoints to enter Jenin refugee camp",
+      "summary": "Dozens of Palestinians breached Israeli military checkpoints to enter the Jenin refugee camp in the occupied West Bank. At least 10 Palestinians were detained, and IDF forces deployed drones to monitor and locate additional suspects.",
+      "url": "https://www.jpost.com/middle-east/article-894101",
+      "published": "2026-04-25T13:15:57+00:00",
+      "source": "Jerusalem Post",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "Rubio’s absence from Iran talks highlights stay-at-home role",
       "summary": "U.S. Secretary of State Marco Rubio was absent from Iran-related negotiations, underscoring his increasingly domestically focused role. Rubio has been occupied with his dual responsibilities as Secretary of State and National Security Adviser in recent months.",
       "url": "https://www.straitstimes.com/world/united-states/rubios-absence-from-iran-talks-highlights-stay-at-home-role",
@@ -105,6 +177,15 @@
       "region_key": "asia"
     },
     {
+      "title": "Bomb disposal experts in Dnipro recover Russian drone warhead from apartment",
+      "summary": "Police bomb disposal experts in Dnipro recovered an undetonated warhead from a Russian drone found inside an apartment in a high-rise residential building.",
+      "url": "https://www.ukrinform.net/rubric-ato/4116467-bomb-disposal-experts-in-dnipro-recover-russian-drone-warhead-from-apartment.html",
+      "published": "2026-04-25T12:58:00+03:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
       "title": "Romania says drone fragments damage property during overnight Russian attack on Ukraine",
       "summary": "Romania's defense ministry reported that drone fragments from an overnight Russian attack on Ukraine landed in the southeastern city of Galati. The debris damaged an electricity pole and a household annex. Romanian authorities recovered the fragments and confirmed property damage.",
       "url": "https://www.straitstimes.com/world/europe/romania-says-drone-fragments-damage-property-during-overnight-russian-attack-on-ukraine",
@@ -112,6 +193,15 @@
       "source": "Straits Times",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "Zelensky announces five bilateral agreements with Azerbaijan",
+      "summary": "Ukrainian President Volodymyr Zelensky announced during a visit to Azerbaijan that the two countries would work on concluding five bilateral state agreements.",
+      "url": "https://www.ukrinform.net/rubric-polytics/4116465-zelensky-announces-five-bilateral-agreements-with-azerbaijan.html",
+      "published": "2026-04-25T12:31:00+03:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
     },
     {
       "title": "Trump to attend his first White House Correspondents’ Dinner; things could get awkward",
@@ -177,6 +267,15 @@
       "region_key": "asia"
     },
     {
+      "title": "Police detain six minors for Independence Day stabbing of pizzeria worker in Petah Tikva",
+      "summary": "Israeli police detained six minors in connection with the fatal stabbing of recently discharged IDF soldier Yemanu Binyamin Zalka outside a pizzeria in Petah Tikva on Independence Day eve.",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-894099",
+      "published": "2026-04-25T12:01:57+00:00",
+      "source": "Jerusalem Post",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "President Zardari to embark on official visit to China today; talks to focus on economic cooperation, CPEC: FO",
       "summary": "Pakistani President Asif Ali Zardari embarked on an official visit to China from April 25 to May 1, traveling to Changsha in Hunan province and Sanya in Hainan province. Discussions with provincial leaders focused on economic and trade cooperation and advancing the China-Pakistan Economic Corridor (CPEC).",
       "url": "https://www.dawn.com/news/1994951/president-zardari-to-embark-on-official-visit-to-china-today-talks-to-focus-on-economic-cooperation-cpec-fo",
@@ -193,6 +292,15 @@
       "source": "The Hindu",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "Music to our ears, and hearts: How music shaped Israel’s identity over 78 years",
+      "summary": "The article traces how music has shaped Israeli national identity over 78 years, noting that the 1967 Six Day War marked a turning point as the country opened up to Western cultural influences.",
+      "url": "https://www.jpost.com/israel-news/culture/article-893964",
+      "published": "2026-04-25T11:59:09+00:00",
+      "source": "Jerusalem Post",
+      "region": "Middle East",
+      "region_key": "middle-east"
     },
     {
       "title": "No clarity on U.S.-Iran talks as Islamabad stays under lockdown",
@@ -231,6 +339,15 @@
       "region_key": "asia"
     },
     {
+      "title": "Zelensky meets Aliyev in Azerbaijan",
+      "summary": "Ukrainian President Volodymyr Zelensky met with Azerbaijani President Ilham Aliyev in Azerbaijan for bilateral discussions.",
+      "url": "https://www.ukrinform.net/rubric-polytics/4116479-zelensky-meets-aliyev-in-azerbaijan.html",
+      "published": "2026-04-25T11:47:00+03:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
       "title": "Sverdlovsk, Chelyabinsk Regions Report First Ukrainian Drone Attacks",
       "summary": "Russia's Sverdlovsk and Chelyabinsk regions reported their first Ukrainian drone attacks. A high-rise building in central Yekaterinburg was damaged, and residents in Chelyabinsk reported hearing explosions.",
       "url": "https://www.themoscowtimes.com/2026/04/25/sverdlovsk-chelyabinsk-regions-report-first-ukrainian-drone-attacks-a92602",
@@ -258,6 +375,15 @@
       "region_key": "asia"
     },
     {
+      "title": "Lebanon is a house divided as its leaders negotiate and Hezbollah fights on",
+      "summary": "Lebanon faces an internal divide as Hezbollah continues military operations against Israeli forces despite a ceasefire that took effect on April 16, while the country's official leadership pursues negotiations with Israel. Thirty-seven Israeli soldiers were reportedly wounded and two killed within 24 hours.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-house-divided-its-leaders-negotiate-and-hezbollah-fights",
+      "published": "2026-04-25T11:17:49+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "PM Shehbaz 'graciously' approves spectators for PSL 11 final on franchise owners’ request: Naqvi",
       "summary": "Pakistani Prime Minister Shehbaz Sharif approved the admission of spectators for the Pakistan Super League 11 final, following a request from franchise owners relayed by Interior Minister and PCB Chairman Mohsin Naqvi. Naqvi noted the decision came despite ongoing national austerity measures aimed at reducing fuel consumption.",
       "url": "https://www.dawn.com/news/1994948/pm-shehbaz-graciously-approves-spectators-for-psl-11-final-on-franchise-owners-request-naqvi",
@@ -272,6 +398,15 @@
       "url": "https://www.jpost.com/international/article-894098",
       "published": "2026-04-25T11:09:41+00:00",
       "source": "Jerusalem Post",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Palestinians cast ballots in first elections since Gaza war",
+      "summary": "Palestinians in Gaza voted in local municipal elections for the first time in approximately two decades. The balloting took place amid widespread destruction from the war.",
+      "url": "https://www.newarab.com/news/palestinians-cast-ballots-first-elections-gaza-war",
+      "published": "2026-04-25T11:08:10+01:00",
+      "source": "The New Arab",
       "region": "Middle East",
       "region_key": "middle-east"
     },
@@ -312,11 +447,47 @@
       "region_key": "asia"
     },
     {
+      "title": "Mali army says armed groups launch coordinated attacks across country",
+      "summary": "The Malian army confirmed that armed groups launched coordinated attacks across the country. Witnesses reported explosions and sustained gunfire near a military base outside the capital Bamako.",
+      "url": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-04-25T10:33:26+00:00",
+      "source": "BBC",
+      "region": "Africa",
+      "region_key": "africa"
+    },
+    {
+      "title": "Turkey may consider role in Hormuz demining after Iran-US deal, minister says",
+      "summary": "Turkish Foreign Minister Hakan Fidan said Turkey could consider participating in demining operations in the Strait of Hormuz if Iran and the United States reach a peace agreement. He described such efforts as a humanitarian duty involving a multinational technical team.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-may-consider-role-hormuz-demining-after-iran-us-deal-minister",
+      "published": "2026-04-25T10:33:17+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "Zelensky: 11 hospitalized in Dnipro after Russian attack, rescue operation ongoing",
       "summary": "Ukrainian President Volodymyr Zelensky reported that 11 people remain hospitalized in Dnipro after a Russian attack struck a residential building. Rescue operations continue at the site, where people may still be trapped under rubble.",
       "url": "https://www.ukrinform.net/rubric-ato/4116429-zelensky-11-hospitalized-in-dnipro-after-russian-attack-rescue-operation-ongoing.html",
       "published": "2026-04-25T10:30:00+03:00",
       "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "Gunfire rocks Bamako: 'Too soon to tell' if junta will fall",
+      "summary": "Armed groups launched attacks on army barracks in Mali's capital Bamako and other locations across the country on Saturday. Mali's military described the attackers as unidentified \"terrorist groups,\" and analysts said it was too early to determine whether the ruling military junta faces a serious threat.",
+      "url": "https://www.france24.com/en/mali-army-says-fighting-terrorist-groups-amidst-gunfire",
+      "published": "2026-04-25T10:29:40+00:00",
+      "source": "France 24",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "Seven dead in major Russian attack on Ukraine",
+      "summary": "A major Russian attack on Ukraine killed at least seven people, with the city of Dnipro suffering the heaviest toll. Officials said four people died when a strike hit a residential building in Dnipro.",
+      "url": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-04-25T10:24:50+00:00",
+      "source": "BBC",
       "region": "Europe",
       "region_key": "europe"
     },
@@ -348,6 +519,33 @@
       "region_key": "asia"
     },
     {
+      "title": "Wang Fuk Court resident cherishes chance to capture final photo of lost sea view",
+      "summary": "A resident of Wang Fuk Court in Tai Po, Hong Kong, returned to collect belongings and photograph his sea view one last time after a deadly fire in November killed 168 people. Eighty-one of the deaths occurred in Wang Cheong House, one of the estate's eight residential blocks.",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3351423/wang-fuk-court-resident-cherishes-chance-capture-final-photo-lost-sea-view?utm_source=rss_feed",
+      "published": "2026-04-25T10:17:12+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Iran’s Infowar: Lego, AI and ever tightening control",
+      "summary": "Iran is employing tools including AI-generated content and Lego-style visual media as part of an expanding information warfare campaign aimed at shaping public narratives and tightening domestic control.",
+      "url": "https://www.aljazeera.com/video/the-listening-post/2026/4/25/irans-infowar-lego-ai-and-ever-tightening-control?traffic_source=rss",
+      "published": "2026-04-25T10:13:07+00:00",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Oscar-winning filmmaker urges Arsenal to reconsider kitman's dismissal over Gaza posts",
+      "summary": "Oscar-winning filmmaker Jon Blair urged Arsenal Football Club to reconsider its dismissal of kitman Mark Bonnick over social media posts related to Gaza. Blair said his support was informed by his Jewish identity and concerns about Israeli war crimes.",
+      "url": "https://www.middleeasteye.net/news/oscar-winning-filmmaker-urges-arsenal-reconsider-dismissal-long-serving-kitman",
+      "published": "2026-04-25T10:12:49+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "US government stake in Intel has jumped 300% to US$36 billion",
       "summary": "The US government's stake in chipmaker Intel has surged 300 percent to approximately $36 billion. CEO Tan Lip-Bu reportedly secured the unconventional government investment following a lobbying effort directed at the White House.",
       "url": "https://www.straitstimes.com/world/united-states/us-government-stake-in-intel-has-jumped-300-to-us36-billion",
@@ -373,6 +571,87 @@
       "source": "Dawn",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "Iran resumes commercial flights from Tehran's international airport",
+      "summary": "Iran resumed commercial flights from Tehran's international airport for the first time since the war with the US and Israel began two months ago. Flights were scheduled to Istanbul, Muscat, and Medina. Iran had partially reopened its airspace earlier amid a ceasefire with the US.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-resumes-commercial-flights-tehrans-international-airport",
+      "published": "2026-04-25T10:06:54+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Mali attacks live: Gunfire heard near Bamako airport and in several cities",
+      "summary": "Gunfire was reported near Bamako's airport and in several other cities across Mali, indicating widespread unrest in multiple locations around the country.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/25/mali-attacks-live-gunfire-heard-near-bamako-airport-and-in-several-cities?traffic_source=rss",
+      "published": "2026-04-25T10:04:58+00:00",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Macron touches Beijing’s nerves on Taiwan and Tibet as he heads for the exit",
+      "summary": "French President Emmanuel Macron has raised tensions with Beijing by addressing sensitive issues including Taiwan and Tibet in recent weeks. During a visit to Japan, Macron and Prime Minister Sanae Takaichi jointly emphasized the importance of peace and stability in the Taiwan Strait.",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3351418/macron-touches-beijings-nerves-taiwan-and-tibet-he-heads-exit?utm_source=rss_feed",
+      "published": "2026-04-25T10:00:14+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "China actor gains renewed fame after fellow star’s warlord role mocked for flawless make-up",
+      "summary": "Taiwanese-American actor Peter Ho has gained renewed popularity in mainland China for a warlord role he played 14 years ago. The resurgence followed public mockery of Chinese actor Zhang Linghe, whose portrayal of a warlord with flawless makeup in the drama Pursuit of Jade went viral.",
+      "url": "https://www.scmp.com/news/people-culture/china-personalities/article/3350856/china-actor-gains-renewed-fame-after-fellow-stars-warlord-role-mocked-flawless-make?utm_source=rss_feed",
+      "published": "2026-04-25T10:00:09+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "RAF Typhoons scrambled in response to Russian drone threat near Nato air space",
+      "summary": "Two RAF Typhoon fighter jets were scrambled from a Romanian air base in response to Russian drones approaching NATO airspace. British defence sources confirmed the jets did not enter Ukrainian airspace and did not fire on any targets, as the potential threat remained within Ukrainian territory.",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/25/raf-typhoons-scrambled-russia-drone-nato-romania-ukraine",
+      "published": "2026-04-25T09:57:33+00:00",
+      "source": "The Guardian",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "5 die in Ukraine, over 30 wounded, in massive Russian attack",
+      "summary": "Russia launched a large-scale overnight attack on Ukraine using 47 ballistic and cruise missiles and 619 drones, killing at least five people and wounding over 30. Air raid sirens sounded across Ukraine, and residents were urged to seek shelter.",
+      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3351422/5-die-ukraine-over-30-wounded-massive-russian-attack?utm_source=rss_feed",
+      "published": "2026-04-25T09:56:58+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "US Jewish author Peter Beinart receives PEN award for Gaza book",
+      "summary": "US Jewish author Peter Beinart received the PEN America Literary Award for nonfiction for his latest book examining Gaza and Jewish identity.",
+      "url": "https://www.newarab.com/news/us-jewish-author-peter-beinart-receives-pen-award-gaza-book",
+      "published": "2026-04-25T09:56:34+01:00",
+      "source": "The New Arab",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "'Dire humanitarian crisis': Hundreds of thousands displaced in Ethiopia's Tigray",
+      "summary": "Human Rights Watch reported that people from Western Tigray in Ethiopia have faced arbitrary detention and discriminatory treatment. More than 800,000 people remain internally displaced in the Tigray region amid a dire humanitarian crisis.",
+      "url": "https://www.france24.com/en/dire-humanitarian-crisis-hundreds-of-thousands-displaced-in-ethiopia-s-tigray",
+      "published": "2026-04-25T09:56:11+00:00",
+      "source": "France 24",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "Palestinians cast their ballots as Gaza holds first election in 21 years",
+      "summary": "Approximately 70,000 registered voters in Gaza cast ballots in the territory's first municipal elections in 21 years, marking a rare exercise in local governance amid ongoing conflict.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/palestinians-cast-their-ballots-as-gaza-holds-first-election-in-21-years?traffic_source=rss",
+      "published": "2026-04-25T09:55:08+00:00",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "region_key": "middle-east"
     },
     {
       "title": "Gaza civil defence says Israeli strikes kill 13",
@@ -429,6 +708,60 @@
       "region_key": "asia"
     },
     {
+      "title": "Iran FM lands in Islamabad as fragile peace efforts resume",
+      "summary": "Iranian Foreign Minister Abbas Araghchi arrived in Islamabad for diplomatic talks that could help revive US-Iran peace negotiations. Regional tensions remain elevated amid ongoing conflicts.",
+      "url": "https://www.newarab.com/news/iran-fm-lands-islamabad-fragile-peace-efforts-resume",
+      "published": "2026-04-25T09:43:23+01:00",
+      "source": "The New Arab",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Iran defence ministry says US seeks 'face-saving' way out of war",
+      "summary": "Iran's defence ministry stated that the United States is seeking a \"face-saving\" exit from the ongoing war. A ministry spokesperson said Iran's military power is now a dominant force, according to the ISNA news agency.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-defence-ministry-says-us-seeks-face-saving-way-out-war",
+      "published": "2026-04-25T09:43:09+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Displaced Lebanese remain skeptical despite extended truce",
+      "summary": "Displaced Lebanese families sheltering in the coastal city of Sidon expressed skepticism about an extended truce between Lebanon and Israel. Despite expressions of optimism from U.S. President Donald Trump, ongoing strikes and deep mistrust prevent many civilians from returning home.",
+      "url": "https://www.france24.com/en/displaced-lebanese-remain-skeptical-despite-extended-truce",
+      "published": "2026-04-25T09:39:04+00:00",
+      "source": "France 24",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "“We don’t need voters, we need consumers”: Inside the app squeezing Western companies out of Russia",
+      "summary": "A mobile application is helping squeeze Western companies out of the Russian market by redirecting consumers to domestic alternatives. Approximately 2,300 large Western firms continue to pay taxes in Russia despite international sanctions.",
+      "url": "https://euromaidanpress.com/2026/04/25/push-to-leave-felix-hosse-interview-sanctions-russia/",
+      "published": "2026-04-25T09:38:52+00:00",
+      "source": "Euromaidan Press",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "US envoys to travel to Islamabad despite Iran ruling out direct negotiations with US",
+      "summary": "U.S. envoys are expected to travel to Islamabad to attempt to salvage ceasefire talks with Iran, even as Tehran has ruled out direct negotiations with American representatives. An indefinite ceasefire has paused most fighting, but the closure of the Strait of Hormuz continues to disrupt global energy shipments.",
+      "url": "https://www.france24.com/en/us-envoys-to-travel-to-islamabad-despite-iran-ruling-out-direct-negotiations-with-us",
+      "published": "2026-04-25T09:35:58+00:00",
+      "source": "France 24",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "Mali live: Army says armed 'terrorist' groups launch attacks on military positions nationwide",
+      "summary": "Mali's army reported on Saturday that unidentified armed groups attacked military positions in the capital Bamako and several towns in the country's interior. Journalists reported hearing gunfire near Mali's international airport, with fighting described as ongoing.",
+      "url": "https://www.france24.com/en/africa/20260425-mali-live-army-says-armed-terrorist-groups-launch-attacks-on-military-positions-nationwide",
+      "published": "2026-04-25T09:35:38+00:00",
+      "source": "France 24",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
       "title": "Russian strikes leave four civilians killed, 17 injured in Kherson region",
       "summary": "In Ukraine's Kherson region, Russian air and artillery strikes killed four civilians and injured 17 others on April 24. The attacks continued a pattern of Russian bombardment targeting populated areas in the southern region.",
       "url": "https://www.ukrinform.net/rubric-ato/4116408-russian-strikes-leave-four-civilians-killed-17-injured-in-kherson-region.html",
@@ -445,6 +778,24 @@
       "source": "Middle East Eye",
       "region": "Middle East",
       "region_key": "middle-east"
+    },
+    {
+      "title": "Peru police raid ex-election chief’s home amid widening probe",
+      "summary": "Peruvian police raided the homes of former elections chief Piero Corvetto and five other officials on Friday as part of a probe into ballot shortages and irregularities during the April 12 presidential election. Corvetto resigned on Tuesday, taking responsibility for the shortcomings while denying wrongdoing.",
+      "url": "https://www.france24.com/en/peru-police-raid-ex-election-chief-s-home-amid-widening-probe",
+      "published": "2026-04-25T09:33:55+00:00",
+      "source": "France 24",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "West Bank and part of Gaza vote in first municipal elections since war",
+      "summary": "Municipal elections were held in the occupied West Bank and central Gaza, marking the first vote since the Gaza war. Fatah-linked candidate lists were dominant, while Hamas did not participate in the elections.",
+      "url": "http://www.africanews.com/2026/04/25/west-bank-and-part-of-gaza-vote-in-first-municipal-elections-since-war/",
+      "published": "2026-04-25T09:28:26+00:00",
+      "source": "Africanews",
+      "region": "Africa",
+      "region_key": "africa"
     },
     {
       "title": "Social media post lands citizen in jail amid security alert in Islamabad",
@@ -465,6 +816,15 @@
       "region_key": "asia"
     },
     {
+      "title": "The US protected Hormuz shipping from Iranian attacks in the ’80s. Could it again?",
+      "summary": "Analysts say replicating the US Navy's 1980s \"Tanker War\" protection of Hormuz shipping would be challenging today due to small IRGC gunboats and ambitious US strategic objectives in the context of the current Iran conflict.",
+      "url": "https://www.timesofisrael.com/the-us-protected-hormuz-shipping-from-iranian-attacks-in-the-80s-could-it-again/",
+      "published": "2026-04-25T09:23:11+00:00",
+      "source": "Times of Israel",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "U.S. military strike on alleged drug boat kills 2 in eastern Pacific",
       "summary": "A US military strike on an alleged drug-trafficking vessel in the eastern Pacific killed two people. The incident is part of an ongoing Trump administration campaign targeting suspected narcotics boats in Latin American waters that has killed at least 183 people since early September.",
       "url": "https://www.thehindu.com/news/international/us-military-strike-on-alleged-drug-boat-kills-people-in-eastern-pacific/article70904356.ece",
@@ -472,6 +832,24 @@
       "source": "The Hindu",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "Gunmen stage simultaneous attacks across Mali, army says",
+      "summary": "The Malian army reported that gunmen staged apparently coordinated simultaneous attacks in the capital Bamako and several other locations, involving multiple armed groups.",
+      "url": "https://www.aljazeera.com/news/2026/4/25/mali-army-says-armed-groups-launch-nationwide-attacks-gunfire-near-airport?traffic_source=rss",
+      "published": "2026-04-25T09:21:24+00:00",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Spain PM brushes of reported Pentagon email on punishing NATO members",
+      "summary": "Spanish Prime Minister Pedro Sanchez dismissed reports that the Pentagon is considering punishing NATO members who do not support U.S. operations in the Iran war. Spain has refused to allow U.S. forces involved in the conflict to use its bases or airspace, citing violations of international law.",
+      "url": "https://www.france24.com/en/video/20260425-spain-pm-brushes-of-reported-pentagon-email-on-punishing-nato-members",
+      "published": "2026-04-25T09:21:13+00:00",
+      "source": "France 24",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "Araghchi’s Islamabad visit ‘bodes well’ for US dialogue",
@@ -501,6 +879,42 @@
       "region_key": "asia"
     },
     {
+      "title": "🔴 Mali military says armed 'terrorist groups' launch attacks on positions nationwide",
+      "summary": "Mali's military reported that armed groups it described as \"terrorist\" launched attacks on military positions across the country, including in the capital Bamako.",
+      "url": "https://www.france24.com/en/africa/20260425-mali-army-says-armed-terrorist-groups-attacked-military-positions",
+      "published": "2026-04-25T09:08:55+00:00",
+      "source": "France 24",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "Tunisia suspends rights group amid widening repression",
+      "summary": "Tunisian authorities ordered one of Africa's oldest human rights organizations to suspend its activities for one month. Critics say the move is part of a widening crackdown as the country shifts toward authoritarian governance.",
+      "url": "https://www.dw.com/en/tunisia-suspends-rights-group-amid-widening-repression/a-76931737?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-04-25T09:05:00+00:00",
+      "source": "DW",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "Mojtaba Khamenei remains out of the spotlight in Iran",
+      "summary": "Mojtaba Khamenei, named Iran's new supreme leader after the death of his father, has remained out of public view, fueling speculation he was seriously injured in the strike that killed Ayatollah Ali Khamenei nearly two months ago. The New York Times reported he is living in hiding and communicates through handwritten notes.",
+      "url": "https://www.france24.com/en/mojtaba-khamenei-remains-out-of-the-spotlight-in-iran",
+      "published": "2026-04-25T09:03:24+00:00",
+      "source": "France 24",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "Eyewitnesses say gunfire and explosions rock several districts in Mali",
+      "summary": "Eyewitnesses reported gunfire and explosions across several districts in Mali, including near the main military base in Kati. Kati is the hometown of junta leader General Assimi Goïta.",
+      "url": "http://www.africanews.com/2026/04/25/eyewitnesses-say-gunfire-and-explosions-rock-several-districts-in-mali/",
+      "published": "2026-04-25T09:01:05+00:00",
+      "source": "Africanews",
+      "region": "Africa",
+      "region_key": "africa"
+    },
+    {
       "title": "Court cancels bail of YouTuber Rajab Butt over his absence",
       "summary": "A sessions court in Karachi cancelled the interim bail of Pakistani YouTuber Rajab Butt due to his absence from proceedings in a case alleging he hurt religious sentiments under Section 295-A of the Pakistan Penal Code.",
       "url": "https://www.dawn.com/news/1994784/court-cancels-bail-of-youtuber-rajab-butt-over-his-absence",
@@ -508,6 +922,24 @@
       "source": "Dawn",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "‘Astonishing’ discovery could help save children from deadly disfiguring condition",
+      "summary": "Researchers have identified a previously unknown species of bacteria in patients with noma, a neglected tropical disease that destroys facial tissue and is fatal in 90% of untreated cases. The discovery may lead to improved methods for preventing, detecting, and treating the childhood condition.",
+      "url": "https://www.theguardian.com/global-development/2026/apr/25/discovery-children-fatal-disfiguring-disease-noma-unknown-bacteria",
+      "published": "2026-04-25T09:00:41+00:00",
+      "source": "The Guardian",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "Criminalisation of climate protesters in UK is counterproductive, research finds",
+      "summary": "A UK study of 1,300 climate campaigners found that criminalizing direct-action protests through arrests, fines, and prison sentences is counterproductive. Researchers concluded that such measures increase activists' determination to undertake disruptive demonstrations and may contribute to radicalization.",
+      "url": "https://www.theguardian.com/environment/2026/apr/25/criminalisation-of-climate-protesters-in-uk-is-counterproductive-research-finds",
+      "published": "2026-04-25T09:00:41+00:00",
+      "source": "The Guardian",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "US State Dept orders global warning about alleged China AI thefts by DeepSeek, others",
@@ -537,6 +969,15 @@
       "region_key": "middle-east"
     },
     {
+      "title": "Top Iranian and Pakistani officials meet in Islamabad",
+      "summary": "Iranian Foreign Minister Abbas Araghchi traveled to Islamabad for talks with Pakistani officials. US envoys were also expected to arrive in the Pakistani capital for separate discussions.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/top-iranian-and-pakistani-officials-meet-in-islamabad?traffic_source=rss",
+      "published": "2026-04-25T08:57:17+00:00",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "First batch of Gul Plaza traders receives compensation",
       "summary": "Sindh Chief Minister Murad Ali Shah distributed Rs511.7 million in compensation to 200 of 1,209 shopkeepers affected by the January 17 fire at Gul Plaza in Karachi. He pledged accountability based on findings of a Judicial Commission investigating the blaze.",
       "url": "https://www.dawn.com/news/1994786/first-batch-of-gul-plaza-traders-receives-compensation",
@@ -544,6 +985,33 @@
       "source": "Dawn",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "Palestinians in West Bank and some in Gaza vote in local elections",
+      "summary": "Local elections were held across the occupied West Bank and in one city in Gaza. Hamas and several other Palestinian factions did not participate in the vote.",
+      "url": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-04-25T08:53:15+00:00",
+      "source": "BBC",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "US accuses civil rights group of defrauding donors with payments to extremist informants",
+      "summary": "The US government has accused the Southern Poverty Law Center of defrauding donors through payments to extremist informants under a now-defunct program. The charges follow the FBI's decision to cut ties with the organization after it listed slain conservative activist Charlie Kirk's group as extremist.",
+      "url": "https://www.timesofisrael.com/us-accuses-civil-rights-group-of-defrauding-donors-with-payments-to-extremist-informants/",
+      "published": "2026-04-25T08:47:11+00:00",
+      "source": "Times of Israel",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Overnight Russian attacks on Ukraine kill five, injure 30",
+      "summary": "Russia launched over 600 drones and 47 missiles targeting eight regions across Ukraine, with the city of Dnipro among the hardest hit. The overnight attacks killed at least five people and injured 30.",
+      "url": "https://www.aljazeera.com/news/2026/4/25/overnight-russian-attacks-on-ukraine-kill-five-wound-over-30?traffic_source=rss",
+      "published": "2026-04-25T08:44:56+00:00",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "region_key": "middle-east"
     },
     {
       "title": "Russian drone attack on Mykolaiv region leaves two injured, power line damaged",
@@ -562,6 +1030,24 @@
       "source": "Dawn",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "Polls open in Gaza area in first municipal election in 20 years",
+      "summary": "Gaza's city of Deir el-Balah held its first municipal election in roughly 20 years, described by officials as a pilot vote. The occupied West Bank also conducted its first local polls since the 2023 war.",
+      "url": "https://www.aljazeera.com/news/2026/4/25/polls-open-in-gaza-area-in-first-municipal-election-in-20-years?traffic_source=rss",
+      "published": "2026-04-25T08:37:39+00:00",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Man whose coexistence kippa was carved up by Israel Police asks ‘what is in store for us’",
+      "summary": "Israeli police detained writer and peace activist Alex Sinclair after he wore a kippa featuring both Israeli and Palestinian flags. Officers reportedly cut up the head covering, prompting Sinclair to warn publicly about the country's direction toward illiberalism.",
+      "url": "https://www.timesofisrael.com/man-whose-coexistence-kippa-was-carved-up-by-israel-police-asks-what-is-in-store-for-us/",
+      "published": "2026-04-25T08:34:44+00:00",
+      "source": "Times of Israel",
+      "region": "Middle East",
+      "region_key": "middle-east"
     },
     {
       "title": "JUI-F to boycott CM Bugti-led govt over madressah action",
@@ -1777,6 +2263,15 @@
       "source": "The New Arab",
       "region": "Middle East",
       "region_key": "middle-east"
+    },
+    {
+      "title": "Katya Adler: Europe's Nato allies push back at reported US threat to Spain",
+      "summary": "European NATO allies pushed back against a reported US threat directed at Spain, further straining transatlantic relations. BBC Europe editor Katya Adler reported the incident highlighted ongoing tensions between Europe and the United States.",
+      "url": "https://www.bbc.com/news/articles/cj40r2gw24wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-04-25T00:10:51+00:00",
+      "source": "BBC",
+      "region": "Europe",
+      "region_key": "europe"
     },
     {
       "title": "Merz floats sanctions relief for Iran peace deal, other EU leaders cautious",
@@ -5829,6 +6324,15 @@
       "region_key": "africa"
     },
     {
+      "title": "Nigeria: Let Competence, Not Cash, Decide Candidates - Chiogo Ikokwu Tells Adc",
+      "summary": "ADC aspirant Dr. Chiogo Constance Ikokwu, running for Idemili North and South Federal Constituency in Nigeria's House of Representatives, called on political parties to scrap or reduce the high cost of nomination forms to allow competent candidates to participate.",
+      "url": "https://allafrica.com/stories/202604240353.html",
+      "published": "2026-04-24T11:22:34+00:00",
+      "source": "AllAfrica",
+      "region": "Africa",
+      "region_key": "africa"
+    },
+    {
       "title": "South Korean prosecutors seek 30-year jail term for ex-President Yoon in drone case",
       "summary": "South Korean prosecutors have sought a 30-year prison sentence for former President Yoon Suk Yeol in a case related to a military drone incident. Yoon denies the charges, with his lawyers arguing he took no action that could provoke a military clash with North Korea.",
       "url": "https://www.thehindu.com/news/international/south-korean-prosecutors-seek-30-year-jail-term-for-ex-president-yoon-in-drone-case/article70900501.ece",
@@ -5836,6 +6340,15 @@
       "source": "The Hindu",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "Nigeria: ADC Hails Nwoye's Emergence As Senate Minority Whip",
+      "summary": "The African Democratic Congress congratulated Senator Tony Nwoye on his election as Nigeria's Senate Minority Whip, calling it a reflection of his credibility and the party's growing political influence.",
+      "url": "https://allafrica.com/stories/202604240352.html",
+      "published": "2026-04-24T11:21:28+00:00",
+      "source": "AllAfrica",
+      "region": "Africa",
+      "region_key": "africa"
     },
     {
       "title": "Number of amputees set to rise in Gaza as Israel blocks aid, NGO warns",
@@ -5865,6 +6378,15 @@
       "region_key": "all"
     },
     {
+      "title": "Tanzania: I Shoulder Election Crisis Burden, Says Samia",
+      "summary": "Tanzanian President Samia Suluhu Hassan described the violence surrounding the October 2025 elections as a heavy burden on her leadership. She made the remarks while receiving a Commission of Inquiry report into the election-related crisis.",
+      "url": "https://allafrica.com/stories/202604240348.html",
+      "published": "2026-04-24T11:17:55+00:00",
+      "source": "AllAfrica",
+      "region": "Africa",
+      "region_key": "africa"
+    },
+    {
       "title": "Russia’s FSB tortured 9 Kherson residents for months, fabricated terrorism case against them; 1 died in custody",
       "summary": "Nine residents of Kherson were detained by Russia's FSB in the summer of 2022 during the Russian occupation and charged with plotting assassinations of collaborationist officials. The defendants were reportedly tortured for months, one died in custody, and a Russian court sentenced the rest to 14 to 20 years in prison in January 2026.",
       "url": "https://meduza.io/en/feature/2026/04/24/russia-s-fsb-tortured-9-kherson-residents-for-months-fabricated-terrorism-case-against-them-1-died-in-custody",
@@ -5890,6 +6412,15 @@
       "source": "The New Arab",
       "region": "Middle East",
       "region_key": "middle-east"
+    },
+    {
+      "title": "Liberia: Yekeh's Expulsion Overshadows Special Sitting As Legislature Hastily Passes U.S.$53m Supplementary Budget in Night Session, Prompting Dillon's Walkout",
+      "summary": "Liberia's 55th Legislature held a dramatic late-night session that saw the swift passage of a US$53 million supplementary budget. The proceedings were overshadowed by the expulsion of Representative Yekeh Kolubah and a protest walkout by Senator Darius Dillon.",
+      "url": "https://allafrica.com/stories/202604240343.html",
+      "published": "2026-04-24T11:15:22+00:00",
+      "source": "AllAfrica",
+      "region": "Africa",
+      "region_key": "africa"
     },
     {
       "title": "Amjad Youssef, key perpetrator of Tadamon massacre, arrested in Syria",
@@ -176010,15 +176541,6 @@
       "region_key": "europe"
     },
     {
-      "title": "Somalia's tuk-tuks stall as Iran war drives fuel price spike",
-      "summary": "Tuk-tuk taxi drivers in Mogadishu, Somalia, are abandoning their livelihoods as fuel prices surge due to disruptions in oil shipments linked to the Iran conflict. The spike in fuel costs is severely impacting transportation-dependent workers in the capital.",
-      "url": "https://www.straitstimes.com/world/middle-east/somalias-tuk-tuks-stall-as-iran-war-drives-fuel-price-spike",
-      "published": "2026-03-26T18:32:16+08:00",
-      "source": "Straits Times",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
       "title": "Knesset advances compensation for businesses impacted by war, benefits for reservists",
       "summary": "Israel's Knesset advanced legislation to compensate businesses affected by the war, part of a broader Finance Ministry package supporting businesses, employees, and nonprofits impacted by the conflict. Additional benefits for reservists were also included.",
       "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-891338",
@@ -176026,15 +176548,6 @@
       "source": "Jerusalem Post",
       "region": "Middle East",
       "region_key": "middle-east"
-    },
-    {
-      "title": "Israel strikes Iran as Tehran rejects US overture for talks",
-      "summary": "Israel launched strikes on Iran as Tehran rejected a US diplomatic overture for talks. Iran continued retaliatory attacks against Israel and also struck other Gulf states.",
-      "url": "https://www.straitstimes.com/world/middle-east/israel-strikes-iran-as-tehran-rejects-us-talks-overture",
-      "published": "2026-03-26T18:31:00+08:00",
-      "source": "Straits Times",
-      "region": "Asia",
-      "region_key": "asia"
     },
     {
       "title": "Zelensky visits Saudi Arabia after offering Ukraine's drone expertise",
@@ -176100,15 +176613,6 @@
       "region_key": "africa"
     },
     {
-      "title": "Venezuela's Maduro due back in US court in dispute over legal fees",
-      "summary": "Ousted Venezuelan President Nicolás Maduro appeared in a Manhattan court to argue that drug trafficking charges against him should be dismissed. Maduro and his wife were captured in a surprise US military raid in Caracas more than two months ago.",
-      "url": "https://www.straitstimes.com/world/venezuelas-maduro-due-back-in-us-court-in-dispute-over-legal-fees",
-      "published": "2026-03-26T18:07:04+08:00",
-      "source": "Straits Times",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
       "title": "Kim Jong Un gifted gun after Belarus friendship treaty",
       "summary": "Belarusian President Alexander Lukashenko presented North Korean leader Kim Jong Un with a firearm following the signing of a friendship treaty between Belarus and North Korea.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/26/kim-jong-un-gifted-gun-after-belarus-friendship-treaty?traffic_source=rss",
@@ -176125,15 +176629,6 @@
       "source": "Times of Israel",
       "region": "Middle East",
       "region_key": "middle-east"
-    },
-    {
-      "title": "Tanker carrying Russian oil hit by drone in Black Sea near Turkey",
-      "summary": "A marine drone struck a crude oil tanker that had departed Russia, causing an explosion in the Black Sea near Istanbul's Bosphorus strait. Turkey's transportation minister confirmed the attack on Thursday.",
-      "url": "https://www.straitstimes.com/world/europe/tanker-carrying-russian-oil-hit-by-drone-in-black-sea-near-turkey1",
-      "published": "2026-03-26T18:01:54+08:00",
-      "source": "Straits Times",
-      "region": "Asia",
-      "region_key": "asia"
     },
     {
       "title": "On the Radar: Cocaine Power Shifts and Seizures",
@@ -176181,15 +176676,6 @@
       "region_key": "asia"
     },
     {
-      "title": "Tanker carrying Russian oil hit by drone in Black Sea near Turkey",
-      "summary": "A tanker carrying approximately one million barrels of Russian crude oil was struck by a drone in the Black Sea near Turkey. The vessel had departed from Russia's port of Novorossiysk.",
-      "url": "https://www.straitstimes.com/world/europe/tanker-carrying-russian-oil-hit-by-drone-in-black-sea-near-turkey",
-      "published": "2026-03-26T17:56:00+08:00",
-      "source": "Straits Times",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
       "title": "Iran mobilises 1 million to fight off US ground invasion",
       "summary": "Iran announced the mobilization of over one million people to defend against a potential US ground invasion, as reports emerged of the US sending hundreds of additional troops to the Middle East.",
       "url": "https://www.newarab.com/news/iran-mobilises-1-million-fight-us-ground-invasion",
@@ -176197,24 +176683,6 @@
       "source": "The New Arab",
       "region": "Middle East",
       "region_key": "middle-east"
-    },
-    {
-      "title": "Russia vows to arrest internet shutdown protesters",
-      "summary": "Russia officially lifted three weeks of restrictions on mobile internet access on March 25. Authorities vowed to arrest protesters who had demonstrated against the internet shutdown.",
-      "url": "https://www.straitstimes.com/world/europe/russia-vows-to-arrest-internet-shutdown-protesters",
-      "published": "2026-03-26T17:53:00+08:00",
-      "source": "Straits Times",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
-      "title": "‘Concerning’ rise in deployed nuclear weapons: Report",
-      "summary": "A new report found the number of nuclear weapons quickly available for deployment has been steadily rising, reaching an estimated 9,745 in 2025. The report described the increase as concerning.",
-      "url": "https://www.straitstimes.com/world/europe/monitor-sees-concerning-rise-in-deployed-nuclear-weapons",
-      "published": "2026-03-26T17:51:00+08:00",
-      "source": "Straits Times",
-      "region": "Asia",
-      "region_key": "asia"
     },
     {
       "title": "US House speaker gives Trump so-called ‘America First’ award amid global chaos",
@@ -176262,15 +176730,6 @@
       "region_key": "middle-east"
     },
     {
-      "title": "Saudi Arabia weathering Iran war, but Red Sea attacks could force its hand",
-      "summary": "Saudi Arabia has so far weathered the economic effects of the Iran war, but escalating Red Sea attacks could force Riyadh into a more active role. A new Red Sea front would likely draw Iran-backed Houthi rebels in Yemen into the conflict.",
-      "url": "https://www.straitstimes.com/world/middle-east/saudi-arabia-weathering-iran-war-but-red-sea-attacks-could-force-its-hand",
-      "published": "2026-03-26T17:37:00+08:00",
-      "source": "Straits Times",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
       "title": "Zelensky arrives in Saudi Arabia",
       "summary": "Ukrainian President Volodymyr Zelenskyy arrived in Saudi Arabia for an official visit to meet with Saudi leadership.",
       "url": "https://www.ukrinform.net/rubric-polytics/4105939-zelensky-arrives-in-saudi-arabia.html",
@@ -176312,15 +176771,6 @@
       "url": "https://www.dawn.com/news/1985585/italy-police-warn-reptiles-being-used-by-crooks-as-weapons-after-snakes-found-behind-false-wall",
       "published": "2026-03-26T17:29:18+05:00",
       "source": "Dawn",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
-      "title": "Pentagon weighs diverting Ukraine military aid to the Middle East, Washington Post reports",
-      "summary": "The Pentagon is considering diverting military aid originally allocated for Ukraine to the Middle East, according to the Washington Post. The consideration comes as US military operations in the region intensify amid the Iran conflict.",
-      "url": "https://www.straitstimes.com/world/united-states/pentagon-weighs-diverting-ukraine-military-aid-to-the-middle-east-washington-post-reports",
-      "published": "2026-03-26T17:27:03+08:00",
-      "source": "Straits Times",
       "region": "Asia",
       "region_key": "asia"
     },
@@ -176521,15 +176971,6 @@
       "source": "Jerusalem Post",
       "region": "Middle East",
       "region_key": "middle-east"
-    },
-    {
-      "title": "British police release on bail men arrested over Jewish ambulance attack",
-      "summary": "British police released on bail men arrested in connection with an attack on Jewish ambulances in the UK. The attack targeted ambulances operated by Hatzola, a volunteer emergency medical organization.",
-      "url": "https://www.straitstimes.com/world/europe/british-police-release-on-bail-men-arrested-over-jewish-ambulance-attack",
-      "published": "2026-03-26T16:59:00+08:00",
-      "source": "Straits Times",
-      "region": "Asia",
-      "region_key": "asia"
     },
     {
       "title": "US plans 'final blow' against Iran as Trump demands Tehran make a deal",
@@ -177333,15 +177774,6 @@
       "region_key": "all"
     },
     {
-      "title": "Middle East conflict and fuel prices: Who is the Pakistani govt really protecting?",
-      "summary": "Global oil prices have risen approximately 50 per cent since the US-Israel war with Iran began on February 28. Pakistan's government raised regulated petroleum product prices by 20 per cent, or Rs55 per litre, leading to higher transport fares and rising food prices across the country.",
-      "url": "https://www.dawn.com/news/1985309/middle-east-conflict-and-fuel-prices-who-is-the-pakistani-govt-really-protecting",
-      "published": "2026-03-26T14:19:55+05:00",
-      "source": "Dawn",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
       "title": "REPLAY: NATO Secretary General annual report for 2025",
       "summary": "NATO Secretary General Mark Rutte reported that European allies and Canada increased defense spending by 20% in real terms in 2025. Rutte urged members to continue toward the 5% spending objective ahead of the next NATO summit in Ankara.",
       "url": "https://www.france24.com/en/video/20260326-replay-nato-secretary-general-annual-report-for-2025",
@@ -177504,24 +177936,6 @@
       "region_key": "asia"
     },
     {
-      "title": "UK authorises military to board Russian shadow fleet tankers",
-      "summary": "British Prime Minister Keir Starmer authorized the military to board and detain Russian ships believed to be part of Moscow's shadow fleet used to export oil in violation of Western sanctions. The decision aligns with broader European efforts to disrupt Russia's sanction-evading tanker network that funds its war against Ukraine.",
-      "url": "https://www.dawn.com/news/1985545/uk-authorises-military-to-board-russian-shadow-fleet-tankers",
-      "published": "2026-03-26T13:46:39+05:00",
-      "source": "Dawn",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
-      "title": "Social media platform X back up after brief international outage",
-      "summary": "Social media platform X experienced a brief international outage on Thursday afternoon. Internet monitor NetBlocks confirmed the disruption was not related to country-level filtering. Downdetector recorded a sharp spike in user-reported problems in Pakistan, with issues primarily affecting the timeline and other features.",
-      "url": "https://www.dawn.com/news/1985526/social-media-platform-x-back-up-after-brief-international-outage",
-      "published": "2026-03-26T13:44:45+05:00",
-      "source": "Dawn",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
       "title": "Arab-Israeli educator Suleiman Suleiman advocates shared responsibility and coexistence",
       "summary": "Suleiman Suleiman, CEO of the organization Atidna, called for strengthened cooperation between Arab and Jewish communities in Israel, emphasizing education as the foundation for coexistence.",
       "url": "https://www.jpost.com/podcast/jpost-sits-down-with/article-891276",
@@ -177628,15 +178042,6 @@
       "source": "Al Jazeera",
       "region": "Middle East",
       "region_key": "middle-east"
-    },
-    {
-      "title": "Major Oil Refinery in Leningrad Region Reportedly Damaged in Ukrainian Drone Strike",
-      "summary": "Authorities in Russia's Leningrad region reported damage to an industrial site in the Kirishky district following a Ukrainian drone strike. The district hosts the Kirishinefteorgsintez oil refinery, one of Russia's major refining facilities.",
-      "url": "https://www.themoscowtimes.com/2026/03/26/major-oil-refinery-in-leningrad-region-reportedly-damaged-in-ukrainian-drone-strike-a92341",
-      "published": "2026-03-26T13:08:51+03:00",
-      "source": "Moscow Times",
-      "region": "Europe",
-      "region_key": "europe"
     },
     {
       "title": "Army commander convicted of Guinea stadium massacre dies in prison",
@@ -178044,15 +178449,6 @@
       "region_key": "asia"
     },
     {
-      "title": "Zelensky: Ukraine and US assess Putin's intentions to end war differently",
-      "summary": "President Volodymyr Zelenskyy said Kyiv and Washington differ in their assessments of Russian President Vladimir Putin's willingness to end the war. Zelenskyy argued that only additional international pressure can compel Putin to pursue peace.",
-      "url": "https://www.ukrinform.net/rubric-polytics/4105730-zelensky-ukraine-and-us-assess-putins-intentions-to-end-war-differently.html",
-      "published": "2026-03-26T11:59:00+02:00",
-      "source": "Ukrinform",
-      "region": "Europe",
-      "region_key": "europe"
-    },
-    {
       "title": "In mixed Haifa, weary residents face near-constant Iranian and Hezbollah missile fire",
       "summary": "Residents of the mixed Jewish, Christian, and Muslim city of Haifa are enduring near-constant missile fire from Iran and Hezbollah. Local businesses across all communities are suffering as customers stay away.",
       "url": "https://www.timesofisrael.com/in-mixed-haifa-weary-residents-face-near-constant-iranian-and-hezbollah-missile-fire/",
@@ -178143,15 +178539,6 @@
       "region_key": "europe"
     },
     {
-      "title": "Drone attacks sanctioned Russian oil tanker in Black Sea – media",
-      "summary": "A drone struck the oil tanker Altura in the Black Sea approximately 14 miles from the Bosporus strait. The Altura is subject to sanctions by the EU, Switzerland, Ukraine, and the United Kingdom.",
-      "url": "https://www.ukrinform.net/rubric-ato/4105726-drone-attacks-sanctioned-russian-oil-tanker-in-black-sea-media.html",
-      "published": "2026-03-26T11:42:00+02:00",
-      "source": "Ukrinform",
-      "region": "Europe",
-      "region_key": "europe"
-    },
-    {
       "title": "Iran to Lebanon: Four million people displaced by US-Israeli war",
       "summary": "According to reports, approximately three million Iranians and at least one million Lebanese have been displaced from their homes as a result of US-Israeli military attacks on both countries.",
       "url": "https://www.aljazeera.com/news/2026/3/26/iran-to-lebanon-four-million-people-displaced-by-us-israeli-war?traffic_source=rss",
@@ -178215,15 +178602,6 @@
       "region_key": "middle-east"
     },
     {
-      "title": "Russians strike Dnipro, high-rise building damaged, casualties reported",
-      "summary": "Russian forces struck the city of Dnipro in central Ukraine, damaging a multi-story residential building. Casualties were reported, though specific numbers were not immediately disclosed.",
-      "url": "https://www.ukrinform.net/rubric-ato/4105715-russians-strike-dnipro-highrise-building-damaged-casualties-reported.html",
-      "published": "2026-03-26T11:29:00+02:00",
-      "source": "Ukrinform",
-      "region": "Europe",
-      "region_key": "europe"
-    },
-    {
       "title": "Iran rejects US ceasefire plan and submits its own | First Thing",
       "summary": "Iran rejected a US ceasefire proposal and submitted its own negotiation plan, with Foreign Minister stating Tehran has no intention of negotiating for now. Intermediaries are working to keep diplomatic channels open. The conflict has killed over 1,000 people in Lebanon, more than 1,500 in Iran, and 16 in Israel, according to respective authorities.",
       "url": "https://www.theguardian.com/us-news/2026/mar/26/first-thing-iran-rejects-us-ceasefire-plan-and-submits-its-own",
@@ -178249,15 +178627,6 @@
       "source": "Al Jazeera",
       "region": "Middle East",
       "region_key": "middle-east"
-    },
-    {
-      "title": "Russian troops regroup and prepare for larger-scale offensive actions – Trehubov",
-      "summary": "Ukrainian military spokesperson Trehubov reported that Russian troops are regrouping and preparing for larger-scale offensive operations. The anticipated intensification may coincide with spring vegetation growth, which provides concealment for infiltration groups.",
-      "url": "https://www.ukrinform.net/rubric-ato/4105710-russian-troops-regroup-and-prepare-for-largerscale-offensive-actions-trehubov.html",
-      "published": "2026-03-26T11:15:00+02:00",
-      "source": "Ukrinform",
-      "region": "Europe",
-      "region_key": "europe"
     },
     {
       "title": "Iranian naval commander Alireza Tangsiri killed in attack, Israel says",
@@ -178350,15 +178719,6 @@
       "region_key": "middle-east"
     },
     {
-      "title": "Russia's largest oil refineries in Leningrad region under drone attack",
-      "summary": "The Kirishinefteorgsintez (KINEF) oil refinery in Kirishi, Leningrad region, was attacked by drones. KINEF is one of Russia's largest refining facilities.",
-      "url": "https://www.ukrinform.net/rubric-ato/4105690-russias-largest-oil-refineries-in-leningrad-region-under-drone-attack.html",
-      "published": "2026-03-26T10:55:00+02:00",
-      "source": "Ukrinform",
-      "region": "Europe",
-      "region_key": "europe"
-    },
-    {
       "title": "Anger mounts in northern communities as Netanyahu urges residents stay put",
       "summary": "Municipal leaders in northern Israel have criticized the government's response to relentless Hezbollah rocket attacks that are driving residents to flee. Prime Minister Netanyahu has urged local officials to discourage outward migration from the affected communities.",
       "url": "https://www.timesofisrael.com/anger-mounts-in-northern-communities-as-netanyahu-urges-residents-stay-put/",
@@ -178449,348 +178809,6 @@
       "region_key": "middle-east"
     },
     {
-      "title": "9 injured as Iran fires 6 missile salvos at Israel within hours, many with cluster warheads",
-      "summary": "Iran launched six missile salvos at Israel within a 24-hour period, some carrying cluster warheads, injuring at least nine people. Two people were killed by an intercepted missile in Abu Dhabi, and the Israeli Air Force conducted extensive retaliatory strikes on Iranian infrastructure.",
-      "url": "https://www.timesofisrael.com/9-injured-as-iran-fires-7-missile-salvos-at-israel-within-hours-many-with-cluster-warheads/",
-      "published": "2026-03-26T10:34:59+00:00",
-      "source": "Times of Israel",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Trump lashes out at Nato, says it has done ‘nothing’ on Iran",
-      "summary": "US President Donald Trump criticized NATO allies on Truth Social, accusing them of doing \"absolutely nothing\" to assist with the situation involving Iran. He stated that the US needs nothing from the alliance.",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-lashes-out-nato-says-it-has-done-nothing-iran",
-      "published": "2026-03-26T10:32:05+00:00",
-      "source": "Middle East Eye",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "VW pulls Skoda brand from China after years of falling sales",
-      "summary": "Volkswagen announced it will withdraw its Skoda brand from mainland China following years of declining sales. The Czech automaker is realigning its global strategy to focus on growth markets including India and the ASEAN region, as international car brands continue losing ground in China's automotive market.",
-      "url": "https://www.scmp.com/business/china-evs/article/3348007/vw-pulls-skoda-brand-china-after-years-falling-sales?utm_source=rss_feed",
-      "published": "2026-03-26T10:30:08+00:00",
-      "source": "South China Morning Post",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
-      "title": "Moldova court cases reveal Russia’s transnational network to recruit, train and deploy spies and saboteurs",
-      "summary": "Moldovan court cases have revealed a Russian-linked transnational network that recruited Moldovan citizens for drone training camps in the Balkans. The same recruiter also organized the painting of Stars of David on buildings in Paris following the 7 October 2023 Hamas attacks.",
-      "url": "https://euromaidanpress.com/2026/03/26/moldova-court-cases-reveal-russias-transnational-network-to-recruit-train-and-deploy-spies-and-saboteurs/",
-      "published": "2026-03-26T10:28:41+00:00",
-      "source": "Euromaidan Press",
-      "region": "Europe",
-      "region_key": "europe"
-    },
-    {
-      "title": "Four injured in Tel Aviv by missile debris",
-      "summary": "Four people were wounded in Tel Aviv after shrapnel from an Iranian missile fell across the city, landing in at least six locations. Israeli media reported injuries and property damage from the debris.",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/four-injured-tel-aviv-missile-debris",
-      "published": "2026-03-26T10:25:54+00:00",
-      "source": "Middle East Eye",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Italy's Meloni says to boost cooperation with Algeria on gas deliveries",
-      "summary": "Italian Prime Minister Giorgia Meloni visited Algeria on Wednesday and announced plans to boost cooperation on gas deliveries to Italy. Meloni and Algerian President Abdelmadjid Tebboune agreed to collaborate on projects including shale gas extraction and offshore exploration.",
-      "url": "https://www.france24.com/en/video/20260326-italy-s-meloni-says-to-boost-cooperation-with-algeria-on-gas-deliveries",
-      "published": "2026-03-26T10:25:48+00:00",
-      "source": "France 24",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "Dozens dead in Bangladesh as passenger bus plunges into Padma River",
-      "summary": "A passenger bus carrying approximately 40 people plunged into the Padma River in Bangladesh while attempting to board a ferry. Dozens were killed, including children.",
-      "url": "https://www.aljazeera.com/news/2026/3/26/dozens-dead-in-bangladesh-as-passenger-bus-plunges-into-padma-river?traffic_source=rss",
-      "published": "2026-03-26T10:24:29+00:00",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Two drone strikes on civilian targets kill 28 people in Sudan",
-      "summary": "At least 28 civilians were killed in two drone strikes in Sudan as the civil war between the army and the Rapid Support Forces nears its fourth year. One strike hit a market in Saraf Omra, North Darfur, killing 22 people including an infant, while another struck a truck carrying civilians in North Kordofan.",
-      "url": "https://www.theguardian.com/world/2026/mar/26/sudan-drone-strikes-civilian-targets-north-darfur-market-north-kordofan-truck",
-      "published": "2026-03-26T10:24:21+00:00",
-      "source": "The Guardian",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "France pays national tribute to former Prime Minister Lionel Jospin",
-      "summary": "France held a national tribute on Thursday for former Socialist Prime Minister Lionel Jospin, who died on Sunday. President Emmanuel Macron led the ceremony honoring Jospin, who headed the \"plural left\" coalition government from 1997 to 2002.",
-      "url": "https://www.france24.com/en/video/20260326-france-pays-national-tribute-to-former-prime-minister-lionel-jospin",
-      "published": "2026-03-26T10:24:14+00:00",
-      "source": "France 24",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "Israel, US diverging timelines on possible negotiation for end of war",
-      "summary": "A US plan to end the Middle East war was conveyed to Tehran through Pakistani mediators, but Iran rejected the proposal and put forward its own conditions. Despite these indirect diplomatic exchanges, Israel has continued large-scale military strikes against Iran.",
-      "url": "https://www.france24.com/en/video/20260326-israel-us-diverging-timelines-on-possible-negociation-for-end-of-war",
-      "published": "2026-03-26T10:22:03+00:00",
-      "source": "France 24",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "Colombia Hercules crash aftermath: political clash over causes intensifies days after tragedy",
-      "summary": "The crash of a Hercules C-130 military aircraft in Putumayo, Colombia, on March 23 killed 70 people and has triggered a political confrontation between President Gustavo Petro, military leadership, and the opposition. The dispute centers on the causes of the disaster and the state of Colombia's defence capabilities ahead of May 31 presidential elections.",
-      "url": "https://en.mercopress.com/2026/03/26/colombia-hercules-crash-aftermath-political-clash-over-causes-intensifies-days-after-tragedy?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-      "published": "2026-03-26T10:22:00+00:00",
-      "source": "MercoPress",
-      "region": "Americas",
-      "region_key": "americas"
-    },
-    {
-      "title": "Hungary moves to restrict gas supplies to Ukraine",
-      "summary": "Hungary has banned its gas transmission system operator from holding auctions for shipments to Ukraine in the third quarter, moving to wind down gas supplies. Hungary and Slovakia blame Kyiv for an outage on the Druzhba pipeline that carries Russian crude through Ukraine to their refineries.",
-      "url": "https://www.france24.com/en/video/20260326-hungary-moves-to-restrict-gas-supplies-to-ukraine",
-      "published": "2026-03-26T10:20:39+00:00",
-      "source": "France 24",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "‘Missile hit’ flips car in Israel",
-      "summary": "Surveillance footage from central Israel captured a car being flipped over by debris from an incoming rocket or missile strike. The incident highlighted the ongoing threat from projectile attacks on Israeli territory.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/26/missile-hit-flips-car-in-israel?traffic_source=rss",
-      "published": "2026-03-26T10:19:08+00:00",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "WHO alarmed by health turmoil in Cuba",
-      "summary": "WHO Director-General Tedros Adhanom Ghebreyesus said Wednesday that Cuba's health situation is \"deeply concerning\" as a US fuel blockade worsens the island's energy crisis. He called for health to be protected from geopolitics, energy blockades, and power outages.",
-      "url": "https://www.france24.com/en/video/20260326-who-alarmed-by-health-turmoil-in-cuba",
-      "published": "2026-03-26T10:18:16+00:00",
-      "source": "France 24",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "South Africa: Mantashe Tells South Africans Not to Panic Over Fuel Shortages",
-      "summary": "South African Mineral Resources and Energy Minister Gwede Mantashe urged citizens not to panic over fuel shortages linked to the US-Israel-Iran war. Petrol and diesel prices are expected to rise sharply on April 1, with diesel set to increase by R9.50 per litre.",
-      "url": "https://allafrica.com/stories/202603260256.html",
-      "published": "2026-03-26T10:17:45+00:00",
-      "source": "AllAfrica",
-      "region": "Africa",
-      "region_key": "africa"
-    },
-    {
-      "title": "Five weapons, 57 days: how Budapest escalated against Ukraine after one Russian drone strike",
-      "summary": "Tensions between Budapest and Kyiv escalated over 57 days following a Russian drone strike, with Hungary deploying five diplomatic or economic measures against Ukraine. Ukraine's Foreign Ministry noted that Hungarian gas imports have not stopped and that Kyiv has contingency plans prepared.",
-      "url": "https://euromaidanpress.com/2026/03/26/ungary-five-weapons-ukraine-druzhba-escalation/",
-      "published": "2026-03-26T10:16:52+00:00",
-      "source": "Euromaidan Press",
-      "region": "Europe",
-      "region_key": "europe"
-    },
-    {
-      "title": "UN adopts Ghana's slavery resolution, defying resistance from US, Israel",
-      "summary": "The UN General Assembly adopted a Ghana-proposed resolution recognizing transatlantic slavery as the \"gravest crime against humanity\" and calling for reparations. The non-binding resolution passed with 123 votes in favor, three opposed—including the US and Israel—and 52 abstentions, including EU members and Britain.",
-      "url": "https://www.france24.com/en/video/20260326-un-adopts-ghana-s-slavery-resolution-defying-resistance-from-us-israel",
-      "published": "2026-03-26T10:15:44+00:00",
-      "source": "France 24",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "Europe can’t rely on US for air-defense missiles, top EU official says",
-      "summary": "A top EU official, Kubilius, is conducting a \"missile tour\" across Europe to discuss air-defense missile production with manufacturers. The effort underscores concerns that Europe cannot rely on the United States for air-defense missile supplies and that the European Commission must support domestic production.",
-      "url": "https://www.defensenews.com/global/europe/2026/03/26/europe-cant-rely-on-us-for-air-defense-missiles-top-eu-official-says/",
-      "published": "2026-03-26T10:15:01+00:00",
-      "source": "Defense News",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "Israeli judge closes case of Palestinian teen's death in prison",
-      "summary": "An Israeli judge closed the investigation into the death of a Palestinian teenager in Israeli prison, despite evidence suggesting starvation and an unclear cause of death. The decision has raised concerns about the treatment of Palestinian detainees.",
-      "url": "https://www.newarab.com/news/israeli-judge-closes-case-palestinian-teens-death-prison",
-      "published": "2026-03-26T10:14:53+00:00",
-      "source": "The New Arab",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Strike kills IRGC Navy chief Tangsiri in Strait of Hormuz, Israeli official tells 'Post'",
-      "summary": "Israeli sources confirmed the IDF carried out a strike that killed IRGC Navy commander Alireza Tangsiri in the Strait of Hormuz. Several of Tangsiri's top naval aides were also reported killed in the same attack.",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-891240",
-      "published": "2026-03-26T10:14:23+00:00",
-      "source": "Jerusalem Post",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Residents injured after blast in Israeli home amid new Iranian barrage",
-      "summary": "Five people were injured after a blast struck a residential area in Kafr Qasim, central Israel, during a new Iranian missile and projectile barrage. Medics responded to the scene as fears of further Iranian strikes intensified.",
-      "url": "http://www.africanews.com/2026/03/26/residents-injured-after-blast-in-israeli-home-amid-new-iranian-barrage/",
-      "published": "2026-03-26T10:13:06+00:00",
-      "source": "Africanews",
-      "region": "Africa",
-      "region_key": "africa"
-    },
-    {
-      "title": "Ex-Taiwan presidential hopeful sentenced to 17 years for corruption",
-      "summary": "Former Taiwan presidential candidate Ko Wen-je was sentenced to 17 years in prison on corruption charges. His supporters had previously described the prosecution as politically motivated.",
-      "url": "https://www.bbc.com/news/articles/cn9q3dw3qj7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-03-26T10:11:38+00:00",
-      "source": "BBC",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
-      "title": "Nigeria: Nigeria's Broadband Demand May Spike By 2030",
-      "summary": "Nigeria's broadband demand is projected to grow significantly as the country's population is expected to reach 245 million by 2030. The forecast highlights increasing pressure on the country's telecommunications infrastructure.",
-      "url": "https://allafrica.com/stories/202603260242.html",
-      "published": "2026-03-26T10:10:58+00:00",
-      "source": "AllAfrica",
-      "region": "Africa",
-      "region_key": "africa"
-    },
-    {
-      "title": "Australian growth forecasts slashed as global economy faces inflation spike",
-      "summary": "The OECD warned that the US-Israel war on Iran threatens a major global inflationary spike as soaring fuel prices endanger growth in European and Asian nations. Australian growth forecasts have been slashed, with economists expecting higher interest rates and inflation driven by the Middle East conflict.",
-      "url": "https://www.theguardian.com/business/2026/mar/26/oecd-finds-global-economy-on-brink-of-inflation-spike-due-to-us-israeli-attacks-on-iran-with-australia-not-immune",
-      "published": "2026-03-26T10:07:03+00:00",
-      "source": "The Guardian",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "OECD cuts eurozone growth outlook as war drives inflation",
-      "summary": "The OECD downgraded its eurozone growth forecast by 0.4 percentage points to 0.8 percent, citing rising energy prices and inflation driven by the Middle East war. Growth projections for Germany and France were each cut by 0.2 points.",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oecd-cuts-eurozone-growth-outlook-war-drives-inflation",
-      "published": "2026-03-26T10:04:17+00:00",
-      "source": "Middle East Eye",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "US links security guarantees to Ukraine giving up Donbas, Zelenskyy says",
-      "summary": "President Volodymyr Zelenskyy said in a Reuters interview that the United States is conditioning security guarantees on Ukraine relinquishing all of Donbas. The disclosure highlights a key point of contention in ongoing negotiations over Ukraine's future security framework.",
-      "url": "https://euromaidanpress.com/2026/03/26/us-links-security-guarantees-to-ukraine-giving-up-donbas-zelenskyy-says/",
-      "published": "2026-03-26T10:03:51+00:00",
-      "source": "Euromaidan Press",
-      "region": "Europe",
-      "region_key": "europe"
-    },
-    {
-      "title": "Middle East conflict will damage UK’s economy ‘more than any other’",
-      "summary": "The OECD warned that the Middle East conflict will hurt the UK economy more than any other industrialised nation, cutting its 2026 growth forecast from 1.2% to 0.7%. The organisation also cautioned about rising inflation linked to the regional instability.",
-      "url": "https://www.theguardian.com/business/2026/mar/26/middle-east-conflict-will-damage-uk-economy-more-than-any-other",
-      "published": "2026-03-26T10:00:33+00:00",
-      "source": "The Guardian",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "What can the Iran war tell China about missile interception?",
-      "summary": "A Chinese military magazine urged Beijing to develop an air-based missile interceptor system, citing lessons from the Iran war. The analysis highlighted how Iran's ballistic missiles posed severe challenges to Israel's existing midcourse and terminal-phase missile defence systems.",
-      "url": "https://www.scmp.com/news/china/military/article/3347981/iran-war-shows-why-china-must-change-course-missile-interception-tech-analysis?utm_source=rss_feed",
-      "published": "2026-03-26T10:00:18+00:00",
-      "source": "South China Morning Post",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
-      "title": "Once a poor village boy, famous China educational guru Zhang Xuefeng dies at 41 after a run",
-      "summary": "Zhang Xuefeng, a prominent Chinese education influencer with over 30 million online followers, died on March 24 at age 41 after suffering cardiac arrest following a run. CCTV News reported he felt unwell after exercising and was rushed to the hospital, where doctors were unable to revive him.",
-      "url": "https://www.scmp.com/news/people-culture/china-personalities/article/3347974/once-poor-village-boy-famous-china-educational-guru-zhang-xuefeng-dies-41-after-run?utm_source=rss_feed",
-      "published": "2026-03-26T10:00:17+00:00",
-      "source": "South China Morning Post",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
-      "title": "Help us reach our goal of 4,500 Seder boxes for Tel Aviv-Yafo families in need - Sponsored Content",
-      "summary": "The Jaffa Institute is seeking support to provide 4,500 Seder boxes to underprivileged families in Tel Aviv-Yafo ahead of Passover.",
-      "url": "https://toi.li/O7vyND",
-      "published": "2026-03-26T09:56:46+00:00",
-      "source": "Times of Israel",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Bangladesh recovers 24 bodies after bus plunges into river",
-      "summary": "Rescue teams including navy divers recovered 24 bodies, including five children, from a bus that plunged into the Padma River at Goalanda, Bangladesh, about 65 km west of Dhaka. The bus sank on Wednesday with approximately 50 passengers on board; many managed to escape.",
-      "url": "https://www.scmp.com/news/asia/south-asia/article/3348011/bangladesh-recovers-24-bodies-after-bus-plunges-river?utm_source=rss_feed",
-      "published": "2026-03-26T09:56:46+00:00",
-      "source": "South China Morning Post",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
-      "title": "Israel hinders repair of damaged water infra deepening Gaza’s health crisis",
-      "summary": "Palestinian engineers in Gaza are struggling to repair water infrastructure damaged by Israeli military operations. Contamination of the water system is deepening the health crisis facing Gaza's population.",
-      "url": "https://www.aljazeera.com/features/2026/3/26/israel-hinders-repair-of-damaged-water-infra-deepening-gazas-health-crisis?traffic_source=rss",
-      "published": "2026-03-26T09:52:51+00:00",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Burkina Faso: Burkina Faso Leads the Way in Culturally Inspired Ai",
-      "summary": "Burkina Faso is integrating local languages into its artificial intelligence development as part of a push for digital sovereignty. The initiative positions the country as a leader in culturally inspired AI on the continent.",
-      "url": "https://allafrica.com/stories/202603260198.html",
-      "published": "2026-03-26T09:52:51+00:00",
-      "source": "AllAfrica",
-      "region": "Africa",
-      "region_key": "africa"
-    },
-    {
-      "title": "Nigeria: Maiduguri Bombings Show New Threat to Civilians",
-      "summary": "Human Rights Watch called on Nigerian authorities to ensure civilian protection and investigate bombings in Maiduguri, the capital of Borno state. The attacks highlighted a new threat to civilians in the region.",
-      "url": "https://allafrica.com/stories/202603260191.html",
-      "published": "2026-03-26T09:51:33+00:00",
-      "source": "AllAfrica",
-      "region": "Africa",
-      "region_key": "africa"
-    },
-    {
-      "title": "Amid US-Israel war, Iran football team trains in Turkiye before World Cup",
-      "summary": "Iran's national football team has traveled to Turkey for training and two friendly matches ahead of the FIFA World Cup, scheduled to be held in the US, Canada, and Mexico.",
-      "url": "https://www.aljazeera.com/sports/2026/3/26/amid-us-israel-war-iran-football-team-trains-in-turkiye-before-world-cup?traffic_source=rss",
-      "published": "2026-03-26T09:48:22+00:00",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "ECOWAS appoints veteran diplomat to mediate with Sahel States",
-      "summary": "ECOWAS appointed former Guinean Prime Minister Lansana Kouyaté to mediate with Niger, Mali, and Burkina Faso. The three Sahel states withdrew from the regional bloc last year, and Kouyaté is tasked with re-establishing dialogue.",
-      "url": "http://www.africanews.com/2026/03/26/ecowas-appoints-veteran-diplomat-to-mediate-with-sahel-states/",
-      "published": "2026-03-26T09:42:47+00:00",
-      "source": "Africanews",
-      "region": "Africa",
-      "region_key": "africa"
-    },
-    {
-      "title": "Israeli soldier killed in gunfight with Hezbollah terrorists in southern Lebanon, IDF says",
-      "summary": "The Israeli military confirmed that 21-year-old Staff Sergeant Ori Greenberg of the Golani Brigade was killed in a gunfight with Hezbollah fighters in southern Lebanon. Another Israeli soldier was injured in the same engagement.",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-891238",
-      "published": "2026-03-26T09:41:06+00:00",
-      "source": "Jerusalem Post",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Drone hits Russian oil tanker in Black Sea near Turkey",
-      "summary": "A drone struck a Russian oil tanker carrying crude in the Black Sea near the Bosphorus strait close to Turkey. The crew was reported safe after the explosion damaged the vessel, amid rising tensions in the region.",
-      "url": "https://www.newarab.com/news/drone-hits-russian-oil-tanker-black-sea-near-turkey",
-      "published": "2026-03-26T09:40:19+00:00",
-      "source": "The New Arab",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
       "title": "Ex-NSA leaders say Americans are becoming ‘numb’ to cyber threats",
       "summary": "Former National Security Agency leaders warned that Americans are becoming desensitized to cybersecurity threats. One former NSA director said that serious cyberattacks have not prompted sufficiently strong policy responses or public awareness.",
       "url": "https://www.defenseone.com/threats/2026/03/ex-nsa-leaders-say-americans-are-becoming-numb-cyber-threats/412425/",
@@ -178800,170 +178818,53 @@
       "region_key": "all"
     },
     {
-      "title": "Cathay to increase fuel surcharge for all flights by 34% from April",
-      "summary": "Hong Kong's Cathay Pacific Airways announced a 34 per cent increase in fuel surcharges for all flights starting in April, its second increase in two weeks. The airline cited rising jet fuel prices driven by the Middle East war, noting its fuel hedging measures were insufficient to offset costs.",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3348004/cathay-increase-fuel-surcharge-all-flights-34-april?utm_source=rss_feed",
-      "published": "2026-03-26T09:34:06+00:00",
-      "source": "South China Morning Post",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
-      "title": "How much junk is in South China Sea? Beijing flexes surveillance muscle with survey",
-      "summary": "A Chinese survey estimated approximately 93 million pieces of debris are floating on the surface of the South China Sea. Using fixed-ship monitoring, underway surveys, and satellite remote sensing, marine scientists audited 26 locations in the central and southern portions of the disputed waters.",
-      "url": "https://www.scmp.com/news/china/science/article/3347973/how-much-junk-south-china-sea-beijing-flexes-surveillance-muscle-survey?utm_source=rss_feed",
-      "published": "2026-03-26T09:30:09+00:00",
-      "source": "South China Morning Post",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
-      "title": "Gaza: Strike near Deir al‑Balāḥ tents kills at least one",
-      "summary": "An airstrike near tents in Deir al-Balah, central Gaza, killed at least one person. Video from the scene showed an explosion triggering a fire as residents and medics rushed to assist the wounded.",
-      "url": "http://www.africanews.com/2026/03/26/gaza-strike-near-deir-albala-tents-kills-at-least-one/",
-      "published": "2026-03-26T09:27:26+00:00",
-      "source": "Africanews",
-      "region": "Africa",
-      "region_key": "africa"
-    },
-    {
-      "title": "Turkey-operated tanker carrying Russian oil struck by naval drone in Black Sea",
-      "summary": "A crude oil tanker traveling from Russia's Novorossiysk port to Istanbul was struck by a naval drone near the Bosphorus strait on Thursday morning, according to Turkish Transportation Minister Abdulkadir Uraloglu. The attack targeted the ship's engine room, but no injuries were reported.",
-      "url": "https://www.france24.com/en/europe/20260326-turkey-operated-tanker-carrying-russian-oil-struck-by-naval-drone-in-black-sea",
-      "published": "2026-03-26T09:21:14+00:00",
-      "source": "France 24",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "Pakistan steps in as Iran mediator while India watches from the wings",
-      "summary": "Pakistan has emerged as a backchannel mediator between Tehran and Washington as the Iran war reshapes West Asian geopolitics. India, despite growing partnerships with the US, Israel, and Gulf states, has been absent from meaningful conflict-resolution efforts regarding Iran.",
-      "url": "https://www.scmp.com/week-asia/politics/article/3347999/pakistan-steps-iran-mediator-while-india-watches-wings?utm_source=rss_feed",
-      "published": "2026-03-26T09:21:12+00:00",
-      "source": "South China Morning Post",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
-      "title": "Iran says 87,000 civilian sites damaged in war",
-      "summary": "Iran's Red Crescent reported that more than 87,000 non-military sites have been damaged or destroyed across the country since the start of Israeli-US strikes. The organization described widespread harm to civilian infrastructure.",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-87000-civilian-sites-damaged-war",
-      "published": "2026-03-26T09:20:06+00:00",
-      "source": "Middle East Eye",
+      "title": "Deadliest year ever for Red Sea migrants with 922 deaths: UN",
+      "summary": "The UN migration agency reported that 922 migrants died on the Eastern Route from the Horn of Africa to the Arabian Peninsula in the past year, a record high and double the previous year's figure. Most travel from Djibouti to Yemen seeking work in Gulf countries.",
+      "url": "https://www.arabnews.com/node/2637597/world",
+      "published": "2026-03-25T12:03:39+03:00",
+      "source": "Arab News",
       "region": "Middle East",
       "region_key": "middle-east"
     },
     {
-      "title": "China’s lidar giants pivot to robotics as Jensen Huang praises Chinese supply chain",
-      "summary": "Chinese lidar sensor manufacturers Hesai Group and RoboSense Technology are expanding into robotics products. Shanghai-based Hesai plans to invest 200 million yuan this year to design and manufacture sensor and actuator components for robots, seeking new growth as China strengthens its global robotics supply chain.",
-      "url": "https://www.scmp.com/business/china-business/article/3347995/chinas-lidar-giants-pivot-robotics-jensen-huang-praises-chinese-supply-chain?utm_source=rss_feed",
-      "published": "2026-03-26T09:12:13+00:00",
-      "source": "South China Morning Post",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
-      "title": "Israel medics say Iranian missile attack leaves six wounded",
-      "summary": "Iranian missile attacks on Israel wounded six people and caused damage to homes, according to Israeli medics. Fighting between Israel and Hezbollah in Lebanon has also escalated, with one Israeli soldier killed.",
-      "url": "https://www.newarab.com/news/israel-medics-say-iranian-missile-attack-leaves-six-wounded",
-      "published": "2026-03-26T09:11:59+00:00",
-      "source": "The New Arab",
+      "title": "Rohingya refugees in Bangladesh worry ahead of food aid cuts",
+      "summary": "Rohingya refugees in Bangladesh expressed concern as the UN World Food Programme prepares to cut food aid due to funding shortages. The camps shelter approximately 1.2 million Rohingya, with over 150,000 new arrivals since 2024.",
+      "url": "https://www.arabnews.com/node/2637600/world",
+      "published": "2026-03-25T12:03:32+03:00",
+      "source": "Arab News",
       "region": "Middle East",
       "region_key": "middle-east"
     },
     {
-      "title": "Cuban president says Raul Castro involved in US talks amid oil blockade",
-      "summary": "Cuban President Miguel Díaz-Canel stated that former leader Raúl Castro is involved in ongoing talks with the United States. The discussions come amid rising tensions, including a US oil blockade and remarks by President Trump about taking over Cuba.",
-      "url": "https://www.aljazeera.com/news/2026/3/26/cuban-president-says-raul-castro-involved-in-us-talks-amid-oil-blockade?traffic_source=rss",
-      "published": "2026-03-26T09:09:06+00:00",
-      "source": "Al Jazeera",
+      "title": "Erling Haaland invests in Norway Chess to launch Total Chess World Championship Tour",
+      "summary": "Norwegian football star Erling Haaland has invested in Norway Chess through a new venture called Chess Mates, co-established with Norwegian businessman Morten Borge. The partnership will support the launch of the Total Chess World Championship Tour.",
+      "url": "https://www.arabnews.com/node/2637596/sport",
+      "published": "2026-03-25T12:03:27+03:00",
+      "source": "Arab News",
       "region": "Middle East",
       "region_key": "middle-east"
     },
     {
-      "title": "New India bill to amend transgender rights sparks protests",
-      "summary": "India's government has introduced a bill that would amend the existing Transgender Persons (Protection of Rights) Act, altering how transgender individuals are legally recognised and their right to self-identify, prompting public protests.",
-      "url": "https://www.bbc.com/news/articles/czx9de4ygl7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-03-26T09:01:03+00:00",
-      "source": "BBC",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
-      "title": "Singapore leader sees China helping small groups realise big results for Asia",
-      "summary": "Singapore Prime Minister Lawrence Wong said at the Boao Forum for Asia that China could lead plurilateral cooperation among smaller groups of like-minded Asian countries. He also suggested Beijing could spearhead AI governance efforts and play a larger role in promoting regional economic prosperity.",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3347989/singapore-leader-sees-china-helping-small-groups-realise-big-results-asia?utm_source=rss_feed",
-      "published": "2026-03-26T09:00:44+00:00",
-      "source": "South China Morning Post",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
-      "title": "Trump sets new China visit date as Iran war stokes economic risks",
-      "summary": "US President Donald Trump announced he would visit China on May 14–15 for a meeting with President Xi Jinping, after delaying the trip by about six weeks due to the Iran war. The revised schedule is one day shorter than the originally planned three-day visit starting March 31.",
-      "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3347988/trump-sets-new-china-visit-date-iran-war-stokes-economic-risks?utm_source=rss_feed",
-      "published": "2026-03-26T09:00:29+00:00",
-      "source": "South China Morning Post",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
-      "title": "Nigeria: Nigeria Joins Ghana, 121 Others Urging Reparations for Slavery's Historical Wrongs",
-      "summary": "Nigeria joined Ghana and 121 other UN member states in adopting a resolution declaring the transatlantic slave trade the gravest crime against humanity. The resolution calls for reparations for slavery's historical wrongs.",
-      "url": "https://allafrica.com/stories/202603260169.html",
-      "published": "2026-03-26T09:00:26+00:00",
-      "source": "AllAfrica",
-      "region": "Africa",
-      "region_key": "africa"
-    },
-    {
-      "title": "Uganda: Uganda to Withdraw Troops From Some Positions in Eastern DR Congo, Says Gen Muhoozi",
-      "summary": "Uganda announced plans to withdraw some of its troops deployed in eastern Democratic Republic of Congo. Chief of Defence Forces General Muhoozi Kainerugaba confirmed the planned partial drawdown.",
-      "url": "https://allafrica.com/stories/202603260167.html",
-      "published": "2026-03-26T09:00:23+00:00",
-      "source": "AllAfrica",
-      "region": "Africa",
-      "region_key": "africa"
-    },
-    {
-      "title": "‘He will call me Mama’: The Gaza ‘grandmother’ raising an orphaned baby",
-      "summary": "A woman named Maha in Gaza adopted an infant named Hamza after an Israeli air strike killed his parents on the day he was born. She had previously been known as 'Grandmother' within her family.",
-      "url": "https://www.aljazeera.com/features/longform/2026/3/26/he-will-call-me-mama-the-gaza-grandmother-raising-an-orphaned-baby?traffic_source=rss",
-      "published": "2026-03-26T08:53:33+00:00",
-      "source": "Al Jazeera",
+      "title": "EMEA ports have rating headroom to weather Hormuz closure: Fitch",
+      "summary": "Fitch Ratings said ports across Europe, the Middle East, and Africa generally have sufficient rating headroom to withstand a prolonged Strait of Hormuz closure. The agency noted that many ports maintain robust financial profiles and diversified cargo bases despite significant disruption to global oil and gas flows.",
+      "url": "https://www.arabnews.com/node/2637608/business-economy",
+      "published": "2026-03-25T02:03:15+03:00",
+      "source": "Arab News",
       "region": "Middle East",
       "region_key": "middle-east"
     },
     {
-      "title": "G7 meets in France to narrow transatlantic Iran split",
-      "summary": "G7 foreign ministers convened near Paris to discuss Middle East tensions, the Ukraine war, and other global crises. The meeting aimed to bridge differences between European allies and the United States on Iran policy.",
-      "url": "https://www.newarab.com/news/g7-meets-france-narrow-transatlantic-iran-split",
-      "published": "2026-03-26T08:52:20+00:00",
-      "source": "The New Arab",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Helium hitch: Why US-Israel war on Iran could cause MRI scan delays",
-      "summary": "The ongoing US-Israeli war on Iran is disrupting global helium supplies, which could lead to delays in MRI scans and affect other medical and industrial applications that depend on the gas.",
-      "url": "https://www.aljazeera.com/economy/2026/3/26/helium-hitch-why-us-israel-war-on-iran-could-cause-mri-scan-delays?traffic_source=rss",
-      "published": "2026-03-26T08:51:30+00:00",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "US embassy urges citizens to leave Iraq over attacks",
-      "summary": "The US embassy in Iraq issued a security alert warning of escalating attacks by Iran-aligned armed groups targeting American citizens and interests. The embassy urged US nationals to leave Iraq immediately, recommending overland travel via Jordan.",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-embassy-urges-citizens-leave-iraq-over-attacks",
-      "published": "2026-03-26T08:50:17+00:00",
-      "source": "Middle East Eye",
+      "title": "Russia says it shot down almost 400 Ukrainian drones as Moscow and Kyiv escalate aerial barrages",
+      "summary": "Russia's Defense Ministry said its air defenses intercepted 389 Ukrainian drones over 13 Russian regions and Crimea, the largest reported overnight drone attack since the full-scale invasion began. The strike demonstrated the growing capability of Ukraine's domestically produced long-range drones.",
+      "url": "https://www.arabnews.com/node/2637605/world",
+      "published": "2026-03-25T01:03:45+03:00",
+      "source": "Arab News",
       "region": "Middle East",
       "region_key": "middle-east"
     },
     {
       "title": "One house, two faiths, one fasting season",
-      "summary": "In Nigeria, couples like Olanrewaju and Kaosara are observing Ramadan and Lent together as the two fasting periods overlap for the first time since 1993.",
+      "summary": "In Nigeria, interfaith couples like Olanrewaju and Kaosara are observing Ramadan and Lent simultaneously, as the two fasting periods overlap for the first time since 1993.",
       "url": "https://www.bbc.com/news/videos/cwygeypnevxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-03-12T12:40:13+00:00",
       "source": "BBC",
@@ -178972,7 +178873,7 @@
     },
     {
       "title": "Inside Ethiopia's 'smart' police station",
-      "summary": "Ethiopia unveiled its first unmanned \"smart\" police station, where citizens can report crimes using automated touch screens without the need for in-person officer interaction.",
+      "summary": "Ethiopia unveiled its first unmanned \"smart\" police station, where citizens can report crimes using automated touch screens without interacting with officers in person.",
       "url": "https://www.bbc.com/news/videos/cz9qqzqkk82o?at_medium=RSS&at_campaign=rss",
       "published": "2026-03-05T12:29:16+00:00",
       "source": "BBC",
@@ -178980,98 +178881,8 @@
       "region_key": "africa"
     },
     {
-      "title": "El-Sisi says Egypt in ‘state of near-emergency’ as war threatens economy",
-      "summary": "Egyptian President Abdel Fattah El-Sisi declared on Thursday that Egypt is in an economic \"state of near-emergency\" due to the Middle East war. He warned of runaway inflation, noting that the conflict has paralyzed trade through the Strait of Hormuz and affected Egypt's Gulf allies.",
-      "url": "https://www.arabnews.com/node/2635410/middle-east",
-      "published": "2026-03-05T11:03:29+03:00",
-      "source": "Arab News",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "How Israel’s ‘buffer zone’ plan could redraw the map of southern Lebanon",
-      "summary": "Israel announced a ground incursion into southern Lebanon with the aim of establishing a permanent \"security zone\" along the border. The operation was triggered after Hezbollah launched attacks on Israeli forces from positions south and north of the Litani River, prompting renewed Israeli air and ground campaigns.",
-      "url": "https://www.arabnews.com/node/2635409/middle-east",
-      "published": "2026-03-05T10:03:55+03:00",
-      "source": "Arab News",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Israel decided to kill Khamenei in November, defense minister says",
-      "summary": "Israeli Defense Minister Israel Katz revealed that Israel decided in November to assassinate Iran's Supreme Leader Ali Khamenei and planned to carry out the operation roughly six months later. Khamenei was killed in the opening hours of the US-Israeli air campaign that began on Saturday.",
-      "url": "https://www.arabnews.com/node/2635406/middle-east",
-      "published": "2026-03-05T10:03:51+03:00",
-      "source": "Arab News",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Macron calls on Israel, Iran and Hezbollah to prevent Lebanon being embroiled in conflict",
-      "summary": "French President Emmanuel Macron called on Israel, Iran, and Hezbollah not to embroil Lebanon in the wider Middle East conflict. He proposed a plan to end hostilities between Israel and Hezbollah, including military aid to the Lebanese army, as Israel ordered evacuations in Beirut's southern suburbs and the Bekaa region.",
-      "url": "https://www.arabnews.com/node/2635405/middle-east",
-      "published": "2026-03-05T10:03:44+03:00",
-      "source": "Arab News",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Trump fires homeland security chief Kristi Noem",
-      "summary": "US President Donald Trump fired Kristi Noem as Secretary of Homeland Security after she testified that he had approved a $220 million DHS advertising campaign featuring herself. Trump announced that Republican Senator Markwayne Mullen of Oklahoma would replace Noem effective March 31.",
-      "url": "https://www.arabnews.com/node/2635407/world",
-      "published": "2026-03-05T10:03:32+03:00",
-      "source": "Arab News",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Jordan’s king condemns Iranian attacks in region during talks with Syrian president",
-      "summary": "King Abdullah of Jordan and Syrian President Ahmad Al-Sharaa discussed the regional crisis following US and Israeli strikes against Iran in a telephone call on Thursday. Both leaders emphasized the need for dialogue to prevent further escalation.",
-      "url": "https://www.arabnews.com/node/2635404/middle-east",
-      "published": "2026-03-05T10:03:26+03:00",
-      "source": "Arab News",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Europol warns Iran crisis raises threat of terror, extremism and cyberattacks",
-      "summary": "Europol warned that the Middle East conflict will have immediate repercussions for EU security, including increased risks of terrorism, violent extremism, and cyberattacks. Spokesperson Jan Op Gen Oorth said the agency expects more cyberattacks on European infrastructure and a rise in AI-driven online fraud exploiting the conflict.",
-      "url": "https://www.arabnews.com/node/2635408/world",
-      "published": "2026-03-05T10:03:24+03:00",
-      "source": "Arab News",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Swedish intelligence warns of increased Middle East war fallout",
-      "summary": "Sweden's security service warned of increased threats against American and Israeli interests, as well as Iranian dissidents, in Sweden due to the Middle East war. Sapo operations chief Fredrik Hallstrom said the country's security situation, already strained by Russia's invasion of Ukraine, has worsened since US-Israeli strikes on Iran.",
-      "url": "https://www.arabnews.com/node/2635400/world",
-      "published": "2026-03-05T09:03:46+03:00",
-      "source": "Arab News",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Kane to miss Bayern game against Gladbach with calf knock",
-      "summary": "Bayern Munich striker Harry Kane will miss the Bundesliga match against Borussia Moenchengladbach due to a calf injury. Coach Vincent Kompany said Kane is expected to recover in time for the Champions League last-16 first leg at Atalanta next Tuesday.",
-      "url": "https://www.arabnews.com/node/2635402/sport",
-      "published": "2026-03-05T09:03:33+03:00",
-      "source": "Arab News",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "PSG prepare for Chelsea clash with Monaco rematch",
-      "summary": "Paris Saint-Germain face Monaco on Friday as preparation for their upcoming Champions League last-16 clash against Chelsea. Coach Luis Enrique expressed enthusiasm for the next phase of the season as PSG remain in contention to retain both their French and European titles.",
-      "url": "https://www.arabnews.com/node/2635401/sport",
-      "published": "2026-03-05T09:03:29+03:00",
-      "source": "Arab News",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
       "title": "At the scene: Muslims killed 'over rejection of extremist ideology' in Nigeria",
-      "summary": "At least 78 people were buried and more than 170 are feared killed in attacks targeting Muslims in Nigeria. The victims were reportedly killed over their rejection of extremist ideology.",
+      "summary": "At least 78 people were buried and more than 170 are feared killed in attacks on Muslims in Nigeria. Eyewitnesses said the victims were targeted over their rejection of extremist ideology.",
       "url": "https://www.bbc.com/news/videos/czej7xpx0x9o?at_medium=RSS&at_campaign=rss",
       "published": "2026-02-05T17:15:30+00:00",
       "source": "BBC",
@@ -179080,7 +178891,7 @@
     },
     {
       "title": "From the front lines to the future: Israeli society and the Jewish people in 2036",
-      "summary": "At the Jerusalem Post Miami Conference, IDF veterans and civil-society leaders discussed service, dignity, and Diaspora responsibility as key pillars for Israel's future through 2036.",
+      "summary": "At the Jerusalem Post Miami Conference, IDF veterans and civil-society leaders discussed service, dignity, and Diaspora responsibility as key pillars for Israeli society and the Jewish people looking ahead to 2036.",
       "url": "https://www.jpost.com/conferences/article-883574",
       "published": "2026-01-15T23:48:03+00:00",
       "source": "Jerusalem Post",
@@ -179089,7 +178900,7 @@
     },
     {
       "title": "How TALMA turns English education into social mobility and a Zionist mission",
-      "summary": "At the Jerusalem Post Miami Conference, TALMA CEO Ido Mahatzri presented the organization's work using English education to promote social mobility in Israel's peripheral communities.",
+      "summary": "At the Jerusalem Post Miami Conference, TALMA CEO Ido Mahatzri presented the organization's work using English-language education to promote social mobility in Israel's peripheral communities.",
       "url": "https://www.jpost.com/conferences/article-883562",
       "published": "2026-01-15T21:10:20+00:00",
       "source": "Jerusalem Post",
@@ -179098,7 +178909,7 @@
     },
     {
       "title": "'Over 90% of Iranians hate the regime,' INSS’s Beni Sabti reveals from leaked Iran survey",
-      "summary": "A leaked survey discussed by INSS researcher Beni Sabti indicates that approximately 92% of Iranians oppose their regime. Sabti described it as a secret poll, with findings shared at a Jerusalem Post event.",
+      "summary": "A leaked internal survey cited by the Institute for National Security Studies researcher Beni Sabti indicated that over 90% of Iranians expressed opposition to the ruling regime. Sabti described it as a secret poll showing 92% disapproval.",
       "url": "https://www.jpost.com/middle-east/iran-news/article-883465",
       "published": "2026-01-15T11:42:41+00:00",
       "source": "Jerusalem Post",
@@ -179107,7 +178918,7 @@
     },
     {
       "title": "Alshareef: Israel, Jews, should help Iranians seek liberty to ‘repay debt to Cyrus’",
-      "summary": "At the Jerusalem Post Miami Summit, speaker Alshareef called on Israel and the Jewish people to support Iranians seeking freedom, framing it as repaying a historical debt to the ancient Persian king Cyrus. Prime Minister Netanyahu also voiced solidarity with Iranian protesters.",
+      "summary": "Speaking at the Jerusalem Post Miami Summit, commentator Alshareef called on Israel and the Jewish people to support Iranians seeking freedom, framing it as repaying a historical debt to the ancient Persian King Cyrus. Prime Minister Netanyahu also voiced solidarity with Iranian protesters.",
       "url": "https://www.jpost.com/middle-east/abraham-accords/article-883448",
       "published": "2026-01-14T09:57:00+00:00",
       "source": "Jerusalem Post",
@@ -179116,7 +178927,7 @@
     },
     {
       "title": "Watch: The Jerusalem Post Miami Summit",
-      "summary": "The Jerusalem Post Miami Summit served as a platform for discussions on geopolitics and Diaspora-Israel relations, featuring speakers addressing a range of global and regional issues.",
+      "summary": "The Jerusalem Post Miami Summit convened discussions on shifting geopolitics and evolving Diaspora-Israel relations, serving as a platform for cross-continental dialogue.",
       "url": "https://www.jpost.com/conferences/article-882743",
       "published": "2026-01-08T14:27:15+00:00",
       "source": "Jerusalem Post",
@@ -179125,7 +178936,7 @@
     },
     {
       "title": "The gifts I have been given: Survival as a collective act in Sudan",
-      "summary": "The article discusses survival as a collective act in Sudan, focusing on mutual aid and community resilience amid the ongoing conflict.",
+      "summary": "A report examines how communities in Sudan have relied on collective mutual aid as a survival strategy amid the country's ongoing conflict and humanitarian crisis.",
       "url": "https://www.thenewhumanitarian.org/opinion/first-person/2026/01/08/gifts-survival-collective-help-sudan",
       "published": "2026-01-08T10:38:12+00:00",
       "source": "New Humanitarian",
@@ -179134,7 +178945,7 @@
     },
     {
       "title": "Hope and resistance: Slam poets capture the weight of war in DR Congo",
-      "summary": "Slam poets in the Democratic Republic of Congo are using their art to capture the weight of war, expressing themes of hope and resistance amid the country's ongoing conflict.",
+      "summary": "Slam poets in the Democratic Republic of Congo are using spoken-word performances to express the emotional toll of war and convey messages of hope and resistance.",
       "url": "https://www.thenewhumanitarian.org/feature/2025/09/22/hope-resistance-slam-poetry-poets-capture-weight-war-drc-congo",
       "published": "2025-09-22T11:40:00+00:00",
       "source": "New Humanitarian",
@@ -179143,7 +178954,7 @@
     },
     {
       "title": "Beware the AI efficiency messiah",
-      "summary": "The article examines concerns about over-reliance on artificial intelligence as a solution for efficiency, cautioning against uncritical adoption of AI-driven approaches.",
+      "summary": "An analysis raises concerns about the growing reliance on artificial intelligence as a solution for organizational efficiency, cautioning against uncritical adoption of AI-driven approaches.",
       "url": "https://www.thenewhumanitarian.org/opinion/2025/09/22/beware-ai-efficiency-messiah",
       "published": "2025-09-22T09:00:00+00:00",
       "source": "New Humanitarian",
@@ -179152,7 +178963,7 @@
     },
     {
       "title": "Israeli bombing exposes critical shortages in Iran’s healthcare system",
-      "summary": "Israeli bombing campaigns have exposed critical shortages in Iran's healthcare system, highlighting the strain on medical infrastructure and supply chains during the conflict.",
+      "summary": "Israeli airstrikes on Iran have exposed severe shortages within Iran's healthcare system, straining medical facilities and resources needed to treat casualties.",
       "url": "https://www.thenewhumanitarian.org/news/2025/06/27/israeli-bombing-exposes-critical-shortages-iran-healthcare-system",
       "published": "2025-06-27T12:29:00+00:00",
       "source": "New Humanitarian",
@@ -179161,7 +178972,7 @@
     },
     {
       "title": "Myanmar in-depth: Slow earthquake response underlines need to overhaul long-flawed international aid efforts",
-      "summary": "The article examines how the slow international response to Myanmar's earthquake underscored longstanding flaws in global humanitarian aid delivery and the need for systemic reform.",
+      "summary": "Following a major earthquake in Myanmar, the international aid response was criticized as slow and inadequate. The report highlights systemic flaws in global humanitarian assistance and calls for a comprehensive overhaul of relief efforts.",
       "url": "https://www.thenewhumanitarian.org/analysis/2025/05/15/myanmar-depth-slow-earthquake-response-underlines-need-overhaul-long-flawed",
       "published": "2025-05-16T18:00:00+00:00",
       "source": "New Humanitarian",
@@ -179170,7 +178981,7 @@
     },
     {
       "title": "As Sudan army gains drive mass returns, mutual aid groups begin to rebuild",
-      "summary": "Sudanese army territorial gains are driving mass civilian returns to recaptured areas, where mutual aid groups have begun rebuilding communities and providing essential services.",
+      "summary": "Territorial gains by the Sudanese Armed Forces have prompted mass returns of displaced populations to recaptured areas. Local mutual aid groups are stepping in to lead early rebuilding efforts in the absence of large-scale formal assistance.",
       "url": "https://www.thenewhumanitarian.org/news-feature/2025/04/30/sudan-army-gains-drive-mass-returns-mutual-aid-groups-begin-rebuild",
       "published": "2025-04-30T10:14:15+00:00",
       "source": "New Humanitarian",
