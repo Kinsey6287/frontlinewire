@@ -1,10 +1,37 @@
 {
-  "last_updated": "2026-07-11T20:39:49.509772+00:00",
-  "story_count": 18150,
-  "new_this_run": 39,
+  "last_updated": "2026-07-11T22:39:22.558579+00:00",
+  "story_count": 18121,
+  "new_this_run": 25,
   "feed_count": 53,
   "retention_days": 30,
   "stories": [
+    {
+      "title": "ウクライナ ロシアの攻撃で7人死亡 大統領は支援加速訴え",
+      "summary": "ロシア軍は11日、首都キーウをはじめ、ウクライナ各地を弾道ミサイルなどで攻撃し、これまでにあわせて7人が死亡しました。ウクライナのゼレンスキー大統領はNATO＝北大西洋条約機構の首脳会議で合意された各国による支援が速やかに実行されるよう訴えました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260712/k10015174751000.html",
+      "published": "2026-07-12T05:49:16+09:00",
+      "source": "NHK World",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Officials in Ukraine will be held accountable over weapons store that was hit, killing 10 people: Zelensky",
+      "summary": "A Russian strike hit a warehouse housing arms in a residential area, setting off secondary explosions.",
+      "url": "https://www.straitstimes.com/world/europe/zelenskiy-says-ukraine-officials-will-be-held-accountable-for-weapons-store",
+      "published": "2026-07-12T05:16:42+08:00",
+      "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Fewer American students are studying in China. What does this mean for future ties?",
+      "summary": "Such exchanges are crucial for nurturing a generation of China experts with ties to and knowledge of the country.",
+      "url": "https://www.straitstimes.com/world/fewer-american-students-are-studying-in-china-what-does-this-mean-for-future-ties",
+      "published": "2026-07-12T05:00:00+08:00",
+      "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
     {
       "title": "US seeks free Strait of Hormuz access from Iran, as talks focus on vital waterway",
       "summary": "US President Donald Trump has said the ceasefire is over, despite the US and Iran agreeing to continue talks.",
@@ -33,6 +60,15 @@
       "region_key": "asia"
     },
     {
+      "title": "Geo News resumes transmission after 15-day suspension, warned of licence cancellation over future violations",
+      "summary": "ISLAMABAD: Geo News was allowed to resume its transmission on Sunday after remaining suspended for 15 days as ordered by the Pakistan Electronic Media Regulatory Authority (Pemra) over its regulatory ",
+      "url": "https://www.dawn.com/news/2014653/geo-news-resumes-transmission-after-15-day-suspension-warned-of-licence-cancellation-over-future-violations",
+      "published": "2026-07-12T02:06:09+05:00",
+      "source": "Dawn",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
       "title": "NATO | Towards a more European alliance",
       "summary": "Faced with external security challenges and internal divisions, especially under a sceptical Donald Trump administration, European members are preparing to play a larger role in keeping the alliance u",
       "url": "https://www.thehindu.com/news/international/nato-towards-a-more-european-alliance/article71211462.ece",
@@ -42,6 +78,51 @@
       "region_key": "asia"
     },
     {
+      "title": "Death toll from earthquakes in Venezuela exceeds 4,000",
+      "summary": "At least 4,118 people were killed, and 16,740 were injured as a result of two consecutive earthquakes that struck Venezuela on June 24.",
+      "url": "https://www.ukrinform.net/rubric-emergencies/4143200-death-toll-from-earthquakes-in-venezuela-exceeds-4000.html",
+      "published": "2026-07-12T01:31:00+03:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "Ilhan Omar: Prove your Gaza genocide claims or stop making them - opinion",
+      "summary": "By way of tangible evidence, here are some reliable facts to refute the lying, despicable congresswoman, who should bear the shame for her treacherous dishonesty.",
+      "url": "https://www.jpost.com/opinion/article-902006",
+      "published": "2026-07-12T00:47:37+00:00",
+      "source": "Jerusalem Post",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "One detail in the IDF statement changes the whole Ro Khanna story - opinion",
+      "summary": "The army's account has one armed man. His tweet has settlers, plural, brandishing rifles. Somebody's description is wrong, and it can be checked.",
+      "url": "https://www.jpost.com/opinion/article-902179",
+      "published": "2026-07-12T00:36:37+00:00",
+      "source": "Jerusalem Post",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Power restored to Lavra’s Dormition Cathedral after June 15 attack",
+      "summary": "In Kyiv, power has been restored to the Dormition Cathedral, which sustained damage from the Russian attack on June 15.",
+      "url": "https://www.ukrinform.net/rubric-society/4143174-power-restored-to-lavras-dormition-cathedral-after-june-15-attack.html",
+      "published": "2026-07-12T00:30:00+03:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "Huckabee confirms Israel warned Trump about Iran assassination plot - report",
+      "summary": "\"What the Iranians are saying and doing is nothing that they haven't been doing for 47 years,\" Huckabee explained. \"This is a longstanding 'death to America' chant they've had.\"",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-902178",
+      "published": "2026-07-12T00:27:57+00:00",
+      "source": "Jerusalem Post",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "Trump administration subpoenas New York Times journalists over Air Force One story, newspaper says",
       "summary": "The New York Times reported on security concerns involving the US President's Qatari-donated Air Force One.",
       "url": "https://www.straitstimes.com/world/united-states/trump-administration-subpoenas-new-york-times-journalists-over-air-force-one-story-newspaper-says",
@@ -49,6 +130,15 @@
       "source": "Straits Times",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "War update: 215 clashes on front line, Pokrovsk and Sloviansk remain hottest sectors",
+      "summary": "A total of 215 combat engagements have taken place along the front line since the beginning of the day, with the heaviest fighting continuing in the Pokrovsk and Sloviansk sectors.",
+      "url": "https://www.ukrinform.net/rubric-ato/4143319-war-update-215-clashes-on-front-line-pokrovsk-and-sloviansk-remain-hottest-sectors.html",
+      "published": "2026-07-11T23:50:00+03:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
     },
     {
       "title": "Pemra upholds Geo News suspension, warns of licence cancellation over future violations",
@@ -168,11 +258,29 @@
       "region_key": "middle-east"
     },
     {
+      "title": "UAE oil production hits record high after leaving Opec",
+      "summary": "UAE oil production hits record high after leaving Opec\n\n    \n    \n\n        \n    \n                The&nbsp;UAE&nbsp;boosted oil production to an all-time high last month, shaking off concerns about Ira",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-oil-production-hits-record-high-after-leaving-opec",
+      "published": "2026-07-11T22:13:50+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "Speedboat accident in southern Vietnam kills 15 Indian tourists",
       "summary": "A speedboat carrying Indian tourists capsized off southern Vietnam’s Phu Quoc island on Saturday, killing at least 15 people, state media reported.\nThe boat was carrying 36 people when it overturned a",
       "url": "https://www.dawn.com/news/2014632/speedboat-accident-in-southern-vietnam-kills-15-indian-tourists",
       "published": "2026-07-11T22:04:45+05:00",
       "source": "Dawn",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Reading the Sino-US rivalry: how a quiet literary relationship has shaped views on China",
+      "summary": "As the United States marks the 250th anniversary of its founding, it confronts a new world order dominated by its relationship with China. In this wide-ranging series, we examine the pressure points a",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3360151/reading-sino-us-rivalry-how-quiet-literary-relationship-has-shaped-views-china?utm_source=rss_feed",
+      "published": "2026-07-11T22:00:14+00:00",
+      "source": "South China Morning Post",
       "region": "Asia",
       "region_key": "asia"
     },
@@ -193,6 +301,15 @@
       "source": "Ukrinform",
       "region": "Europe",
       "region_key": "europe"
+    },
+    {
+      "title": "Trump’s crypto windfall showcases his ability to turn loyalty into power",
+      "summary": "Like many people outside the United States, I admire much of what it represents: open debate, strong institutions, energetic politics and the belief that public power should be restrained by rules. Th",
+      "url": "https://www.scmp.com/opinion/world-opinion/article/3359796/trumps-crypto-windfall-showcases-his-ability-turn-loyalty-power?utm_source=rss_feed",
+      "published": "2026-07-11T21:30:07+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
     },
     {
       "title": "Iran warns it could abandon US memorandum over violations",
@@ -249,6 +366,15 @@
       "region_key": "asia"
     },
     {
+      "title": "Coalition aims to pass raft of contentious bills in final week before Knesset dissolution",
+      "summary": "Legislation includes declaring Torah study a 'foundational value,' banning arrest of ultra-Orthodox draft evaders; unclear if bill establishing political Oct. 7 probe will pass in time\nThe post Coalit",
+      "url": "https://www.timesofisrael.com/coalition-hopes-to-pass-raft-of-contentious-bills-in-final-week-before-knesset-dissolution/",
+      "published": "2026-07-11T20:43:58+00:00",
+      "source": "Times of Israel",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "Israel must treat Hamas's drone smuggling as a national security threat - opinion",
       "summary": "On a tour of the Negev, I learned that the threat is not just the smuggling of weapons over Israel’s borders via drones – some of which can carry 150 kilograms of arms – but the drones themselves.",
       "url": "https://www.jpost.com/opinion/article-902026",
@@ -274,6 +400,15 @@
       "source": "Straits Times",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "UK police investigate murder of politician Ann Widdecombe",
+      "summary": "Politician Ann Widdecombe was found dead with serious injuries, with police confirming a murder investigation underway",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/uk-police-investigate-murder-of-politician-ann-widdecombe?traffic_source=rss",
+      "published": "2026-07-11T20:29:40+00:00",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "region_key": "middle-east"
     },
     {
       "title": "Trump tells Iran to admit Strait attacks as Oman hosts talks on reopening Hormuz shipping",
@@ -161844,15 +161979,6 @@
       "region_key": "europe"
     },
     {
-      "title": "Congo’s Ebola outbreak spreads to new health zones",
-      "summary": "There are over 500 health zones in the country.",
-      "url": "https://www.straitstimes.com/world/congos-ebola-outbreak-spreads-to-new-health-zones",
-      "published": "2026-06-12T06:38:22+08:00",
-      "source": "Straits Times",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
       "title": "Seize the opportunity to reach agreement, Egypt says on US-Iran ceasefire",
       "summary": "Seize the opportunity to reach agreement, Egypt says on US-Iran ceasefire\n\n    \n    \n\n        \n    \n                Egypt has welcomed US President Donald Trump's announcement that planned military st",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/seize-opportunity-reach-agreement-egypt-says-us-iran-ceasefire",
@@ -162060,15 +162186,6 @@
       "region_key": "africa"
     },
     {
-      "title": "Iran-born engineer wins bail ahead of U.S. trial tied to deadly drone strike",
-      "summary": "BOSTON, June 11 - A U.S. judge on Thursday allowed an Iranian-born engineer to be released on bail just days before his trial on charges linked to a deadly drone attack on a U.S. military base in Jord",
-      "url": "https://www.straitstimes.com/world/middle-east/iran-born-engineer-wins-bail-ahead-of-u-s-trial-tied-to-deadly-drone-strike",
-      "published": "2026-06-12T05:38:11+08:00",
-      "source": "Straits Times",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
       "title": "One Nation fundraiser moved from Melbourne restaurant amid planned protests",
       "summary": "Event to go ahead at an undisclosed location after Moonee Ponds restaurant cancelled at the eleventh hourFollow our Australia news live blog for latest updatesGet our breaking news email, free app or ",
       "url": "https://www.theguardian.com/australia-news/2026/jun/12/one-nation-fundraiser-moved-from-melbourne-restaurant-amid-planned-protests-ntwnfb",
@@ -162094,15 +162211,6 @@
       "source": "Middle East Eye",
       "region": "Middle East",
       "region_key": "middle-east"
-    },
-    {
-      "title": "Iran says no final decision made on deal that Trump hopes could be signed soon",
-      "summary": "Tehran is likely to approve the agreement, said Iran’s semi-official Fars news agency.",
-      "url": "https://www.straitstimes.com/world/middle-east/iran-says-no-final-decision-made-on-deal-that-trump-hopes-could-be-signed-soon",
-      "published": "2026-06-12T05:25:29+08:00",
-      "source": "Straits Times",
-      "region": "Asia",
-      "region_key": "asia"
     },
     {
       "title": "'Acknowledging rights and needs of Israelis and Palestinians: Shared path towards a secure future'",
@@ -162166,15 +162274,6 @@
       "source": "The Africa Report",
       "region": "Africa",
       "region_key": "africa"
-    },
-    {
-      "title": "Russia says it has taken two more east Ukrainian villages",
-      "summary": "MOSCOW, June 11 - Russia's Defence Ministry said on Thursday that its forces had captured two new settlements - Rozkishne village in Ukraine's eastern Donetsk region, near the key town of Kostiantyniv",
-      "url": "https://www.straitstimes.com/world/europe/russia-says-it-has-taken-two-more-east-ukrainian-villages",
-      "published": "2026-06-12T04:48:03+08:00",
-      "source": "Straits Times",
-      "region": "Asia",
-      "region_key": "asia"
     },
     {
       "title": "Zaporizhzhia doctors save teen girl after clinical death following Russian attack",
@@ -162438,15 +162537,6 @@
       "region_key": "all"
     },
     {
-      "title": "Mexico beat South Africa 2-0 to kick off 2026 FIFA World Cup",
-      "summary": "Mexico ignited their World Cup party with a dominant 2-0 victory over nine-man South Africa on Thursday as the biggest ever edition of the global footballing showpiece kicked off at Mexico City’s icon",
-      "url": "https://www.dawn.com/news/2007165/mexico-beat-south-africa-2-0-to-kick-off-2026-fifa-world-cup",
-      "published": "2026-06-12T02:43:36+05:00",
-      "source": "Dawn",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
       "title": "US says it shot down two Iranian drones near Strait of Hormuz",
       "summary": "US says it shot down two Iranian drones near Strait of Hormuz\n\n    \n    \n\n        \n    \n                A US defence official said American forces shot down two Iranian drones after Tehran allegedly a",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-says-it-shot-down-two-iranian-drones-near-strait-hormuz",
@@ -162618,15 +162708,6 @@
       "region_key": "middle-east"
     },
     {
-      "title": "Russian agent detained in Kharkiv after preparing 12 kg of explosives for terror attacks",
-      "summary": "Ukraine’s counterintelligence service has detained a Russian Federal Security Service (FSB) agent who produced 12 kilograms of explosives intended for terrorist attacks in Kharkiv.",
-      "url": "https://www.ukrinform.net/rubric-crime/4132689-russian-agent-detained-in-kharkiv-after-preparing-12-kg-of-explosives-for-terror-attacks.html",
-      "published": "2026-06-12T01:27:00+03:00",
-      "source": "Ukrinform",
-      "region": "Europe",
-      "region_key": "europe"
-    },
-    {
       "title": "Lebanon says it will not allow others to negotiate on its behalf",
       "summary": "Lebanon says it will not allow others to negotiate on its behalf\n\n    \n    \n\n        \n    \n                Lebanese foreign minister Youssef Raji discussed negotiations with Israel and the security si",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-says-it-will-not-allow-others-negotiate-its-behalf",
@@ -162717,15 +162798,6 @@
       "region_key": "middle-east"
     },
     {
-      "title": "NATO considering urgent boost to drone defenses on eastern flank",
-      "summary": "NATO and EU member states are actively discussing measures to strengthen defenses against unmanned aerial vehicles along the Alliance's eastern flank amid a growing number of drone-related incidents n",
-      "url": "https://www.ukrinform.net/rubric-polytics/4132677-nato-considering-urgent-boost-to-drone-defenses-on-eastern-flank.html",
-      "published": "2026-06-12T00:39:00+03:00",
-      "source": "Ukrinform",
-      "region": "Europe",
-      "region_key": "europe"
-    },
-    {
       "title": "Iran football team trains in Mexico as World Cup campaign begins",
       "summary": "Iran's national football team held its first open training session in Mexico on Thursday, offering a glimpse of a squad preparing for the World Cup under the shadow of conflict with the US, as Preside",
       "url": "https://www.france24.com/en/sport/20260612-iran-football-team-trains-in-mexico-as-world-cup-campaign-begins",
@@ -162733,15 +162805,6 @@
       "source": "France 24",
       "region": "Global",
       "region_key": "all"
-    },
-    {
-      "title": "Meet Russia’s latest ‘war hero’: A brigade commander accused of running a torture camp and ordering troops to execute their own comrades",
-      "summary": "The commander of the 5th Separate Motorized Rifle Brigade (formerly the Oplot Battalion), Colonel Ramil Faskhutdinov, has been named a Hero of Russia, the Defense Ministry announced.",
-      "url": "https://meduza.io/en/news/2026/06/12/meet-russia-s-latest-war-hero-a-brigade-commander-accused-of-running-a-torture-camp-and-ordering-troops-to-execute-their-own-comrades",
-      "published": "2026-06-12T00:37:59+03:00",
-      "source": "Meduza",
-      "region": "Europe",
-      "region_key": "europe"
     },
     {
       "title": "DR Congo arrive in the US for the World Cup after Ebola quarantine",
@@ -162780,24 +162843,6 @@
       "region_key": "middle-east"
     },
     {
-      "title": "Russia has postponed its biggest air show four times since 2021. That’s right: no ‘MAKS’ in 2026.",
-      "summary": "Russia has scrapped the 2026 MAKS International Aviation and Space Salon. The government posted the cancellation order on its official legal information portal.",
-      "url": "https://meduza.io/en/news/2026/06/12/russia-has-postponed-its-biggest-air-show-four-times-since-2021-that-s-right-no-maks-in-2026",
-      "published": "2026-06-12T00:16:46+03:00",
-      "source": "Meduza",
-      "region": "Europe",
-      "region_key": "europe"
-    },
-    {
-      "title": "‘False information’ charges filed in Moscow against major business daily Kommersant, editors, and journalists — 12 cases in one day",
-      "summary": "A court in Moscow received 12 administrative reports on a single day — June 8 — alleging press freedom violations, the independent Russian news outlet Mediazona reported.",
-      "url": "https://meduza.io/en/news/2026/06/12/false-information-charges-filed-in-moscow-against-major-business-daily-kommersant-editors-and-journalists-12-cases-in-one-day",
-      "published": "2026-06-12T00:03:24+03:00",
-      "source": "Meduza",
-      "region": "Europe",
-      "region_key": "europe"
-    },
-    {
       "title": "EVs capture two-thirds of China’s car market in record-breaking week",
       "summary": "Electric vehicles accounted for a record 66.7 per cent of new car sales in mainland China during the first week of June, the latest sign that the country’s battery-powered carmakers are benefiting fro",
       "url": "https://www.scmp.com/business/china-evs/article/3356789/evs-capture-two-thirds-chinas-car-market-record-breaking-week?utm_source=rss_feed",
@@ -162832,15 +162877,6 @@
       "source": "Al Jazeera",
       "region": "Middle East",
       "region_key": "middle-east"
-    },
-    {
-      "title": "Woman injured in Russian artillery attack in Kherson region",
-      "summary": "A woman was injured as a result of an artillery strike on Bilozerka in the Kherson region.",
-      "url": "https://www.ukrinform.net/rubric-ato/4132972-woman-injured-in-russian-artillery-attack-in-kherson-region.html",
-      "published": "2026-06-11T23:59:00+03:00",
-      "source": "Ukrinform",
-      "region": "Europe",
-      "region_key": "europe"
     },
     {
       "title": "Slovenia lifts ban on arms trade with Israel; Sa’ar lauds ‘just decision’ by new PM",
@@ -162897,15 +162933,6 @@
       "region_key": "middle-east"
     },
     {
-      "title": "Iran says no final decision has been made on proposed agreement",
-      "summary": "Iran says no final decision has been made on proposed agreement\n\n    \n    \n\n        \n    \n                Iran has not yet made a final decision on a potential agreement with the United States, accord",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-no-final-decision-has-been-made-proposed-agreement",
-      "published": "2026-06-11T23:26:59+01:00",
-      "source": "Middle East Eye",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
       "title": "Amnesty International condemns police violence at World Cup opening protests in Mexico City",
       "summary": "Amnesty International (AI) on Thursday condemned the violence by security forces during the large protests in southern Mexico City surrounding the opening of the 2026 World Cup, in which police used f",
       "url": "https://en.mercopress.com/2026/06/11/amnesty-international-condemns-police-violence-at-world-cup-opening-protests-in-mexico-city?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
@@ -162931,15 +162958,6 @@
       "source": "The Guardian",
       "region": "Global",
       "region_key": "all"
-    },
-    {
-      "title": "Trump says US invasion of Kharg Island off the table",
-      "summary": "Trump says US invasion of Kharg Island off the table&nbsp;\n\n    \n    \n\n        \n    \n                US President Donald Trump says there is now a “very strong” and “detailed” memorandum of understand",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-invasion-kharg-island-table",
-      "published": "2026-06-11T22:58:07+01:00",
-      "source": "Middle East Eye",
-      "region": "Middle East",
-      "region_key": "middle-east"
     },
     {
       "title": "Goldknopf protests 'exclusion' of haredi West Bank communities from budget in letter to Netanyahu",
@@ -162987,290 +163005,11 @@
       "region_key": "middle-east"
     },
     {
-      "title": "US planning 'to deport' Iranians to Central African Republic",
-      "summary": "The US is reportedly aiming to deport 20 people, including Iranians, Syrians, and Afghans to the Central African Republic.",
-      "url": "https://www.newarab.com/news/us-planning-deport-iranians-central-african-republic",
-      "published": "2026-06-11T22:42:14+01:00",
-      "source": "The New Arab",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Report says Israeli military responsible for majority of explosive weapons deaths in 2025",
-      "summary": "Report says Israeli military responsible for majority of explosive weapons deaths in 2025\n\n    \n    \n\n        \n    \n                More than half of all civilian deaths caused by explosive weapons in",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-says-israeli-military-responsible-majority-explosive-weapon",
-      "published": "2026-06-11T22:35:40+01:00",
-      "source": "Middle East Eye",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Trump calls off strikes on Iran, claims agreement could be signed this weekend in Europe",
-      "summary": "Iran says no final decision made following latest US claim that agreement is at hand; Netanyahu's office calls deal an 'emerging MoU regarding entry into negotiations' after he speaks with president\nT",
-      "url": "https://www.timesofisrael.com/trump-calls-off-strikes-on-iran-claims-agreement-could-be-signed-this-weekend-in-europe/",
-      "published": "2026-06-11T22:34:28+00:00",
-      "source": "Times of Israel",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Colombia's government confirms El Niño will be among the most intense since 1950",
-      "summary": "Colombia's Environment Ministry confirmed on Thursday that the El Niño phenomenon arrived about three months earlier than expected and that, if projections hold, it will be one of the \"most intense re",
-      "url": "https://en.mercopress.com/2026/06/11/colombia-s-government-confirms-el-nino-will-be-among-the-most-intense-since-1950?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-      "published": "2026-06-11T22:34:00+00:00",
-      "source": "MercoPress",
-      "region": "Americas",
-      "region_key": "americas"
-    },
-    {
-      "title": "Trump claims 'great' Iran deal, Tehran says no decision yet",
-      "summary": "Trump claims that 'a great settlement' has been made with Iran with a potential signing this weekend, but Tehran says a decision has yet to be finalised.",
-      "url": "https://www.newarab.com/news/trump-claims-great-iran-deal-tehran-says-no-decision-yet",
-      "published": "2026-06-11T22:26:00+01:00",
-      "source": "The New Arab",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "SpaceX prices record IPO that could make Musk a trillionaire",
-      "summary": "Elon Musk’s SpaceX on Thursday confirmed it will begin trading on the Nasdaq exchange Friday in the biggest initial public offering in history, a blockbuster market debut that could propel the entrepr",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3356821/spacex-prices-record-ipo-could-make-musk-trillionaire?utm_source=rss_feed",
-      "published": "2026-06-11T22:13:48+00:00",
-      "source": "South China Morning Post",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
-      "title": "Trump says 'settlement' reached to end war on Iran",
-      "summary": "Trump says 'settlement' reached to end war on Iran\n\n    \n    \n\n          \n      \n      \n        Submitted by \nSean Mathews\n on \nThu, 06/11/2026 - 21:28\n\n        \n      \n    \n      \n    \n              ",
-      "url": "https://www.middleeasteye.net/news/trump-says-settlement-reached-end-war-iran-netanyahu-issuing-muted-statement",
-      "published": "2026-06-11T22:10:30+01:00",
-      "source": "Middle East Eye",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Unmanned naval drones gain importance on the battlefield, rescue of US troops proves it - analysis",
-      "summary": "From infantry forces using quadcopters to large surveillance drones and the new US LUCAS system of one-way attack drones, drone warfare is increasing exponentially.",
-      "url": "https://www.jpost.com/defense-and-tech/article-899174",
-      "published": "2026-06-11T22:05:33+00:00",
-      "source": "Jerusalem Post",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Trump says Iran deal could be signed in Europe this weekend",
-      "summary": "Trump says Iran deal could be signed in Europe this weekend\n\n    \n    \n\n        \n    \n                US President Donald Trump says a deal between Washington and Tehran could be signed in Europe as s",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-deal-could-be-signed-europe-weekend",
-      "published": "2026-06-11T22:02:31+01:00",
-      "source": "Middle East Eye",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "US lawmakers warn next revolution in AI race must be in America, not China",
-      "summary": "The United States must ensure the next chapter of responsible innovation is written in America, not in China, lawmakers and witnesses told a congressional hearing on Thursday as they sounded the alarm",
-      "url": "https://www.scmp.com/news/us/diplomacy/article/3356820/us-lawmakers-warn-next-revolution-ai-race-must-be-america-not-china?utm_source=rss_feed",
-      "published": "2026-06-11T21:51:25+00:00",
-      "source": "South China Morning Post",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
-      "title": "US lawmakers press Israel to let cancer patients out of Gaza for treatment",
-      "summary": "Group of lawmakers call on Trump administration to facilitate medical evacuations out of Gaza amid dearth of services.",
-      "url": "https://www.aljazeera.com/news/2026/6/11/us-lawmakers-press-israel-to-let-cancer-patients-out-of-gaza-for-treatment?traffic_source=rss",
-      "published": "2026-06-11T21:49:27+00:00",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Canadian policeman killed during investigation tied to US consulate shooting",
-      "summary": "A Toronto police officer was shot and killed Thursday by a suspect in the investigation into a shooting attack that damaged the facade of the US consulate in the Canadian city in March, police said.\nO",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3356819/canadian-policeman-killed-during-investigation-tied-us-consulate-shooting?utm_source=rss_feed",
-      "published": "2026-06-11T21:48:55+00:00",
-      "source": "South China Morning Post",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
-      "title": "Trump says Iran peace deal is near after threatening new strikes",
-      "summary": "US President Donald Trump said Thursday he had halted plans for new military strikes on Iran, claiming negotiators were close to extending a fragile ceasefire, just hours after threatening to intensif",
-      "url": "https://www.france24.com/en/middle-east/20260611-trump-says-iran-peace-deal-is-near-after-threatening-new-strikes",
-      "published": "2026-06-11T21:47:25+00:00",
-      "source": "France 24",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "6 Jewish short films to watch this June on ChaiFlicks - Sponsored Content",
-      "summary": "A new online film festival from ChaiFlicks and Reboot Studios highlights a curated selection of short films showcasing bold, innovative Jewish storytelling. Use REBOOT at checkout.\nThe post 6 Jewish s",
-      "url": "https://www.timesofisrael.com/spotlight/6-jewish-short-films-to-watch-this-june-on-chaiflicks/",
-      "published": "2026-06-11T21:44:55+00:00",
-      "source": "Times of Israel",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Trump says he believes Iran’s supreme leader has approved deal",
-      "summary": "Trump says he believes Iran’s supreme leader has approved deal\n\n    \n    \n\n        \n    \n                US President Donald Trump says he believes Iran’s Supreme Leader Mojtaba Khamenei has approved ",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-he-believes-irans-supreme-leader-has-approved-deal",
-      "published": "2026-06-11T21:41:10+01:00",
-      "source": "Middle East Eye",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Taipei envoy sees US$14 billion arms package moving ahead under Trump",
-      "summary": "Taiwan’s representative to the United States expressed confidence that Washington would approve a new round of arms sales to Taiwan, though US President Donald Trump has yet to make a decision on the ",
-      "url": "https://www.scmp.com/news/us/article/3356818/taipei-envoy-sees-us14-billion-arms-package-moving-ahead-under-trump?utm_source=rss_feed",
-      "published": "2026-06-11T21:36:05+00:00",
-      "source": "South China Morning Post",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
-      "title": "Thanks to Trump, Chinese people have a more realistic view of America",
-      "summary": "For much of the reform era, the United States occupied a special place in the Chinese imagination. When I was growing up in China in the 1980s, the US – or meiguo, the “beautiful country” – was more t",
-      "url": "https://www.scmp.com/opinion/china-opinion/article/3356445/thanks-trump-chinese-people-have-more-realistic-view-america?utm_source=rss_feed",
-      "published": "2026-06-11T21:30:06+00:00",
-      "source": "South China Morning Post",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
-      "title": "War and Circuses",
-      "summary": "Trump juggles Iran, a World Cup, and a UFC cage fight.",
-      "url": "https://foreignpolicy.com/2026/06/11/trump-iran-war-world-cup-ufc-fight-white-house/",
-      "published": "2026-06-11T21:23:16+00:00",
-      "source": "Foreign Policy",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "World Cup kicks off in Mexico City",
-      "summary": "Mexico won against South Africa after the opening ceremony in Mexico City which featured Colombian star Shakira and Nigerian singer Burna Boy. Football fans are set for nearly 40 days of action across",
-      "url": "https://www.dw.com/en/world-cup-kicks-off-in-mexico-city/a-77511676?maca=en-rss-en-world-4025-rdf",
-      "published": "2026-06-11T21:21:00+00:00",
-      "source": "DW",
-      "region": "Europe",
-      "region_key": "europe"
-    },
-    {
-      "title": "IDF pushes deeper in into Lebanon to neutralize threat of Hezbollah",
-      "summary": "IDF assessments have determined that they can't fully disarm the terror organization but can push them back far enough into Lebanon to significantly reduce the risk to Israeli citizens.",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-899168",
-      "published": "2026-06-11T21:19:50+00:00",
-      "source": "Jerusalem Post",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Biotech firm WuXi sues US over allegations it supports China’s military",
-      "summary": "A Chinese biotechnology company sued the US government on Thursday over being placed on a list of businesses from China that the ‌US Department of Defence has linked to that country’s military.\nWuXi A",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3356817/biotech-firm-wuxi-sues-us-over-allegations-it-supports-chinas-military?utm_source=rss_feed",
-      "published": "2026-06-11T21:15:52+00:00",
-      "source": "South China Morning Post",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
-      "title": "Lander, NY Jewish progressive House candidate, acquitted after arrest in immigration court",
-      "summary": "Former NYC comptroller, a Mamdani ally running primary campaign against Jewish centrist Democratic congressman, says he is 'genuinely moved by the rule of law'\nThe post Lander, NY Jewish progressive H",
-      "url": "https://www.timesofisrael.com/lander-ny-jewish-progressive-house-candidate-acquitted-after-arrest-in-immigration-court/",
-      "published": "2026-06-11T21:14:27+00:00",
-      "source": "Times of Israel",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "'Civilians will be put in harm's way' expert warns as first autonomous drone kills revealed",
-      "summary": "A senior figure in the Ukrainian defence industry said that a test took place two years ago involving fully autonomous drones set to destroy anything in a given area, with confirmed casualties, accord",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20260611-civilians-will-be-put-in-harm-s-way-expert-warns-as-first-autonomous-drone-kill-revealed",
-      "published": "2026-06-11T21:09:48+00:00",
-      "source": "France 24",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "Palestinians allege methodical, ‘coordinated’ attack after sheep stolen, residents hurt",
-      "summary": "Claiming residents of Huwara had stolen sheep from a nearby outpost, settlers and soldiers first inspected pens and then returned in large numbers, taking dozens of animals and assaulting locals, Pale",
-      "url": "https://www.timesofisrael.com/palestinians-allege-methodical-coordinated-attack-after-sheep-stolen-residents-hurt/",
-      "published": "2026-06-11T21:09:27+00:00",
-      "source": "Times of Israel",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Trump Backpedals on Planned Iran Strikes, Citing Deal Progress",
-      "summary": "But Iranian news reports that Tehran has not yet agreed to a deal.",
-      "url": "https://foreignpolicy.com/2026/06/11/trump-cancels-strikes-iran-deal-kharg-island-blockade/",
-      "published": "2026-06-11T21:06:45+00:00",
-      "source": "Foreign Policy",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "Belfast knife attack: False images, misinformation fuel anti-immigration riots",
-      "summary": "Police in Northern Ireland Thursday prepared for further disorder, as anti-immigration riots may enter its third night. The unrest erupted after a brutal street stabbing Monday involving Sudanese nati",
-      "url": "https://www.france24.com/en/belfast-knife-attack-false-images-misinformation-fuel-anti-immigration-riots",
-      "published": "2026-06-11T20:59:52+00:00",
-      "source": "France 24",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "Toronto officer killed in raid tied to Iran-linked US consulate and synagogue shooting probe",
-      "summary": "TPS would not confirm to The Jerusalem Post that synagogue shootings were tied to the warrants.",
-      "url": "https://www.jpost.com/diaspora/article-899165",
-      "published": "2026-06-11T20:51:23+00:00",
-      "source": "Jerusalem Post",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Lawyer of jailed Moroccan activist warns her health is declining",
-      "summary": "Ibtissame Lachgar is serving a 30-month sentence for offending Islam by wearing a t-shirt that said 'Allah is lesbian'.",
-      "url": "http://www.africanews.com/2026/06/11/lawyer-of-jailed-moroccan-activist-warns-her-health-is-declining/",
-      "published": "2026-06-11T20:49:28+00:00",
-      "source": "Africanews",
-      "region": "Africa",
-      "region_key": "africa"
-    },
-    {
-      "title": "How puppets are helping women and children in Gaza cope with trauma",
-      "summary": "A puppet show project in Gaza is using storytelling and creative workshops to help women and children process trauma.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/how-puppets-are-helping-women-and-children-in-gaza-cope-with-trauma?traffic_source=rss",
-      "published": "2026-06-11T20:40:09+00:00",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
       "title": "Strike, Counterstrike, Repeat",
       "summary": "Welcome to The Adversarial.&#160;Every other week, we&#8217;ll provide you with expert analysis on America&#8217;s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more belo",
       "url": "https://warontherocks.com/strike-counterstrike-repeat/",
       "published": "2026-06-11T20:20:17+00:00",
       "source": "War on the Rocks",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "The Army wants to build a better data center. Can they do it?",
-      "summary": "A call for industry ideas pulled in 200 proposals. The service is moving ahead with data centers, manufacturing upgrades, and more.",
-      "url": "https://www.defenseone.com/policy/2026/06/army-data-center/414137/",
-      "published": "2026-06-11T17:40:24-04:00",
-      "source": "Defense One",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "Senators want a new robot warfare-focused combatant command",
-      "summary": "A 4-star general would lead the effort, should SASC’s version of the NDAA become law.",
-      "url": "https://www.defenseone.com/policy/2026/06/senators-want-new-robot-warfare-focused-combatant-command/414133/",
-      "published": "2026-06-11T17:01:34-04:00",
-      "source": "Defense One",
       "region": "Global",
       "region_key": "all"
     },
