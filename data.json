@@ -1,10 +1,28 @@
 {
-  "last_updated": "2026-07-29T15:45:07.496667+00:00",
-  "story_count": 17995,
-  "new_this_run": 81,
+  "last_updated": "2026-07-29T17:06:05.213360+00:00",
+  "story_count": 17978,
+  "new_this_run": 45,
   "feed_count": 53,
   "retention_days": 30,
   "stories": [
+    {
+      "title": "Drone hits US-owned gas storage tanker at Egypt’s Mediterranean port",
+      "summary": "Two gas tankers are said to have caught fire as a result of the strike on Egypt's Damietta port.",
+      "url": "https://www.straitstimes.com/world/middle-east/drone-hits-gas-storage-tanker-at-egypts-mediterranean-port",
+      "published": "2026-07-30T00:21:05+08:00",
+      "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "US mulls scuppering France's Washington ambassador pick over human rights spat",
+      "summary": "PARIS/WASHINGTON July 29 - The United States is considering delaying, or even blocking, President Emmanuel Macron's choice for France's next ambassador to Washington following public French criticism ",
+      "url": "https://www.straitstimes.com/world/europe/us-mulls-scuppering-frances-washington-ambassador-pick-over-human-rights-spat",
+      "published": "2026-07-30T00:11:19+08:00",
+      "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
     {
       "title": "Russian drone CEO wounded in shooting: media",
       "summary": "The attack on Andrei Cherezov, head of the Russian Air Transport Laboratory, was called an “attempted murder”.",
@@ -47,6 +65,33 @@
       "url": "https://www.straitstimes.com/world/openai-says-rogue-ai-agent-attack-hit-other-companies",
       "published": "2026-07-29T22:56:14+08:00",
       "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Israel army accuses Hezbollah of truce violation, launching drone in south Lebanon",
+      "summary": "The army said the incident took place in a strip of territory where Israeli forces are operating that runs around 10 kilometres deep inside southern Lebanon along its border with Israel",
+      "url": "https://www.thehindu.com/news/international/israel-army-accuses-hezbollah-of-truce-violation-launching-drone-in-south-lebanon/article71282964.ece",
+      "published": "2026-07-29T22:28:02+05:30",
+      "source": "The Hindu",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Senate panel restricts Islamic banks from compelling female employees to wear abayas",
+      "summary": "ISLAMABAD: The Senate Standing Committee on Finance and Revenue on Wednesday restricted Islamic banks from imposing abayas on their female staff, and called for following a modest national dress code ",
+      "url": "https://www.dawn.com/news/2019277/senate-panel-restricts-islamic-banks-from-compelling-female-employees-to-wear-abayas",
+      "published": "2026-07-29T21:37:59+05:00",
+      "source": "Dawn",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "OpenAI says rogue AI agent attack hit other companies",
+      "summary": "In an update late on July 28, 2026 to a blog post detailing its probe into the incident, OpenAI said its AI agent affected these “publicly-available services,” though it did not name the companies",
+      "url": "https://www.thehindu.com/sci-tech/technology//article71282580.ece",
+      "published": "2026-07-29T21:20:14+05:30",
+      "source": "The Hindu",
       "region": "Asia",
       "region_key": "asia"
     },
@@ -96,6 +141,24 @@
       "region_key": "asia"
     },
     {
+      "title": "From Abbottabad to Trump: The unbroken chain in U.S.–Pakistan military relations",
+      "summary": "The current U.S.–Pakistan dynamic is best understood not as an abrupt policy shift but as the latest expression of a long-standing, security-driven relationship embedded in Washington’s institutional ",
+      "url": "https://www.thehindu.com/news/international/from-abbottabad-to-trump-the-unbroken-chain-in-uspakistan-military-relations/article69967448.ece",
+      "published": "2026-07-29T20:16:14+05:30",
+      "source": "The Hindu",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Russian drone strike on Kharkiv region injures four, including two children",
+      "summary": "Four people, including two children, were injured in a Russian drone attack on the Lozova district of Ukraine's Kharkiv region.",
+      "url": "https://www.ukrinform.net/rubric-ato/4149228-russian-drone-strike-on-kharkiv-region-injures-four-including-two-children.html",
+      "published": "2026-07-29T20:00:00+03:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
       "title": "British PM Burnham says he is determined to fix care crisis for elderly",
       "summary": "He previously proposed a national care service when he was health minister from 2009 to 2010.",
       "url": "https://www.straitstimes.com/world/british-pm-burnham-says-he-is-determined-to-fix-care-crisis-for-elderly",
@@ -103,6 +166,15 @@
       "source": "Straits Times",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "Russia accuses Telegram founder Pavel Durov of aiding terrorism: what the FSB alleges, why two agencies report different numbers, and what it means for Russians still using the app",
+      "summary": "Russia’s Federal Security Service (FSB) has accused Telegram founder Pavel Durov of aiding terrorism. The agency’s public relations center said Durov “is being placed on an international wanted list.”",
+      "url": "https://meduza.io/en/feature/2026/07/29/russia-accuses-telegram-founder-pavel-durov-of-aiding-terrorism-what-the-fsb-alleges-why-two-agencies-report-different-numbers-and-what-it-means-for-russians-still-using-the-app",
+      "published": "2026-07-29T19:53:52+03:00",
+      "source": "Meduza",
+      "region": "Europe",
+      "region_key": "europe"
     },
     {
       "title": "CDF Munir, Kuwait FM discuss regional security and steps to boost bilateral cooperation",
@@ -123,6 +195,51 @@
       "region_key": "asia"
     },
     {
+      "title": "Ukraine brings new charges against Medvedchuk",
+      "summary": "Former Ukrainian lawmaker Viktor Medvedchuk, who represented the now-banned Opposition Platform – For Life party, has been served with a new notice of suspicion on charges of encroaching on Ukraine's ",
+      "url": "https://www.ukrinform.net/rubric-polytics/4149226-ukraine-brings-new-charges-against-medvedchuk.html",
+      "published": "2026-07-29T19:39:00+03:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "Without Western components, Russia couldn’t build new Iskanders or Shaheds – Vlasiuk",
+      "summary": "An Iskander ballistic missile used by Russia to strike the Kyiv region on July 10 contained more than 140 foreign-made components from the United States, Switzerland, Germany, Taiwan, China, and Japan",
+      "url": "https://www.ukrinform.net/rubric-defense/4149221-without-western-components-russia-couldnt-build-new-iskanders-or-shaheds-vlasiuk.html",
+      "published": "2026-07-29T19:18:00+03:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "IDF denies IDF chief apologized to CENTCOM head after Katz said USAF struck Iran from Israeli bases",
+      "summary": "Saudi outlet Al-Arabiya initially reported that IDF Chief of Staff Lt.-Gen. Eyal Zamir had to apologize to CENTCOM after Defense Minister Katz revealed US jets were operating from Israeli bases.",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-904027",
+      "published": "2026-07-29T19:16:44+00:00",
+      "source": "Jerusalem Post",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Explosions reported at Egypt's Damietta Port, security officials suspect drone attack",
+      "summary": "Egypt’s Petroleum Ministry disputed the reports of a drone strike, stating that the the fire broke out on a regasification vessel and a storage vessel.",
+      "url": "https://www.jpost.com/middle-east/article-904026",
+      "published": "2026-07-29T19:04:31+00:00",
+      "source": "Jerusalem Post",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Ten wounded after jeep overturns in West Bank, paramedics on scene",
+      "summary": "The victims sustained varying degrees of wounds.",
+      "url": "https://www.jpost.com/israel-news/article-904025",
+      "published": "2026-07-29T19:03:05+00:00",
+      "source": "Jerusalem Post",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "Netanyahu’s low-key White House visit speaks volumes about souring US-Israel ties",
       "summary": "The Israeli PM entered the White House through the side door used by staff.",
       "url": "https://www.straitstimes.com/world/netanyahus-low-key-white-house-visit-speaks-volumes-about-souring-us-ties",
@@ -130,6 +247,42 @@
       "source": "Straits Times",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "Ukrainian arms manufacturers receive over UAH 10B in concessional loans – MoD",
+      "summary": "Ukrainian defense industry enterprises have received 167 concessional loans totaling more than UAH 10 billion under a state support program implemented by the Ministry of Defense.",
+      "url": "https://www.ukrinform.net/rubric-defense/4149215-ukrainian-arms-manufacturers-receive-over-uah-10b-in-concessional-loans-mod.html",
+      "published": "2026-07-29T18:57:00+03:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "Gedera rapist sentenced to 21 years for home invasion attack on mother",
+      "summary": "The court also ordered Barkat Abu Issa to pay NIS 200,000 in compensation, comprising NIS 150,000 to the woman and NIS 50,000 to her son, who was two years old at the time of the attack.",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-904024",
+      "published": "2026-07-29T18:55:18+00:00",
+      "source": "Jerusalem Post",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "‘Not yet. But we’ll see’: Zelensky on whether Crimea’s return is being discussed in talks to end the war",
+      "summary": "Ukrainian President Volodymyr Zelensky said that restoring Crimea to Kyiv’s control is not currently part of the peace negotiations, but suggested that could change.",
+      "url": "https://meduza.io/en/news/2026/07/29/not-yet-but-we-ll-see-zelensky-on-whether-crimea-s-return-is-being-discussed-in-talks-to-end-the-war",
+      "published": "2026-07-29T18:51:03+03:00",
+      "source": "Meduza",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "American journalist accuses Syrian chargé d'affaires to US of playing role in her 2016 abduction",
+      "summary": "“I saw Mohammed several times in the first days of my captivity,\" said Lindsey Snell of Mohammed Qanatri.",
+      "url": "https://www.jpost.com/middle-east/article-904022",
+      "published": "2026-07-29T18:40:49+00:00",
+      "source": "Jerusalem Post",
+      "region": "Middle East",
+      "region_key": "middle-east"
     },
     {
       "title": "Russian Orthodox Patriarch Kirill writes book on ‘redemptive meaning of war’",
@@ -148,6 +301,15 @@
       "source": "Dawn",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "Israel Electric Corporation connects 12 IDF outposts on Syrian border to national grid",
+      "summary": "A new NIS 28 million infrastructure project will connect 12 IDF outposts along the Syrian border to Israel's electricity grid, improving reliability while reducing fuel dependence.",
+      "url": "https://www.jpost.com/israel-news/article-904018",
+      "published": "2026-07-29T18:25:10+00:00",
+      "source": "Jerusalem Post",
+      "region": "Middle East",
+      "region_key": "middle-east"
     },
     {
       "title": "Russian strike hits energy facility in Kharkiv region, one civilian injured",
@@ -231,6 +393,15 @@
       "region_key": "europe"
     },
     {
+      "title": "Photo of Israeli soldiers posing next to blindfolded Palestinian fuels anger online",
+      "summary": "Photo of Israeli soldiers posing next to blindfolded Palestinian fuels anger online\n\n    \n    \n\n          \n      \n      \n        Submitted by \nDalia Anis\n on \nWed, 07/29/2026 - 13:05\n\n        \n      \n",
+      "url": "https://www.middleeasteye.net/trending/israeli-soldiers-pose-next-blindfolded-palestinian",
+      "published": "2026-07-29T17:54:07+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "Russians strike Pavlohrad, fire breaks out",
       "summary": "Russian forces attacked the city of Pavlohrad in Ukraine's Dnipropetrovsk region, causing a fire to break out.",
       "url": "https://www.ukrinform.net/rubric-ato/4149186-russians-strike-pavlohrad-fire-breaks-out.html",
@@ -238,6 +409,15 @@
       "source": "Ukrinform",
       "region": "Europe",
       "region_key": "europe"
+    },
+    {
+      "title": "Drone hits gas storage tanker in Egypt, maritime security firm says",
+      "summary": "Drone hits gas storage tanker in Egypt, maritime security firm says\n\n    \n    \n\n        \n    \n                \n\nA drone has hit a US-owned gas storage tanker at Egypt’s Mediterranean port of Damietta,",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/drone-hits-gas-storage-tanker-egypt-maritime-security-firm-says",
+      "published": "2026-07-29T17:36:21+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
     },
     {
       "title": "Ukraine seeks alternative transit routes with partners as Russia steps up port shelling",
@@ -339,6 +519,15 @@
       "region_key": "asia"
     },
     {
+      "title": "Tai Po fire: contractor’s 2 directors deny all allegations in witness statements",
+      "summary": "Two directors of a contractor linked to the deadly inferno at Hong Kong’s Wang Fuk Court have denied all allegations of bid-rigging, corruption and collusion with consultants, with one saying he was n",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3362308/tai-po-fire-contractors-2-directors-deny-all-allegations-witness-statements?utm_source=rss_feed",
+      "published": "2026-07-29T16:58:01+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
       "title": "Russian forces destroy dairy plant in Kharkiv region",
       "summary": "A dairy plant in Ukraine's Kharkiv region has sustained critical damage as a result of Russian strikes. The Bogodukhiv Dairy Plant was severely hit during the latest attack.",
       "url": "https://www.ukrinform.net/rubric-ato/4149157-russian-forces-destroy-dairy-plant-in-kharkiv-region.html",
@@ -346,6 +535,42 @@
       "source": "Ukrinform",
       "region": "Europe",
       "region_key": "europe"
+    },
+    {
+      "title": "Four Iranian military advisers killed in Iraq in US-Saudi strikes, report says",
+      "summary": "Four Iranian military advisers killed in Iraq in US-Saudi strikes, report says\n\n    \n    \n\n        \n    \n                \n\nFour&nbsp;Iranian Revolutionary Guards military advisers were killed in overn",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/four-iranian-military-advisers-killed-iraq-us-saudi-strikes-report-says",
+      "published": "2026-07-29T16:53:19+01:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Staff at newest V&A site in London vote overwhelmingly for strike action",
+      "summary": "V&amp;A Storehouse dispute centres on toilet and hydration breaks as employees across V&amp;A in London also vote to strike in wider actionStaff at the V&amp;A’s Storehouse site in east London have vo",
+      "url": "https://www.theguardian.com/artanddesign/2026/jul/29/v-and-a-museum-storehouse-london-vote-strike",
+      "published": "2026-07-29T16:50:13+00:00",
+      "source": "The Guardian",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "Ukraine’s army has some brigades starved of soldiers and others overstaffed. New commander is now auditing why",
+      "summary": "Ukraine's General Staff has launched a check on how its brigades, regiments, and corps are manned.",
+      "url": "https://euromaidanpress.com/2026/07/29/ukraines-army-has-some-brigades-starved-of-soldiers-and-others-overstaffed-new-commander-is-now-auditing-why/",
+      "published": "2026-07-29T16:49:36+00:00",
+      "source": "Euromaidan Press",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "BTS boycott Grammys after introduction of new Asian pop prize",
+      "summary": "K-pop superstars will not submit Arirang album or its songs for 2027 ceremonyBTS, the biggest pop act in east Asia, have withdrawn themselves from the 2027 Grammy awards, intimating that their decisio",
+      "url": "https://www.theguardian.com/music/2026/jul/29/bts-withdraw-grammys-asian-pop-category",
+      "published": "2026-07-29T16:47:11+00:00",
+      "source": "The Guardian",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "Skelia regiment acknowledges 'isolated problems' within unit, says it cooperates with SBI",
@@ -384,6 +609,15 @@
       "region_key": "asia"
     },
     {
+      "title": "Norwegian teenager guilty of travelling to UK to carry out contract killing",
+      "summary": "Johannes Kongsnes Natland was recruited to murder unknown person by international crime gang linked to IranA Norwegian teenager has been found guilty of travelling to England to carry out a killing or",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/29/norwegian-teenager-johannes-kongsnes-natland-guilty-uk-contract-killing",
+      "published": "2026-07-29T16:33:50+00:00",
+      "source": "The Guardian",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
       "title": "UN human rights office warns of worsening settler violence in West Bank as attacks keep increasing",
       "summary": "The UN human rights office warned that settler violence and settlement expansion in the West Bank have intensified, urging international action.",
       "url": "https://www.jpost.com/israel-news/defense-news/article-904011",
@@ -420,6 +654,15 @@
       "region_key": "asia"
     },
     {
+      "title": "Iran war: Egypt's difficult balancing act",
+      "summary": "The US-Iran war has already had a negative economic impact on Egypt. Now new threats from the Houthi group in Yemen are likely to worsen that. At the same time, Egypt is trying to stay on good terms w",
+      "url": "https://www.dw.com/en/iran-war-egypt-s-difficult-balancing-act/a-78162983?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-07-29T16:19:00+00:00",
+      "source": "DW",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
       "title": "Zelensky expects Witkoff and Kushner to visit Kyiv within two weeks",
       "summary": "Representatives of U.S. President Donald Trump, Steve Witkoff and Jared Kushner, may visit Kyiv within the next two weeks following their numerous trips to Russia.",
       "url": "https://www.ukrinform.net/rubric-polytics/4149146-zelensky-expects-witkoff-and-kushner-to-visit-kyiv-within-two-weeks.html",
@@ -427,6 +670,15 @@
       "source": "Ukrinform",
       "region": "Europe",
       "region_key": "europe"
+    },
+    {
+      "title": "US Navy deploys GARC uncrewed surface vessel in first live-fire training exercise",
+      "summary": "The Navy confirmed its first live-fire training exercise of its Global Autonomous Reconnaissance Craft uncrewed surface vessel.",
+      "url": "https://www.defensenews.com/news/your-military/2026/07/29/us-navy-deploys-garc-uncrewed-surface-vessel-in-first-live-fire-training-exercise/",
+      "published": "2026-07-29T16:16:05+00:00",
+      "source": "Defense News",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "Netanyahu and Lindsey Graham conspired to use sex claims against Khan to delay warrants",
@@ -438,6 +690,15 @@
       "region_key": "middle-east"
     },
     {
+      "title": "Ukraine, NATO launch new funding program to counter Russian drones",
+      "summary": "Five areas were listed by Brave1 as of high interest: active protection systems against FPVS; affordable counter-shaded systems; electromagnetic support for signals intelligence; electromagnetic attac",
+      "url": "https://breakingdefense.com/2026/07/ukraine-nato-launch-new-funding-program-to-counter-russian-drones/",
+      "published": "2026-07-29T16:05:00+00:00",
+      "source": "Breaking Defense",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
       "title": "Head of Russian drone company reportedly shot in assassination attempt",
       "summary": "A gunman tried to shoot a businessman in the stairwell of an apartment building in Tula, the regional branch of Russia’s Investigative Committee reported.",
       "url": "https://meduza.io/en/news/2026/07/29/head-of-russian-drone-company-reportedly-shot-in-assassination-attempt",
@@ -445,6 +706,15 @@
       "source": "Meduza",
       "region": "Europe",
       "region_key": "europe"
+    },
+    {
+      "title": "Leidos subsidiary selected to design Australian nuclear submarine dry dock",
+      "summary": "The contingency dry dock &#8220;is a critical pre-condition of Australia receiving its first Virginia class submarine&#8221; under AUKUS, the Australian government said.",
+      "url": "https://breakingdefense.com/2026/07/leidos-subsidiary-selected-to-design-australian-nuclear-submarine-dry-dock/",
+      "published": "2026-07-29T16:02:08+00:00",
+      "source": "Breaking Defense",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "Israel should seize Lebanon’s best chance for peace in decades - opinion",
@@ -492,6 +762,15 @@
       "region_key": "asia"
     },
     {
+      "title": "Trump says US to deliver ‘beating’ to Iran after bases again targeted",
+      "summary": "US president promises major escalation a day after new Iran attacks and his White House meeting with Netanyahu.",
+      "url": "https://www.aljazeera.com/news/2026/7/29/trump-says-us-to-deliver-beating-to-iran-after-bases-again-targeted?traffic_source=rss",
+      "published": "2026-07-29T15:43:05+00:00",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "US sanctions Chinese, Hong Kong shipping firms over Iranian oil deliveries",
       "summary": "The United States on Wednesday sanctioned a group of mainland Chinese and Hong Kong shipping companies accused of operating vessels that transported Iranian oil to China, extending Washington’s econom",
       "url": "https://www.scmp.com/news/us/article/3362307/us-sanctions-chinese-hong-kong-shipping-firms-over-iranian-oil-deliveries?utm_source=rss_feed",
@@ -510,6 +789,15 @@
       "region_key": "europe"
     },
     {
+      "title": "DR Congo says militia linked to Rwanda's genocide agree to surrender",
+      "summary": "The disarmament of the FDLR is a key step towards implementing a United States-brokered peace deal between Kinshasa and Kigali.",
+      "url": "http://www.africanews.com/2026/07/29/dr-congo-says-militia-linked-to-rwandas-genocide-agree-to-surrender/",
+      "published": "2026-07-29T15:38:35+00:00",
+      "source": "Africanews",
+      "region": "Africa",
+      "region_key": "africa"
+    },
+    {
       "title": "Ukraine resumes strikes on Wildberries warehouses in Russia. See the attack on Ryazan.",
       "summary": "Ukrainian drones attacked a Wildberries warehouse in Ryazan on the morning of July 29. Published photos and videos show a large-scale fire. Part of the building collapsed. Wildberries said the Ryazan ",
       "url": "https://meduza.io/en/feature/2026/07/29/ukraine-resumes-strikes-on-wildberries-warehouses-in-russia-see-the-attack-on-ryazan",
@@ -526,6 +814,24 @@
       "source": "Jerusalem Post",
       "region": "Middle East",
       "region_key": "middle-east"
+    },
+    {
+      "title": "Reform UK councillor charged after alleged racist social media post",
+      "summary": "Northumbria police said post by Glenn Gibbins, who was reinstated to the party after internal investigation, referenced Nigerian peopleA Reform UK councillor has been charged with posting a grossly of",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/29/reform-uk-councillor-charged-after-alleged-racist-social-media-post",
+      "published": "2026-07-29T15:33:24+00:00",
+      "source": "The Guardian",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "US-Saudi strikes in Iraq push region into ‘uncharted territory’, analysts warn",
+      "summary": "Riyadh’s decision to join US in strikes on Iran-backed militia further complicates widening and ‘unpredictable’ warUS-Saudi strikes on Iran-backed militia in Iraq on Wednesday have pushed the region i",
+      "url": "https://www.theguardian.com/world/2026/jul/29/us-saudi-strikes-in-iraq-have-pushed-the-region-into-uncharted-territory-analysts-warn",
+      "published": "2026-07-29T15:32:16+00:00",
+      "source": "The Guardian",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "Iraq vows to defend sovereignty, prevent threats to neighbours",
@@ -922,6 +1228,15 @@
       "source": "The Africa Report",
       "region": "Africa",
       "region_key": "africa"
+    },
+    {
+      "title": "Two firefighters killed in Crete as southern Europe battles wildfires",
+      "summary": "Repeated heatwaves and strong winds alarm experts, who warn blazes are becoming harder to quellTwo firefighters have died while tackling a wildfire in Crete, the Greek fire department has said, as ext",
+      "url": "https://www.theguardian.com/world/2026/jul/29/pedro-sanchez-next-12-hours-decisive-extreme-heat-wildfires-madrid-europe",
+      "published": "2026-07-29T14:17:53+00:00",
+      "source": "The Guardian",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "UK local council votes to end decades-old twin city agreement with Haifa",
@@ -160134,15 +160449,6 @@
       "region_key": "middle-east"
     },
     {
-      "title": "Czech president, prime minister clash over leadership as both pack for NATO summit",
-      "summary": "PRAGUE, June 29 - The Czech government agreed under court pressure on Monday to let President Petr Pavel attend a NATO summit in Turkey next week but refused to allow him to lead the country's delegat",
-      "url": "https://www.straitstimes.com/world/europe/czech-president-prime-minister-clash-over-leadership-as-both-pack-for-nato-summit",
-      "published": "2026-06-30T00:15:02+08:00",
-      "source": "Straits Times",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
       "title": "Ukraine will respond to Russian attacks on civilian targets - Zelensky",
       "summary": "Ukraine will respond appropriately to Russia’s attacks on civilian targets and will do so in a way that weakens the Russian state apparatus and its ability to continue the war.",
       "url": "https://www.ukrinform.net/rubric-ato/4138934-ukraine-will-respond-to-russian-attacks-on-civilian-targets-zelensky.html",
@@ -160512,15 +160818,6 @@
       "region_key": "europe"
     },
     {
-      "title": "Iran’s President says $6 billion in frozen assets in Qatar to be released as U.S. talks challenged",
-      "summary": "Masoud Pezeshkian’s mention of the funds appear aimed at selling the Iranian public on the interim deal",
-      "url": "https://www.thehindu.com/news/international/irans-president-says-6-billion-in-frozen-assets-in-qatar-to-be-released-as-us-talks-challenged/article71162766.ece",
-      "published": "2026-06-29T22:29:47+05:30",
-      "source": "The Hindu",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
       "title": "US Supreme Court rejects Trump’s attempt to overturn sexual assault judgment",
       "summary": "President vows to 'continue the fight against this Weaponization and Lawfare Case against me,' following decision not to revisit 2023 ruling by federal civil court\nThe post US Supreme Court rejects Tr",
       "url": "https://www.timesofisrael.com/us-supreme-court-rejects-trumps-attempt-to-overturn-sexual-assault-judgment/",
@@ -160629,15 +160926,6 @@
       "region_key": "europe"
     },
     {
-      "title": "Burnham to create ‘No. 10 North’ as U.K. PM, oversee massive decentralisation",
-      "summary": "Mr. Burnham said he would “build the broadest possible coalition of people to lift Britain back up”",
-      "url": "https://www.thehindu.com/news/international/burnham-to-create-no-10-north-as-uk-pm-oversee-massive-decentralisation/article71162592.ece",
-      "published": "2026-06-29T21:56:38+05:30",
-      "source": "The Hindu",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
       "title": "Chinese Venezuelans turn community networks into lifeline after earthquakes",
       "summary": "Lutao Cen was swimming off Margarita Island, where he has lived for four decades, when twin earthquakes measuring above magnitude 7 struck northern Venezuela within two minutes.\nOnly after returning t",
       "url": "https://www.scmp.com/news/china/article/3358815/chinese-venezuelans-turn-community-networks-lifeline-after-earthquakes?utm_source=rss_feed",
@@ -160663,15 +160951,6 @@
       "source": "France 24",
       "region": "Global",
       "region_key": "all"
-    },
-    {
-      "title": "As many as 14 prisoners escape from prison van while being transferred to Rawalpindi's Adiala jail",
-      "summary": "RAWALPINDI: As many as 14 under-trial prisoners escaped from a prisoner van on Monday while being transported from Kahuta to Adiala jail after overpowering security guards, prompting police to launch ",
-      "url": "https://www.dawn.com/news/2011666/as-many-as-14-prisoners-escape-from-prison-van-while-being-transferred-to-rawalpindis-adiala-jail",
-      "published": "2026-06-29T21:33:58+05:00",
-      "source": "Dawn",
-      "region": "Asia",
-      "region_key": "asia"
     },
     {
       "title": "'Architecture, city design a frontline of defense' against heatwaves, expert says",
@@ -160762,15 +161041,6 @@
       "source": "Foreign Policy",
       "region": "Global",
       "region_key": "all"
-    },
-    {
-      "title": "FBR stonewalls Senate panel on tobacco tax data; FIA to probe Badshah Wazir case",
-      "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) failed to provide the required data to a Senate sub-committee on Monday, prompting the panel to seek a comprehensive 20-year record of tobacco tax collect",
-      "url": "https://www.dawn.com/news/2011659/fbr-stonewalls-senate-panel-on-tobacco-tax-data-fia-to-probe-badshah-wazir-case",
-      "published": "2026-06-29T21:14:22+05:00",
-      "source": "Dawn",
-      "region": "Asia",
-      "region_key": "asia"
     },
     {
       "title": "Lebanon state media says Israeli strike hits south",
@@ -160980,15 +161250,6 @@
       "region_key": "all"
     },
     {
-      "title": "Ukraine to introduce rolling power outages Tuesday as heat drives up electricity demand",
-      "summary": "Ukraine's national power grid operator, Ukrenergo, will introduce electricity consumption restrictions across the country on June 30 from 17:00 to 22:00 due to increased demand caused by hot weather.",
-      "url": "https://www.ukrinform.net/rubric-economy/4138888-ukraine-to-introduce-rolling-power-outages-tuesday-as-heat-drives-up-electricity-demand.html",
-      "published": "2026-06-29T19:52:00+03:00",
-      "source": "Ukrinform",
-      "region": "Europe",
-      "region_key": "europe"
-    },
-    {
       "title": "Lapid says Netanyahu building ‘satellite parties’ because he expects election defeat",
       "summary": "Blue and White fires back at Yesh Atid chief's apparent criticism of Gantz's emerging electoral alliance, as opposition ridicules Netanyahu's unity pitch\nThe post Lapid says Netanyahu building &#8216;",
       "url": "https://www.timesofisrael.com/lapid-says-netanyahu-building-satellite-parties-because-he-expects-election-defeat/",
@@ -161059,15 +161320,6 @@
       "source": "Al Jazeera",
       "region": "Middle East",
       "region_key": "middle-east"
-    },
-    {
-      "title": "Russian drone strikes Zaporizhzhia Regional Administration building",
-      "summary": "Russian forces have struck the Zaporizhzhia Regional State Administration building with a drone, sparking a fire.",
-      "url": "https://www.ukrinform.net/rubric-ato/4138881-russian-drone-strikes-zaporizhzhia-regional-administration-building.html",
-      "published": "2026-06-29T19:29:00+03:00",
-      "source": "Ukrinform",
-      "region": "Europe",
-      "region_key": "europe"
     },
     {
       "title": "No Iran-US talks in coming days, Iran's foreign ministry spokesperson says",
@@ -161158,24 +161410,6 @@
       "source": "Al Jazeera",
       "region": "Middle East",
       "region_key": "middle-east"
-    },
-    {
-      "title": "Poland's PGZ considering servicing and repairing Ukraine's F-16s, MiG-29s",
-      "summary": "Polish state-owned defense holding Polska Grupa Zbrojeniowa (PGZ) is considering providing maintenance, servicing and repair support for Ukraine's F-16 and MiG-29 fighter jets.",
-      "url": "https://www.ukrinform.net/rubric-defense/4138874-polands-pgz-considering-servicing-and-repairing-ukraines-f16s-mig29s.html",
-      "published": "2026-06-29T19:05:00+03:00",
-      "source": "Ukrinform",
-      "region": "Europe",
-      "region_key": "europe"
-    },
-    {
-      "title": "As Their Nationwide Pollution Problem Deepens, Russians Say They Have Bigger Worries",
-      "summary": "New data shows that nearly 60% of Russians are exposed to pollution. For many, economic pressures leave little room to worry about the environment.",
-      "url": "https://www.themoscowtimes.com/2026/06/29/as-their-nationwide-pollution-problem-deepens-russians-say-they-have-bigger-worries-a93084",
-      "published": "2026-06-29T19:05:00+03:00",
-      "source": "Moscow Times",
-      "region": "Europe",
-      "region_key": "europe"
     },
     {
       "title": "UN chief slams 'relentless' Israeli settlement expansion",
@@ -161358,15 +161592,6 @@
       "region_key": "middle-east"
     },
     {
-      "title": "Hormuz shipping slows after US-Iran exchange of fire",
-      "summary": "Commodity shipping through the Strait of Hormuz remains well below pre-war levels after fresh US-Iran clashes.",
-      "url": "https://www.newarab.com/news/hormuz-shipping-slows-after-us-iran-exchange-fire",
-      "published": "2026-06-29T18:05:18+01:00",
-      "source": "The New Arab",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
       "title": "Can governments fix the global housing crisis?",
       "summary": "From city skyscrapers to sprawling slums, a roof over your head has never been harder to afford.",
       "url": "https://www.aljazeera.com/video/counting-the-cost/2026/6/29/can-governments-fix-the-global-housing-crisis?traffic_source=rss",
@@ -161408,15 +161633,6 @@
       "url": "https://www.jpost.com/middle-east/article-900861",
       "published": "2026-06-29T17:54:52+00:00",
       "source": "Jerusalem Post",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Medea Benjamin to TNA: Israel 'hated around the world' over Gaza",
-      "summary": "Code Pink founder Medea Benjamin tells The New Arab why she believes Israel is losing global support over the war on Gaza.",
-      "url": "https://www.newarab.com/news/medea-benjamin-tna-israel-hated-around-world-over-gaza",
-      "published": "2026-06-29T17:54:50+01:00",
-      "source": "The New Arab",
       "region": "Middle East",
       "region_key": "middle-east"
     },
@@ -161475,15 +161691,6 @@
       "region_key": "asia"
     },
     {
-      "title": "Iraq to probe World Cup failure, map overhaul following no wins",
-      "summary": "The scale of the challenge became clear as Iraq exited the tournament without a point, conceding 12 goals",
-      "url": "https://www.newarab.com/news/iraq-probe-world-cup-failure-map-overhaul-following-no-wins",
-      "published": "2026-06-29T17:27:11+01:00",
-      "source": "The New Arab",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
       "title": "Can NATO Pull Off a Dull Summit?",
       "summary": "European countries are hoping that Erdogan can keep Trump from causing chaos.",
       "url": "https://foreignpolicy.com/2026/06/29/nato-trump-erdogan-ankara-summit-europe-defense-russia/",
@@ -161502,371 +161709,11 @@
       "region_key": "all"
     },
     {
-      "title": "Ben Shapiro-backed 'propaganda' film portrays pro-Palestine 'terrorists' on campus",
-      "summary": "Ben Shapiro-backed 'propaganda' film portrays pro-Palestine 'terrorists' on campus\n\n    \n    \n\n          \n      \n      \n        Submitted by \nHannah. Smith\n on \nMon, 06/29/2026 - 14:54\n\n        \n     ",
-      "url": "https://www.middleeasteye.net/trending/ben-shapiro-backed-propaganda-film-portrays-pro-palestine-terrorists",
-      "published": "2026-06-29T17:18:19+01:00",
-      "source": "Middle East Eye",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Drone Dominance: How Iran broke the US business model for war",
-      "summary": "In-Depth: From Gulf radars to CIA stations, Iran's drones are rewriting the economics of US warfare – and driving the Pentagon's rush into 'attritable' UAVs",
-      "url": "https://www.newarab.com/analysis/drone-dominance-how-iran-broke-us-business-model-war",
-      "published": "2026-06-29T17:14:53+01:00",
-      "source": "The New Arab",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
       "title": "Six shot dead at German youth welfare center in ‘family tragedy,’ police say",
       "summary": "All victims are adults, according to police spokesman, who says male gunman and female companion arrested nearby after fleeing the scene\nThe post Six shot dead at German youth welfare center in &#8216",
       "url": "https://www.timesofisrael.com/six-shot-dead-at-german-youth-welfare-center-in-family-tragedy-police-say/",
       "published": "2026-06-29T17:14:15+00:00",
       "source": "Times of Israel",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Aftershock hits Caracas as rescue efforts enter critical hours in Venezuela",
-      "summary": "Residents of ​Caracas woke ‌up on Monday to an aftershock that rocked their ⁠houses, while rescue teams continued their fourth day of round-the-clock work in the areas affected by last week's powerful",
-      "url": "https://www.france24.com/en/video/20260629-aftershock-hits-caracas-as-rescue-efforts-enter-critical-hours-in-venezuela",
-      "published": "2026-06-29T17:04:25+00:00",
-      "source": "France 24",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "Israel is stronger than before October 7, but the war is not over - opinion",
-      "summary": "From Gaza to Iran, Israel has shifted the strategic balance in its favor, though significant security challenges remain.",
-      "url": "https://www.jpost.com/opinion/article-900808",
-      "published": "2026-06-29T17:00:00+00:00",
-      "source": "Jerusalem Post",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Pakistani airstrikes kill dozens of civilians in Afghanistan, officials say",
-      "summary": "Pakistani forces' ground operations and strikes killed at least 36 civilians in Afghanistan overnight and wounded more than 160 others, Afghan officials said Monday, as tensions between the neighbours",
-      "url": "https://www.france24.com/en/video/20260629-pakistani-airstrikes-kill-dozens-of-civilians-in-afghanistan-officials-say",
-      "published": "2026-06-29T16:58:34+00:00",
-      "source": "France 24",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "Katz: Israel has ‘no territorial ambitions’ in Lebanon, will stay until Hezbollah disarmed",
-      "summary": "Iran fighting could restart within '2 days,' says minister; Lebanese president tells CENTCOM chief army will deploy up to border; IDF strikes Hezbollah targets in south Lebanon\nThe post Katz: Israel h",
-      "url": "https://www.timesofisrael.com/katz-israel-has-no-territorial-ambitions-in-lebanon-will-stay-until-hezbollah-disarmed/",
-      "published": "2026-06-29T16:54:02+00:00",
-      "source": "Times of Israel",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "US Supreme Court rejects Trump’s unprecedented bid to fire Fed governor Lisa Cook",
-      "summary": "The US Supreme Court refused on Monday to let President Donald Trump ⁠fire Federal Reserve Governor Lisa Cook as it stood firm to preserve the central bank’s cherished independence against an unpreced",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3358803/us-supreme-court-rejects-trumps-unprecedented-bid-fire-fed-governor-lisa-cook?utm_source=rss_feed",
-      "published": "2026-06-29T16:53:38+00:00",
-      "source": "South China Morning Post",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
-      "title": "Press watchdog CPJ reviewing Gaza casualty database over 'journalists' tied to Hamas, PIJ",
-      "summary": "A Meir Amit Center study from December found that 60% of individuals who identified as journalists and were killed in Gaza were members of or affiliated with terrorist organizations.",
-      "url": "https://www.jpost.com/middle-east/article-900853",
-      "published": "2026-06-29T16:52:52+00:00",
-      "source": "Jerusalem Post",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Lebanon president says determined to deploy army up to Israel border",
-      "summary": "Lebanon president says determined to deploy army up to Israel border\n\n    \n    \n\n        \n    \n                Lebanese President Joseph Aoun told the US Central Command chief on Monday that he was co",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-president-says-determined-deploy-army-israel-border",
-      "published": "2026-06-29T16:49:26+01:00",
-      "source": "Middle East Eye",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "The Navy can’t afford to slow-roll its new trainer, even as competitors drop",
-      "summary": "With Boeing and Lockheed both dropping out of the competition to replace the Navy&#8217;s T-45,  service officials need to press ahead, columnist Robbin Laird writes.",
-      "url": "https://breakingdefense.com/2026/06/the-navy-cant-afford-to-slow-roll-its-new-trainer-even-as-competitors-drop/",
-      "published": "2026-06-29T16:49:00+00:00",
-      "source": "Breaking Defense",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "Hong Kong cocaine haul hits 361kg in days after police raid another yacht",
-      "summary": "Hong Kong police have seized a second cache of suspected cocaine worth about HK$90 million (US$11.4 million) from a pleasure boat in Aberdeen, days after uncovering HK$180 million of the drug in anoth",
-      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3358802/hong-kong-cocaine-haul-hits-361kg-days-after-police-raid-another-yacht?utm_source=rss_feed",
-      "published": "2026-06-29T16:45:15+00:00",
-      "source": "South China Morning Post",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
-      "title": "Luigi Mangione’s federal trial now scheduled for January 2027 to not clash with state case",
-      "summary": "Mangione, accused of killing health executive Brian Thompson, has pleaded not guilty in state and federal casesLuigi Mangione ’s Manhattan federal court trial related to to the murder of UnitedHealthc",
-      "url": "https://www.theguardian.com/us-news/2026/jun/29/luigi-mangione-court",
-      "published": "2026-06-29T16:42:55+00:00",
-      "source": "The Guardian",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "Venezuela quakes death toll rises to 1,719, thousands still missing",
-      "summary": "Tens of thousands remain missing after the devastating twin earthquakes that struck Venezuela last week",
-      "url": "https://www.aljazeera.com/news/2026/6/29/aftershock-hits-caracas-during-critical-hours-for-venezuela-rescue-efforts?traffic_source=rss",
-      "published": "2026-06-29T16:42:41+00:00",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Ex-NBA players Malik Beasley, Ed Davis indicted in gambling case",
-      "summary": "Beasley, Davis and an NBA agent are among six defendants indicted on charges related to alleged sports betting plot.",
-      "url": "https://www.aljazeera.com/sports/2026/6/29/ex-nba-players-malik-beasley-ed-davis-indicted-in-gambling-case?traffic_source=rss",
-      "published": "2026-06-29T16:38:33+00:00",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Israeli organization's 'Secular House' opens in Thailand as non-religious alternative to Chabad",
-      "summary": "The 'Secular House' is the brainchild of the Free Secular Movement, an Israeli activist organization that promotes secularism and the separation of religion and state in Israel.",
-      "url": "https://www.jpost.com/diaspora/article-900852",
-      "published": "2026-06-29T16:33:28+00:00",
-      "source": "Jerusalem Post",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Poland orders Swedish submarines to bulk up navy",
-      "summary": "Poland has placed an order for three Swedish submarines in an effort to step up defense capabilities. The NATO member is modernizing its navy in the face of Russian aggression at its borders.",
-      "url": "https://www.dw.com/en/poland-orders-swedish-submarines-to-bulk-up-navy/a-77758193?maca=en-rss-en-world-4025-rdf",
-      "published": "2026-06-29T16:32:00+00:00",
-      "source": "DW",
-      "region": "Europe",
-      "region_key": "europe"
-    },
-    {
-      "title": "Nigeria: Decade of Excellence in Stem Education - Iwerekun Community Senior High School Wins 10th Edition of Tolaram Science Challenge",
-      "summary": "[Premium Times] The school triumphed over Magbon-Alade Senior Grammar School in a fiercely contested grand finale of the competition. The victory marked the third consecutive win for the school",
-      "url": "https://allafrica.com/stories/202606290678.html",
-      "published": "2026-06-29T16:31:30+00:00",
-      "source": "AllAfrica",
-      "region": "Africa",
-      "region_key": "africa"
-    },
-    {
-      "title": "Nigeria: Boko Haram Abducts Students Writing Neco At Borno School",
-      "summary": "[Premium Times] The spokesperson for the Borno State Police Command, Daso Kenneth, confirmed this to PREMIUM TIMES via telephone.",
-      "url": "https://allafrica.com/stories/202606290677.html",
-      "published": "2026-06-29T16:31:11+00:00",
-      "source": "AllAfrica",
-      "region": "Africa",
-      "region_key": "africa"
-    },
-    {
-      "title": "Nigeria: FCT Police Debunk Altered Viral Video of Peter Obi, Order Investigation",
-      "summary": "[Vanguard] The Federal Capital Territory (FCT) Police Command has dismissed as misleading an altered viral video showing Labour Party presidential candidate in the 2023 election, Peter Obi, addressing",
-      "url": "https://allafrica.com/stories/202606290675.html",
-      "published": "2026-06-29T16:29:06+00:00",
-      "source": "AllAfrica",
-      "region": "Africa",
-      "region_key": "africa"
-    },
-    {
-      "title": "Nigeria: The Senator Who Watched - 1,095 Days, Zero Bills Passed, and Urhobo's Moment of Truth",
-      "summary": "[Vanguard] Three years. That is 1,095 days in the Senate. 1,095 days to champion the Urhobo cause. 1,095 days to transform the anguished cries for Ethiope State from quiet lamentations in our homes an",
-      "url": "https://allafrica.com/stories/202606290674.html",
-      "published": "2026-06-29T16:28:51+00:00",
-      "source": "AllAfrica",
-      "region": "Africa",
-      "region_key": "africa"
-    },
-    {
-      "title": "Liberia: President Boakai Hails China's Development Under CPC, Calls for Expanded Liberia-China Cooperation",
-      "summary": "[FrontPageAfrica] Monrovia -- President Joseph Nyuma Boakai has praised China's remarkable transformation under the leadership of the Communist Party of China (CPC), describing the country's developme",
-      "url": "https://allafrica.com/stories/202606290672.html",
-      "published": "2026-06-29T16:27:38+00:00",
-      "source": "AllAfrica",
-      "region": "Africa",
-      "region_key": "africa"
-    },
-    {
-      "title": "South Africa: Thousands of foreigners flee ahead of anti-immigration 'deadline'",
-      "summary": "Anti-#immigration groups in #SouthAfrica have set a 'deadline': by June 30 all undocumented immigrants must have left the country, or groups will 'shut the country down'. The weeks up to the 'deadline",
-      "url": "https://www.france24.com/en/video/20260629-south-africa-thousands-of-foreigners-flee-ahead-of-anti-immigration-deadline",
-      "published": "2026-06-29T16:27:08+00:00",
-      "source": "France 24",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "Iran is jealously competing with Oman as decision-maker over strait of Hormuz",
-      "summary": "Tehran believes it should control the shipping route but its neighbour has its own plans for reopening itThe strait of Hormuz is Iran’s chief bargaining tool in the negotiations with the US and so it ",
-      "url": "https://www.theguardian.com/world/2026/jun/29/oman-safe-reopening-strait-hormuz-iran-us-middle-east",
-      "published": "2026-06-29T16:20:16+00:00",
-      "source": "The Guardian",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "UK state threats bill could pull British journalists into terror prosecutions, experts say",
-      "summary": "Two independent reviewers of terrorism legislation call for safeguards for NGOs and journalists before bill becomes law this weekBritish foreign correspondents could be at risk of prosecution if they ",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/29/uk-state-threats-bill-could-pull-british-journalists-into-terror-prosecutions-experts",
-      "published": "2026-06-29T16:20:05+00:00",
-      "source": "The Guardian",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "Afghan families mourn loved ones as border tensions with Pakistan rise",
-      "summary": "Afghan officials say Pakistani attacks killed at least 36 civilians, while Pakistan says its forces killed 29 fighters.",
-      "url": "https://www.aljazeera.com/news/2026/6/29/afghan-families-mourn-loved-ones-as-border-tensions-with-pakistan-rise?traffic_source=rss",
-      "published": "2026-06-29T16:15:35+00:00",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Somalia: Saudi Arabia Executes Three Somali Nationals Convicted of Hashish Smuggling",
-      "summary": "[Shabelle] Riyadh -- Saudi Arabia has on Sunday executed three Somali nationals convicted of smuggling hashish into the kingdom, the Interior Ministry said, as the Gulf state continues to carry out ca",
-      "url": "https://allafrica.com/stories/202606290628.html",
-      "published": "2026-06-29T16:07:10+00:00",
-      "source": "AllAfrica",
-      "region": "Africa",
-      "region_key": "africa"
-    },
-    {
-      "title": "US petrol prices ease despite ongoing uncertainties with Iran",
-      "summary": "US–Iran peace talks ease market volatility, but uncertainty keeps oil prices hovering, complicating recovery efforts.",
-      "url": "https://www.aljazeera.com/economy/2026/6/29/us-petrol-prices-ease-despite-ongoing-uncertainties-with-iran?traffic_source=rss",
-      "published": "2026-06-29T16:01:07+00:00",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "The Ukrainian Push for Long-Term Strategic Planning",
-      "summary": "Welcome to&#160;The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for&#160;War on the Rocks&#160;members. Each Monday, we bring you a cu",
-      "url": "https://warontherocks.com/the-ukrainian-push-for-long-term-strategic-planning/",
-      "published": "2026-06-29T16:00:50+00:00",
-      "source": "War on the Rocks",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "Rig explosion in Venezuela leaves at least eight workers wounded, evacuated to Colombia",
-      "summary": "The wounded were taken to neighboring Colombia for medical treatment as the cause of the blast remains unclear.",
-      "url": "https://www.jpost.com/international/article-900848",
-      "published": "2026-06-29T16:00:32+00:00",
-      "source": "Jerusalem Post",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Erdoğan tells Merz Turkey is working to restart Russia-Ukraine peace talks ahead of Ankara NATO summit",
-      "summary": "Turkey is pushing to revive diplomacy ahead of the NATO summit it will host in Ankara next month.",
-      "url": "https://euromaidanpress.com/2026/06/29/erdogan-tells-merz-turkey-is-working-to-restart-russia-ukraine-peace-talks-ahead-of-ankara-nato-summit/",
-      "published": "2026-06-29T16:00:18+00:00",
-      "source": "Euromaidan Press",
-      "region": "Europe",
-      "region_key": "europe"
-    },
-    {
-      "title": "The fatwa against Trump, Netanyahu will not delay Tehran’s fall - opinion",
-      "summary": "The remnants of the Iranian regime continue to imagine themselves as a regional power, yet the spider-web structure of the Shi’ite Islamist caliphate established in Tehran is steadily collapsing.",
-      "url": "https://www.jpost.com/opinion/article-900724",
-      "published": "2026-06-29T16:00:00+00:00",
-      "source": "Jerusalem Post",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Bamboo targets Kenya as Nigerian stock trading surges amid US volatility",
-      "summary": "Nigerian digital investment platform Bamboo is expanding into Kenya in the second half of 2026 as retail interest in local African equities surges.",
-      "url": "https://www.theafricareport.com/423367/bamboo-targets-kenya-as-nigerian-stock-trading-surges-amid-us-volatility/",
-      "published": "2026-06-29T16:00:00+00:00",
-      "source": "The Africa Report",
-      "region": "Africa",
-      "region_key": "africa"
-    },
-    {
-      "title": "US Supreme Court rebuffs Trump’s appeal in E Jean Carroll case",
-      "summary": "The US Supreme Court has rejected a push by President Trump to throw out a jury&#039;s findings of sexual assault.",
-      "url": "https://www.aljazeera.com/news/2026/6/29/us-supreme-court-rebuffs-trumps-appeal-in-e-jean-carroll-case?traffic_source=rss",
-      "published": "2026-06-29T15:59:52+00:00",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Iraq’s corruption crackdown is a start, not a solution",
-      "summary": "New PM Ali al-Zaidi&#039;s arrest of 47 officials is welcome, but the rot runs through the system that put him in power.",
-      "url": "https://www.aljazeera.com/opinions/2026/6/29/iraqs-corruption-crackdown-is-a-start-not-a-solution?traffic_source=rss",
-      "published": "2026-06-29T15:57:02+00:00",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Gaza high school student’s fight for a future",
-      "summary": "Amid Israel’s genocidal war on Gaza that destroyed most schools, 18-year-old Dana Shabat sits her final exams online.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/gaza-high-school-students-fight-for-a-future?traffic_source=rss",
-      "published": "2026-06-29T15:54:36+00:00",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "IDF chief marks 1,000 days since Oct. 7 attack ‘on very existence of Jewish people’",
-      "summary": "Zamir tells senior officers we’re 'at a significant and strategic crossroads'; multiple unofficial memorial events and protest rallies planned for Thursday milestone\nThe post IDF chief marks 1,000 day",
-      "url": "https://www.timesofisrael.com/idf-chief-marks-1000-days-since-oct-7-attack-on-very-existence-of-jewish-people/",
-      "published": "2026-06-29T15:54:23+00:00",
-      "source": "Times of Israel",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "The US-Iran MoU looks at managing the pain rather than ending the war",
-      "summary": "The US-Iran MoU acts as a state-to-state framework managing mutual pain, not a definitive end to regional conflict.",
-      "url": "https://www.aljazeera.com/news/2026/6/29/the-us-iran-mou-looks-at-managing-the-pain-rather-than-ending-the-war?traffic_source=rss",
-      "published": "2026-06-29T15:51:07+00:00",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Earthquake jolts southwest China",
-      "summary": "An earthquake with a magnitude of 5.5 struck Yibin in China’s southwest province of Sichuan shortly on Monday.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/earthquake-jolts-southwest-china?traffic_source=rss",
-      "published": "2026-06-29T15:50:17+00:00",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Dangerous temperatures forecast for parts of Europe as heatwave moves east",
-      "summary": "Red warnings issued in Hungary, Poland, Romania and the Balkans, with authorities urging people to stay indoorsParts of central, eastern and southern Europe sweltered on Monday as the “heat dome” behi",
-      "url": "https://www.theguardian.com/environment/2026/jun/29/dangerous-temperatures-forecast-central-eastern-europe-heatwave",
-      "published": "2026-06-29T15:49:19+00:00",
-      "source": "The Guardian",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "Strait of Hormuz instability to remain Iranian leverage until final deal signed, experts predict",
-      "summary": "“I would say that the primary reason Iran has decided to renew attacks on the Persian Gulf states has to do with the balance of leverage in the ongoing negotiations,\" one expert says.",
-      "url": "https://www.jpost.com/international/article-900844",
-      "published": "2026-06-29T15:44:42+00:00",
-      "source": "Jerusalem Post",
       "region": "Middle East",
       "region_key": "middle-east"
     },
