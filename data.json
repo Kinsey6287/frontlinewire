@@ -1,16 +1,412 @@
 {
-  "last_updated": "2026-11-03T01:56:11.093080+00:00",
-  "story_count": 16663,
-  "new_this_run": 127,
+  "last_updated": "2026-11-03T08:53:00.401637+00:00",
+  "story_count": 16727,
+  "new_this_run": 184,
   "feed_count": 53,
   "retention_days": 30,
   "stories": [
+    {
+      "title": "US strikes key Iranian island as Trump talks up prospects of peace deal",
+      "summary": "Both sides appear keen to move peace talks forward in hopes of bringing the war to an end.",
+      "url": "https://www.straitstimes.com/world/middle-east/us-strikes-key-iranian-island-as-trump-talks-up-prospects-of-peace-deal",
+      "published": "2026-11-03T16:47:42+08:00",
+      "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Ukraine's Zelenskiy to visit Berlin on Tuesday, Germany's Merz says",
+      "summary": "BERLIN, Nov 3 - Ukrainian President Volodymyr Zelenskiy is to visit Berlin on Tuesday, German Chancellor Friedrich Merz said.",
+      "url": "https://www.straitstimes.com/world/europe/ukraines-zelenskiy-to-visit-berlin-on-tuesday-germanys-merz-says",
+      "published": "2026-11-03T16:37:19+08:00",
+      "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Police dismantle protest camp in Madrid: Authorities, activists",
+      "summary": "The camp sprang up on Sept 26 to protest the country’s housing crisis.",
+      "url": "https://www.straitstimes.com/world/europe/police-dismantle-protest-camp-in-madrid-authorities-activists",
+      "published": "2026-11-03T16:01:00+08:00",
+      "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Iran-US deal still out of reach despite heightened diplomatic efforts",
+      "summary": "DUBAI, Nov 3 - Iran and the United States are far from reaching a deal to end the war, a senior Iranian official told Reuters on Tuesday, despite heightened diplomatic efforts to prevent a potential r",
+      "url": "https://www.straitstimes.com/world/middle-east/irans-foreign-minister-says-talks-with-saudi-arabia-are-ongoing-yemen-fighting-intensifies",
+      "published": "2026-11-03T15:17:25+08:00",
+      "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Russia says it struck Ukrainian electricity grid facilities in massive overnight attack",
+      "summary": "MOSCOW, Nov 3 - Russia launched a massive overnight strike on Ukrainian electricity facilities in the Vinnytsia, Dnipropetrovsk and Kharkiv regions which supply power to military factories and the Ukr",
+      "url": "https://www.straitstimes.com/world/europe/russia-says-it-struck-ukrainian-electricity-grid-facilities-in-massive-overnight-attack",
+      "published": "2026-11-03T15:17:11+08:00",
+      "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "War widens in the Black Sea in a test of NATO red lines",
+      "summary": "LONDON/BUCHAREST, Nov 3 - After seven strikes on cargo ships near NATO members Romania and Bulgaria last month, the US-led military alliance said it would deploy maritime patrol aircraft, radars and d",
+      "url": "https://www.straitstimes.com/world/europe/war-widens-in-the-black-sea-in-a-test-of-nato-red-lines",
+      "published": "2026-11-03T14:42:23+08:00",
+      "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "How NATO states on the Black Sea are being drawn into Ukraine war escalation",
+      "summary": "Nov 3 - Attacks on cargo vessels off the coast of NATO members Romania and Bulgaria have surged in recent weeks, the latest fallout from the escalating fighting between Russia and Ukraine in the Black",
+      "url": "https://www.straitstimes.com/world/europe/how-nato-states-on-the-black-sea-are-being-drawn-into-ukraine-war-escalation",
+      "published": "2026-11-03T14:37:23+08:00",
+      "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "2 policemen martyred, 1 injured in attack en route to polio duty in KP's Mohmand",
+      "summary": "MOHMAND/TANK: Two policemen were martyred and another was injured when unidentified gunmen opened fire on them while they were on their way to join a polio team for security duty during the ongoing va",
+      "url": "https://www.dawn.com/news/2041809/2-policemen-martyred-1-injured-in-attack-en-route-to-polio-duty-in-kps-mohmand",
+      "published": "2026-11-03T13:48:31+05:00",
+      "source": "Dawn",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Islamabad ATC grants bail to Imaan, Hadi in police altercation case",
+      "summary": "ISLAMABAD: An anti-terrorism court (ATC) in Islamabad on Tuesday granted bail to lawyer Imaan Mazari and her husband, Hadi Ali Chattha, in a case registered against them for allegedly blocking a road ",
+      "url": "https://www.dawn.com/news/2041823/islamabad-atc-grants-bail-to-imaan-hadi-in-police-altercation-case",
+      "published": "2026-11-03T13:25:53+05:00",
+      "source": "Dawn",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Iran's Foreign Minister says talks with Saudi Arabia are ongoing; Yemen fighting intensifies",
+      "summary": "Riyadh said the talks are intended to open negotiating channels to “prevent ‌the return of military escalation,” ​as fighting between Saudi Arabia and Yemen’s Iran-aligned Houthis had intensified ⁠in ",
+      "url": "https://www.thehindu.com/news/international/irans-foreign-minister-says-talks-with-saudi-arabia-are-ongoing-yemen-fighting-intensifies/article71659845.ece",
+      "published": "2026-11-03T12:59:07+05:30",
+      "source": "The Hindu",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Is Rahul Gandhi ambitious?",
+      "summary": "MILLIONS of Indians evidently see Rahul Gandhi as their candidate to steer the country out of its deep mess driven by hate-filled divisive politics and a K-shaped economic trajectory plying unpreceden",
+      "url": "https://www.dawn.com/news/2041776/is-rahul-gandhi-ambitious",
+      "published": "2026-11-03T12:53:15+05:00",
+      "source": "Dawn",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "US midterms: In Michigan, pocketbook pain collides with smears in a bitter battle for the Senate",
+      "summary": "Democrats hope that voters' frustration over cost of living will help them regain control of Congress.",
+      "url": "https://www.straitstimes.com/world/united-states/in-michigan-pocketbook-pain-collides-with-smears-in-a-bitter-battle-for-the-senate",
+      "published": "2026-11-03T12:45:00+08:00",
+      "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Indian national killed after 2 helicopters collide in Nepal's Mount Everest region",
+      "summary": "An Indian national was killed and a New Zealander injured after two helicopters collided as they prepared to land in Nepal’s Mount Everest region on Tuesday, authorities said.\nThe New Zealander has be",
+      "url": "https://www.dawn.com/news/2041820/indian-national-killed-after-2-helicopters-collide-in-nepals-mount-everest-region",
+      "published": "2026-11-03T12:38:59+05:00",
+      "source": "Dawn",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "India, Israel vote against UNGA draft on regional conventional arms control",
+      "summary": "India and Israel were the only countries to vote against the resolution in the 193-member UN body",
+      "url": "https://www.thehindu.com/news/national/india-israel-vote-against-unga-draft-on-regional-conventional-arms-control/article71659577.ece",
+      "published": "2026-11-03T12:30:35+05:30",
+      "source": "The Hindu",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Top Arab Israeli leader says opposition must join to oust Netanyahu",
+      "summary": "He criticised holdouts in the opposition camp who oppose a coalition that includes Arab parties.",
+      "url": "https://www.straitstimes.com/world/middle-east/top-arab-israeli-leader-says-opposition-must-join-to-oust-netanyahu",
+      "published": "2026-11-03T12:24:00+08:00",
+      "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Judge blocks Trump administration from pressuring states over non-citizen voting",
+      "summary": "Non-citizen voting is illegal and all available evidence shows that it is exceedingly rare.",
+      "url": "https://www.straitstimes.com/world/united-states/judge-blocks-trump-administration-from-pressuring-states-over-noncitizen-voting",
+      "published": "2026-11-03T12:17:31+08:00",
+      "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Russia-Ukraine war: Strikes on a school by Russia kills 26, derailing hopes of progress toward peace",
+      "summary": "Russia resumed its strikes on the southern region of Kherson after the end of a ceasefire in the area, the longest truce in the war raging between the neighbours since Russia’s 2022 invasion, Kyiv sai",
+      "url": "https://www.thehindu.com/news/international/russia-ukraine-war-strikes-on-a-school-by-russia-kills-26-derailing-hopes-of-progress-toward-peace/article71659505.ece",
+      "published": "2026-11-03T12:01:36+05:30",
+      "source": "The Hindu",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Indian killed as two helicopters collide in Nepal",
+      "summary": "The number of passengers aboard the two helicopters at the time of the collision has yet to be confirmed",
+      "url": "https://www.thehindu.com/news/international/nepal-helicopter-collision-indian-national-killed-updates-november-3-2026/article71659501.ece",
+      "published": "2026-11-03T11:51:11+05:30",
+      "source": "The Hindu",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Indian national killed, another injured as two helicopters collide in Nepal’s Solukhumbu",
+      "summary": "",
+      "url": "https://www.thehindu.com/videos/shorts/indian-national-killed-another-injured-as-two-helicopters-collide-in-nepals-solukhumbu/article71659588.ece",
+      "published": "2026-11-03T11:47:29+05:30",
+      "source": "The Hindu",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Russia to ban two people from riding a single e-scooter and prohibit delivery couriers from using sidewalks",
+      "summary": "Russia’s Transport Ministry has finished drafting a sweeping package of amendments to the traffic code that would, among other things, regulate personal mobility devices, including electric scooters, ",
+      "url": "https://meduza.io/en/news/2026/11/03/russia-to-ban-two-people-from-riding-a-single-e-scooter-and-prohibit-delivery-couriers-from-using-sidewalks",
+      "published": "2026-11-03T11:42:37+03:00",
+      "source": "Meduza",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "Ukrainian drone strike sparks major fire at one of Russia’s largest oil refineries",
+      "summary": "Ukrainian drones attacked the Slavneft-YANOS oil refinery in Yaroslavl again overnight on November 3, sparking a major fire at the plant. Photos and videos from eyewitnesses show at least seven fire s",
+      "url": "https://meduza.io/en/news/2026/11/03/ukrainian-drone-strike-sparks-major-fire-at-one-of-russia-s-largest-oil-refineries",
+      "published": "2026-11-03T11:31:33+03:00",
+      "source": "Meduza",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "'Who cares?' Alaska voters shrug off potential Democratic manipulation",
+      "summary": "In the long line of US midterm voters casting ballots early Monday in Anchorage, Alaska’s largest city, everyone was aware of the whiff of scandal surrounding the election.\nDemocratic Senate candidate",
+      "url": "https://www.dawn.com/news/2041813/who-cares-alaska-voters-shrug-off-potential-democratic-manipulation",
+      "published": "2026-11-03T11:26:15+05:00",
+      "source": "Dawn",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Maaz Sadaqat, Hasan Nawaz named in Pakistan Shaheens squad for Rising Stars Asia Cup",
+      "summary": "Maaz Sadaqat and Hasan Nawaz have been included in the 15-member Pakistan Shaheens squad for the ACC Men’s Asia Cup Rising Stars 2026, with Abdul Samad appointed captain for the 50-over tournament to ",
+      "url": "https://www.dawn.com/news/2041810/maaz-sadaqat-hasan-nawaz-named-in-pakistan-shaheens-squad-for-rising-stars-asia-cup",
+      "published": "2026-11-03T11:25:55+05:00",
+      "source": "Dawn",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Russia attack damages hospital in Ukraine’s Kharkiv, over 60 injured.",
+      "summary": "Russian forces struck Kharkiv overnight on November 3 with ballistic missiles and guided bombs, hitting a medical facility, Kharkiv Mayor Ihor Terekhov said.",
+      "url": "https://meduza.io/en/news/2026/11/03/russia-attack-damages-hospital-in-ukraine-s-kharkiv-over-60-injured",
+      "published": "2026-11-03T11:23:09+03:00",
+      "source": "Meduza",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "Trilateral talks between Russia, Ukraine and US set for November 10–11 in Abu Dhabi",
+      "summary": "U.S. presidential envoy Steve Witkoff said trilateral talks between Russia, Ukraine, and the United States will be held November 10–11 in Abu Dhabi.",
+      "url": "https://meduza.io/en/news/2026/11/03/trilateral-talks-between-russia-ukraine-and-us-set-for-november-10-11-in-abu-dhabi",
+      "published": "2026-11-03T11:15:38+03:00",
+      "source": "Meduza",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "Russia downs hundreds of drones after Ukraine truce ends",
+      "summary": "The attacks followed a rare pause in the fighting between Russia and Ukraine in the southern Ukrainian region of Kherson, which ended November 1",
+      "url": "https://www.thehindu.com/news/international/russia-downs-hundreds-of-drones-after-ukraine-truce-ends/article71659515.ece",
+      "published": "2026-11-03T11:10:57+05:30",
+      "source": "The Hindu",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Donald the Lame Duck? Trump will have other ideas if Republicans lose midterms",
+      "summary": "President Donald Trump’s second term has been a wild ride, but his last two years in power could be wilder still if Republicans lose control of Congress in Tuesday’s US midterm elections.\nFrom renewed",
+      "url": "https://www.dawn.com/news/2041807/donald-the-lame-duck-trump-will-have-other-ideas-if-republicans-lose-midterms",
+      "published": "2026-11-03T11:04:22+05:00",
+      "source": "Dawn",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "PAKISTAN’S MIRAGE OF HIGHER EDUCATION",
+      "summary": "Twenty-four years ago, on September 11, 2002, Gen Pervez Musharraf signed the Higher Education Commission Ordinance that formally launched Pakistan’s ground-breaking higher education reforms.\nThis leg",
+      "url": "https://www.dawn.com/news/2041349/pakistans-mirage-of-higher-education",
+      "published": "2026-11-03T10:59:36+05:00",
+      "source": "Dawn",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Former Maldives Foreign Minister Abdulla Shahid arrested on child sexual abuse charges",
+      "summary": "The arrest assumes significance as Mr. Shahid is among the prominent presidential aspirants within the main opposition Maldivian Democratic Party (MDP) for the island nation’s 2028 elections",
+      "url": "https://www.thehindu.com/news/international/former-maldives-foreign-minister-abdulla-shahid-arrestedchild-sexual-abuse-allegations/article71659429.ece",
+      "published": "2026-11-03T10:55:12+05:30",
+      "source": "The Hindu",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "How necessity continues to be the mother of invention in Pakistan",
+      "summary": "Nowadays, the sight of solar panels perched on rooftops has become commonplace in Pakistan. According to an analysis published by Renewables First and the Centre for Research on Energy and Clean Air e",
+      "url": "https://www.dawn.com/news/2040487/how-necessity-continues-to-be-the-mother-of-invention-in-pakistan",
+      "published": "2026-11-03T10:53:28+05:00",
+      "source": "Dawn",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "US signals progress in Iran talks to avert flare-up",
+      "summary": "US President Donald Trump signaled progress on Tuesday in talks with Iran to avoid a return to war, as Tehran reported “intensive” exchanges while offering to reopen the Strait of Hormuz under strict ",
+      "url": "https://www.dawn.com/news/2041801/us-signals-progress-in-iran-talks-to-avert-flare-up",
+      "published": "2026-11-03T10:32:24+05:00",
+      "source": "Dawn",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Drone attack sparks fire at one of Russia’s largest oil refineries in Yaroslavl, media report",
+      "summary": "On the night of November 2, drones attacked the Yaroslavl Oil Refinery, one of the five largest in Russia. A fire broke out at the facility, which supplies fuel, including for military aircraft and eq",
+      "url": "https://www.ukrinform.net/rubric-ato/4180769-drone-attack-sparks-fire-at-one-of-russias-largest-oil-refineries-in-yaroslavl-media-report.html",
+      "published": "2026-11-03T10:32:00+02:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "Police commissioner denies ordering violence against haredim as feud with Ben-Gvir escalates",
+      "summary": "Israel Police rejected Ben-Gvir's allegations that Commissioner Danny Levy ordered violence against haredi protesters, calling the claims baseless and demanding a retraction.",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-913662",
+      "published": "2026-11-03T10:17:37+00:00",
+      "source": "Jerusalem Post",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Israeli rioters attack security forces during West Bank demolitions, 18 arrested",
+      "summary": "Israeli rioters set tires ablaze and blocked major roads to prevent security forces from removing illegal structures near Salfit, leading to 18 arrests.",
+      "url": "https://www.jpost.com/israel-news/article-913669",
+      "published": "2026-11-03T10:15:08+00:00",
+      "source": "Jerusalem Post",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "JIT chief issued show cause over delay in submission of final charge sheet in Mir Raza murder case",
+      "summary": "KARACHI: A judicial magistrate on Monday issued a show-cause notice to DIG Irfan Baloch, chief of the newly formed joint investigation team (JIT) in the Mir Raza murder case, after police failed to su",
+      "url": "https://www.dawn.com/news/2041719/jit-chief-issued-show-cause-over-delay-in-submission-of-final-charge-sheet-in-mir-raza-murder-case",
+      "published": "2026-11-03T10:15:02+05:00",
+      "source": "Dawn",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Donald the Lame Duck? Trump will have other ideas",
+      "summary": "Analysts warn that Trump as a “lame duck” president could be the most vengeful Trump of all.",
+      "url": "https://www.straitstimes.com/world/united-states/donald-the-lame-duck-trump-will-have-other-ideas",
+      "published": "2026-11-03T10:15:00+08:00",
+      "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Mexican investigators raid storage unit rented by Meghan Markle’s estranged father",
+      "summary": "The authorities reported finding “magazines from Asia” dating back 20 years, without giving further details.",
+      "url": "https://www.straitstimes.com/world/mexican-investigators-raid-storage-unit-rented-by-meghan-markles-estranged-father",
+      "published": "2026-11-03T10:15:00+08:00",
+      "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Russian attack on Dnipro injures 15, three in serious condition",
+      "summary": "In Dnipro, the number of people wounded as a result of the Russian attack on the morning of November 3 has risen to 15.",
+      "url": "https://www.ukrinform.net/rubric-ato/4180765-russian-attack-on-dnipro-injures-15-three-in-serious-condition.html",
+      "published": "2026-11-03T09:57:00+02:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "Azma retorts as Salik remembers Parvez Elahi as ‘the best-ever CM’ in Punjab",
+      "summary": "LAHORE: The remarks by Federal Minister for Overseas Pakistanis Chaudhry Salik Hussain declaring former Punjab chief minister Chaudhry Parvez Elahi as the province’s “best-ever chief minister” and his",
+      "url": "https://www.dawn.com/news/2041737/azma-retorts-as-salik-remembers-parvez-elahi-as-the-best-ever-cm-in-punjab",
+      "published": "2026-11-03T09:56:35+05:00",
+      "source": "Dawn",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Two elections, one relationship: What the votes mean for US-Israel ties- opinion",
+      "summary": "Two ballots, one alliance. As Israelis and Americans vote, the future of US-Israel ties faces scrutiny, hard choices, and new realities.",
+      "url": "https://www.jpost.com/defense-and-tech/article-913666",
+      "published": "2026-11-03T09:52:08+00:00",
+      "source": "Jerusalem Post",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Indian national killed, New Zealander injured, after helicopters collide in Mount Everest region",
+      "summary": "The New Zealander has been rescued, the chief district officer of Solukhumbu district, Kaman Singh Thapa Magar, told Reuters.",
+      "url": "https://www.jpost.com/international/article-913664",
+      "published": "2026-11-03T09:39:02+00:00",
+      "source": "Jerusalem Post",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Russian strike on Kharkiv hospital raises injury toll to 73",
+      "summary": "In Kharkiv, 73 people were injured as a result of a Russian attack on the night of November 3.",
+      "url": "https://www.ukrinform.net/rubric-ato/4180763-russian-strike-on-kharkiv-hospital-raises-injury-toll-to-73.html",
+      "published": "2026-11-03T09:29:00+02:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "Documentary exposing UNRWA corruption, Hamas involvement, screened for United Nations diplomats",
+      "summary": "“In recent years, the State of Israel has demonstrated that UNRWA has long served as an extended arm of the terrorist organization Hamas,” Danny Danon, Israel’s Ambassador to the UN, said.",
+      "url": "https://www.jpost.com/israel-news/article-913659",
+      "published": "2026-11-03T09:16:21+00:00",
+      "source": "Jerusalem Post",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
     {
       "title": "US struck Iran’s Qeshm Island, Wall Street Journal reports",
       "summary": "The attack was the latest in a series of limited strikes carried out by Washington in recent weeks, the Journal said.",
       "url": "https://www.straitstimes.com/world/middle-east/united-states-struck-irans-qeshm-island-wall-street-journal-reports",
       "published": "2026-11-03T09:10:14+08:00",
       "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "UN reports warn of large-scale damage to Earth’s ice from climate change",
+      "summary": "PARIS: Exceeding 1.5C of global warming will have “irreversible” consequences for glaciers, sea ice and the Earth’s frozen regions, two UN reports warned on Monday, calling for urgent action.\nThe land",
+      "url": "https://www.dawn.com/news/2041761/un-reports-warn-of-large-scale-damage-to-earths-ice-from-climate-change",
+      "published": "2026-11-03T09:10:10+05:00",
+      "source": "Dawn",
       "region": "Asia",
       "region_key": "asia"
     },
@@ -33,6 +429,15 @@
       "region_key": "asia"
     },
     {
+      "title": "War update: 206 clashes on front line over past day, fiercest fighting in Kostiantynivka sector",
+      "summary": "A total of 206 combat engagements took place along the front line over the past day. Russian forces were most active in the Kostiantynivka sector, where they launched 21 attacks.",
+      "url": "https://www.ukrinform.net/rubric-ato/4180749-war-update-206-clashes-on-front-line-over-past-day-fiercest-fighting-in-kostiantynivka-sector.html",
+      "published": "2026-11-03T09:02:00+02:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
       "title": "Trump’s election fraud reward raises fears of vigilantism: Officials",
       "summary": "Trump has pushed unsubstantiated claims on voting problems while seeking greater federal control over state-run elections.",
       "url": "https://www.straitstimes.com/world/united-states/trumps-election-fraud-reward-raises-fears-of-vigilantism-officials",
@@ -42,6 +447,15 @@
       "region_key": "asia"
     },
     {
+      "title": "Tehran refuses to accept 'excessive' US demands, deal to end war still distant, Iran official says",
+      "summary": "Tehran's conditions would have to be met if the US wants the Strait of Hormuz opened, the official said, adding that nuclear talks could begin afterwards.",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-913661",
+      "published": "2026-11-03T08:58:50+00:00",
+      "source": "Jerusalem Post",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "Iran’s Khamenei gives government powers to hold talks on war",
       "summary": "Tehran did not clarify the extent of the new authority bestowed by Mojtaba Khamenei or whether it signals a broader shift in Iran’s red lines.",
       "url": "https://www.straitstimes.com/world/middle-east/irans-khamenei-gives-government-powers-to-hold-talks-on-war",
@@ -49,6 +463,24 @@
       "source": "Straits Times",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "Israel’s far-right supporters hold out hope for return to power",
+      "summary": "After years of the Israeli electorate drifting rightwards under Mr. Netanyahu, far-right parties such as Mr. Ben Gvir’s Jewish Power and Bezalel Smotrich’s Religious Zionism had hoped for watershed ga",
+      "url": "https://www.thehindu.com/news/international/israels-far-right-supporters-hold-out-hope-for-return-to-power/article71659276.ece",
+      "published": "2026-11-03T08:52:21+05:30",
+      "source": "The Hindu",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Israel’s Eisenkot rules out joining Netanyahu-led government, even at Trump’s request: Report",
+      "summary": "Yashar party leader Gadi Eisenkot has ruled out joining a government led by Israeli Prime Minister Benjamin Netanyahu, even at the request of US President Donald Trump, Israel’s public broadcaster KAN",
+      "url": "https://www.middleeastmonitor.com/20261103-israels-eisenkot-rules-out-joining-netanyahu-led-government-even-at-trumps-request-report/",
+      "published": "2026-11-03T08:50:05+00:00",
+      "source": "ME Monitor",
+      "region": "Middle East",
+      "region_key": "middle-east"
     },
     {
       "title": "OpenAI taps former US army secretary Dan Driscoll for national security role",
@@ -69,6 +501,168 @@
       "region_key": "asia"
     },
     {
+      "title": "2 Pakistani police officers guarding polio workers killed by suspected militants",
+      "summary": "Suspected militants riding a motorcycle shot and killed two police officers assigned to protect polio workers during a door-to-door vaccination campaign on Tuesday in northwestern Pakistan, officials ",
+      "url": "https://www.scmp.com/news/asia/south-asia/article/3373114/2-pakistani-police-officers-guarding-polio-workers-killed-suspected-militants",
+      "published": "2026-11-03T08:45:07+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Russian attack leaves 130 settlements without power in Zhytomyr region",
+      "summary": "Russian forces attacked an energy facility in the Zhytomyr region overnight on November 3, leaving 130 settlements without electricity.",
+      "url": "https://www.ukrinform.net/rubric-ato/4180744-russian-attack-leaves-130-settlements-without-power-in-zhytomyr-region.html",
+      "published": "2026-11-03T08:45:00+02:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "US carries out ‘defensive’ strikes on Iran’s Qeshm Island: Report",
+      "summary": "The US military carried out &#8220;defensive&#8221; strikes against Iran’s Qeshm Island on Monday, local media reported, citing a US official. &#8220;This was a defensive measure for Iranians using su",
+      "url": "https://www.middleeastmonitor.com/20261103-us-carries-out-defensive-strikes-on-irans-qeshm-island-report/",
+      "published": "2026-11-03T08:42:31+00:00",
+      "source": "ME Monitor",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "U.S. has conducted defensive strikes on some Iranian targets in Strait of Hormuz: official ahead of midterm elections",
+      "summary": "Vice-President J.D. Vance told reporters that he just spoke to President Trump about talks with Iran and said that “the president and I both feel pretty good about the prospects for potentially coming",
+      "url": "https://www.thehindu.com/news/international/us-strikes-iran-strait-of-hormuz-midterm-elections-trump-netanyahu-vance/article71659244.ece",
+      "published": "2026-11-03T08:41:18+05:30",
+      "source": "The Hindu",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Australia seeks to change visa deal with UK after influx of Britons",
+      "summary": "Australia says easing of rules has led to surge in British visitor numbers, putting pressure on local workforceThe Australian prime minister, Anthony Albanese, has told Andy Burnham he is looking at c",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/03/australia-seeks-to-change-visa-deal-uk",
+      "published": "2026-11-03T08:36:41+00:00",
+      "source": "The Guardian",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "Georgia Senate candidates make final appeals ahead of US midterms",
+      "summary": "Democratic Senator Jon Ossoff and Republican opponent Mike Collins made their final appeals to voters in Georgia.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/georgia-senate-candidates-make-final-appeals-ahead-of-us-midterms-2?traffic_source=rss",
+      "published": "2026-11-03T08:34:22+00:00",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Humanity’s Promethean Gap with AI",
+      "summary": "Frontier AI systems are beginning to test the limits of human oversight, while the companies developing them retain considerable power to define the risks and the terms of their scrutiny. In security ",
+      "url": "https://warontherocks.com/humanitys-promethean-gap-with-ai/",
+      "published": "2026-11-03T08:30:09+00:00",
+      "source": "War on the Rocks",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "Russian attacks damage homes and power lines in Cherkasy, two people injured",
+      "summary": "Two people were injured in a Russian drone strike on the city of Cherkasy.",
+      "url": "https://www.ukrinform.net/rubric-ato/4180740-russian-attacks-damage-homes-and-power-lines-in-cherkasy-two-people-injured.html",
+      "published": "2026-11-03T08:28:00+02:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "Will the US Midterms Have an Effect on Myanmar?",
+      "summary": "This week, veteran journalist Kyaw Zan Tha discusses how a resounding defeat for Donald Trump’ Republicans in this week’s elections could impact faraway Myanmar.",
+      "url": "https://www.irrawaddy.com/video/will-the-us-midterms-have-an-effect-on-myanmar.html",
+      "published": "2026-11-03T08:18:53+00:00",
+      "source": "Irrawaddy",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "China’s historic first space docking in 2011 – SCMP archive",
+      "summary": "This article was first published on November 4, 2011.\nChina a step closer to building its own space station\nby Stephen Chen\nEncouraged by yesterday (November 3, 2011) morning’s historic rendezvous and",
+      "url": "https://www.scmp.com/news/china/science/article/3373086/chinas-historic-first-space-docking-2011-scmp-archive",
+      "published": "2026-11-03T08:15:38+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Can the world withstand another winter of war?",
+      "summary": "Can the world withstand another winter of war?\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMarco Carnelos\n on \nMon, 11/02/2026 - 17:47\n\n        \n      \n    \n      \n    \n                ",
+      "url": "https://www.middleeasteye.net/opinion/can-world-withstand-another-winter-war",
+      "published": "2026-11-03T08:15:08+00:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Protests in Indonesia over haze; Malaysia’s 1MDB scandal lingers on: 7 Asia highlights",
+      "summary": "We have selected seven stories from the SCMP’s coverage of Asia over the past week that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, ple",
+      "url": "https://www.scmp.com/news/asia/article/3373095/protests-indonesia-over-haze-malaysias-1mdb-scandal-lingers-7-asia-highlights",
+      "published": "2026-11-03T08:15:07+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Henry Nowak ‘would have hated’ riots after his murder, says family",
+      "summary": "Parents of teenager stabbed in Southampton last year hit out at political ‘game’ played with son’s murderHenry Nowak’s family said he “would have hated” the riots that followed his death as they accus",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/03/henry-nowak-would-have-hated-riots-after-his-murder-his-says-family",
+      "published": "2026-11-03T08:14:25+00:00",
+      "source": "The Guardian",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "Morning update",
+      "summary": "Morning update \n\n    \n    \n\n        \n    \n                Good morning Middle East Eye readers,&nbsp;\n\nHere are the latest developments:&nbsp;\n\n\n\t\n\tAn Iranian military spokesperson has warned that any",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-659",
+      "published": "2026-11-03T08:14:14+00:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "US strikes Iran’s Qeshm Island as Vance voices optimism about a deal",
+      "summary": "Strikes on eve of US midterms reportedly target surface-to-air missiles being used against US assetsThe ⁠US launched limited strikes on ​Iran’s Qeshm Island late on Monday, hours after the vice-presid",
+      "url": "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island",
+      "published": "2026-11-03T08:13:46+00:00",
+      "source": "The Guardian",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "Iran-US deal still out of reach, senior Iranian official says",
+      "summary": "Iran-US deal still out of reach, senior Iranian official says\n\n    \n    \n\n        \n    \n                Iran and the US are far from reaching a deal to end the conflict, a senior Iranian official told",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-us-deal-still-out-reach-senior-iranian-official-says",
+      "published": "2026-11-03T08:10:38+00:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Russia’s war casualty toll in Ukraine up by 2,060 over past day",
+      "summary": "Russia’s total combat losses since the start of its full-scale invasion of Ukraine on February 24, 2022, have reached approximately 1,594,830 personnel as of November 3, 2026, including 2,060 troops k",
+      "url": "https://www.ukrinform.net/rubric-ato/4180734-russias-war-casualty-toll-in-ukraine-up-by-2060-over-past-day.html",
+      "published": "2026-11-03T08:10:00+02:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "Uganda arrests former army deputy chief stripped of military rank",
+      "summary": "Military spokesman says security forces recently recovered 15 guns in Elwelu's possession.",
+      "url": "https://www.bbc.co.uk/news/articles/cq398ep2lzd0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T08:08:07+00:00",
+      "source": "BBC",
+      "region": "Africa",
+      "region_key": "africa"
+    },
+    {
       "title": "Britain must expect AI-powered attack on critical infrastructure within two years: Report",
       "summary": "The UK's National Cyber Security Centre said that China was likely the best equipped to conduct such operations.",
       "url": "https://www.straitstimes.com/world/europe/uk-must-expect-ai-powered-attack-on-critical-infrastructure-within-two-years-report-says",
@@ -78,11 +672,173 @@
       "region_key": "asia"
     },
     {
+      "title": "Nicki Minaj, Bruce Springsteen, Olivia Rodrigo: Music stars take sides in US midterms",
+      "summary": "As Americans vote in the midterms, stars from country, pop, rap, and rock are using their influence to back rival candidates in the battle for political control.",
+      "url": "https://www.jpost.com/us-elections/article-913656",
+      "published": "2026-11-03T08:01:54+00:00",
+      "source": "Jerusalem Post",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Melaka election tests Malaysia’s fragile unity government as partners clash",
+      "summary": "Malaysia’s unity government is facing an increasingly uncomfortable test ahead of the Melaka state election, with parties governing together at the federal level reverting to old rivalries as they com",
+      "url": "https://www.scmp.com/week-asia/politics/article/3373103/melaka-election-tests-malaysias-fragile-unity-government-partners-clash",
+      "published": "2026-11-03T08:00:13+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Chinese drug iza-bren doubles lung cancer survival window in phase 3 trial",
+      "summary": "An anticancer drug developed by Sichuan Biokin Pharmaceutical took centre stage in a late-breaking oral presentation at the European Society for Medical Oncology (ESMO) Congress in Madrid last week.\nR",
+      "url": "https://www.scmp.com/news/china/science/article/3373061/chinese-drug-iza-bren-doubles-lung-cancer-survival-window-phase-3-trial",
+      "published": "2026-11-03T08:00:09+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Hong Kong launches single check-in scheme for select mainland China flights",
+      "summary": "Travellers flying from Hangzhou or Wuhan to overseas destinations via Hong Kong on different airlines can have their baggage checked through to the final destination under a newly launched service tha",
+      "url": "https://www.scmp.com/news/hong-kong/transport/article/3373110/single-check-those-flying-through-hong-kong-mainland-china-under-new-scheme",
+      "published": "2026-11-03T07:57:13+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Russian forces launch repeated strike on Dnipro, leaving people injured",
+      "summary": "Russian forces launched another attack on Dnipro in the morning, damaging residential buildings and injuring civilians.",
+      "url": "https://www.ukrinform.net/rubric-ato/4180730-russian-forces-launch-repeated-strike-on-dnipro-leaving-people-injured.html",
+      "published": "2026-11-03T07:50:00+02:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "Uganda: Mityana Health Workers Warn Pregnant Women Against Delaying Medical Care",
+      "summary": "[Nile Post] Health workers in Mityana District have raised concern over delayed medical care among residents, particularly pregnant women in rural and hard-to-reach communities, warning that the pract",
+      "url": "https://allafrica.com/stories/202611030160.html",
+      "published": "2026-11-03T07:49:05+00:00",
+      "source": "AllAfrica",
+      "region": "Africa",
+      "region_key": "africa"
+    },
+    {
+      "title": "RBA interest rates: Bullock says ‘pain now’ will prevent worse later as Reserve Bank hikes rates for fifth time",
+      "summary": "Reserve Bank of Australia increases official cash rate to 4.85%, bringing it to highest level since 2008RBA interest rates live updates: Reserve Bank cash rate decisionGet our daily political email, f",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/03/rba-interest-rates-decision-cash-rate-november-reserve-bank-australia",
+      "published": "2026-11-03T07:36:42+00:00",
+      "source": "The Guardian",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "Transport authorities demand answers after 4-hour parking meter outage",
+      "summary": "Hong Kong’s transport authorities have launched an investigation into a four-hour outage of the city’s parking meter system on Tuesday morning and ordered operator HKT to submit a report.\nThe Transpor",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3373109/transport-authorities-demand-answers-after-4-hour-parking-meter-outage",
+      "published": "2026-11-03T07:36:02+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Two helicopters crash near Everest base camp, killing Indian tourist",
+      "summary": "Two helicopters have collided while preparing to land in Nepal’s Mount Everest region, killing an Indian tourist.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/two-helicopters-crash-near-everest-base-camp-killing-indian-tourist?traffic_source=rss",
+      "published": "2026-11-03T07:34:36+00:00",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Ukraine intercepts 66% of Russia’s jet-powered Shahed drones in October – General Staff",
+      "summary": "Ukraine’s Defense Forces destroyed 4,859 Shahed-type drones used by Russian forces to attack Ukraine during October.",
+      "url": "https://www.ukrinform.net/rubric-ato/4180726-ukraine-intercepts-66-of-russias-jetpowered-shahed-drones-in-october-general-staff.html",
+      "published": "2026-11-03T07:32:00+02:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "Why a US-Russia showdown left Morocco celebrating",
+      "summary": "An impasse between the US and Russia at the UN means its peacekeeping mission in Western Sahara has ended after 35 years.",
+      "url": "https://www.bbc.co.uk/news/articles/cqp8genleg2ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T07:29:46+00:00",
+      "source": "BBC",
+      "region": "Africa",
+      "region_key": "africa"
+    },
+    {
+      "title": "US midterms 2026: Democrats eye Congress takeover as anti-Israel progressives seek power",
+      "summary": "As Americans head to the polls, Trump risks losing control of both chambers of Congress, while Israel faces a growing wave of Democratic opposition in Washington.",
+      "url": "https://www.jpost.com/us-elections/article-913654",
+      "published": "2026-11-03T07:29:35+00:00",
+      "source": "Jerusalem Post",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Taliban govt voices concern over US plans for deportation",
+      "summary": "KABUL: Afghanistan’s Taliban authorities voiced concern on Monday over reported plans by Washington to deport scores of Afghan immigrants to Pakistan with the aim of their eventual return to their hom",
+      "url": "https://www.dawn.com/news/2041765/taliban-govt-voices-concern-over-us-plans-for-deportation",
+      "published": "2026-11-03T07:28:21+05:00",
+      "source": "Dawn",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Iran chief negotiator says ball in US court to 'prevent war'",
+      "summary": "Iran chief negotiator says ball in US court to 'prevent war'  \n\n    \n    \n\n        \n    \n                Iran's parliament speaker and chief negotiator in talks with the US said that the ball was in&n",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-chief-negotiator-says-ball-us-court-prevent-war",
+      "published": "2026-11-03T07:23:55+00:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "U.S. strikes Iran's Qeshm Island: report",
       "summary": "The Wall Street Journal added that strikes have been carried out on ‌a smaller scale and purposefully ​kept secret so as not to signal any intent ⁠of resuming its major military campaign against Iran",
       "url": "https://www.thehindu.com/news/international/us-strikes-irans-qeshm-island-report/article71659212.ece",
       "published": "2026-11-03T07:16:35+05:30",
       "source": "The Hindu",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Trump says US might have to 'go after' Iran's Pickaxe Mountain if no deal is reached",
+      "summary": "Trump says US might have to 'go after'&nbsp;Iran's Pickaxe Mountain if no deal is reached\n\n    \n    \n\n        \n    \n                US President Donald Trump said that Washington may need to \"go after",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-might-have-go-after-irans-pickaxe-mountain-if-no-deal",
+      "published": "2026-11-03T07:16:29+00:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Injury toll in Russian attack on Kharkiv rises to 62",
+      "summary": "The number of people injured after a medical facility in Kharkiv’s Nemyshlianskyi district was hit has risen to 62, while more than 220 patients are being evacuated to other hospitals.",
+      "url": "https://www.ukrinform.net/rubric-ato/4180727-injury-toll-in-russian-attack-on-kharkiv-rises-to-62.html",
+      "published": "2026-11-03T07:10:00+02:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "Centre mulls reversing Fata merger, says Fazl",
+      "summary": "PESHAWAR: Jamiat Ulema-i-Islam-Fazl (JUI-F) chief Maulana Fazlur Rahman on Monday alleged that the federal government was considering reversing the merger of Fata with Khyber Pakhtunkhwa.\n\n“The merger",
+      "url": "https://www.dawn.com/news/2041676/centre-mulls-reversing-fata-merger-says-fazl",
+      "published": "2026-11-03T07:09:24+05:00",
+      "source": "Dawn",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Balochistan begins polio drive amid Afghan spillover fears",
+      "summary": "QUETTA: Balochistan on Monday launched its fifth seven-day anti-polio campaign of the year, targeting more than 2.2 million children across 31 districts amid concerns over the possible spread of the v",
+      "url": "https://www.dawn.com/news/2041707/balochistan-begins-polio-drive-amid-afghan-spillover-fears",
+      "published": "2026-11-03T07:08:12+05:00",
+      "source": "Dawn",
       "region": "Asia",
       "region_key": "asia"
     },
@@ -96,11 +852,236 @@
       "region_key": "asia"
     },
     {
+      "title": "US strikes Iran's Qeshm island on eve of midterm elections",
+      "summary": "The United States on Monday launched strikes on Iran's Queshm Island, on the eve of crucial midterm elections, the Wall Street Journal reported.",
+      "url": "http://www.africanews.com/2026/11/03/us-strikes-irans-qeshm-island-on-eve-of-midterm-elections/",
+      "published": "2026-11-03T07:06:39+00:00",
+      "source": "Africanews",
+      "region": "Africa",
+      "region_key": "africa"
+    },
+    {
+      "title": "One dead after two helicopters collide near Mount Everest in Nepal",
+      "summary": "Authorities have confirmed that a 47-year-old Indian national was killed and two people injured.",
+      "url": "https://www.aljazeera.com/news/2026/11/3/one-dead-after-two-helicopters-collide-near-mount-everest-in-nepal?traffic_source=rss",
+      "published": "2026-11-03T07:06:07+00:00",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Latvia briefly warns of airspace threat, says NATO jets activated",
+      "summary": "RIGA, Nov 2 - Latvia's armed forces briefly warned on Monday of a threat in the airspace affecting two regions of the Baltic country and said NATO air policing fighter jets had been activated.",
+      "url": "https://www.straitstimes.com/world/europe/latvia-warns-of-airspace-threat-says-nato-jets-activated",
+      "published": "2026-11-03T07:02:32+08:00",
+      "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "US to suspend South Africa and Rwanda from duty-free trade access",
+      "summary": "The move will hit exports including South African auto parts, wine and Rwandan coffee.",
+      "url": "https://www.straitstimes.com/world/united-states/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access",
+      "published": "2026-11-03T07:02:18+08:00",
+      "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "‘This is direct’: positive early feedback from pilot community mental health hub in Cumbria",
+      "summary": "Hope Haven in Whitehaven is one of six trial open-access, 24/7 schemes in England offering preventive careThe night Tamara first walked through the doors of Hope Haven, a new community mental health h",
+      "url": "https://www.theguardian.com/society/2026/nov/03/early-feedback-pilot-community-mental-health-hub-cumbria-whitehaven",
+      "published": "2026-11-03T07:00:41+00:00",
+      "source": "The Guardian",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "China moves to simplify forex settlements, ease cross-border business",
+      "summary": "China plans to expand foreign exchange settlement services and streamline cross-border trade payments, in a move to lower transaction costs and facilitate international commerce.\nThe State Administrat",
+      "url": "https://www.scmp.com/economy/policy/article/3373093/china-moves-simplify-forex-settlements-and-make-cross-border-business-easier",
+      "published": "2026-11-03T07:00:08+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Kenya: Woman Killed By Suspected Stray Bullet in Moyale Amid Ethiopia Conflict",
+      "summary": "[Capital FM] Nairobi -- A 65-year-old woman has been killed in Moyale after she was struck on the head by an object believed to be a stray bullet amid ongoing clashes between two regions in neighbouri",
+      "url": "https://allafrica.com/stories/202611030157.html",
+      "published": "2026-11-03T06:58:29+00:00",
+      "source": "AllAfrica",
+      "region": "Africa",
+      "region_key": "africa"
+    },
+    {
+      "title": "AFC reschedules Asian Cup 2027 in Saudi Arabia amid regional conflict",
+      "summary": "Start date for AFC Cup 2027 moved from January to December due to ongoing Houthi attacks on host nation Saudi Arabia.",
+      "url": "https://www.aljazeera.com/sports/2026/11/3/afc-reschedules-asian-cup-2027-in-saudi-arabia-amid-regional-conflict?traffic_source=rss",
+      "published": "2026-11-03T06:55:39+00:00",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Outrage in Philippines as pet remains found dumped in sacks on vacant plot",
+      "summary": "The discovery of dozens of pet remains dumped in sacks along a roadside in the Philippines has sparked public outrage and raised questions over whether the country’s animal welfare laws adequately pro",
+      "url": "https://www.scmp.com/week-asia/people/article/3373098/outrage-philippines-cremated-pets-found-dumped-sacks-vacant-plot",
+      "published": "2026-11-03T06:53:23+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Which African countries have the largest naval forces?",
+      "summary": "From the Strait of Hormuz to the Red Sea, conflicts and maritime tensions are disrupting vital trade routes and putting Africa’s security interests at stake. But how strong are the continent’s navies,",
+      "url": "https://www.theafricareport.com/435229/which-countries-have-the-largest-naval-forces-in-africa/",
+      "published": "2026-11-03T06:48:33+00:00",
+      "source": "The Africa Report",
+      "region": "Africa",
+      "region_key": "africa"
+    },
+    {
+      "title": "Putin panicking ahead of U.S. elections – Congressman Whitesides",
+      "summary": "Russian President Vladimir Putin is panicking as he anticipates a change in the composition of the U.S. Congress and, together with President Donald Trump, is trying to force Ukraine into making unfav",
+      "url": "https://www.ukrinform.net/rubric-polytics/4180725-putin-panicking-ahead-of-us-elections-congressman-whitesides.html",
+      "published": "2026-11-03T06:47:00+02:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "Eisenkot rules out joining Netanyahu government, even if Trump asks - report",
+      "summary": "Eisenkot said he would agree to meet Trump if invited, but would oppose any US involvement in Israel’s internal political affairs.",
+      "url": "https://www.jpost.com/israel-election-2026/article-913652",
+      "published": "2026-11-03T06:46:50+00:00",
+      "source": "Jerusalem Post",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Palestine weekly: Election deadlock meets West Bank sieges, Gaza killings",
+      "summary": "As Israel grapples with an inconclusive election, Palestinians face West Bank closures and Gaza killings.",
+      "url": "https://www.aljazeera.com/news/2026/11/3/palestine-weekly-election-deadlock-meets-west-bank-sieges-gaza-killings?traffic_source=rss",
+      "published": "2026-11-03T06:46:27+00:00",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Indian foreign ministry says one national killed in attack on ship near Oman",
+      "summary": "Indian foreign ministry says one national killed in attack on ship near Oman \n\n    \n    \n\n        \n    \n                One Indian was killed after an attack on a commercial vessel near Limah in Oman,",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/indian-foreign-ministry-says-one-national-killed-attack-ship-near-oman",
+      "published": "2026-11-03T06:42:26+00:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Nigeria: Currency Outside Banks Rises 104 Percent in 3 Yrs - CBN",
+      "summary": "[Vanguard] Currency held outside the banking system by Nigerians rose by 103.8 per cent to N4.923 trillion in September 2026 from N2.416 trillion in September 2023, highlighting the persistent demand ",
+      "url": "https://allafrica.com/stories/202611030155.html",
+      "published": "2026-11-03T06:39:18+00:00",
+      "source": "AllAfrica",
+      "region": "Africa",
+      "region_key": "africa"
+    },
+    {
+      "title": "Nigeria: Procurement Knowledge Gap Shuts Small Businesses Out of Govt Contracts - Minister",
+      "summary": "[Vanguard] Many small businesses in Nigeria are missing out on Federal Government contracts due to inadequate knowledge of public procurement procedures, Minister of State for Industry, Senator John E",
+      "url": "https://allafrica.com/stories/202611030153.html",
+      "published": "2026-11-03T06:39:17+00:00",
+      "source": "AllAfrica",
+      "region": "Africa",
+      "region_key": "africa"
+    },
+    {
+      "title": "Bullock doesn’t see ‘economy cracking at this point’ – as it happened",
+      "summary": "This blog is now closedRBA hikes cash rate for fifth time in blow to mortgage holdersUse our loan calculator to check how the rate rise may affect youGet our breaking news email, free app or daily new",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/03/rba-interest-rates-meeting-today-latest-news-australia-reserve-bank-cash-rate-announcement-decision-live-updates",
+      "published": "2026-11-03T06:33:51+00:00",
+      "source": "The Guardian",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "Somalia: Indian Navy Rescues 20 Crew Members From Hijacked Fishing Vessel Off Somalia",
+      "summary": "[Shabelle] Mogadishu -- The Indian Navy has rescued all 20 crew members of a hijacked Iranian fishing vessel off the coast of Somalia following a 48-hour military operation involving naval forces and ",
+      "url": "https://allafrica.com/stories/202611030141.html",
+      "published": "2026-11-03T06:31:23+00:00",
+      "source": "AllAfrica",
+      "region": "Africa",
+      "region_key": "africa"
+    },
+    {
       "title": "US signals progress in talks with Iran to avert renewed war",
       "summary": "A deal with Tehran “could happen”, Trump wrote on his Truth Social platform, a day before crucial US midterm elections.",
       "url": "https://www.straitstimes.com/world/middle-east/us-signals-progress-in-talks-with-iran-to-avert-renewed-war",
       "published": "2026-11-03T06:30:00+08:00",
       "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Iran's Araghchi says talks with Saudi Arabia are ongoing",
+      "summary": "Iran's Araghchi says talks with Saudi Arabia are ongoing\n\n    \n    \n\n        \n    \n                Iranian Foreign Minister Abbas Araghchi indicated that talks between Tehran and Saudi Arabia are ongo",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-araghchi-says-talks-saudi-arabia-are-ongoing",
+      "published": "2026-11-03T06:25:33+00:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "South Africa: U.S. to Drop South Africa, Rwanda from AGOA Duty-Free Trade Initiative",
+      "summary": "[DW] The Trump administration has said South Africa and Rwanda are breaking the rules of the AGOA free trade initiative, a centerpiece of US economic engagement with sub-Saharan Africa.",
+      "url": "https://allafrica.com/stories/202611030128.html",
+      "published": "2026-11-03T06:25:05+00:00",
+      "source": "AllAfrica",
+      "region": "Africa",
+      "region_key": "africa"
+    },
+    {
+      "title": "Kharkiv hit by Russian attack, medical facility struck, casualties reported",
+      "summary": "Russian forces launched a massive attack on Kharkiv with ballistic missiles and guided aerial bombs, with one of the strikes hitting a medical facility in the Nemyshlianskyi district, leaving people i",
+      "url": "https://www.ukrinform.net/rubric-ato/4180723-kharkiv-hit-by-russian-attack-medical-facility-struck-casualties-reported.html",
+      "published": "2026-11-03T06:23:00+02:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "Iran warns US of 'harder and broader' response to aggression",
+      "summary": "Iran warns US of 'harder and broader' response to aggression\n\n    \n    \n\n        \n    \n                An Iranian military spokesperson has warned that any renewed attacks by the US will be met with a",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-us-harder-and-broader-response-aggression",
+      "published": "2026-11-03T06:22:29+00:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Uganda: Uganda Begins Withdrawing Troops from Somalia After Two Decades",
+      "summary": "[DW] Ugandan troops first deployed to Somalia in 2007 as part of an international military coalition to battle Islamic insurgents. But the mission has faced mounting pressure since a US decision to wi",
+      "url": "https://allafrica.com/stories/202611030127.html",
+      "published": "2026-11-03T06:19:09+00:00",
+      "source": "AllAfrica",
+      "region": "Africa",
+      "region_key": "africa"
+    },
+    {
+      "title": "Ethiopia: Will Renewed Conflict Derail Ethiopia's Economic Growth?",
+      "summary": "[DW] Ethiopia's economy is growing strongly. But renewed fighting in the north of the BRICS member state could deter investment, strain public finances and push up the cost of living.",
+      "url": "https://allafrica.com/stories/202611030126.html",
+      "published": "2026-11-03T06:17:00+00:00",
+      "source": "AllAfrica",
+      "region": "Africa",
+      "region_key": "africa"
+    },
+    {
+      "title": "Singapore eyes regional haze control centre in Indonesia as Asean chair",
+      "summary": "Singapore will work with Asean member ⁠states to strengthen ⁠the implementation of ⁠an agreement on transboundary haze when it chairs the regional bloc next year, the country’s environment minister sa",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3373091/singapore-eyes-regional-haze-control-centre-indonesia-asean-chair",
+      "published": "2026-11-03T06:08:29+00:00",
+      "source": "South China Morning Post",
       "region": "Asia",
       "region_key": "asia"
     },
@@ -114,11 +1095,236 @@
       "region_key": "asia"
     },
     {
+      "title": "Denmark pushes for EU ban on ‘turbo chickens’ as secret footage causes outrage",
+      "summary": "Minister says government will work towards banning fast-growing breed across country and throughout EUThe Danish government is pursuing a national ban on “turbo chickens” and is calling for the fast-g",
+      "url": "https://www.theguardian.com/world/2026/nov/03/denmark-pushes-for-eu-ban-on-turbo-chickens-as-secret-footage-causes-outrage",
+      "published": "2026-11-03T06:00:39+00:00",
+      "source": "The Guardian",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "UK ministers told not to engage formally with Indian mega-zoo after lobbying",
+      "summary": "Guardian and Mongabay reveal approaches to officials and MPs on behalf of  Vantara zoo ahead of UK-chaired Cites meeting on endangered animal importsBritish government ministers were told not to engag",
+      "url": "https://www.theguardian.com/environment/2026/nov/03/uk-ministers-anant-ambani-indian-zoo-vantara-freedom-information-endangered-animals-cites",
+      "published": "2026-11-03T06:00:39+00:00",
+      "source": "The Guardian",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "South Africa: Can fragmented parties find common ground after municipal elections?",
+      "summary": "With a record 546 parties contesting Wednesday’s elections and polls pointing to coalition governments across major cities, the question is whether political rivals can agree on who governs and keep t",
+      "url": "https://www.theafricareport.com/435119/south-africa-can-fragmented-parties-find-common-ground-after-municipal-elections/",
+      "published": "2026-11-03T06:00:00+00:00",
+      "source": "The Africa Report",
+      "region": "Africa",
+      "region_key": "africa"
+    },
+    {
+      "title": "Jewish safety isn’t partisan: No party’s victory can substitute for that obligation - editorial",
+      "summary": "Congressional arithmetic will command attention as the election unfolds, as Israel will understandably examine what the results mean for assistance, diplomacy, and the future of the alliance.",
+      "url": "https://www.jpost.com/opinion/article-913617",
+      "published": "2026-11-03T05:57:50+00:00",
+      "source": "Jerusalem Post",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Displaced Ethiopians await registration in Kenya after fleeing clashes",
+      "summary": "Thousands of displaced Ethiopians were expected to be registered in the Kenyan border city of Moyale on Monday, after they fled tensions between the leaders of Ethiopia's Oromia and Somali regions.",
+      "url": "http://www.africanews.com/2026/11/03/displaced-ethiopians-await-registration-in-kenya-after-fleeing-clashes/",
+      "published": "2026-11-03T05:57:22+00:00",
+      "source": "Africanews",
+      "region": "Africa",
+      "region_key": "africa"
+    },
+    {
+      "title": "How a Harvard dream ended in tragedy for a Pakistani family",
+      "summary": "A 24-year-old physics graduate dies after her family pays millions to a man who lied about getting her into university.",
+      "url": "https://www.aljazeera.com/features/2026/11/3/how-a-harvard-dream-ended-in-tragedy-for-a-pakistani-family?traffic_source=rss",
+      "published": "2026-11-03T05:51:29+00:00",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "2½ years’ jail for Hong Kong district councillor who had sex with 13-year-old girl in 2011",
+      "summary": "A Hong Kong district councillor has been sentenced to two years and six months in jail for having unlawful sex with a 13-year-old girl 15 years ago, with a judge noting he had shown no remorse towards",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3373085/2-1/2-years-jail-hong-kong-district-councillor-who-had-sex-13-year-old-girl-2011",
+      "published": "2026-11-03T05:46:38+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Trump 'days away' from launching nuclear strike on Iran, Tucker Carlson claims",
+      "summary": "\"An American nuclear attack on Iran would set a new precedent,\" Carlson claimed in a post on X/Twitter a day before the US carried out \"defensive\" strikes on Qeshm Island.",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-913648",
+      "published": "2026-11-03T05:36:23+00:00",
+      "source": "Jerusalem Post",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Up to four groups of power cuts scheduled across Ukraine on Tuesday – Ukrenergo",
+      "summary": "Electricity consumption restrictions will be in effect in some regions of Ukraine on Tuesday, November 3, from 00:00 to 23:59.",
+      "url": "https://www.ukrinform.net/rubric-economy/4180677-up-to-four-groups-of-power-cuts-scheduled-across-ukraine-on-tuesday-ukrenergo.html",
+      "published": "2026-11-03T05:32:00+02:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "Nigeria: 'I Prayed for All Nigerians', Tinubu Ends Saudi Visit",
+      "summary": "[Daily Trust] President Bola Ahmed Tinubu has concluded his visit to the Kingdom of Saudi Arabia, declaring that he prayed for peace, unity and prosperity for all Nigerians.",
+      "url": "https://allafrica.com/stories/202611030101.html",
+      "published": "2026-11-03T05:22:52+00:00",
+      "source": "AllAfrica",
+      "region": "Africa",
+      "region_key": "africa"
+    },
+    {
+      "title": "Palestinian lawmaker accuses Netanyahu of using scapegoating tactics over Arab voter turnout",
+      "summary": "Palestinian lawmaker accuses Netanyahu of using scapegoating tactics over Arab voter turnout\n\n    \n    \n\n        \n    \n                Middle East Eye's James Schneider speaks with Ofer Cassif, a memb",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-lawmaker-accuses-netanyahu-using-scapegoating-tactics-over",
+      "published": "2026-11-03T05:21:15+00:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Malawi: 'You're Not Okay Upstairs!' Chilima Crash Inquiry Erupts As Witness and MPs Trade Insults",
+      "summary": "[Nyasa Times] A parliamentary inquiry into the plane crash that killed former Vice-President Saulos Chilima and eight others descended into chaos after independent campaigner Christy Lwara clashed wit",
+      "url": "https://allafrica.com/stories/202611030078.html",
+      "published": "2026-11-03T05:13:06+00:00",
+      "source": "AllAfrica",
+      "region": "Africa",
+      "region_key": "africa"
+    },
+    {
+      "title": "Israeli forces kill four in Gaza as fifth Palestinian dies of wounds",
+      "summary": "Nearly 1,600 Palestinians have been killed in Gaza since a US-brokered &#039;ceasefire&#039; took effect in October last year.",
+      "url": "https://www.aljazeera.com/news/2026/11/3/israeli-forces-kill-four-in-gaza-as-fifth-palestinian-dies-of-wounds?traffic_source=rss",
+      "published": "2026-11-03T05:02:34+00:00",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "Trump raises doubts about renewed attacks on Iran",
       "summary": "US President Donald Trump stressed that his bottom-line demand that Iran not possess a nuclear weapon.",
       "url": "https://www.straitstimes.com/world/middle-east/trump-raises-doubts-about-renewed-attacks-on-iran",
       "published": "2026-11-03T05:02:15+08:00",
       "source": "Straits Times",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "CPJ: 'Attacks on journalists almost always precede attacks on other rights to broader population'",
+      "summary": "Annette Young is pleased to welcome Jodie Ginsberg, Chief Executive Officer of the Committee to Protect Journalists (CPJ). The killing of journalists is not simply an assault on those who report the n",
+      "url": "https://www.france24.com/en/video/20261103-cpj-attacks-on-journalists-almost-always-precede-attacks-on-other-rights-to-broader-population",
+      "published": "2026-11-03T05:02:12+00:00",
+      "source": "France 24",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "Mali: Still No Accountability Six Months After Abduction of Pro-Democracy Politician Mountaga Tall and His Son",
+      "summary": "[AI London] Malian authorities must urgently disclose the fate and whereabouts of lawyer and pro-democracy politician Mountaga Tall and his son Cheick Mamadou Tall, Amnesty International said six mont",
+      "url": "https://allafrica.com/stories/202611030071.html",
+      "published": "2026-11-03T04:58:31+00:00",
+      "source": "AllAfrica",
+      "region": "Africa",
+      "region_key": "africa"
+    },
+    {
+      "title": "Ethiopia: Violence in the North Is Pushing Health System to the Brink, WHO Chief Warns",
+      "summary": "[UN News] The head of the World Health Organization (WHO) called on Monday for greater protection for civilians caught in conflict in northern Ethiopia following deadly drone strikes this past weekend",
+      "url": "https://allafrica.com/stories/202611030066.html",
+      "published": "2026-11-03T04:56:36+00:00",
+      "source": "AllAfrica",
+      "region": "Africa",
+      "region_key": "africa"
+    },
+    {
+      "title": "Africa: Nine Out of Ten Crimes Against Journalists Go Unpunished - Unesco Report",
+      "summary": "[RFI] Monday marks the International Day to End Impunity for Crimes Against Journalists - chosen in memory of Ghislaine Dupont and Claude Verlon, two journalists from Radio France Internationale murde",
+      "url": "https://allafrica.com/stories/202611030062.html",
+      "published": "2026-11-03T04:55:19+00:00",
+      "source": "AllAfrica",
+      "region": "Africa",
+      "region_key": "africa"
+    },
+    {
+      "title": "Nigeria: Nigerian Health Chiefs Confirm Negative Results in Ebola Cases",
+      "summary": "[RFI] Health authorities investigating two suspected Ebola cases in north-eastern Nigeria confirmed on Monday that both samples were negative after two rounds of testing.",
+      "url": "https://allafrica.com/stories/202611030061.html",
+      "published": "2026-11-03T04:55:06+00:00",
+      "source": "AllAfrica",
+      "region": "Africa",
+      "region_key": "africa"
+    },
+    {
+      "title": "Yemeni government forces claim gains in Lahij",
+      "summary": "Yemeni government forces claim gains in Lahij\n\n    \n    \n\n        \n    \n                The internationally recognised Yemeni government says its troops have recaptured positions from Houthi forces in",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-government-forces-claim-gains-yemens",
+      "published": "2026-11-03T04:52:37+00:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Malaysia’s halal chicken scandal exposes hygiene breaches at filthy plant",
+      "summary": "Malaysia’s halal safeguards are under scrutiny after filthy conditions and suspected slaughtering breaches at a chicken plant sparked demands to explain how it ignored warnings and operated for years ",
+      "url": "https://www.scmp.com/week-asia/health-environment/article/3373079/malaysias-halal-chicken-scandal-exposes-hygiene-breaches-filthy-plant",
+      "published": "2026-11-03T04:40:21+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "US strikes Iran’s Qeshm Island ahead of midterms as Trump says deal ‘could happen’",
+      "summary": "The United States has attacked an Iranian island in the Strait of Hormuz, the latest in a series of covert, limited strikes ahead of the US midterm elections, as President Donald Trump signalled progr",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3373075/us-strikes-irans-qeshm-island-ahead-midterms-trump-says-deal-could-happen",
+      "published": "2026-11-03T04:39:38+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Czech PM outlines army priorities for coming years",
+      "summary": "The priorities for developing the Czech Armed Forces are increasing troop numbers and strengthening air defence.",
+      "url": "https://www.ukrinform.net/rubric-polytics/4180673-czech-pm-outlines-army-priorities-for-coming-years.html",
+      "published": "2026-11-03T04:39:00+02:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "Israeli forces release Al Jazeera journalist in occupied West Bank",
+      "summary": "Al Jazeera correspondent Montaser Nassar released hours after being arrested at his home in Dura, near Hebron.",
+      "url": "https://www.aljazeera.com/news/2026/11/3/israeli-forces-arrest-al-jazeera-journalist-in-raid-on-his-west-bank-home?traffic_source=rss",
+      "published": "2026-11-03T04:25:16+00:00",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Beijing removes Hong Kong housing chief Winnie Ho after Tai Po fire resignation",
+      "summary": "Beijing has formally removed Hong Kong’s housing chief, Winnie Ho Wing-yin, from her post, after she resigned last week to take political responsibility for the deadly Tai Po fire.\nAccording to the st",
+      "url": "https://www.scmp.com/news/hong-kong/politics/article/3373076/beijing-removes-hong-kong-housing-chief-winnie-ho-after-tai-po-fire-resignation",
+      "published": "2026-11-03T04:19:56+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Xi Jinping meets foreign leaders: tracker, October 2026",
+      "summary": "Chinese President Xi Jinping met four foreign leaders in October – two each from Africa and Europe – with the month dominated by the Communist Party Central Committee’s fifth plenum.\nThe pace will pro",
+      "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3373073/xi-jinping-meets-foreign-leaders-tracker-october-2026",
+      "published": "2026-11-03T04:19:00+00:00",
+      "source": "South China Morning Post",
       "region": "Asia",
       "region_key": "asia"
     },
@@ -132,6 +1338,60 @@
       "region_key": "asia"
     },
     {
+      "title": "‘Speak last’: China’s fifth plenum moves to rein in Communist Party leaders",
+      "summary": "A key document endorsed by the Communist Party proposes stronger oversight of principal leaders below the central level, barring them from demanding personal allegiance from their leadership teams – a",
+      "url": "https://www.scmp.com/news/china/politics/article/3373028/speak-last-chinas-fifth-plenum-moves-rein-regional-leaders",
+      "published": "2026-11-03T03:59:52+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "New York reports first measles-linked death in over 30 years",
+      "summary": "The New ⁠York State Department of Health ⁠said on Monday that a ⁠child in Lewis County had died in connection with an ongoing measles outbreak, marking the state’s first known measles-associated death",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3373072/new-york-state-reports-first-measles-linked-death-over-30-years",
+      "published": "2026-11-03T03:55:03+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Israeli soldiers arrest Al Jazeera journalist in Hebron raids",
+      "summary": "Israeli soldiers blindfolded, handcuffed and arrested Al Jazeera correspondent Montaser Nassar during a raid on his home",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/israeli-soldiers-arrest-al-jazeera-journalist-in-hebron-raids?traffic_source=rss",
+      "published": "2026-11-03T03:53:09+00:00",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "US strikes Iran ahead of midterm elections",
+      "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+      "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T03:39:08+00:00",
+      "source": "BBC",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Ukraine to establish center for return of civilian detainees",
+      "summary": "Following the humanitarian mission to Oleshky, Ukraine will establish a separate Center for the Return of Civilian Citizens of Ukraine, which will operate under the Ombudsman's Office.",
+      "url": "https://www.ukrinform.net/rubric-society/4180568-ukraine-to-establish-center-for-return-of-civilian-detainees.html",
+      "published": "2026-11-03T03:33:00+02:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
+    },
+    {
+      "title": "Hong Kong will ‘rethink playbook’, offer stability amid global shifts: John Lee",
+      "summary": "Hong Kong is rewriting its economic playbook amid intensifying geopolitical tensions and the rapid advancement of artificial intelligence (AI), and is pivoting towards commodity trading, fintech and g",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3373067/hong-kong-will-rethink-playbook-offer-stability-amid-global-shifts-john-lee",
+      "published": "2026-11-03T03:31:54+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
       "title": "Hacked emergency alert apps spread fake nuclear warnings in Russia and Ukraine",
       "summary": "Russia refused to extend the ceasefire in Oleshky. Russian forces occupied Oleshky, in Ukraine’s Kherson region, in 2022, and a humanitarian catastrophe has unfolded there in recent months. Moscow and",
       "url": "https://meduza.io/en/feature/2026/11/03/hacked-emergency-alert-apps-spread-fake-nuclear-warnings-in-russia-and-ukraine",
@@ -141,6 +1401,33 @@
       "region_key": "europe"
     },
     {
+      "title": "Man and boy arrested after allegedly attacking One Nation volunteer with bat",
+      "summary": "The incident comes amid growing calls for the temperature of political debate in Australia to be turned down.",
+      "url": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T03:30:16+00:00",
+      "source": "BBC",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Tennessee national guard trained guns on dying man after guard member shot him, video shows",
+      "summary": "Footage from prosecutors shows aftermath of shooting of Tyrin Johnson, 20, shot and killed by national guard in JulyTennessee national guard troops in Memphis last summer trained their handguns on a m",
+      "url": "https://www.theguardian.com/us-news/2026/nov/02/tennessee-shooting-tyrin-johnson-video",
+      "published": "2026-11-03T03:13:06+00:00",
+      "source": "The Guardian",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "Yemeni army says it launched nearly 1,000 operations against Houthi targets over past day",
+      "summary": "Yemeni army says it launched nearly 1,000 operations against Houthi targets over past day\n\n    \n    \n\n        \n    \n                The Yemeni army said that it launched 951 operations targeting Houth",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-army-says-it-launched-nearly-1000-operations-against-houthi",
+      "published": "2026-11-03T03:11:58+00:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "US struck Iran's Qeshm Island, US officials confirm - report",
       "summary": "Earlier on Monday, sounds of explosions on the island had been reported by Iranian state media outlet IRNA.",
       "url": "https://www.jpost.com/middle-east/iran-news/article-913644",
@@ -148,6 +1435,15 @@
       "source": "Jerusalem Post",
       "region": "Middle East",
       "region_key": "middle-east"
+    },
+    {
+      "title": "Man, 61, arrested for allegedly spiking drink of Japanese DJ at Hong Kong nightclub",
+      "summary": "A 61-year-old Hong Kong man has been arrested for allegedly spiking the drink of Japanese disc jockey Mao Hamasaki at a Tsim Sha Tsui nightclub over the weekend, leaving her in intensive care.\nThe pol",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3373064/man-61-arrested-allegedly-spiking-drink-japanese-dj-hong-kong-nightclub",
+      "published": "2026-11-03T02:53:46+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
     },
     {
       "title": "UK must expect AI-powered attack on critical infrastructure within two years, report says",
@@ -168,6 +1464,15 @@
       "region_key": "europe"
     },
     {
+      "title": "Learjet may have broken up before crashing in Florida, investigators say",
+      "summary": "The National Transportation Safety Board said ⁠on Monday a Learjet ⁠60 that crashed on Sunday ⁠in a residential area in Palm Beach County, Florida, killing all nine people on board, may have broken up",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3373062/learjet-may-have-broken-crashing-florida-investigators-say",
+      "published": "2026-11-03T02:46:13+00:00",
+      "source": "South China Morning Post",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
       "title": "Rave at Russia’s main state library sparks backlash from pro-war commentators",
       "summary": "The Russian State Library, also known as the Leninka, hosted “LitRAVE” overnight from October 31 to November 1. The publishing group Eksmo-AST and the library jointly organized the event. About 3,000 ",
       "url": "https://meduza.io/en/feature/2026/11/03/rave-at-russia-s-main-state-library-sparks-backlash-from-pro-war-commentators",
@@ -177,6 +1482,24 @@
       "region_key": "europe"
     },
     {
+      "title": "US strikes Iran's Qeshm Island as Trump signals progress in talks",
+      "summary": "The United States reportedly struck Iran's Qeshm Island on Monday, even as President Donald Trump signalled progress in negotiations with Tehran to end the eight-month-old conflict. The reported attac",
+      "url": "https://www.france24.com/en/middle-east/20261103-us-strikes-iran-qeshm-island-as-trump-signals-progress-in-talks",
+      "published": "2026-11-03T02:28:07+00:00",
+      "source": "France 24",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
+      "summary": "Several explosions heard on Qeshm Island and in Bandar Lengeh as US media report US military strikes in Hormuz.",
+      "url": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz?traffic_source=rss",
+      "published": "2026-11-03T02:25:02+00:00",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "These pipelines once carried Russian gas to Europe. Now they carry Russian and Ukrainian soldiers into battle.",
       "summary": "The Atlantic and The New York Times published reports in October on clashes between Ukrainian and Russian forces in underground tunnels beneath the front line. Soldiers travel long distances through g",
       "url": "https://meduza.io/en/feature/2026/11/03/these-pipelines-once-carried-russian-gas-to-europe-now-they-carry-russian-and-ukrainian-soldiers-into-battle",
@@ -184,6 +1507,33 @@
       "source": "Meduza",
       "region": "Europe",
       "region_key": "europe"
+    },
+    {
+      "title": "Yemeni government forces launch strikes on Houthi positions west of Taiz",
+      "summary": "Yemeni government forces launch strikes on Houthi positions west of Taiz\n\n    \n    \n\n        \n    \n                Forces belonging to Yemen’s internationally recognised government have carried out ai",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-government-forces-launch-strikes-houthi-positions-west-taiz",
+      "published": "2026-11-03T02:17:17+00:00",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "Thousands displaced as homes are bulldozed in India’s Assam state",
+      "summary": "Hundreds of homes have been bulldozed in the Dhubri district of Assam state in northeastern India.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/thousands-displaced-as-homes-are-bulldozed-in-indias-assam-state?traffic_source=rss",
+      "published": "2026-11-03T02:15:39+00:00",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
+      "title": "US lawmakers ask Trump administration to stop deportation of Afghans",
+      "summary": "At least 150 Afghans are facing deportation to Pakistan and on to Afghanistan.",
+      "url": "https://www.aljazeera.com/news/2026/11/3/us-lawmakers-ask-trump-administration-to-stop-deportation-of-afghans?traffic_source=rss",
+      "published": "2026-11-03T02:12:33+00:00",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "region_key": "middle-east"
     },
     {
       "title": "UN reports warn of large-scale damage to Earth’s ice from climate change",
@@ -200,6 +1550,15 @@
       "url": "https://www.dawn.com/news/2041656/trump-touts-washington-reflecting-pool-as-us-midterm-battle-reaches-finale",
       "published": "2026-11-03T02:02:15+05:00",
       "source": "Dawn",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "Chinese delivery driver divorces American teacher he married 4 months after love confession",
+      "summary": "A food delivery driver from northeastern China, whose whirlwind marriage to an American teacher captivated social media, has announced their divorce.\nLiu Hao, 28, from Liaoning province, met Hannah Ha",
+      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3373051/chinese-delivery-driver-divorces-american-teacher-he-married-4-months-after-love-confession",
+      "published": "2026-11-03T02:00:17+00:00",
+      "source": "South China Morning Post",
       "region": "Asia",
       "region_key": "asia"
     },
@@ -465,6 +1824,15 @@
       "region_key": "middle-east"
     },
     {
+      "title": "Bollywood film star Ranbir Kapoor on AI, movies and fatherhood",
+      "summary": "The film star plays the leading role in a major new adaptation of the Indian epic Ramayana.",
+      "url": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T00:09:13+00:00",
+      "source": "BBC",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
       "title": "Falklands representative in London honours the Islands’ fallen at Westminster",
       "summary": "The Falkland Islands Government Representative to the UK and Europe, Richard Hyslop, has placed a commemorative cross at the House of Commons Garden of Remembrance in London in memory of Falkland Isla",
       "url": "https://en.mercopress.com/2026/11/03/falklands-representative-in-london-honours-the-islands-fallen-at-westminster?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
@@ -472,6 +1840,15 @@
       "source": "MercoPress",
       "region": "Americas",
       "region_key": "americas"
+    },
+    {
+      "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+      "summary": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T00:07:05+00:00",
+      "source": "BBC",
+      "region": "Europe",
+      "region_key": "europe"
     },
     {
       "title": "St. Petersburg cuts military enlistment bonus to 400,000 rubles in second reduction in a month",
@@ -726,6 +2103,15 @@
       "region_key": "all"
     },
     {
+      "title": "Emergency alerts hacking 'designed to undermine trust in government', expert says",
+      "summary": "Emergency alert systems in Russia and Ukraine were hit in cyber attacks overnight, with fake warnings of possible nuclear strikes broadcast to users in both countries. The systems have since been brou",
+      "url": "https://www.france24.com/en/emergency-alerts-hacking-designed-to-undermine-trust-in-government-expert-says",
+      "published": "2026-11-02T22:28:36+00:00",
+      "source": "France 24",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
       "title": "Germany and UK prepare plan to strengthen Ukraine’s air defence ahead of next Ukraine Defence Contact Group meeting – Pistorius",
       "summary": "Germany and the United Kingdom are working to secure additional air defence capabilities for Ukraine amid insufficient deliveries of Patriot systems and missiles from the United States. They hope to h",
       "url": "https://www.ukrinform.net/rubric-polytics/4180687-germany-and-uk-prepare-plan-to-strengthen-ukraines-air-defence-ahead-of-next-ukraine-defence-contact-group-meeting-pistorius.html",
@@ -967,6 +2353,15 @@
       "source": "Al Jazeera",
       "region": "Middle East",
       "region_key": "middle-east"
+    },
+    {
+      "title": "Zaporizhzhia region declares Day of Mourning for victims of Komyshuvakha attack",
+      "summary": "November 3 has been declared a Day of Mourning in the Zaporizhzhia region for those killed in the attack on Komyshuvakha earlier this morning.",
+      "url": "https://www.ukrinform.net/rubric-ato/4180664-zaporizhzhia-region-declares-day-of-mourning-for-victims-of-komyshuvakha-attack.html",
+      "published": "2026-11-02T21:21:00+02:00",
+      "source": "Ukrinform",
+      "region": "Europe",
+      "region_key": "europe"
     },
     {
       "title": "Zaporizhzhia region declares Day of Mourning for victims of Komyshuvakha attack",
@@ -1507,6 +2902,15 @@
       "source": "Ukrinform",
       "region": "Europe",
       "region_key": "europe"
+    },
+    {
+      "title": "Russia again pummels Ukraine after rare pause in fighting in Kherson",
+      "summary": "Intense fighting between Russia and Ukraine again picked up after a rare ceasefire allowed for a humanitarian mission to reach the war-torn, Russian-occupied city of Oleshky in the southern Kherson re",
+      "url": "https://www.france24.com/en/europe/20261102-russia-pummels-ukraine-again-after-rare-pause-in-fighting-in-kherson",
+      "published": "2026-11-02T18:53:49+00:00",
+      "source": "France 24",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "Russia Officially Withdraws From Europe’s Anti-Torture Convention",
@@ -4893,6 +6297,15 @@
       "region_key": "asia"
     },
     {
+      "title": "'I couldn't be silent': Iranian teen's mother seeking justice after daughter shot dead",
+      "summary": "BBC Panorama follows grieving Samira who - after the killing of Sevda - faces up to the Tehran regime.",
+      "url": "https://www.bbc.co.uk/news/videos/cwjdmp25mem9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T06:05:34+00:00",
+      "source": "BBC",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "Iran killed her teenage daughter - now she is facing up to the regime",
       "summary": "Samira's 16-year-old daughter Sevda was shot dead as they took part in mass protests in January.",
       "url": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
@@ -8111,6 +9524,15 @@
       "url": "https://www.thehindu.com/news/international/who-are-the-indian-origin-candidates-in-us-midterm-elections/article71644803.ece",
       "published": "2026-11-01T06:56:43+05:30",
       "source": "The Hindu",
+      "region": "Asia",
+      "region_key": "asia"
+    },
+    {
+      "title": "MOTORSPORT: CATCHING THE DRIFT",
+      "summary": "Laiba Khan Lodhi | Instagram/@laibakhanlodhi101\n    \nIn 2024, Laiba Khan Lodhi posted a video of herself doing donuts in her Mercedes, a skill she had learned at the Pro Drift Academy Dubai.\nThe video",
+      "url": "https://www.dawn.com/news/2041346/motorsport-catching-the-drift",
+      "published": "2026-11-01T06:53:53+05:00",
+      "source": "Dawn",
       "region": "Asia",
       "region_key": "asia"
     },
@@ -13695,6 +15117,15 @@
       "region_key": "all"
     },
     {
+      "title": "The UAE in Sudan",
+      "summary": "The UAE in Sudan\n\nhschaub\n\nFri, 10/30/2026 - 17:15\n\n  \n    \n\n  \n    \n      Latest Updates\n    \n  \n\n        \n                                      \n            Africa\n          \n                       ",
+      "url": "https://www.crisisgroup.org/pod/africa/sudan/uae-sudan",
+      "published": "2026-10-30T16:15:53+00:00",
+      "source": "Crisis Group",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
       "title": "South Africa: African Horse Sickness Confirmed in Western Cape's Cederberg",
       "summary": "[SAnews.gov.za] The Department of Agriculture has confirmed a case of African horse sickness (AHS) in a single horse on a property in the Cederberg Local Municipality in the Western Cape, prompting mo",
       "url": "https://allafrica.com/stories/202610300543.html",
@@ -14492,6 +15923,15 @@
       "url": "https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil",
       "published": "2026-10-30T14:08:41+00:00",
       "source": "The Guardian",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
+      "title": "October Trends and November Alerts 2026",
+      "summary": "October Trends and November Alerts 2026\n\noolofsson\n\nFri, 10/30/2026 - 15:08\n\n\n\n\n  \n    \n      \n        CrisisWatch\n      \n\n      \n        Tracking Conflict Worldwide\n      \n\n      Loading Map\n    \n\n  ",
+      "url": "https://www.crisisgroup.org/crisiswatch/october-trends-and-november-alerts-2026",
+      "published": "2026-10-30T14:08:18+00:00",
+      "source": "Crisis Group",
       "region": "Global",
       "region_key": "all"
     },
@@ -20031,6 +21471,15 @@
       "region_key": "africa"
     },
     {
+      "title": "Don’t Go Backward on China Policy",
+      "summary": "Don’t Go Backward on China Policy\n\nmloukili\n\nThu, 10/29/2026 - 15:33\n\n  \n    \n\n  \n    \n      Latest Updates\n    \n  \n\n        \n                                      \n            Africa\n          \n     ",
+      "url": "https://www.crisisgroup.org/opd/united-states/united-states-china/dont-go-backward-china-policy",
+      "published": "2026-10-29T14:33:59+00:00",
+      "source": "Crisis Group",
+      "region": "Global",
+      "region_key": "all"
+    },
+    {
       "title": "National Bank raises key policy rate to 16.5%",
       "summary": "The National Bank of Ukraine has raised its key policy rate to 16.5%.",
       "url": "https://www.ukrinform.net/rubric-economy/4179372-national-bank-raises-key-policy-rate-to-165.html",
@@ -21514,6 +22963,15 @@
       "source": "Dawn",
       "region": "Asia",
       "region_key": "asia"
+    },
+    {
+      "title": "Centrafrique : contenir les effets de la guerre au Soudan",
+      "summary": "Central African Republic: Containing the Fallout from Sudan’s War\n\nmloukili\n\nThu, 10/29/2026 - 11:34\n\n  \n    \n\n  \n    \n      Latest Updates\n    \n  \n\n        \n                                      \n   ",
+      "url": "https://www.crisisgroup.org/fr/rpt/africa/central-african-republic-sudan/323-centrafrique-contenir-les-effets-de-la-guerre-au-soudan",
+      "published": "2026-10-29T10:01:08+00:00",
+      "source": "Crisis Group",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "Why students in ancient China honoured teachers by gifting wild vegetables",
@@ -30372,6 +31830,15 @@
       "region_key": "all"
     },
     {
+      "title": "Two in court over alleged Iran-linked plot at RAF Fairford",
+      "summary": "Mohmed Abdulkarim and Nouman Essghir, both 24, appear at Westminster Magistrates' Court on Tuesday.",
+      "url": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T18:32:54+00:00",
+      "source": "BBC",
+      "region": "Middle East",
+      "region_key": "middle-east"
+    },
+    {
       "title": "Russell Brand told police he led a ‘very promiscuous’ life, trial hears",
       "summary": "Comedian accused of sexual offences against six women said consensual encounters were ‘unfavourably reframed decades later’Russell Brand told police he had led a “very promiscuous” life and consensual",
       "url": "https://www.theguardian.com/uk-news/2026/oct/27/russell-brand-told-police-he-led-very-promiscuous-life",
@@ -31162,6 +32629,15 @@
       "source": "Al Jazeera",
       "region": "Middle East",
       "region_key": "middle-east"
+    },
+    {
+      "title": "How the War in Iran Could Escalate",
+      "summary": "How the War in Iran Could Escalate\n\nmloukili\n\nTue, 10/27/2026 - 16:52\n\n  \n    \n\n  \n    \n      Latest Updates\n    \n  \n\n        \n                                      \n            Africa\n          \n    ",
+      "url": "https://www.crisisgroup.org/opd/middle-east-north-africa/iran/how-war-iran-could-escalate",
+      "published": "2026-10-27T15:52:48+00:00",
+      "source": "Crisis Group",
+      "region": "Global",
+      "region_key": "all"
     },
     {
       "title": "Attackers kill 60 people in Ethiopia's conflict-hit Oromiya region, Orthodox church says",
@@ -147687,15 +149163,6 @@
       "region_key": "all"
     },
     {
-      "title": "Government forces seize capital of Ethiopia's Tigray region from rebels",
-      "summary": "Oct 4 - Ethiopian government forces and allied militias have regained control of the capital of Tigray, three sources told Reuters on Sunday, dealing a major setback to the opposition alliance that ru",
-      "url": "https://www.straitstimes.com/world/government-forces-seize-capital-of-ethiopias-tigray-region-from-rebels",
-      "published": "2026-10-04T16:23:34+08:00",
-      "source": "Straits Times",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
       "title": "UAE shared details about FlyDubai flight with Israel, including pilots’ names, nationalities",
       "summary": "While the investigation continues, preliminary details about the incident have highlighted several major security lapses",
       "url": "https://www.thehindu.com/news/international/uae-shared-details-about-flydubai-flight-with-israel-including-pilots-names-nationalities/article71543481.ece",
@@ -147748,15 +149215,6 @@
       "source": "Al Jazeera",
       "region": "Middle East",
       "region_key": "middle-east"
-    },
-    {
-      "title": "Saudi Arabia quietly shelving NEOM Stadium, one of 2034 World Cup venues: Sources",
-      "summary": "The stadium was introduced as a centrepiece of Saudi Arabia's de facto ruler’s Vision 2030 plan.",
-      "url": "https://www.straitstimes.com/world/middle-east/saudi-arabia-quietly-shelving-neom-stadium-one-of-2034-world-cup-venues",
-      "published": "2026-10-04T16:03:43+08:00",
-      "source": "Straits Times",
-      "region": "Asia",
-      "region_key": "asia"
     },
     {
       "title": "‘The Israeli occupation does not distinguish’: Gaza family mourns Christian mother and daughter",
@@ -147838,15 +149296,6 @@
       "source": "Ukrinform",
       "region": "Europe",
       "region_key": "europe"
-    },
-    {
-      "title": "Latvian PM on track to lead pro-Ukraine coalition after election win",
-      "summary": "RIGA, Oct 4 - Latvian Prime Minister Andris Kulbergs was set to retain power and form a pro-Ukrainian coalition after his centrist United List secured the biggest parliamentary election victory since ",
-      "url": "https://www.straitstimes.com/world/europe/latvian-pm-on-track-to-lead-pro-ukraine-coalition-after-election-win",
-      "published": "2026-10-04T15:43:48+08:00",
-      "source": "Straits Times",
-      "region": "Asia",
-      "region_key": "asia"
     },
     {
       "title": "Yoseph Haddad rejects past support for Palestinian state after old interview resurfaces",
@@ -147971,15 +149420,6 @@
       "url": "https://www.thehindu.com/news/international/germanys-merz-in-kyiv-for-talks-with-zelenskyy/article71543190.ece",
       "published": "2026-10-04T15:14:34+05:30",
       "source": "The Hindu",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
-      "title": "Stranded abroad, Gaza’s displaced mourn the dead and long for home",
-      "summary": "Little has changed nearly a year since a ceasefire meant to start Gaza’s reconstruction.",
-      "url": "https://www.straitstimes.com/world/middle-east/haunted-by-grief-gazas-displaced-still-wait-overseas-for-return",
-      "published": "2026-10-04T15:08:40+08:00",
-      "source": "Straits Times",
       "region": "Asia",
       "region_key": "asia"
     },
@@ -148164,15 +149604,6 @@
       "region_key": "middle-east"
     },
     {
-      "title": "Watch: Netanyahu calls Indian FlyDubai pilot Smit Machchhar ‘hero of the entire world’",
-      "summary": "",
-      "url": "https://www.thehindu.com/videos/shorts/watch-netanyahu-calls-indian-flydubai-pilot-smit-machchhar-hero-of-the-entire-world/article71543260.ece",
-      "published": "2026-10-04T14:10:24+05:30",
-      "source": "The Hindu",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
       "title": "1,500 Hong Kong residents tour revamped Huanggang Port border crossing",
       "summary": "More than 1,500 Hong Kong residents toured the revamped Huanggang Port border crossing on Sunday as authorities pushed ahead with preparations for its opening.\nA Security Bureau spokesman said that pa",
       "url": "https://www.scmp.com/news/hong-kong/society/article/3369721/1500-hong-kong-residents-tour-revamped-huanggang-port-border-crossing?utm_source=rss_feed",
@@ -148198,15 +149629,6 @@
       "source": "Ukrinform",
       "region": "Europe",
       "region_key": "europe"
-    },
-    {
-      "title": "Security forces kill 8 terrorists in Dera Ismail Khan IBO: state media",
-      "summary": "Security forces killed eight terrorists during an intelligence-based operation (IBO) in Khyber Pakhtunkhwa’s Dera Ismail Khan, security sources said on Sunday, according to state-run Radio Pakistan.\nT",
-      "url": "https://www.dawn.com/news/2034697/security-forces-kill-8-terrorists-in-dera-ismail-khan-ibo-state-media",
-      "published": "2026-10-04T13:48:25+05:00",
-      "source": "Dawn",
-      "region": "Asia",
-      "region_key": "asia"
     },
     {
       "title": "US marine arrested in Japan on suspicion of killing woman, police say",
@@ -148398,24 +149820,6 @@
       "region_key": "asia"
     },
     {
-      "title": "Bosnia votes Sunday in election that could affect EU bid",
-      "summary": "SARAJEVO, Oct 4 - Bosnians voted on Sunday in elections which could impact their European Union membership bid and the influence that the United States and Russia seek over the small Balkan nation.",
-      "url": "https://www.straitstimes.com/world/europe/bosnia-votes-sunday-in-election-that-could-affect-eu-bid",
-      "published": "2026-10-04T13:03:35+08:00",
-      "source": "Straits Times",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
-      "title": "Iran says Strait of Hormuz will not reopen until conditions are met, says reports",
-      "summary": "The position of the Islamic Republic of ‌Iran is completely clear and ​firm, says Iran's Parliament Speaker Mohammad ‌Baqer Qalibaf",
-      "url": "https://www.thehindu.com/news/international/iran-says-strait-of-hormuz-will-not-reopen-until-conditions-are-met-says-reports/article71543176.ece",
-      "published": "2026-10-04T13:01:36+05:30",
-      "source": "The Hindu",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
       "title": "After a deadly paper mill explosion, a community in Washington state looks to a key House race",
       "summary": "In a district shaken by the deaths of 11 workers, Democrat Marie Gluesenkamp Perez faces a stiff challenge to keep her seatOn a misty morning in May in south-west Washington state, Laura Oltmann, a 41",
       "url": "https://www.theguardian.com/us-news/2026/oct/04/washington-state-marie-gluesenkamp-perez-democrat-congress",
@@ -148432,15 +149836,6 @@
       "source": "France 24",
       "region": "Global",
       "region_key": "all"
-    },
-    {
-      "title": "Germany’s Merz arrives in Kyiv to finalise drone deal, release aid",
-      "summary": "He is expected to press the Ukrainian government for progress on reforms requested by EU partners.",
-      "url": "https://www.straitstimes.com/world/europe/germanys-merz-arrives-in-kyiv-to-finalize-drone-deal-release-aid",
-      "published": "2026-10-04T12:58:36+08:00",
-      "source": "Straits Times",
-      "region": "Asia",
-      "region_key": "asia"
     },
     {
       "title": "Guided bombs strike on Sumy injures seven, damages gas networks and business facility",
@@ -148632,15 +150027,6 @@
       "region_key": "all"
     },
     {
-      "title": "4 injured Pakistanis rescued from vessel hijacked in Somalia head to Karachi with remains of 3 colleagues",
-      "summary": "The four Pakistanis who were injured during a security operation to recover a hijacked oil tanker off the coast of Somalia, along with the remains of three others who lost their lives in the episode, ",
-      "url": "https://www.dawn.com/news/2034691/4-injured-pakistanis-rescued-from-vessel-hijacked-in-somalia-head-to-karachi-with-remains-of-3-colleagues",
-      "published": "2026-10-04T11:38:39+05:00",
-      "source": "Dawn",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
       "title": "Saudi Arabia shelves $2.5bn Neom stadium planned for 2034 World Cup, report says",
       "summary": "Saudi Arabia shelves $2.5bn Neom stadium planned for 2034 World Cup, report says\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE and agencies\n on \nSun, 10/04/2026 - 09:50\n\n        \n    ",
       "url": "https://www.middleeasteye.net/news/saudi-arabia-shelves-25bn-neom-stadium-planned-2034-world-cup-says-report",
@@ -148659,15 +150045,6 @@
       "region_key": "middle-east"
     },
     {
-      "title": "Russian forces shell Donetsk region settlements 17 times in past 24 hours, causing casualties",
-      "summary": "In the Donetsk region, Russian troops shelled settlements in the region 17 times over the past 24 hours, wounding two people.",
-      "url": "https://www.ukrinform.net/rubric-ato/4170850-russian-forces-shell-donetsk-region-settlements-17-times-in-past-24-hours-causing-casualties.html",
-      "published": "2026-10-04T11:29:00+03:00",
-      "source": "Ukrinform",
-      "region": "Europe",
-      "region_key": "europe"
-    },
-    {
       "title": "Two Palestinians killed by Israeli fire in Gaza and occupied West Bank",
       "summary": "Two Palestinians killed by Israeli fire in Gaza and occupied West Bank\n\n    \n    \n\n        \n    \n                Two Palestinians have been killed by Israeli fire in attacks in the occupied West Bank ",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-palestinians-killed-israeli-fire-gaza-and-occupied-west-bank",
@@ -148675,15 +150052,6 @@
       "source": "Middle East Eye",
       "region": "Middle East",
       "region_key": "middle-east"
-    },
-    {
-      "title": "Iranian UN delegation duo ‘kicked out’ of US: US State Department",
-      "summary": "The delegation was told to leave US on Sept 28 but they remained in the country on Oct 2.",
-      "url": "https://www.straitstimes.com/world/united-states/iranian-un-delegation-duo-kicked-out-of-us-us-state-department",
-      "published": "2026-10-04T11:20:00+08:00",
-      "source": "Straits Times",
-      "region": "Asia",
-      "region_key": "asia"
     },
     {
       "title": "Brazil heads to the polls for high-stakes election between Lula and Flavio Bolsonaro",
@@ -148720,15 +150088,6 @@
       "source": "Al Jazeera",
       "region": "Middle East",
       "region_key": "middle-east"
-    },
-    {
-      "title": "NG troops deliver nearly four metric tons of humanitarian aid to Oleshky for second time",
-      "summary": "Soldiers from the 11th Mykhailo Hrushevsky Brigade and the 34th Kherson Regiment of the Ukrainian National Guard carried out a successful operation for the second time last night to deliver humanitari",
-      "url": "https://www.ukrinform.net/rubric-society/4170849-ng-troops-deliver-nearly-four-metric-tons-of-humanitarian-aid-to-oleshky-for-second-time.html",
-      "published": "2026-10-04T11:01:00+03:00",
-      "source": "Ukrinform",
-      "region": "Europe",
-      "region_key": "europe"
     },
     {
       "title": "Court quashes block on mothers and children in Gaza joining families in UK",
@@ -148803,15 +150162,6 @@
       "region_key": "asia"
     },
     {
-      "title": "Partisans destroy communications tower with EW system in Voronezh region",
-      "summary": "Agents of the ATESH partisan movement disabled a communications tower with an electronic warfare system installed on it near the village of Podgornoye in Russia's Rossosh district, Voronezh region.",
-      "url": "https://www.ukrinform.net/rubric-ato/4170825-partisans-destroy-communications-tower-with-ew-system-in-voronezh-region.html",
-      "published": "2026-10-04T10:30:00+03:00",
-      "source": "Ukrinform",
-      "region": "Europe",
-      "region_key": "europe"
-    },
-    {
       "title": "Ethiopian federal forces control Tigray capital as regional rivals meet in Egypt",
       "summary": "Troops loyal to Ethiopia's federal government were patrolling the streets of Mekelle on Sunday, a day after the Tigray People's Liberation Front (TPLF) withdrew its forces from the northern city. The ",
       "url": "https://www.france24.com/en/africa/20261004-ethiopian-federal-forces-control-tigray-capital-as-regional-rivals-meet-in-egypt",
@@ -148828,15 +150178,6 @@
       "source": "Africanews",
       "region": "Africa",
       "region_key": "africa"
-    },
-    {
-      "title": "Air defense intercepts 123 drones, two Banderols used by Russia to attack Ukraine overnight",
-      "summary": "Ukraine's air defense forces neutralized 123 of the 135 drones and two Banderols used by Russian forces to attack Ukraine from the evening of October 3.",
-      "url": "https://www.ukrinform.net/rubric-ato/4170824-air-defense-intercepts-123-drones-two-banderols-used-by-russia-to-attack-ukraine-overnight.html",
-      "published": "2026-10-04T10:15:00+03:00",
-      "source": "Ukrinform",
-      "region": "Europe",
-      "region_key": "europe"
     },
     {
       "title": "NAZA: Israeli embassies in UK and US promote rival documentary to challenge Gaza genocide allegations",
@@ -148884,15 +150225,6 @@
       "region_key": "asia"
     },
     {
-      "title": "Ukraine marks Territorial Defense Day",
-      "summary": "Ukraine is marking Territorial Defense Day on Sunday, October 4.",
-      "url": "https://www.ukrinform.net/rubric-society/4170822-ukraine-marks-territorial-defense-day.html",
-      "published": "2026-10-04T10:00:00+03:00",
-      "source": "Ukrinform",
-      "region": "Europe",
-      "region_key": "europe"
-    },
-    {
       "title": "Iran says Hormuz Strait to remain closed until US meets seven conditions",
       "summary": "Iran says Hormuz Strait to remain closed until US meets seven conditions\n\n    \n    \n\n        \n    \n                Iran's Parliament Speaker Mohammad Bagher Ghalibaf has said that the Strait of Hormuz",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-hormuz-strait-remain-closed-until-us-meets-seven-conditions",
@@ -148911,15 +150243,6 @@
       "region_key": "asia"
     },
     {
-      "title": "Burglars steal antiques belonging to Nawab of Bahawalpur’s family in Islamabad",
-      "summary": "ISLAMABAD: Robbers and burglars stole cash and valuables worth over Rs34 million in eight incidents in the capital, police said.\n\nIn the first incident, burglars stole priceless heirlooms and antiques",
-      "url": "https://www.dawn.com/news/2034667/burglars-steal-antiques-belonging-to-nawab-of-bahawalpurs-family-in-islamabad",
-      "published": "2026-10-04T09:55:06+05:00",
-      "source": "Dawn",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
       "title": "Russian strike hits Kyiv amid Chancellor Merz visit",
       "summary": "Moscow has once again bombed one of Kyiv’s bridges, despite the presence of German Chancellor Friedrich Merz in the Ukrainian capital. The visit was unplanned, but Merz says it was intended to show Ge",
       "url": "https://www.france24.com/en/russian-strike-hits-kyiv-amid-chancellor-merz-visit",
@@ -148929,15 +150252,6 @@
       "region_key": "all"
     },
     {
-      "title": "Gaza Friendly: the French label turning consumer choices into Palestine solidarity",
-      "summary": "Gaza Friendly: the French label turning consumer choices into Palestine solidarity\n\n    \n    \n\n          \n      \n      \n        Submitted by \nTassa Adidi\n on \nMon, 09/28/2026 - 15:10\n\n        \n      \n",
-      "url": "https://www.middleeasteye.net/news/gaza-friendly-french-label-turning-consumer-choices-palestine-solidarity",
-      "published": "2026-10-04T09:51:31+01:00",
-      "source": "Middle East Eye",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
       "title": "Brazil: A portrait of Flavio Bolsonaro",
       "summary": "Brazilians are voting for governors and lawmakers, but the biggest stakes are in the presidential race. Twelve candidates are on the ballot, but the contest is seen as a toss-up between President Luiz",
       "url": "https://www.france24.com/en/brazil-a-portrait-of-flavio-bolsonaro",
@@ -148945,15 +150259,6 @@
       "source": "France 24",
       "region": "Global",
       "region_key": "all"
-    },
-    {
-      "title": "Iran's foreign ministry spokesman: Strait of Hormuz 'main concern' of leadership",
-      "summary": "Iran's foreign ministry spokesman: Strait of Hormuz 'main concern' of leadership\n\n    \n    \n\n        \n    \n                Iran's foreign ministry spokesman, Esmaeil Baghaei, has said that the reopeni",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-foreign-ministry-spokesman-strait-hormuz-main-concern-leadership",
-      "published": "2026-10-04T09:48:05+01:00",
-      "source": "Middle East Eye",
-      "region": "Middle East",
-      "region_key": "middle-east"
     },
     {
       "title": "The story of a book in Gaza: A treasured possession given new lease of life",
@@ -148970,15 +150275,6 @@
       "url": "https://euromaidanpress.com/2026/10/04/russias-drones-keep-targeting-the-bridges-kyiv-cant-easily-replace-now-the-northern-crossing-is-cratered/",
       "published": "2026-10-04T09:44:11+00:00",
       "source": "Euromaidan Press",
-      "region": "Europe",
-      "region_key": "europe"
-    },
-    {
-      "title": "War update: 204 combat clashes on front lines in past day, most on Pokrovsk axis",
-      "summary": "As many as 204 combat engagements between the Ukrainian Defense Forces and Russian invaders were recorded on the front line on October 3, with the highest number occurring on the Pokrovsk axis.",
-      "url": "https://www.ukrinform.net/rubric-ato/4170817-war-update-204-combat-clashes-on-front-lines-in-past-day-most-on-pokrovsk-axis.html",
-      "published": "2026-10-04T09:43:00+03:00",
-      "source": "Ukrinform",
       "region": "Europe",
       "region_key": "europe"
     },
@@ -149019,15 +150315,6 @@
       "region_key": "middle-east"
     },
     {
-      "title": "Ireland news conference before Israel game cut short amid tensions",
-      "summary": "BACKA TOPOLA: The Republic of Ireland’s press conference on Saturday on the eve of their second Nations League match against Israel in Serbia was cut short as head coach Heimir Hallgrimsson fielded qu",
-      "url": "https://www.dawn.com/news/2034629/ireland-news-conference-before-israel-game-cut-short-amid-tensions",
-      "published": "2026-10-04T09:32:12+05:00",
-      "source": "Dawn",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
       "title": "Bosnia-Herzegovina votes amid divisive campaigns, EU bid",
       "summary": "Polls have opened in Bosnia and Herzegovina, where voters are taking part in parliamentary, presidential and local elections.",
       "url": "https://www.dw.com/en/bosnia-herzegovina-votes-amid-divisive-campaigns-eu-bid/a-79535336?maca=en-rss-en-world-4025-rdf",
@@ -149044,42 +150331,6 @@
       "source": "Jerusalem Post",
       "region": "Middle East",
       "region_key": "middle-east"
-    },
-    {
-      "title": "Drone debris falls at two locations in Kyiv's Dniprovskyi district",
-      "summary": "Drone debris fell onto the roof of a private house in Kyiv's Dniprovskyi district, while debris was also found near a road.",
-      "url": "https://www.ukrinform.net/rubric-ato/4170813-drone-debris-falls-at-two-locations-in-kyivs-dniprovskyi-district.html",
-      "published": "2026-10-04T09:21:00+03:00",
-      "source": "Ukrinform",
-      "region": "Europe",
-      "region_key": "europe"
-    },
-    {
-      "title": "Railways to outsource 13 passenger trains by December",
-      "summary": "LAHORE: The Pakistan Railways (PR) has decided to outsource 13 express passenger trains, including Pak Business, and directed its officers to complete the process by December this year.\nThe department",
-      "url": "https://www.dawn.com/news/2034543/railways-to-outsource-13-passenger-trains-by-december",
-      "published": "2026-10-04T09:17:43+05:00",
-      "source": "Dawn",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
-      "title": "Sughra Imam active after a long break",
-      "summary": "TOBA TEK SINGH: Former provincial minister and ex-Senator Syeda Sughra Imam has become active in politics with an aim to contest the next general election from her native constituency in Jhang.\nIt is ",
-      "url": "https://www.dawn.com/news/2034526/sughra-imam-active-after-a-long-break",
-      "published": "2026-10-04T09:13:46+05:00",
-      "source": "Dawn",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
-      "title": "Pakistan’s Russian dilemma",
-      "summary": "IT is difficult to imagine a single small gesture reducing decades-old hostility between two archrivals. Yet, such a moment was witnessed recently when Alok Dimri, India’s national coordinator for the",
-      "url": "https://www.dawn.com/news/2034653/pakistans-russian-dilemma",
-      "published": "2026-10-04T09:07:55+05:00",
-      "source": "Dawn",
-      "region": "Asia",
-      "region_key": "asia"
     },
     {
       "title": "Trump declines to back Lula or Flávio Bolsonaro as Brazil votes",
@@ -149118,672 +150369,6 @@
       "region_key": "all"
     },
     {
-      "title": "Yemen offensive",
-      "summary": "IT appears that escalation is on the cards where the Houthi-Saudi and US-Iran conflicts are concerned. As per reports, Riyadh is planning an offensive to help the Yemeni government — which it backs — ",
-      "url": "https://www.dawn.com/news/2034640/yemen-offensive",
-      "published": "2026-10-04T08:52:32+05:00",
-      "source": "Dawn",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
-      "title": "66% of Hong Kong’s 8-year-olds could be short-sighted by 2028, experts warn",
-      "summary": "More than 60 per cent of Hong Kong’s eight-year-olds could be short-sighted by 2028, optometrists have predicted, citing a shrinking “hyperopic reserve” that normally helps delay nearsightedness.\nThe ",
-      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3369696/66-hong-kongs-8-year-olds-could-be-short-sighted-2028-experts-warn?utm_source=rss_feed",
-      "published": "2026-10-04T08:51:40+00:00",
-      "source": "South China Morning Post",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
-      "title": "Russia's war casualty toll in Ukraine up by 1,750 over past day",
-      "summary": "The total combat losses of Russian forces in the war against Ukraine from February 24, 2022, to October 4, 2026, have reached approximately 1,540,700 personnel, including 1,750 troops killed or wounde",
-      "url": "https://www.ukrinform.net/rubric-ato/4170803-russias-war-casualty-toll-in-ukraine-up-by-1750-over-past-day.html",
-      "published": "2026-10-04T08:40:00+03:00",
-      "source": "Ukrinform",
-      "region": "Europe",
-      "region_key": "europe"
-    },
-    {
-      "title": "Merz unveils new aid for Ukraine as Russia strikes Kyiv during German leader's visit",
-      "summary": "German Chancellor Friedrich Merz announced a new aid package for Ukraine worth more than 1.3 billion euros ($1.5 billion) during a visit to Kyiv on Sunday marked by renewed Russian attacks on the Ukra",
-      "url": "https://www.france24.com/en/europe/20261004-merz-unveils-new-aid-for-ukraine-as-russia-strikes-kyiv-during-german-leader-s-visit",
-      "published": "2026-10-04T08:38:43+00:00",
-      "source": "France 24",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "Ethiopia’s Oromo celebrate Irreecha and call for peace as federal forces enter Mekelle",
-      "summary": "Tens of thousands of Oromo gathered in Ethiopia’s capital Addis Ababa on Saturday to celebrate the thanksgiving festival of Irreecha. The gathering took place amid reports that federal forces had ente",
-      "url": "http://www.africanews.com/2026/10/04/ethiopias-oromo-celebrate-irreecha-and-call-for-peace-as-federal-forces-enter-mekelle/",
-      "published": "2026-10-04T08:35:45+00:00",
-      "source": "Africanews",
-      "region": "Africa",
-      "region_key": "africa"
-    },
-    {
-      "title": "Did the pager operation change the Middle East? - opinion",
-      "summary": "Hezbollah is weaker, but it's not disappeared. It still possesses thousands of rockets and missiles and continues to invest in expanding its drone capabilities",
-      "url": "https://www.jpost.com/defense-and-tech/article-910498",
-      "published": "2026-10-04T08:34:22+00:00",
-      "source": "Jerusalem Post",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Inside the ‘kill box’: The Yemenis who stayed behind in Houthi-held Mocha",
-      "summary": "Yemenis trapped in the Red Sea port city speak of deteriorating conditions there.",
-      "url": "https://www.aljazeera.com/features/2026/10/4/inside-the-kill-box-the-yemenis-who-stayed-behind-in-houthi-held-mocha?traffic_source=rss",
-      "published": "2026-10-04T08:31:29+00:00",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "China’s hospital ships project a different kind of naval power in Africa",
-      "summary": "When the Auspicious Ark entered Dakar, Senegal, on September 25, the scene looked closer to a public health mission than a naval deployment. Senegalese people and members of the Chinese community were",
-      "url": "https://www.scmp.com/opinion/china-opinion/article/3369439/chinas-hospital-ships-project-different-kind-naval-power-africa?utm_source=rss_feed",
-      "published": "2026-10-04T08:30:06+00:00",
-      "source": "South China Morning Post",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
-      "title": "FIFA: Who are Gianni Infantino’s key allies in Africa?",
-      "summary": "With UEFA and several major European federations withdrawing their support after his failed plan to commercialise the World Cup, Gianni Infantino is counting on CAF’s 54-member bloc and a network of i",
-      "url": "https://www.theafricareport.com/432131/fifa-who-are-gianni-infantinos-key-allies-in-africa/",
-      "published": "2026-10-04T08:30:00+00:00",
-      "source": "The Africa Report",
-      "region": "Africa",
-      "region_key": "africa"
-    },
-    {
-      "title": "IDF to equip combat engineering vehicles with Iron Fist active protection against anti-tank threats",
-      "summary": "Iron Fist, manufactured by Elbit Systems, is an active protection system designed to protect armored fighting vehicles and engineering vehicles.",
-      "url": "https://www.jpost.com/defense-and-tech/article-910497",
-      "published": "2026-10-04T08:29:09+00:00",
-      "source": "Jerusalem Post",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Ireland–Israel nations League clash overshadowed by political tensions",
-      "summary": "Ireland and Israel are set to face off in the second leg of their Nations League matchup, with political tensions overshadowing the football. During last week’s first game in Bulgaria, Irish players w",
-      "url": "https://www.france24.com/en/video/20261004-ireland%E2%80%93israel-nations-league-clash-overshadowed-by-political-tensions",
-      "published": "2026-10-04T08:27:07+00:00",
-      "source": "France 24",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "Flock's AI tracking sparks privacy fears and violence",
-      "summary": "In the US, Flock Security cameras form an AI-powered surveillance network that records licence plates and other vehicle information. Their controversial use has become a political issue ahead of the m",
-      "url": "https://www.france24.com/en/flock-s-ai-tracking-sparks-privacy-fears-and-violence",
-      "published": "2026-10-04T08:23:37+00:00",
-      "source": "France 24",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "Yemen’s Houthis claim attacks on Aramco facilities in Riyadh",
-      "summary": "Yemen’s Houthi rebels have claimed responsibility for attacks in Riyadh, including on facilities belonging to Aramco, the world’s largest oil company. This follows reports from residents of flames and",
-      "url": "https://www.france24.com/en/yemen-s-houthis-claim-attacks-on-aramco-facilities-in-riyadh",
-      "published": "2026-10-04T08:21:37+00:00",
-      "source": "France 24",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "Russian forces shell 47 settlements in Zaporizhzhia region over past day",
-      "summary": "Over the past 24 hours, Russian forces launched 745 attacks on 47 settlements in the Zaporizhzhia region. Two people were injured in enemy shelling of the Zaporizhzhia district.",
-      "url": "https://www.ukrinform.net/rubric-ato/4170802-russian-forces-shell-47-settlements-in-zaporizhzhia-region-over-past-day.html",
-      "published": "2026-10-04T08:21:00+03:00",
-      "source": "Ukrinform",
-      "region": "Europe",
-      "region_key": "europe"
-    },
-    {
-      "title": "Tight monetary policy likely to continue",
-      "summary": "KARACHI: As the world continues to grapple with uncertain oil prices, the State Bank of Pakistan (SBP) is unlikely to meet its FY27 mid-term inflation target of 5-7 per cent, financial experts and ana",
-      "url": "https://www.dawn.com/news/2034576/tight-monetary-policy-likely-to-continue",
-      "published": "2026-10-04T08:18:39+05:00",
-      "source": "Dawn",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
-      "title": "Ex-PA minister who said he warned Israel about Oct. 7 denies claims he tried to influence election",
-      "summary": "Referring to the attack Hamas launched on Israel three years ago on October 7, Abu Zaida described it as \"a reckless gamble based on mistaken calculations and assessments.\"",
-      "url": "https://www.jpost.com/middle-east/article-910495",
-      "published": "2026-10-04T08:06:15+00:00",
-      "source": "Jerusalem Post",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Sabalenka, Rybakina handed shock defeats at China Open tennis",
-      "summary": "The Belarusian’s exit follows top seed Rybakina losing to unseeded Charaeva in her first match as world number one.",
-      "url": "https://www.aljazeera.com/sports/2026/10/4/sabalenka-rybakina-handed-shock-defeats-at-china-open-tennis?traffic_source=rss",
-      "published": "2026-10-04T08:04:00+00:00",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Gaza’s Christians mourn mother and daughter killed in Israeli attack",
-      "summary": "Maysa Abu Daoud and her daughter Mary al-Najjar among five Palestinians killed in Gaza City attack.",
-      "url": "https://www.aljazeera.com/news/2026/10/4/gazas-christians-mourn-mother-and-daughter-killed-in-israeli-attack?traffic_source=rss",
-      "published": "2026-10-04T08:02:38+00:00",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Welsh ban on greyhound racing sparks warnings of rehoming crisis",
-      "summary": "Industry says a phased end to racing, to avoid sudden jump in caring responsibilities, is unworkableWales’s greyhound racing ban – a UK first – has run into difficulties regarding how and when to wind",
-      "url": "https://www.theguardian.com/news/2026/oct/04/greyhounds-welfare-welsh-racing-ban",
-      "published": "2026-10-04T08:00:22+00:00",
-      "source": "The Guardian",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "China lashes out at Xinjiang ‘lie’ after US lawmaker urges Starbucks to close new stores",
-      "summary": "Beijing has hit back at a US lawmaker’s criticism of coffee chain Starbucks for opening its first stores in Xinjiang, rejecting the allegation that China has committed human rights abuses against the ",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3369689/china-lashes-out-xinjiang-lie-after-us-lawmaker-urges-starbucks-close-new-stores?utm_source=rss_feed",
-      "published": "2026-10-04T08:00:17+00:00",
-      "source": "South China Morning Post",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
-      "title": "5 dead in 3 weeks: are Indonesia’s whale strandings on the rise?",
-      "summary": "A cluster of whale and whale shark strandings across Indonesia – five in the past three weeks alone – has raised questions over whether such incidents are becoming more frequent, with experts pointing",
-      "url": "https://www.scmp.com/week-asia/health-environment/article/3369613/5-dead-3-weeks-are-indonesias-whale-strandings-rise?utm_source=rss_feed",
-      "published": "2026-10-04T08:00:14+00:00",
-      "source": "South China Morning Post",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
-      "title": "Germany's Merz visits Kyiv as Russia steps up attacks on Ukrainian cities",
-      "summary": "German Chancellor Friedrich Merz arrived in Ukraine's capital Kyiv on Sunday on an unannounced visit in a show of support for the country in its war with Russia. Merz's visit comes just a day after Ru",
-      "url": "https://www.france24.com/en/germany-s-merz-visits-kyiv-as-russia-steps-up-attacks-on-ukrainian-cities",
-      "published": "2026-10-04T07:58:36+00:00",
-      "source": "France 24",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "Izium hit by large-caliber multiple rocket launchers",
-      "summary": "Russian forces struck the city of Izium in the Kharkiv region with large-caliber multiple rocket launchers, sparking a fire and damaging houses.",
-      "url": "https://www.ukrinform.net/rubric-ato/4170800-izium-hit-by-largecaliber-multiple-rocket-launchers.html",
-      "published": "2026-10-04T07:58:00+03:00",
-      "source": "Ukrinform",
-      "region": "Europe",
-      "region_key": "europe"
-    },
-    {
-      "title": "Gov't, security bodies point fingers, deny responsibility over flydubai attempted hijacking",
-      "summary": "The pilot, Hammam al-Maami, who allegedly tried to crash the aircraft, had visited Israel before the flight in question and had last landed at Ben-Gurion Airport one week earlier, according to N12.",
-      "url": "https://www.jpost.com/israel-news/article-910494",
-      "published": "2026-10-04T07:57:21+00:00",
-      "source": "Jerusalem Post",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "FAO flags gaps in Pakistan’s nutritious food supply",
-      "summary": "• UN agency says over 60pc of citizens unable to afford healthy diet• Calls for overhaul of agrifood system\nISLAMABAD: The Food and Agriculture Organisation (FAO) of the United Nations has emphasised ",
-      "url": "https://www.dawn.com/news/2034586/fao-flags-gaps-in-pakistans-nutritious-food-supply",
-      "published": "2026-10-04T07:51:30+05:00",
-      "source": "Dawn",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
-      "title": "Morning recap",
-      "summary": "Morning recap\n\n    \n    \n\n        \n    \n                Good morning Middle East Eye readers,\n\nIf you're just joining us, here are key developments:\n\n* US President Donald Trump said: “We have a decis",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-recap-171",
-      "published": "2026-10-04T07:46:45+01:00",
-      "source": "Middle East Eye",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Russia has reduced use of ballistic missiles ahead of winter – Dutch analyst",
-      "summary": "Dutch analyst Patrick Bolder believes that Russia is currently using fewer ballistic missiles in its attacks on Ukraine and is carrying out a significant proportion of its strikes with jet-powered dro",
-      "url": "https://www.ukrinform.net/rubric-ato/4170799-russia-has-reduced-use-of-ballistic-missiles-ahead-of-winter-dutch-analyst.html",
-      "published": "2026-10-04T07:45:00+03:00",
-      "source": "Ukrinform",
-      "region": "Europe",
-      "region_key": "europe"
-    },
-    {
-      "title": "Russia’s top-grossing movie in September was ‘Twilight.’ Yes, the one from 2008.",
-      "summary": "The 2008 film “Twilight” was Russia’s highest-grossing movie in September, RBC reported. The first installment in the vampire saga stars Robert Pattinson and Kristen Stewart.",
-      "url": "https://meduza.io/en/news/2026/10/04/russia-s-top-grossing-movie-in-september-was-twilight-yes-the-one-from-2008",
-      "published": "2026-10-04T07:43:31+03:00",
-      "source": "Meduza",
-      "region": "Europe",
-      "region_key": "europe"
-    },
-    {
-      "title": "African leaders call for continent to unlock capital at Egypt business summit",
-      "summary": "African heads of state and business leaders gathered in Egypt on Saturday for the inaugural El-Alamein Africa Forum. They called for the continent to unlock its capital to finance growth and reduce re",
-      "url": "http://www.africanews.com/2026/10/04/african-leaders-call-for-continent-to-unlock-capital-at-egypt-business-summit/",
-      "published": "2026-10-04T07:31:48+00:00",
-      "source": "Africanews",
-      "region": "Africa",
-      "region_key": "africa"
-    },
-    {
-      "title": "Germany's Merz visits Kyiv to pledge more support to Zelensky",
-      "summary": "Germany's Chancellor Friedrich Merz arrived in Kyiv on Sunday in a ​show of support for President Volodymyr Zelensky amid escalating Russian attacks on Ukraine. The Ukrainian capital has been particul",
-      "url": "https://www.france24.com/en/europe/20261004-live-germany-s-merz-in-kyiv-for-talks-with-zelensky",
-      "published": "2026-10-04T07:28:07+00:00",
-      "source": "France 24",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "Sanaa, Riyadh rattled by strikes as war widens",
-      "summary": "• Houthis say Saudi aircraft carried out 26 strikes on Yemen capital, claim attack on Aramco facility in south of Riyadh• Trump’s top national security aides meet secretly on Yemen, Iran\nSANAA: Fighti",
-      "url": "https://www.dawn.com/news/2034597/sanaa-riyadh-rattled-by-strikes-as-war-widens",
-      "published": "2026-10-04T07:26:57+05:00",
-      "source": "Dawn",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
-      "title": "Dutch writer: I was trying to show Netherlands what Ukraine is like just as war began",
-      "summary": "Dutch writer of Ukrainian descent Lisa Weeda called it an \"absolutely crazy situation\" that she had to show people Ukraine, one of Europe's largest countries, at precisely the time when a war was ragi",
-      "url": "https://www.ukrinform.net/rubric-society/4170797-dutch-writer-i-was-trying-to-show-netherlands-what-ukraine-is-like-just-as-war-began.html",
-      "published": "2026-10-04T07:23:00+03:00",
-      "source": "Ukrinform",
-      "region": "Europe",
-      "region_key": "europe"
-    },
-    {
-      "title": "Ossoff and El-Sayed: Two Senate races and what they say about the Democratic Party",
-      "summary": "Senator Jon Ossoff, a Democratic favourite, is running for re-election in Georgia in the 2026 US midterms while Abdul El-Sayed is a Senate candidate in the battleground state of Michigan. The two Demo",
-      "url": "https://www.france24.com/en/americas/20261004-ossoff-and-el-sayed-two-senate-races-and-what-they-say-about-the-democratic-party",
-      "published": "2026-10-04T07:21:26+00:00",
-      "source": "France 24",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "Israeli embassies in UK, US promote copycat NAZA weeks after original's Venice triumph",
-      "summary": "Israeli embassies in UK, US promote copycat NAZA weeks after original's Venice triumph\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE staff\n on \nSun, 10/04/2026 - 03:02\n\n        \n     ",
-      "url": "https://www.middleeasteye.net/news/israeli-embassies-uk-us-promote-copycat-naza-weeks-after-originals-venice-triumph",
-      "published": "2026-10-04T07:20:27+01:00",
-      "source": "Middle East Eye",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Irish coach ends press conference after questions about Ireland's racism during game against Israel",
-      "summary": "The coach refused to answer when an Israeli journalist asked why Irish players \"call our players monkeys during the [previous] match...\" according to The Guardian.",
-      "url": "https://www.jpost.com/israel-news/sports/article-910492",
-      "published": "2026-10-04T07:17:26+00:00",
-      "source": "Jerusalem Post",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Saudi-led coalition dismisses Houthi claim of attack on Riyadh",
-      "summary": "Saudi-led coalition dismisses Houthi claim of attack on Riyadh \n\n    \n    \n\n        \n    \n                By claiming an attack on Riyadh, Houthis were “attempting to divert attention from the scale o",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-dismisses-houthi-claim-attack-riyadh",
-      "published": "2026-10-04T07:13:30+01:00",
-      "source": "Middle East Eye",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Revealed: Government quietly dropped plan to prepare England for wildfires",
-      "summary": "FOI request shows wildfire risk scheme scrapped, as survey highlights many fire services lack proper protective gearThe government quietly scrapped plans to prepare the countryside in England for wild",
-      "url": "https://www.theguardian.com/world/2026/oct/04/government-dropped-plan-england-countryside-wildfires",
-      "published": "2026-10-04T07:00:21+00:00",
-      "source": "The Guardian",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "‘People complain about anything popular’: the RHS boss taking on traffic jams and Chelsea critics",
-      "summary": "Exclusive: Clare Matterson, the head of the Royal Horticultural Society, talks about the charity’s £2.3m roadworks compensation, community gardening and her high hopes for Andy BurnhamThe government h",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/04/rhs-boss-wisley-traffic-compensation-chelsea-flower-show",
-      "published": "2026-10-04T07:00:20+00:00",
-      "source": "The Guardian",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "More than 3,800 marriages registered in Ukraine last week – Justice Ministry",
-      "summary": "More than 3,800 marriages were registered in Ukraine last week, with the highest number of marriages recorded in Kyiv.",
-      "url": "https://www.ukrinform.net/rubric-society/4170796-more-than-3800-marriages-registered-in-ukraine-last-week-justice-ministry.html",
-      "published": "2026-10-04T06:57:00+03:00",
-      "source": "Ukrinform",
-      "region": "Europe",
-      "region_key": "europe"
-    },
-    {
-      "title": "Bosnia votes in general election with wartime divisions still dominating",
-      "summary": "Bosnia is heading to the polls on Sunday after a general election campaign dominated by parties that identify closely with the ethnic divisions of its 1990s war. Voters will elect a vast number of off",
-      "url": "https://www.france24.com/en/bosnia-votes-in-general-election-with-wartime-divisions-still-dominating",
-      "published": "2026-10-04T06:51:38+00:00",
-      "source": "France 24",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "Two IDF service members injured in accident in Lebanon over the weekend",
-      "summary": "The soldiers were taken to a hospital to receive medical treatment, and their families have been notified, the military added.",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-910493",
-      "published": "2026-10-04T06:36:10+00:00",
-      "source": "Jerusalem Post",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "At least 17 people killed in Kenya road crash, most of them Catholic pilgrims",
-      "summary": "A crash involving multiple vehicles on a highway to the Kenyan coastal city of Mombasa on Saturday killed 17 people, most of them pilgrims on the way to a prayer site, officials said.",
-      "url": "http://www.africanews.com/2026/10/04/at-least-17-people-killed-in-kenya-road-crash-most-of-them-catholic-pilgrims/",
-      "published": "2026-10-04T06:27:02+00:00",
-      "source": "Africanews",
-      "region": "Africa",
-      "region_key": "africa"
-    },
-    {
-      "title": "Fragments from drone debris cause fire at non-residential building in Kyiv",
-      "summary": "A fire broke out at a non-residential building in Kyiv's Desnianskyi district as a result of falling drone debris.",
-      "url": "https://www.ukrinform.net/rubric-ato/4170795-fragments-from-drone-debris-cause-fire-at-nonresidential-building-in-kyiv.html",
-      "published": "2026-10-04T06:25:00+03:00",
-      "source": "Ukrinform",
-      "region": "Europe",
-      "region_key": "europe"
-    },
-    {
-      "title": "Israel says 1, 318 personnel killed since 7 Oct Hamas attack",
-      "summary": "Israel says 1, 318 personnel killed since 7 Oct Hamas attack\n\n    \n    \n\n        \n    \n                Israeli defence ministry has said that a total of 1,318 Israeli personnel have been killed since&",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-1-318-personnel-killed-7-oct-hamas-attack",
-      "published": "2026-10-04T06:21:46+01:00",
-      "source": "Middle East Eye",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Australia investigating Flydubai co-pilot's links to country",
-      "summary": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
-      "url": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-04T06:19:17+00:00",
-      "source": "BBC",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Iran delays renewing Hamas financial support over failure to undermine West Bank stability - report",
-      "summary": "A senior Hamas delegation visited Tehran in early September, according to the Kan report, which noted that the delegates met with senior Iranian officials.",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-910491",
-      "published": "2026-10-04T06:18:07+00:00",
-      "source": "Jerusalem Post",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Japan’s Takaichi presses US after marine arrested over murder-robbery of woman",
-      "summary": "A 20-year-old US marine was arrested on Sunday in Japan’s Okinawa prefecture on suspicion of robbing and murdering a local woman, police said.\nDavin Ballard stationed at the Futenma Airbase is suspect",
-      "url": "https://www.scmp.com/news/asia/east-asia/article/3369687/japans-takaichi-presses-us-after-marine-arrested-over-murder-robbery-woman?utm_source=rss_feed",
-      "published": "2026-10-04T06:12:16+00:00",
-      "source": "South China Morning Post",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
-      "title": "Defense Ministry: 1,318 Israeli security personnel killed across all fronts since October 7",
-      "summary": "The number includes fallen personnel from the IDF, Israel Police, Shin Bet (Israel Security Agency), Fire and Rescue Services, security coordinators, and local response team members.",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-910490",
-      "published": "2026-10-04T06:03:07+00:00",
-      "source": "Jerusalem Post",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "‘You have 10 minutes to decide’: answering the life-changing call to become a kinship carer",
-      "summary": "Those who have stepped in to keep young family members from going into care in England and Wales say the decision has brought them joy and hardshipClive vividly remembers the day when, without warning",
-      "url": "https://www.theguardian.com/society/ng-interactive/2026/oct/04/10-minutes-to-decide-life-changing-call-kinship-carer",
-      "published": "2026-10-04T06:00:20+00:00",
-      "source": "The Guardian",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "Bosnians vote as pro-Russian politician looms large over election and ethnic tensions simmer",
-      "summary": "Bosnians are heading to the polls Sunday in elections that ​could impact the influence Russia seeks over the small Balkan nation with separatist Serb leader Milorad Dodik dominating the campaign despi",
-      "url": "https://www.france24.com/en/europe/20261004-polls-open-in-bosnia-and-herzegovina-as-pro-russian-politician-looms-large-over-race",
-      "published": "2026-10-04T05:55:38+00:00",
-      "source": "France 24",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "As elections loom, voters must choose the right pilot to navigate political turbulence - editorial",
-      "summary": "The passengers aboard the flydubai flight did not have the luxury of leaving the cockpit unresolved. Israeli voters will have their own chance to take control and choose who sits in the cockpit.",
-      "url": "https://www.jpost.com/opinion/article-910478",
-      "published": "2026-10-04T05:55:14+00:00",
-      "source": "Jerusalem Post",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Iran opens military centre for citizens, 'training 1,000 battalions'",
-      "summary": "Iran opens military centre for citizens, 'training 1,000 battalions'\n\n    \n    \n\n        \n    \n                Iran opened a military training centre in Tehran on Saturday, which is said to be aimed a",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-opens-military-centre-citizens-training-1000-battalions",
-      "published": "2026-10-04T05:53:16+01:00",
-      "source": "Middle East Eye",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Trump, burger, Hormuz: meet the Iranian team behind billboard war on US",
-      "summary": "Huge billboards on the walls of Tehran mocking US President Donald Trump and depicting American drones under the boot of an Iranian soldier are providing a chronicle of Iran’s war with the United Stat",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3369685/trump-burger-hormuz-meet-iranian-team-behind-billboard-war-us?utm_source=rss_feed",
-      "published": "2026-10-04T05:35:04+00:00",
-      "source": "South China Morning Post",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
-      "title": "Israeli forces, settlers continue campaign of detentions and attacks in West Bank",
-      "summary": "Israeli forces, settlers continue campaign of detentions and attacks in West Bank\n\n    \n    \n\n        \n    \n                Several Palestinians were detained by Israeli forces, while settlers continu",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-settlers-continue-campaign-detentions-and-attacks-west",
-      "published": "2026-10-04T05:29:41+01:00",
-      "source": "Middle East Eye",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "West Indies beat India in record chase as Hope hits 162 in third ODI",
-      "summary": "Shai Hope&#039;s 162 leads the West Indies to a record cricket run chase as they beat India by five wickets in the third ODI.",
-      "url": "https://www.aljazeera.com/sports/2026/10/4/west-indies-beat-india-in-record-chase-as-hope-hit-162-in-third-odi?traffic_source=rss",
-      "published": "2026-10-04T05:28:38+00:00",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Russia has begun striking Kyiv’s bridges across the Dnipro for the first time since invading Ukraine",
-      "summary": "In recent days, Russian forces have begun attacking some of Kyiv’s most important transport links: the bridges across the Dnipro River, which had not previously come under attack.",
-      "url": "https://meduza.io/en/feature/2026/10/04/russia-has-begun-striking-kyiv-s-bridges-across-the-dnipro-for-the-first-time-since-invading-ukraine",
-      "published": "2026-10-04T05:15:04+03:00",
-      "source": "Meduza",
-      "region": "Europe",
-      "region_key": "europe"
-    },
-    {
-      "title": "Emily Damari shares unreleased hostage photos, says surviving Hamas captivity was a miracle",
-      "summary": "\"Three years ago at this time on Simchat Torah I was deep, deep in the Gaza Strip,\" Damari wrote in her post.",
-      "url": "https://www.jpost.com/israel-news/article-910488",
-      "published": "2026-10-04T05:02:29+00:00",
-      "source": "Jerusalem Post",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Somalia President: Houthis ‘not in a position’ to bring Yemen peace",
-      "summary": "Somalia’s president accuses the Houthis of destabilising the region and disrupting navigation through the Bab al-Mandeb",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/somalia-president-houthis-not-in-a-position-to-bring-yemen-peace?traffic_source=rss",
-      "published": "2026-10-04T05:00:40+00:00",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Polish activists launch abortion pill locker to bypass near-total ban",
-      "summary": "‘AbortOmat’ in Warsaw offers novel way to challenge country’s restrictions and allow women swift, anonymous access They call it the “world’s first parcel locker for abortion pills”. Polish campaigners",
-      "url": "https://www.theguardian.com/world/2026/oct/04/polish-activists-launch-abortion-pill-locker-to-bypass-near-total-ban",
-      "published": "2026-10-04T05:00:20+00:00",
-      "source": "The Guardian",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "UK car industry faces ‘difficult trade-off’ between Chinese and EU markets",
-      "summary": "Britain under pressure to put tariffs on cheap Chinese vehicle imports ahead of protectionist trade measuresBritain’s car industry is grappling with a “difficult trade-off” between China and Europe, a",
-      "url": "https://www.theguardian.com/business/2026/oct/04/uk-car-industry-trade-off-china-made-in-europe-laws",
-      "published": "2026-10-04T05:00:18+00:00",
-      "source": "The Guardian",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "Iran arrests 31 people linked to 'US-Israel sabotage networks', report says",
-      "summary": "Iran arrests 31 people linked to 'US-Israel sabotage networks', report says\n\n    \n    \n\n        \n    \n                At least 31 people linked to four networks backed by the US and Israel have been a",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-arrests-31-people-linked-us-israel-sabotage-networks-report-says",
-      "published": "2026-10-04T04:41:35+01:00",
-      "source": "Middle East Eye",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "3 students arrested in Malaysia over murder of girl found dead at school",
-      "summary": "Three male students have been detained by police in connection with the murder of a Form Four female student whose body was discovered at a school in Yong Peng, Malaysia’s Johor state, on Saturday.\nTh",
-      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3369683/3-students-arrested-malaysia-over-murder-girl-found-dead-school?utm_source=rss_feed",
-      "published": "2026-10-04T04:29:43+00:00",
-      "source": "South China Morning Post",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
-      "title": "Saudi-backed Yemeni army says 700 Houthis killed in 24 hours",
-      "summary": "Yemen’s government forces claim to have killed hundreds of Houthi rebels as they attempt to retake lost territory.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/saudi-backed-yemeni-army-says-700-houthis-killed-in-24-hours?traffic_source=rss",
-      "published": "2026-10-04T04:09:13+00:00",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Pick-up truck overturns trying to carry military chopper in Russia",
-      "summary": "An attempt by Russian stuntman Evgeny Chebotarev to carry an Mi-2 helicopter on a pickup truck went awfully wrong.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/pick-up-truck-overturns-trying-to-carry-military-chopper-in-russia?traffic_source=rss",
-      "published": "2026-10-04T04:06:05+00:00",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Indonesians sue president over haze – can it clear the air?",
-      "summary": "For months, the air over West Kalimantan has been thick enough to taste. Now, some of the province’s residents are taking the government to court over it.\nIndonesia’s worst wildfire season in 11 years",
-      "url": "https://www.scmp.com/week-asia/politics/article/3369594/indonesians-sue-president-over-haze-can-it-clear-air?utm_source=rss_feed",
-      "published": "2026-10-04T04:00:11+00:00",
-      "source": "South China Morning Post",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
-      "title": "'See what was done to Gaza': Angelina Jolie shares images of destruction",
-      "summary": "'See what was done to Gaza': Angelina Jolie shares images of destruction\n\n    \n    \n\n        \n    \n                American actress Angelina Jolie has posted before-and-after Google Maps satellite ima",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/see-what-was-done-gaza-angelina-jolie-shares-image-destruction",
-      "published": "2026-10-04T03:52:04+01:00",
-      "source": "Middle East Eye",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "In Tigray, Ethiopian government forces have advanced against a northern rebel group, reports indicate",
-      "summary": "Reports indicate Ethiopian government forces have made advances against a northern rebel group. Renewed fighting has raised fears the conflict could spill over into the wider region.",
-      "url": "https://www.dw.com/en/in-tigray-ethiopian-government-forces-have-advanced-against-a-northern-rebel-group-reports-indicate/a-79534372?maca=en-rss-en-world-4025-rdf",
-      "published": "2026-10-04T03:48:00+00:00",
-      "source": "DW",
-      "region": "Europe",
-      "region_key": "europe"
-    },
-    {
-      "title": "Houthis claim strike on Aramco site as Yemen fighting intensifies",
-      "summary": "Spokesman for Saudi-led coalition supporting Yemen government says Houthi claims of targeting Riyadh are &#039;misleading&#039;.",
-      "url": "https://www.aljazeera.com/news/2026/10/4/houthis-claim-strike-on-saudi-energy-facility-as-yemen-fighting-intensifies?traffic_source=rss",
-      "published": "2026-10-04T03:33:49+00:00",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Yemeni government forces carry out 97 anti-Houthi operations, spokesman says",
-      "summary": "Yemeni government forces carry out 97 anti-Houthi operations, spokesman says\n\n    \n    \n\n        \n    \n                Yemeni military spokesman Brigadier General Majid Abdullah Al-Nuzaili said the go",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-government-forces-carry-out-97-anti-houthi-operations-spokesman",
-      "published": "2026-10-04T03:16:31+01:00",
-      "source": "Middle East Eye",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "North Korea launches ballistic missile over 700 kilometers as hostilities heat up",
-      "summary": "North Korea has launched missile tests on more than 10 occasions so far this year. Pyongyang has sometimes said it was testing new types of weapons systems.",
-      "url": "https://www.jpost.com/international/article-910487",
-      "published": "2026-10-04T02:50:59+00:00",
-      "source": "Jerusalem Post",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Spanish police fire rubber bullets, arrest neo-Nazi extremists in massive housing crisis riots",
-      "summary": "Far-right activists, some of whom performed Nazi salutes, tried to reach demonstrators camped out in the Puerta del Sol, a central square in the Spanish capital, to protest the housing crisis.",
-      "url": "https://www.jpost.com/international/article-910485",
-      "published": "2026-10-04T02:24:08+00:00",
-      "source": "Jerusalem Post",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
-      "title": "Young Chinese hire ‘life stand-ins’ to cook and care for elderly parents amid booming trend",
-      "summary": "From cooking and attending hospital visits to doing the actual quarrelling, paid “life stand-ins” are stepping in to manage these tasks, along with errands and awkward moments that many young Chinese ",
-      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3369676/young-chinese-hire-life-stand-ins-cook-and-care-elderly-parents-amid-booming-trend?utm_source=rss_feed",
-      "published": "2026-10-04T02:20:53+00:00",
-      "source": "South China Morning Post",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
-      "title": "Quality over quantity: China’s AI microdrama producers battle viewer fatigue",
-      "summary": "Two decades after stepping away from the spotlight, iconic actress Joey Wong made an unexpected return to the screen – not through a traditional production, but via artificial intelligence-powered rec",
-      "url": "https://www.scmp.com/tech/policy/article/3368700/quality-over-quantity-chinas-ai-microdrama-producers-battle-viewer-fatigue?utm_source=rss_feed",
-      "published": "2026-10-04T02:00:09+00:00",
-      "source": "South China Morning Post",
-      "region": "Asia",
-      "region_key": "asia"
-    },
-    {
-      "title": "Yemen conducts strikes against Houthi stronghold, capital city of Sanaa as conflict deepens",
-      "summary": "A spokesperson for Yemen's armed forces, which are aligned with the internationally recognized government, said forces were targeting what he described as \"vital targets.\"",
-      "url": "https://www.jpost.com/middle-east/article-910484",
-      "published": "2026-10-04T01:59:50+00:00",
-      "source": "Jerusalem Post",
-      "region": "Middle East",
-      "region_key": "middle-east"
-    },
-    {
       "title": "'Knowledge is power' - Awoniyi",
       "summary": "Nigeria's Taiwo Awoniyi explains why he values education so highly, having completed a course which could see him become one of football's future leaders.",
       "url": "https://www.bbc.co.uk/sport/football/videos/cm0ld8wwenw6o?at_medium=RSS&at_campaign=rss",
@@ -149797,15 +150382,6 @@
       "summary": "For much of the modern aviation era, geography was something the global aviation industry learned to overcome. Simply put, unlike a railway, a pipeline, or a highway, an aircraft does not require a co",
       "url": "https://warontherocks.com/how-closed-airspace-threatens-u-s-military-mobility-across-eurasia/",
       "published": "2026-10-02T07:30:03+00:00",
-      "source": "War on the Rocks",
-      "region": "Global",
-      "region_key": "all"
-    },
-    {
-      "title": "Cyber Operators Are Deployed in Place. The Pentagon Should Treat Them That Way",
-      "summary": "A cyber operator can spend a shift tracking an adversary halfway around the world, walk to the parking lot, and be home in time for dinner. There is no flight home, no demobilization, and no transitio",
-      "url": "https://warontherocks.com/cyber-operators-are-deployed-in-place-the-pentagon-should-treat-them-that-way/",
-      "published": "2026-10-02T07:15:31+00:00",
       "source": "War on the Rocks",
       "region": "Global",
       "region_key": "all"
